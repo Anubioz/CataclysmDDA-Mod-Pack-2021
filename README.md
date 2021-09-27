@@ -17,11 +17,12 @@ This mod is confirmed to load without issues work with: [Cataclysm-DDA experimen
 3. Go to your game `data` folder
 4. move the "mods" directory somewhere out of it (i.e. with a command `mv mods ../../`)
 5. `git clone https://github.com/Anubioz/CataclysmDDA-Mod-Pack-2021 mods`
-6. Launch Cataclysm
-7. Create a new World, remove all mods from the right side
-8. Find "!!! 1. ADD THIS" entry from the left
-9. Add it
-10. Enjoy the mods!
+6. move back the contents of your mods folder without overwriting (eg. with a command `mv ../../mods/* mods/`)
+7. Launch Cataclysm
+8. Create a new World, remove all mods from the right side
+9. Find "!!! 1. ADD THIS" entry from the left
+10. Add it
+11. Enjoy the mods!
 
 
 # Modpack UPDATE Guide
