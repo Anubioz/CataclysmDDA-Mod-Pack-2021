@@ -1,0 +1,12 @@
+[
+  {
+    "id": "SD_Batcon",
+    "type": "MOD_INFO",
+    "name": "Storage Battery Conversions",
+    "authors": [ "ShadowDragon8685" ],
+    "maintainers": [ "ShadowDragon8685" ],
+    "description": "Convert Brightnights' Rechargable Batteries to vanilla Storage Batteries.",
+    "category": "items",
+    "dependencies": [ "dda", "brightnights" ]
+  }
+]

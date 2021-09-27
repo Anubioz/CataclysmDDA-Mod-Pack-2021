@@ -1,0 +1,14 @@
+[
+  {
+    "id": "No_kreck",
+    "type": "MOD_INFO",
+    "name": "No Kreck",
+    "description": "Removes all worms from the game.",
+    "category": "monster_exclude",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "MONSTER_BLACKLIST",
+    "monsters": [ "mon_kreck" ]
+  }
+]

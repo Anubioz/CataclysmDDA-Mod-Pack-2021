@@ -1,0 +1,12 @@
+[
+  {
+    "id": "M.A.G.Armory",
+    "type": "MOD_INFO",
+    "name": "M.A.G. Armory Mod",
+    "authors": [ "Vinicius" ],
+    "maintainers": [ "Vinicius" ],
+    "description": "Adds new guns, gunmods, melees/tools and Armors.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]

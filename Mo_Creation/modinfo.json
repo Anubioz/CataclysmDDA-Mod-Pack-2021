@@ -1,0 +1,12 @@
+[
+  {
+    "id": "more_char_creation",
+    "type": "MOD_INFO",
+    "name": "More Character Creation Choice",
+    "authors": [ "Broken \"Spaghetti\" Admin" ],
+    "maintainers": [ "Broken \"Spaghetti\" Admin" ],
+    "description": "Adds more character creation choices.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

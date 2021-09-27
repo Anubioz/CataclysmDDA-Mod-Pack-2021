@@ -1,0 +1,13 @@
+[
+  {
+    "id": "InfStamina",
+    "type": "mutation",
+    "name": { "str": "Disable Stamina" },
+    "points": 0,
+    "description": "Basically disables stamina by setting it to regen faster than you can use it.",
+    "starting_trait": true,
+    "valid": false,
+    "purifiable": false,
+    "stamina_regen_modifier": 10000.0
+  }
+]

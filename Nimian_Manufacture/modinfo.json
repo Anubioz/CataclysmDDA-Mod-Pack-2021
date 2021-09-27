@@ -1,0 +1,10 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "nimian_manufacture_guns",
+    "name": "Nimian Manufacture Guns",
+    "description": "A new set of guns, light and accurate, as well as some other toys.",
+    "authors": [ "anon" ],
+    "category": "items"
+  }
+]

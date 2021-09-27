@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hell_city_B3N_A",
+    "type": "overmap_terrain",
+    "name": "hell spire arena",
+    "sym": "73",
+    "color": "red",
+    "see_cost": 5,
+    "extras": "doom",
+    "flags": [ "NO_ROTATE" ],
+    "mondensity": 3
+  },
+  {
+    "id": "hell_city_B3S_A",
+    "type": "overmap_terrain",
+    "name": "hell spire arena",
+    "sym": "73",
+    "color": "red",
+    "see_cost": 5,
+    "extras": "doom",
+    "flags": [ "NO_ROTATE" ],
+    "mondensity": 3
+  },
+  {
+    "id": "hell_city_B4N",
+    "type": "overmap_terrain",
+    "name": "Mastermind's Lair",
+    "sym": "73",
+    "color": "red",
+    "see_cost": 5,
+    "extras": "doom",
+    "flags": [ "NO_ROTATE" ],
+    "mondensity": 3
+  },
+  {
+    "id": "hell_city_B4S",
+    "type": "overmap_terrain",
+    "name": "Mastermind's Lair",
+    "sym": "73",
+    "color": "red",
+    "see_cost": 5,
+    "extras": "doom",
+    "flags": [ "NO_ROTATE" ],
+    "mondensity": 3
+  }
+]

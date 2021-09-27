@@ -1,0 +1,16 @@
+[
+  {
+    "id": "Fast_Zombies",
+    "type": "MOD_INFO",
+    "name": "Fast Zombies",
+    "description": "Doubles zombie speed.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ],
+    "obsolete": false
+  },
+  {
+    "type": "monster_adjustment",
+    "species": "ZOMBIE",
+    "stat": { "name": "speed", "modifier": 2.0 }
+  }
+]

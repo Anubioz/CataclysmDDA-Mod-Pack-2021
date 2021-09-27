@@ -1,0 +1,12 @@
+[
+  {
+    "id": "camping_tools",
+    "type": "MOD_INFO",
+    "name": "Camping tools",
+    "authors": [ "Unknown" ],
+    "maintainers": [ "TheGoatGod" ],
+    "description": "Self-made tents and additional materials and small braziers for them.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

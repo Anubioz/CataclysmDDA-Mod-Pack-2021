@@ -1,0 +1,47 @@
+[
+  {
+    "id": "t_fern",
+    "type": "terrain",
+    "name": "fern",
+    "description": "A short plant with thousands of leaves which grow in a fractal pattern from the stem.",
+    "symbol": "#",
+    "looks_like": "t_underbrush",
+    "color": [ "green", "brown_green", "brown", "brown" ],
+    "move_cost": 3,
+    "coverage": 20,
+    "flags": [ "FLAMMABLE_ASH", "DIGGABLE", "FLAT", "THIN_OBSTACLE", "SHRUB" ],
+    "examine_action": "harvest_ter_nectar",
+    "harvest_by_season": [ { "seasons": [ "spring" ], "id": "fiddlehead_raw" } ],
+    "transforms_into": "t_fern_harvested",
+    "bash": {
+      "str_min": 2,
+      "str_max": 6,
+      "sound": "crunch.",
+      "sound_fail": "whish.",
+      "ter_set": "t_dirt",
+      "items": [ { "item": "withered", "prob": 50, "count": [ 1, 2 ] } ]
+    }
+  },
+  {
+    "id": "t_fern_harvested",
+    "type": "terrain",
+    "name": "fern",
+    "description": "A short plant with thousands leaves which grow in a fractal pattern, without any curled shoots.",
+    "symbol": "#",
+    "looks_like": "t_underbrush_harvested_spring",
+    "color": [ "green", "brown_green", "brown", "brown" ],
+    "move_cost": 3,
+    "coverage": 20,
+    "flags": [ "FLAMMABLE_ASH", "DIGGABLE", "FLAT", "THIN_OBSTACLE", "SHRUB" ],
+    "examine_action": "harvested_plant",
+    "transforms_into": "t_fern",
+    "bash": {
+      "str_min": 2,
+      "str_max": 6,
+      "sound": "crunch.",
+      "sound_fail": "whish.",
+      "ter_set": "t_dirt",
+      "items": [ { "item": "withered", "prob": 50, "count": [ 1, 2 ] } ]
+    }
+  }
+]

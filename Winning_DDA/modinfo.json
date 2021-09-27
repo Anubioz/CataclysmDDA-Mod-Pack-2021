@@ -1,0 +1,11 @@
+[
+  {
+    "id": "winning_dda",
+    "type": "MOD_INFO",
+    "name": "Ascension",
+    "authors": [ "/rlg/" ],
+    "maintainers": [ "SolarFlare" ],
+    "category": "rebalance",
+    "dependencies": [ "dda", "Arcana", "PK_REBALANCE", "blazemod" ]
+  }
+]

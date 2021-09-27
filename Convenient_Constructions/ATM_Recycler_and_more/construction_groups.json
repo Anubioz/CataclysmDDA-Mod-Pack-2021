@@ -1,0 +1,32 @@
+[
+  {
+    "id": "set_up_atm",
+    "type": "construction_group",
+    "name": "Assemble ATM"
+  },
+  {
+    "id": "install_Recycling_Machine",
+    "type": "construction_group",
+    "name": "Assemble recycling machine"
+  },
+  {
+    "id": "make_an_oven",
+    "type": "construction_group",
+    "name": "Assemble oven"
+  },
+  {
+    "id": "make_a_shutter_and_hoisting_machine",
+    "type": "construction_group",
+    "name": "Assemble shutter and hoist machine"
+  },
+  {
+    "id": "bury_corpses",
+    "type": "construction_group",
+    "name": "Bury corpses"
+  },
+  {
+    "id": "erect_gravestone",
+    "type": "construction_group",
+    "name": "Erect gravestone"
+  }
+]
