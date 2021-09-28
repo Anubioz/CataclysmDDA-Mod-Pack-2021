@@ -218,7 +218,7 @@
       { "item": "superalloy_harness_dog" },
       { "item": "crackpipe" },
       { "item": "small_repairkit" },
-      { "item": "medium_plus_battery_cell", "ammo-item": "battery", "charges": 500 }
+      { "item": "medium_plus_battery_cell", "ammo-item": "battery", "charges": 5000 }
     ]
   },
   {

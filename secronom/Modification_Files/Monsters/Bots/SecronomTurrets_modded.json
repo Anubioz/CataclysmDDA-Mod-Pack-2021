@@ -32,7 +32,6 @@
         "monster_message": "<color_yellow>%1$s shoots a ray of heat at %3$s!</color>"
       }
     ],
-    "death_drops": {  },
     "death_function": { "corpse_type": "BROKEN" },
     "flags": [ "SEES", "NOHEAD", "ELECTRIC", "ELECTRONIC", "COLDPROOF", "IMMOBILE", "NO_BREATHE" ]
   }

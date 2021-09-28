@@ -1119,7 +1119,7 @@
         "snowstorm"
       ]
     },
-    "overmap_feature_flag_settings": { "clear_blacklist": false, "blacklist": [  ], "clear_whitelist": false, "whitelist": [  ] }
+    "overmap_feature_flag_settings": { "clear_blacklist": true, "blacklist": [  ], "clear_whitelist": true, "whitelist": [  ] }
   },
   {
     "type": "item_group",
@@ -1237,5 +1237,58 @@
       [ "bio_jointservo", 10 ],
       [ "bio_soporific", 2 ]
     ]
+  },
+  {
+    "id": "rucksack",
+    "repairs_like": "bigback",
+    "type": "ARMOR",
+    "name": { "str": "military rucksack" },
+    "description": "A huge military rucksack, provides a lot of storage.",
+    "weight": "1140 g",
+    "volume": "11 L",
+    "price": 9200,
+    "price_postapoc": 1250,
+    "material": [ "cotton", "plastic" ],
+    "symbol": "[",
+    "looks_like": "backpack",
+    "color": "green",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "40 L",
+        "max_contains_weight": "60 kg",
+        "max_item_length": "100 cm",
+        "magazine_well": "8 L",
+        "moves": 300
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "5 L",
+        "max_contains_weight": "10 kg",
+        "max_item_length": "35 cm",
+        "magazine_well": "1 L",
+        "moves": 200
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "3 L",
+        "max_contains_weight": "3 kg",
+        "max_item_length": "30 cm",
+        "magazine_well": "800 ml",
+        "moves": 120
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "3 L",
+        "max_contains_weight": "3 kg",
+        "max_item_length": "30 cm",
+        "magazine_well": "800 ml",
+        "moves": 120
+      }
+    ],
+    "warmth": 8,
+    "material_thickness": 0.2,
+    "flags": [ "BELTED", "WATER_FRIENDLY" ],
+    "armor": [ { "encumbrance": [ 10, 50 ], "coverage": 40, "covers": [ "torso" ] } ]
   }
 ]

@@ -20,7 +20,7 @@
         "items": [ "pants_army", "army_top", "jacket_army", "socks", "boots_combat", "canteen" ],
         "entries": [
           { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "m4a1", "ammo-item": "308", "contents-item": "shoulder_strap" }
+          { "item": "m4a1", "ammo-item": "308", "charges": 50, "contents-item": "shoulder_strap" }
         ]
       },
       "male": [ "boxer_shorts" ],
@@ -57,8 +57,8 @@
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "sleeping_bag", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "m9", "ammo-item": "9mm", "container-item": "holster" },
-          { "item": "m9mag", "ammo-item": "9mm", "count": 2 },
+          { "item": "m9", "ammo-item": "9mm", "charges": 50, "container-item": "holster" },
+          { "item": "m9mag", "ammo-item": "9mm", "charges": 50, "count": 2 },
           { "group": "full_1st_aid" }
         ]
       },
@@ -98,10 +98,10 @@
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "sleeping_bag", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "m240", "ammo-item": "308", "contents-item": "shoulder_strap" },
-          { "item": "belt308", "ammo-item": "308", "count": 2 },
-          { "item": "m9", "ammo-item": "9mm", "container-item": "holster" },
-          { "item": "m9mag", "ammo-item": "9mm", "count": 2 }
+          { "item": "m240", "ammo-item": "308", "charges": 50, "contents-item": "shoulder_strap" },
+          { "item": "belt308", "ammo-item": "308", "charges": 50, "count": 2 },
+          { "item": "m9", "ammo-item": "9mm", "charges": 50, "container-item": "holster" },
+          { "item": "m9mag", "ammo-item": "9mm", "charges": 50, "count": 2 }
         ]
       },
       "male": [ "boxer_shorts" ],
@@ -142,8 +142,8 @@
         "entries": [
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "m9", "ammo-item": "9mm", "container-item": "holster" },
-          { "item": "m9mag", "ammo-item": "9mm", "count": 2 }
+          { "item": "m9", "ammo-item": "9mm", "charges": 50, "container-item": "holster" },
+          { "item": "m9mag", "ammo-item": "9mm", "charges": 50, "count": 2 }
         ]
       },
       "male": [ "boxer_shorts" ],
@@ -185,10 +185,10 @@
         "entries": [
           { "item": "sleeping_bag", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "hk_mp5", "ammo-item": "9mm", "contents-item": [ "shoulder_strap", "m203_mod_smg", "no_stock" ] },
-          { "item": "mp5mag", "ammo-item": "9mm", "count": 2 },
-          { "item": "m9", "ammo-item": "9mm", "container-item": "holster" },
-          { "item": "m9mag", "ammo-item": "9mm", "count": 2 }
+          { "item": "hk_mp5", "ammo-item": "9mm", "charges": 50, "contents-item": [ "shoulder_strap", "m203_mod_smg", "no_stock" ] },
+          { "item": "mp5mag", "ammo-item": "9mm", "charges": 50, "count": 2 },
+          { "item": "m9", "ammo-item": "9mm", "charges": 50, "container-item": "holster" },
+          { "item": "m9mag", "ammo-item": "9mm", "charges": 50, "count": 2 }
         ]
       },
       "male": [ "boxer_shorts" ],

@@ -8,7 +8,7 @@
     "entries": [
       { "item": "bot_mininuke_hack", "prob": 10 },
       { "item": "mininuke", "prob": 10 },
-      { "item": "mininuke_launcher", "prob": 0 }
+      { "item": "mininuke_launcher", "prob": 1 }
     ]
   },
   {
