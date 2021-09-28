@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "darkskies_no_blacklist",
+    "name": "Dark Skies Above - without blacklist",
+    "authors": [ "ephemeral_storyteller", "mlangsdorf" ],
+    "description": "A total conversion that shifts the Cataclysm towards an alien occupation survival scenario. Safe for use with other mods...",
+    "category": "total_conversion",
+    "dependencies": [ "dda" ]
+  }
+]
