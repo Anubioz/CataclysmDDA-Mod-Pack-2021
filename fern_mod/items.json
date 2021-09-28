@@ -11,7 +11,7 @@
     "coverage": 20,
     "flags": [ "FLAMMABLE_ASH", "DIGGABLE", "FLAT", "THIN_OBSTACLE", "SHRUB" ],
     "examine_action": "harvest_ter_nectar",
-    "harvest_by_season": [ { "seasons": [ "spring" ], "id": "fiddlehead_raw" } ],
+    "harvest_by_season": [ { "seasons": [ "spring" ], "id": "fern_harv" } ],
     "transforms_into": "t_fern_harvested",
     "bash": {
       "str_min": 2,
