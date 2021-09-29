@@ -2,12 +2,18 @@
   {
     "id": "base_turret",
     "type": "MONSTER",
-    "name": { "str": "automated turret" },
+    "name": {
+      "str": "automated turret"
+    },
     "default_faction": "defense_bot",
-    "species": [ "ROBOT" ],
+    "species": [
+      "ROBOT"
+    ],
     "hp": 30,
     "speed": 100,
-    "material": [ "steel" ],
+    "material": [
+      "steel"
+    ],
     "symbol": "t",
     "looks_like": "mon_turret",
     "aggression": 100,
@@ -15,15 +21,25 @@
     "armor_bash": 14,
     "armor_cut": 16,
     "armor_acid": 14,
-    "death_function": { "corpse_type": "BROKEN" },
+    "death_function": {
+      "corpse_type": "BROKEN"
+    },
     "death_drops": "broken_robots",
-    "flags": [ "SEES", "NOHEAD", "ELECTRONIC", "IMMOBILE", "NO_BREATHE" ]
+    "flags": [
+      "SEES",
+      "NOHEAD",
+      "ELECTRONIC",
+      "IMMOBILE",
+      "NO_BREATHE"
+    ]
   },
   {
     "id": "mon_turret_disarmed",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "disarmed defense turret" },
+    "name": {
+      "str": "disarmed defense turret"
+    },
     "symbol": "t",
     "description": "The General Atomics TX-series turret, a small, pill-shaped automated gun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  It requires an integrated firearm module to work.",
     "default_faction": "defense_bot",
@@ -36,7 +52,9 @@
     "id": "mon_milturret_disarmed",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "disarmed military turret" },
+    "name": {
+      "str": "disarmed military turret"
+    },
     "symbol": "t",
     "description": "The Leadworks LLC's TX series turret, a military-grade automated gun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  It requires a integrated gun module to operate.",
     "color": "light_gray",
@@ -47,7 +65,9 @@
     "id": "mon_advturret_disarmed",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "disarmed advanced turret" },
+    "name": {
+      "str": "disarmed advanced turret"
+    },
     "symbol": "t",
     "description": "The DoubleTech T-series turret, an advanced automated gun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  It requires an integrated gun module to function.",
     "default_faction": "defense_bot",
@@ -59,7 +79,9 @@
     "id": "mon_turret_9mm",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "9mm turret" },
+    "name": {
+      "str": "9mm turret"
+    },
     "symbol": "t",
     "description": "The General Atomics TX-1 Guardian, a small, pill-shaped automated gun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 9mm sub machinegun can swivel a full 360 degrees.",
     "default_faction": "defense_bot",
@@ -67,17 +89,44 @@
     "color": "light_gray",
     "luminance": 200,
     "revert_to_itype": "bot_turret_9mm",
-    "starting_ammo": { "9mm": 100 },
+    "starting_ammo": {
+      "9mm": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 2,
         "gun_type": "robogun_9mm",
         "ammo_type": "9mm",
-        "fake_skills": [ [ "gun", 2 ], [ "smg", 2 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            2
+          ],
+          [
+            "smg",
+            2
+          ]
+        ],
         "fake_dex": 9,
         "no_ammo_sound": "click click!",
-        "ranges": [ [ 0, 2, "BURST" ], [ 3, 6, "AUTO" ], [ 7, 12, "DEFAULT" ] ]
+        "ranges": [
+          [
+            0,
+            2,
+            "BURST"
+          ],
+          [
+            3,
+            6,
+            "AUTO"
+          ],
+          [
+            7,
+            12,
+            "DEFAULT"
+          ]
+        ]
       }
     ]
   },
@@ -85,7 +134,9 @@
     "id": "mon_turret_shot",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "shotgun turret" },
+    "name": {
+      "str": "shotgun turret"
+    },
     "symbol": "t",
     "description": "The General Atomics TX-4 Protector, a small, pill-shaped automated gun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 12ga shotgun can swivel a full 360 degrees.",
     "default_faction": "defense_bot",
@@ -93,17 +144,34 @@
     "color": "red",
     "luminance": 200,
     "revert_to_itype": "bot_turret_shot",
-    "starting_ammo": { "shot_00": 100 },
+    "starting_ammo": {
+      "shot_00": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 2,
         "gun_type": "robogun_shot",
         "ammo_type": "shot",
-        "fake_skills": [ [ "gun", 2 ], [ "shotgun", 2 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            2
+          ],
+          [
+            "shotgun",
+            2
+          ]
+        ],
         "fake_dex": 9,
         "no_ammo_sound": "click click!",
-        "ranges": [ [ 0, 8, "DEFAULT" ] ]
+        "ranges": [
+          [
+            0,
+            8,
+            "DEFAULT"
+          ]
+        ]
       }
     ]
   },
@@ -111,7 +179,9 @@
     "id": "mon_turret_teargas",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "riot control turret" },
+    "name": {
+      "str": "riot control turret"
+    },
     "symbol": "t",
     "description": "The General Atomics TZ-1a Warden, a small, pill-shaped automated gun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 40mm teargas launcher can swivel a full 360 degrees.",
     "default_faction": "cop_bot",
@@ -119,17 +189,39 @@
     "color": "blue",
     "luminance": 300,
     "revert_to_itype": "bot_turret_teargas",
-    "starting_ammo": { "40x46mm_m651": 50 },
+    "starting_ammo": {
+      "40x46mm_m651": 50
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 2,
         "gun_type": "robogun_teargas",
         "ammo_type": "40x46mm_m651",
-        "fake_skills": [ [ "gun", 2 ], [ "launcher", 2 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            2
+          ],
+          [
+            "launcher",
+            2
+          ]
+        ],
         "fake_dex": 9,
         "no_ammo_sound": "click click!",
-        "ranges": [ [ 0, 6, "DEFAULT" ], [ 7, 12, "BURST" ] ]
+        "ranges": [
+          [
+            0,
+            6,
+            "DEFAULT"
+          ],
+          [
+            7,
+            12,
+            "BURST"
+          ]
+        ]
       }
     ]
   },
@@ -137,7 +229,9 @@
     "id": "mon_turret_beanbag",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "riot control turret" },
+    "name": {
+      "str": "riot control turret"
+    },
     "symbol": "t",
     "description": "The General Atomics TZ-1b Pacifier, a small, pill-shaped automated gun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 40mm beanbag launcher can swivel a full 360 degrees.",
     "default_faction": "cop_bot",
@@ -145,17 +239,34 @@
     "color": "blue",
     "luminance": 300,
     "revert_to_itype": "bot_turret_beanbag",
-    "starting_ammo": { "40x46mm_m1006": 50 },
+    "starting_ammo": {
+      "40x46mm_m1006": 50
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 1,
         "gun_type": "robogun_beanbag",
         "ammo_type": "40x46mm_m1006",
-        "fake_skills": [ [ "gun", 2 ], [ "launcher", 2 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            2
+          ],
+          [
+            "launcher",
+            2
+          ]
+        ],
         "fake_dex": 9,
         "no_ammo_sound": "click click!",
-        "ranges": [ [ 0, 8, "DEFAULT" ] ]
+        "ranges": [
+          [
+            0,
+            8,
+            "DEFAULT"
+          ]
+        ]
       }
     ]
   },
@@ -163,7 +274,9 @@
     "id": "mon_milturret_556",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "5.56mm turret" },
+    "name": {
+      "str": "5.56mm turret"
+    },
     "symbol": "t",
     "description": "The Leadworks LLC's TX-32L Sentry, a military-grade automated machinegun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 5.56 rifle can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -171,17 +284,44 @@
     "color": "green",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_556",
-    "starting_ammo": { "556": 100 },
+    "starting_ammo": {
+      "556": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 2,
         "gun_type": "robogun_556",
         "ammo_type": "556",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
         "no_ammo_sound": "click!",
-        "ranges": [ [ 0, 4, "BURST" ], [ 4, 8, "AUTO" ], [ 9, 16, "DEFAULT" ] ],
+        "ranges": [
+          [
+            0,
+            4,
+            "BURST"
+          ],
+          [
+            4,
+            8,
+            "AUTO"
+          ],
+          [
+            9,
+            16,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -196,7 +336,9 @@
     "id": "mon_milturret_308",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "7.62mm turret" },
+    "name": {
+      "str": "7.62mm turret"
+    },
     "symbol": "t",
     "description": "The Leadworks LLC's TX-32H Sentry, a military-grade automated machinegun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 7.62 rifle can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -204,17 +346,44 @@
     "color": "green",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_308",
-    "starting_ammo": { "762_51": 100 },
+    "starting_ammo": {
+      "762_51": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 2,
         "gun_type": "robogun_308",
         "ammo_type": "762_51",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
         "no_ammo_sound": "click!",
-        "ranges": [ [ 0, 4, "BURST" ], [ 4, 8, "AUTO" ], [ 9, 18, "DEFAULT" ] ],
+        "ranges": [
+          [
+            0,
+            4,
+            "BURST"
+          ],
+          [
+            4,
+            8,
+            "AUTO"
+          ],
+          [
+            9,
+            18,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -229,7 +398,9 @@
     "id": "mon_milturret_50bmg",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "50cal turret" },
+    "name": {
+      "str": "50cal turret"
+    },
     "symbol": "t",
     "description": "The Leadworks LLC's TX-13 Sentry, a military-grade automated machinegun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 50 caliber machinegun can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -237,7 +408,9 @@
     "color": "green",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_50bmg",
-    "starting_ammo": { "50bmg": 100 },
+    "starting_ammo": {
+      "50bmg": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
@@ -245,10 +418,35 @@
         "move_cost": 150,
         "gun_type": "robogun_50bmg",
         "ammo_type": "50bmg",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
         "no_ammo_sound": "click!",
-        "ranges": [ [ 0, 5, "DEFAULT" ], [ 6, 10, "BURST" ], [ 11, 20, "DEFAULT" ] ],
+        "ranges": [
+          [
+            0,
+            5,
+            "DEFAULT"
+          ],
+          [
+            6,
+            10,
+            "BURST"
+          ],
+          [
+            11,
+            20,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -263,7 +461,9 @@
     "id": "mon_milturret_8x40mm",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "8x40mm turret" },
+    "name": {
+      "str": "8x40mm turret"
+    },
     "symbol": "t",
     "description": "The Leadworks LLC's TX-01A Warden, a military-grade automated machinegun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 8x40mm rifle can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -271,17 +471,44 @@
     "color": "green",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_8x40mm",
-    "starting_ammo": { "8mm_caseless": 100 },
+    "starting_ammo": {
+      "8mm_caseless": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 2,
         "gun_type": "robogun_8x40mm",
         "ammo_type": "8mm_caseless",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 6 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            6
+          ]
+        ],
         "fake_dex": 10,
         "no_ammo_sound": "whirrrr!",
-        "ranges": [ [ 0, 5, "BURST" ], [ 6, 10, "AUTO" ], [ 11, 24, "DEFAULT" ] ],
+        "ranges": [
+          [
+            0,
+            5,
+            "BURST"
+          ],
+          [
+            6,
+            10,
+            "AUTO"
+          ],
+          [
+            11,
+            24,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -296,7 +523,9 @@
     "id": "mon_milturret_needle",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "needle turret" },
+    "name": {
+      "str": "needle turret"
+    },
     "symbol": "t",
     "description": "The Leadworks LLC's TN-7 Sentry, a military-grade automated flechette turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 5mm flechette gun can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -304,17 +533,44 @@
     "color": "green",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_needle",
-    "starting_ammo": { "5x50dart": 100 },
+    "starting_ammo": {
+      "5x50dart": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 1,
         "gun_type": "robogun_needle",
         "ammo_type": "5x50dart",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
         "no_ammo_sound": "click!",
-        "ranges": [ [ 0, 4, "BURST" ], [ 4, 8, "AUTO" ], [ 9, 16, "DEFAULT" ] ],
+        "ranges": [
+          [
+            0,
+            4,
+            "BURST"
+          ],
+          [
+            4,
+            8,
+            "AUTO"
+          ],
+          [
+            9,
+            16,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -329,7 +585,9 @@
     "id": "mon_milturret_40mm",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "40mm grenade turret" },
+    "name": {
+      "str": "40mm grenade turret"
+    },
     "symbol": "t",
     "description": "The Leadworks LLC's TG-7 Sentry, a military-grade automated gun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated 40mm grenade launcher can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -337,17 +595,34 @@
     "color": "red",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_40mm",
-    "starting_ammo": { "40x46mm_m433": 50 },
+    "starting_ammo": {
+      "40x46mm_m433": 50
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 3,
         "gun_type": "robogun_40mm",
         "ammo_type": "40x46mm",
-        "fake_skills": [ [ "gun", 4 ], [ "launcher", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            4
+          ],
+          [
+            "launcher",
+            5
+          ]
+        ],
         "fake_dex": 10,
         "no_ammo_sound": "click!",
-        "ranges": [ [ 6, 30, "DEFAULT" ] ],
+        "ranges": [
+          [
+            6,
+            30,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -362,7 +637,9 @@
     "id": "mon_milturret_flame",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "flame turret" },
+    "name": {
+      "str": "flame turret"
+    },
     "symbol": "t",
     "description": "The Leadworks LLC's TF-7 Sentry, a military-grade automated flame turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated flamethrower can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -370,17 +647,34 @@
     "color": "red",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_flame",
-    "starting_ammo": { "napalm": 100 },
+    "starting_ammo": {
+      "napalm": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 1,
         "gun_type": "robogun_flame",
         "ammo_type": "napalm",
-        "fake_skills": [ [ "gun", 4 ], [ "launcher", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            4
+          ],
+          [
+            "launcher",
+            5
+          ]
+        ],
         "fake_dex": 10,
         "no_ammo_sound": "hiss!",
-        "ranges": [ [ 0, 10, "DEFAULT" ] ],
+        "ranges": [
+          [
+            0,
+            10,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -390,13 +684,19 @@
         "targeting_volume": 10
       }
     ],
-    "extend": { "flags": [ "FIREPROOF" ] }
+    "extend": {
+      "flags": [
+        "FIREPROOF"
+      ]
+    }
   },
   {
     "id": "mon_advturret_laser",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "laser turret" },
+    "name": {
+      "str": "laser turret"
+    },
     "symbol": "t",
     "description": "The DoubleTech T-L3 Scintillator, an advanced automated laser turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated laser emitter can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -409,9 +709,29 @@
         "type": "gun",
         "cooldown": 4,
         "gun_type": "robogun_laser",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
-        "ranges": [ [ 0, 8, "AUTO" ], [ 8, 16, "BURST" ] ],
+        "ranges": [
+          [
+            0,
+            8,
+            "AUTO"
+          ],
+          [
+            8,
+            16,
+            "BURST"
+          ]
+        ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -426,7 +746,9 @@
     "id": "mon_advturret_acid",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "acid turret" },
+    "name": {
+      "str": "acid turret"
+    },
     "symbol": "t",
     "description": "The DoubleTech T-A3 Disintegrator, an advanced automated acid turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated acid thrower can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -440,11 +762,26 @@
         "cooldown": 1,
         "move_cost": 50,
         "gun_type": "robogun_acid",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
         "fake_per": 10,
         "require_targeting_player": false,
-        "ranges": [ [ 0, 20, "DEFAULT" ] ]
+        "ranges": [
+          [
+            0,
+            20,
+            "DEFAULT"
+          ]
+        ]
       }
     ]
   },
@@ -452,7 +789,9 @@
     "id": "mon_advturret_plasma",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "plasma turret" },
+    "name": {
+      "str": "plasma turret"
+    },
     "symbol": "t",
     "description": "The DoubleTech T-P3 Scathefire, an advanced automated laser turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated plasma ejector can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -465,9 +804,24 @@
         "type": "gun",
         "cooldown": 3,
         "gun_type": "robogun_plasma",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
-        "ranges": [ [ 4, 16, "DEFAULT" ] ],
+        "ranges": [
+          [
+            4,
+            16,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_npc": true,
         "require_targeting_monster": true,
         "targeting_cost": 100,
@@ -477,13 +831,19 @@
         "targeting_volume": 10
       }
     ],
-    "extend": { "flags": [ "FIREPROOF" ] }
+    "extend": {
+      "flags": [
+        "FIREPROOF"
+      ]
+    }
   },
   {
     "id": "mon_advturret_rail",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "railgun turret" },
+    "name": {
+      "str": "railgun turret"
+    },
     "symbol": "t",
     "description": "The DoubleTech T-R3 Arbalest, an advanced automated railgun turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated railgun can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -491,17 +851,34 @@
     "color": "magenta",
     "luminance": 300,
     "revert_to_itype": "bot_advturret_rail",
-    "starting_ammo": { "steel_rail": 100 },
+    "starting_ammo": {
+      "steel_rail": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 4,
         "gun_type": "robogun_rail",
         "ammo_type": "steel_rail",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
         "no_ammo_sound": "buzz!",
-        "ranges": [ [ 0, 18, "DEFAULT" ] ],
+        "ranges": [
+          [
+            0,
+            18,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_npc": true,
         "require_targeting_monster": true,
         "laser_lock": true,
@@ -516,7 +893,9 @@
     "id": "mon_advturret_lightning",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "advanced electro turret" },
+    "name": {
+      "str": "advanced electro turret"
+    },
     "symbol": "t",
     "description": "The DoubleTech T-E3 Thunderstroke, an advanced automated electro turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its integrated electro caster can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -529,9 +908,24 @@
         "type": "gun",
         "cooldown": 1,
         "gun_type": "robogun_lightning",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
-        "ranges": [ [ 0, 12, "DEFAULT" ] ],
+        "ranges": [
+          [
+            0,
+            12,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -541,13 +935,19 @@
         "targeting_volume": 10
       }
     ],
-    "extend": { "flags": [ "ELECTRIC" ] }
+    "extend": {
+      "flags": [
+        "ELECTRIC"
+      ]
+    }
   },
   {
     "id": "mon_advturret_emp",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "EMP turret" },
+    "name": {
+      "str": "EMP turret"
+    },
     "symbol": "t",
     "description": "The DoubleTech T-EMP3 Corona, an advanced automated EMP turret using state of the art ATR systems to dynamically reorient itself to new friends and enemies alike.  Its electro magnetic pulse generator can swivel a full 360 degrees.",
     "default_faction": "military",
@@ -560,9 +960,34 @@
         "type": "gun",
         "cooldown": 2,
         "gun_type": "robogun_emp",
-        "fake_skills": [ [ "gun", 5 ], [ "rifle", 5 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            5
+          ],
+          [
+            "rifle",
+            5
+          ]
+        ],
         "fake_dex": 10,
-        "ranges": [ [ 0, 4, "BURST" ], [ 4, 8, "AUTO" ], [ 9, 16, "DEFAULT" ] ],
+        "ranges": [
+          [
+            0,
+            4,
+            "BURST"
+          ],
+          [
+            4,
+            8,
+            "AUTO"
+          ],
+          [
+            9,
+            16,
+            "DEFAULT"
+          ]
+        ],
         "require_targeting_npc": true,
         "require_targeting_monster": true,
         "targeting_cost": 10,
@@ -571,13 +996,19 @@
         "targeting_volume": 10
       }
     ],
-    "extend": { "flags": [ "ELECTRIC" ] }
+    "extend": {
+      "flags": [
+        "ELECTRIC"
+      ]
+    }
   },
   {
     "id": "mon_turret_gnome",
     "type": "MONSTER",
     "copy-from": "base_turret",
-    "name": { "str": "guardin gnome" },
+    "name": {
+      "str": "guardin gnome"
+    },
     "looks_like": "mon_kreck",
     "symbol": "g",
     "description": "A normal and completely harmless garden gnome.",
@@ -585,19 +1016,57 @@
     "diff": 10,
     "color": "red",
     "revert_to_itype": "bot_turret_gnome",
-    "starting_ammo": { "9mm": 100 },
+    "starting_ammo": {
+      "9mm": 100
+    },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 2,
         "gun_type": "robogun_9mm",
         "ammo_type": "9mm",
-        "fake_skills": [ [ "gun", 2 ], [ "smg", 2 ] ],
+        "fake_skills": [
+          [
+            "gun",
+            2
+          ],
+          [
+            "smg",
+            2
+          ]
+        ],
         "fake_dex": 9,
         "no_ammo_sound": "click click!",
-        "ranges": [ [ 0, 2, "BURST" ], [ 3, 6, "AUTO" ], [ 7, 12, "DEFAULT" ] ]
+        "ranges": [
+          [
+            0,
+            2,
+            "BURST"
+          ],
+          [
+            3,
+            6,
+            "AUTO"
+          ],
+          [
+            7,
+            12,
+            "DEFAULT"
+          ]
+        ]
       }
     ],
-    "death_drops": { "groups": [ [ "broken_robots", 10 ], [ "broken_ceramics", 10 ] ] }
+    "death_drops": {
+      "groups": [
+        [
+          "broken_robots",
+          10
+        ],
+        [
+          "broken_ceramics",
+          10
+        ]
+      ]
+    }
   }
 ]

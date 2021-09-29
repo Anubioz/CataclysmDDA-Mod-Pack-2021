@@ -2,11 +2,23 @@
   {
     "id": "guns_pistol_obscure",
     "type": "item_group",
-    "items": [ { "item": "223_pistol", "prob": 175, "charges-min": 0, "charges-max": 5 } ]
+    "items": [
+      {
+        "item": "223_pistol",
+        "prob": 175,
+        "charges-min": 0,
+        "charges-max": 5
+      }
+    ]
   },
   {
     "id": "mags_pistol_rare",
     "type": "item_group",
-    "items": [ [ "223_speedloader5", 10 ] ]
+    "items": [
+      [
+        "223_speedloader5",
+        10
+      ]
+    ]
   }
 ]

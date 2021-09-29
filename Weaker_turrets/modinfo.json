@@ -5,6 +5,8 @@
     "name": "Weaker turrets",
     "description": "Cuts turret range and NV, turrets no longer return fire and drop 0 ammo.",
     "category": "rebalance",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

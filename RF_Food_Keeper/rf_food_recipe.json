@@ -10,9 +10,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "apple", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "apple",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_banana",
@@ -25,9 +42,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "banana", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "banana",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_orange",
@@ -40,9 +74,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "orange", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "orange",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_lemon",
@@ -55,9 +106,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "lemon", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "lemon",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_lettuce",
@@ -70,9 +138,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "lettuce", 4 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "lettuce",
+          4
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_cabbage",
@@ -85,9 +170,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "cabbage", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "cabbage",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_tomato",
@@ -100,9 +202,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "tomato", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "tomato",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_broccoli",
@@ -115,9 +234,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "broccoli", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "broccoli",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_zucchini",
@@ -130,9 +266,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "zucchini", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "zucchini",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_onion",
@@ -145,9 +298,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "onion", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "onion",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_carrot",
@@ -160,9 +330,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "carrot", 6 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "carrot",
+          6
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_corn",
@@ -175,9 +362,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "corn", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "corn",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_pumpkin",
@@ -190,9 +394,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "pumpkin", 8 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "pumpkin",
+          8
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_pear",
@@ -205,9 +426,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "pear", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "pear",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_plums",
@@ -220,9 +458,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "plums", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "plums",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_pineapple",
@@ -235,9 +490,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "pineapple", 4 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "pineapple",
+          4
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_peach",
@@ -250,9 +522,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "peach", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "peach",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_watermelon",
@@ -265,9 +554,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "watermelon", 8 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "watermelon",
+          8
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_melon",
@@ -280,9 +586,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "melon", 8 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "melon",
+          8
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_mango",
@@ -295,9 +618,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "mango", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "mango",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_pomegranate",
@@ -310,9 +650,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "pomegranate", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "pomegranate",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_rhubarb",
@@ -325,9 +682,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "rhubarb", 4 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "rhubarb",
+          4
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_papaya",
@@ -340,9 +714,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "papaya", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "papaya",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_kiwi",
@@ -355,9 +746,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "kiwi", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "kiwi",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_apricot",
@@ -370,9 +778,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "apricot", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "apricot",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_cucumber",
@@ -385,9 +810,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "cucumber", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "cucumber",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_celery",
@@ -400,9 +842,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "celery", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "celery",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_blueberries",
@@ -415,9 +874,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "blueberries", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "blueberries",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_strawberries",
@@ -430,9 +906,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "strawberries", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "strawberries",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_potato",
@@ -445,9 +938,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "potato", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "potato",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_grapefruit",
@@ -460,9 +970,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "grapefruit", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "grapefruit",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_cherries",
@@ -475,9 +1002,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "cherries", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "cherries",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_grapes",
@@ -490,9 +1034,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "grapes", 2 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "grapes",
+          2
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_cranberries",
@@ -505,9 +1066,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "cranberries", 3 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "cranberries",
+          3
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_raspberries",
@@ -520,9 +1098,26 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "raspberries", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "raspberries",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_blackberries",
@@ -535,8 +1130,25 @@
     "time": "10 s",
     "reversible": false,
     "autolearn": true,
-    "batch_time_factors": [ 90, 1 ],
-    "tools": [ [ [ "rf_irradiate", -1 ] ] ],
-    "components": [ [ [ "blackberries", 1 ] ] ]
+    "batch_time_factors": [
+      90,
+      1
+    ],
+    "tools": [
+      [
+        [
+          "rf_irradiate",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "blackberries",
+          1
+        ]
+      ]
+    ]
   }
 ]

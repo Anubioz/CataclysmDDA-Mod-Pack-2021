@@ -5,12 +5,17 @@
     "name": "Tough Zombies",
     "description": "Doubles zombie health.",
     "category": "rebalance",
-    "dependencies": [ "dda" ],
+    "dependencies": [
+      "dda"
+    ],
     "obsolete": false
   },
   {
     "type": "monster_adjustment",
     "species": "ZOMBIE",
-    "stat": { "name": "hp", "modifier": 2.0 }
+    "stat": {
+      "name": "hp",
+      "modifier": 2.0
+    }
   }
 ]

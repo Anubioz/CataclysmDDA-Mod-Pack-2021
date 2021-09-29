@@ -2,15 +2,29 @@
   {
     "abstract": "blob_tool",
     "type": "vehicle_part",
-    "name": { "str": "blob part" },
+    "name": {
+      "str": "blob part"
+    },
     "folded_volume": "250 ml",
-    "requirements": { "repair": { "time": 30000, "using": [ [ "blobrep", 1 ] ] } }
+    "requirements": {
+      "repair": {
+        "time": 30000,
+        "using": [
+          [
+            "blobrep",
+            1
+          ]
+        ]
+      }
+    }
   },
   {
     "abstract": "gray_part",
     "type": "vehicle_part",
     "copy-from": "blob_tool",
-    "name": { "str": "metalloid part" },
+    "name": {
+      "str": "metalloid part"
+    },
     "item": "gray",
     "color": "light_gray",
     "broken_color": "light_gray",
@@ -18,8 +32,18 @@
     "damage_modifier": 10,
     "symbol": "+",
     "broken_symbol": "&",
-    "breaks_into": [ { "item": "slime_scrap", "count": [ 3, 8 ] } ],
-    "damage_reduction": { "all": 10 }
+    "breaks_into": [
+      {
+        "item": "slime_scrap",
+        "count": [
+          3,
+          8
+        ]
+      }
+    ],
+    "damage_reduction": {
+      "all": 10
+    }
   },
   {
     "abstract": "gray_frame",
@@ -27,8 +51,14 @@
     "copy-from": "gray_part",
     "location": "structure",
     "broken_symbol": "#",
-    "name": { "str": "metalloid frame" },
-    "flags": [ "BOARDABLE", "MOUNTABLE", "AISLE" ]
+    "name": {
+      "str": "metalloid frame"
+    },
+    "flags": [
+      "BOARDABLE",
+      "MOUNTABLE",
+      "AISLE"
+    ]
   },
   {
     "id": "gray_cross",
@@ -90,8 +120,13 @@
     "copy-from": "gray_part",
     "location": "center",
     "broken_symbol": "#",
-    "name": { "str": "metalloid wall" },
-    "flags": [ "OPAQUE", "OBSTACLE" ]
+    "name": {
+      "str": "metalloid wall"
+    },
+    "flags": [
+      "OPAQUE",
+      "OBSTACLE"
+    ]
   },
   {
     "id": "grayboard_horizontal",
@@ -132,23 +167,37 @@
   {
     "id": "graydoor",
     "type": "vehicle_part",
-    "name": { "str": "metalloid hatch" },
+    "name": {
+      "str": "metalloid hatch"
+    },
     "copy-from": "gray_part",
     "location": "center",
     "symbol": "+",
     "broken_symbol": "&",
-    "flags": [ "OBSTACLE", "OPENABLE", "BOARDABLE", "WINDOW" ]
+    "flags": [
+      "OBSTACLE",
+      "OPENABLE",
+      "BOARDABLE",
+      "WINDOW"
+    ]
   },
   {
     "id": "graydoor_opaque",
     "type": "vehicle_part",
-    "name": { "str": "opaque metalloid hatch" },
+    "name": {
+      "str": "opaque metalloid hatch"
+    },
     "copy-from": "gray_board",
     "item": "gray",
     "location": "center",
     "symbol": "+",
     "broken_symbol": "&",
-    "flags": [ "OBSTACLE", "OPAQUE", "OPENABLE", "BOARDABLE" ]
+    "flags": [
+      "OBSTACLE",
+      "OPAQUE",
+      "OPENABLE",
+      "BOARDABLE"
+    ]
   },
   {
     "abstract": "gray_halfboard",
@@ -156,8 +205,12 @@
     "copy-from": "gray_part",
     "location": "center",
     "broken_symbol": "#",
-    "name": { "str": "metalloid barrier" },
-    "flags": [ "OBSTACLE" ]
+    "name": {
+      "str": "metalloid barrier"
+    },
+    "flags": [
+      "OBSTACLE"
+    ]
   },
   {
     "id": "halfgrayboard",
@@ -217,31 +270,46 @@
     "id": "gray_seat",
     "type": "vehicle_part",
     "copy-from": "gray_part",
-    "name": { "str": "metalloid seat" },
+    "name": {
+      "str": "metalloid seat"
+    },
     "location": "center",
     "symbol": "#",
     "broken_symbol": "*",
-    "flags": [ "SEAT", "BED", "BOARDABLE", "BELTABLE" ]
+    "flags": [
+      "SEAT",
+      "BED",
+      "BOARDABLE",
+      "BELTABLE"
+    ]
   },
   {
     "id": "gray_plate",
     "type": "vehicle_part",
-    "name": { "str": "metalloid reinforcement" },
+    "name": {
+      "str": "metalloid reinforcement"
+    },
     "copy-from": "gray_part",
     "location": "armor",
     "symbol": "X",
     "broken_symbol": "*",
-    "flags": [ "ARMOR" ]
+    "flags": [
+      "ARMOR"
+    ]
   },
   {
     "id": "gray_roof",
     "type": "vehicle_part",
-    "name": { "str": "metalloid roof" },
+    "name": {
+      "str": "metalloid roof"
+    },
     "copy-from": "gray_part",
     "location": "roof",
     "symbol": "#",
     "broken_symbol": "#",
     "color": "light_gray",
-    "flags": [ "ROOF" ]
+    "flags": [
+      "ROOF"
+    ]
   }
 ]

@@ -3,12 +3,22 @@
     "id": "cop_evidence",
     "type": "item_group",
     "subtype": "distribution",
-    "items": [ [ "textbook_hack_robots", 25 ] ]
+    "items": [
+      [
+        "textbook_hack_robots",
+        25
+      ]
+    ]
   },
   {
     "id": "lab_bookshelves",
     "type": "item_group",
     "subtype": "distribution",
-    "items": [ [ "textbook_hack_robots", 25 ] ]
+    "items": [
+      [
+        "textbook_hack_robots",
+        25
+      ]
+    ]
   }
 ]

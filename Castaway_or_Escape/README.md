@@ -1,6 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  
+**Table of Contents**
 
 - [Castaway-or-Escape-scenario-Mod](#castaway-or-escape-scenario-mod)
 
@@ -8,11 +8,10 @@
 
 # Castaway-or-Escape-scenario-Mod
 
-Do you want to be on a island with no prison or escape a cabin while being followed by hungry zombies like in 28 weeks later? Then this mod is for you!.
+Do you want to be on a island with no prison or escape a cabin while being followed by hungry zombies like in 28 weeks
+later? Then this mod is for you!.
 
-Castaway or Escape Mod 1.4 The Airline Update
-Adds 4 new scenarios into the game.
--installation
+Castaway or Escape Mod 1.4 The Airline Update Adds 4 new scenarios into the game. -installation
 
 1. Download the zip
 
@@ -20,8 +19,7 @@ Adds 4 new scenarios into the game.
 
 3. Place the Castaway_or_escape on your mod folder
 
--Scenario explanations
-if you don’t want spoilers proceed to issues.
+-Scenario explanations if you don’t want spoilers proceed to issues.
 
 -Castaway Scenario
 
@@ -39,12 +37,11 @@ your cabin is just sorrounded with zombies goodluck escaping them!.
 
 you start either on the cemetery itself or near it.
 
--issues
-When you start up the castaway scenario you get “not good starting location” error i will try to fix but for now simply ignore the error.
+-issues When you start up the castaway scenario you get “not good starting location” error i will try to fix but for now
+simply ignore the error.
 
--Additional Message and plans
-i will try to add more scenarios in the future.
-Also if you have any ideas and advice or suggestion don’t hesitate to comment below.
+-Additional Message and plans i will try to add more scenarios in the future. Also if you have any ideas and advice or
+suggestion don’t hesitate to comment below.
 
 Enjoy!
 

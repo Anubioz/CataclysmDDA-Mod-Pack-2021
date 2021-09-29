@@ -5,10 +5,14 @@
     "name": "No Smoker Zombies",
     "description": "Removes all smoker zombies from the game.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "monsters": [ "mon_zombie_smoker" ]
+    "monsters": [
+      "mon_zombie_smoker"
+    ]
   }
 ]

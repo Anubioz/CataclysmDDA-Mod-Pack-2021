@@ -3,7 +3,9 @@
     "abstract": "cereal_small",
     "type": "COMESTIBLE",
     "comestible_type": "FOOD",
-    "name": { "str_sp": "small sized cereal" },
+    "name": {
+      "str_sp": "small sized cereal"
+    },
     "description": "you shouldn't see this.",
     "weight": "608 g",
     "volume": "2900 ml",
@@ -17,17 +19,43 @@
     "healthy": 4,
     "charges": 12,
     "spoils_in": "720 days",
-    "material": [ "wheat" ],
-    "flags": [ "USE_EAT_VERB", "EATEN_COLD", "EATEN_HOT", "TARDIS" ],
+    "material": [
+      "wheat"
+    ],
+    "flags": [
+      "USE_EAT_VERB",
+      "EATEN_COLD",
+      "EATEN_HOT",
+      "TARDIS"
+    ],
     "looks_like": "cereal",
-    "vitamins": [ [ "vitA", 10 ], [ "vitC", 7 ], [ "calcium", 7 ], [ "iron", 32 ] ],
+    "vitamins": [
+      [
+        "vitA",
+        10
+      ],
+      [
+        "vitC",
+        7
+      ],
+      [
+        "calcium",
+        7
+      ],
+      [
+        "iron",
+        32
+      ]
+    ],
     "fun": 3
   },
   {
     "abstract": "cereal_medium",
     "type": "COMESTIBLE",
     "comestible_type": "FOOD",
-    "name": { "str_sp": "medium sized cereal" },
+    "name": {
+      "str_sp": "medium sized cereal"
+    },
     "description": "you shouldn't see this.",
     "weight": "608 g",
     "volume": "3500 L",
@@ -41,17 +69,43 @@
     "healthy": 4,
     "charges": 28,
     "spoils_in": "720 days",
-    "material": [ "wheat" ],
-    "flags": [ "USE_EAT_VERB", "EATEN_COLD", "EATEN_HOT", "TARDIS" ],
+    "material": [
+      "wheat"
+    ],
+    "flags": [
+      "USE_EAT_VERB",
+      "EATEN_COLD",
+      "EATEN_HOT",
+      "TARDIS"
+    ],
     "looks_like": "cereal",
-    "vitamins": [ [ "vitA", 10 ], [ "vitC", 7 ], [ "calcium", 7 ], [ "iron", 32 ] ],
+    "vitamins": [
+      [
+        "vitA",
+        10
+      ],
+      [
+        "vitC",
+        7
+      ],
+      [
+        "calcium",
+        7
+      ],
+      [
+        "iron",
+        32
+      ]
+    ],
     "fun": 3
   },
   {
     "abstract": "cereal_large",
     "type": "COMESTIBLE",
     "comestible_type": "FOOD",
-    "name": { "str_sp": "large sized cereal" },
+    "name": {
+      "str_sp": "large sized cereal"
+    },
     "description": "you shouldn't see this.",
     "weight": "200 g",
     "volume": "3700 ml",
@@ -65,10 +119,34 @@
     "healthy": 4,
     "charges": 28,
     "spoils_in": "720 days",
-    "material": [ "wheat" ],
-    "flags": [ "USE_EAT_VERB", "EATEN_COLD", "EATEN_HOT", "TARDIS" ],
+    "material": [
+      "wheat"
+    ],
+    "flags": [
+      "USE_EAT_VERB",
+      "EATEN_COLD",
+      "EATEN_HOT",
+      "TARDIS"
+    ],
     "looks_like": "cereal",
-    "vitamins": [ [ "vitA", 10 ], [ "vitC", 7 ], [ "calcium", 7 ], [ "iron", 32 ] ],
+    "vitamins": [
+      [
+        "vitA",
+        10
+      ],
+      [
+        "vitC",
+        7
+      ],
+      [
+        "calcium",
+        7
+      ],
+      [
+        "iron",
+        32
+      ]
+    ],
     "fun": 3
   }
 ]

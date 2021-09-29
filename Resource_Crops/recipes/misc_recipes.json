@@ -5,13 +5,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "duct tape seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "duct tape seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_soil",
@@ -19,13 +40,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "soil seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "soil seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_clay",
@@ -33,13 +75,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "clay seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "clay seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_brick",
@@ -47,13 +110,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "brick seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "brick seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_concrete",
@@ -61,13 +145,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "concrete seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "concrete seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_rock",
@@ -75,13 +180,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "rock seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "rock seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_resinpod",
@@ -89,13 +215,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "alien resin pod seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "alien resin pod seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_mortar",
@@ -103,13 +250,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "mortar seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "mortar seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_plasticsheet",
@@ -117,13 +285,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "plastic sheet seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "plastic sheet seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_cbm",
@@ -131,13 +320,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "compact bionic modules seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "compact bionic modules seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_cbmPow",
@@ -145,12 +355,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "compact bionic modules seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "compact bionic modules seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "bio_power_storage", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "bio_power_storage",
+          10
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_cbmPowII",
@@ -158,12 +395,43 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "power storage MkII seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "power storage MkII seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "bio_power_storage", 100 ], [ "bio_power_storage_mkII", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "bio_power_storage",
+          100
+        ],
+        [
+          "bio_power_storage_mkII",
+          10
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_batterydispos",
@@ -171,13 +439,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "disposable battery seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "disposable battery seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_ferti",
@@ -185,13 +474,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "fertilizer seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "fertilizer seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_solarpanel",
@@ -199,12 +509,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "solar panel seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "solar panel seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "solar_panel", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "solar_panel",
+          10
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_solarpanelv2",
@@ -212,12 +549,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "upgraded solar panel seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "upgraded solar panel seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "solar_panel_v2", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "solar_panel_v2",
+          10
+        ]
+      ]
+    ]
   },
   {
     "type": "recipe",
@@ -225,12 +589,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "heating element seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "heating element seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "element", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "element",
+          10
+        ]
+      ]
+    ]
   },
   {
     "type": "recipe",
@@ -238,12 +629,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "plastic chunk seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "plastic chunk seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "plastic_chunk", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "plastic_chunk",
+          10
+        ]
+      ]
+    ]
   },
   {
     "type": "recipe",
@@ -251,12 +669,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "sand seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "sand seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "material_sand", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "material_sand",
+          10
+        ]
+      ]
+    ]
   },
   {
     "type": "recipe",
@@ -264,11 +709,38 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "cement seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "cement seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "material_cement", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "material_cement",
+          10
+        ]
+      ]
+    ]
   }
 ]

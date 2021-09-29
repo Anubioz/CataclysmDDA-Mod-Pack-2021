@@ -5,15 +5,21 @@
     "color": "red",
     "description": "An experimental, syringe-like device. Labeled with \"Secronom Project\", it is used to forcefully feed a flesh vessel.",
     "id": "secro_tool_finfuse",
-    "material": [ "steel", "glass", "plastic" ],
-    "name": { "str": "SP - flesh injector" },
+    "material": [
+      "steel",
+      "glass",
+      "plastic"
+    ],
+    "name": {
+      "str": "SP - flesh injector"
+    },
     "price": "50 USD",
     "price_postapoc": "1 USD",
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
-        "rigid":false,
+        "rigid": false,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
         "item_restriction": [
@@ -27,7 +33,12 @@
         ]
       }
     ],
-    "qualities": [ [ "SECRO_FINFUSE", 1 ] ],
+    "qualities": [
+      [
+        "SECRO_FINFUSE",
+        1
+      ]
+    ],
     "symbol": "o",
     "to_hit": -1,
     "type": "TOOL",

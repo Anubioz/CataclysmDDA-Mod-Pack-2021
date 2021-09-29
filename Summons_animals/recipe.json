@@ -9,8 +9,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (albino penguins) recipe",
@@ -22,8 +46,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (bear) recipe",
@@ -35,8 +83,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (cat) recipe",
@@ -48,8 +120,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (chicken) recipe",
@@ -61,8 +157,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (chipmunk) recipe",
@@ -74,8 +194,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (beaver) recipe",
@@ -87,8 +231,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (dog) recipe",
@@ -100,8 +268,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (duck) recipe",
@@ -113,8 +305,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (fox) recipe",
@@ -126,8 +342,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (ground hog) recipe",
@@ -139,8 +379,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (jack rabbit) recipe",
@@ -152,8 +416,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (horse) recipe",
@@ -165,8 +453,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (mink) recipe",
@@ -178,8 +490,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (muskrat) recipe",
@@ -191,8 +527,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (Opossum) recipe",
@@ -204,8 +564,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (great cormorant) recipe",
@@ -217,8 +601,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (pig) recipe",
@@ -230,8 +638,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (giant cockroach) recipe",
@@ -243,8 +675,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (rabbit) recipe",
@@ -256,8 +712,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (raccoon) recipe",
@@ -269,8 +749,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (sheep) recipe",
@@ -282,8 +786,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (squirrel) recipe",
@@ -295,8 +823,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (weasel) recipe",
@@ -308,8 +860,32 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   },
   {
     "//": "Blob doll (wolf) recipe",
@@ -321,7 +897,31 @@
     "difficulty": 6,
     "time": "10 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "bone", 4 ] ], [ [ "meat", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "bone",
+          4
+        ]
+      ],
+      [
+        [
+          "meat",
+          10
+        ]
+      ]
+    ]
   }
 ]

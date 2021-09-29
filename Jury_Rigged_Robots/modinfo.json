@@ -4,8 +4,12 @@
     "type": "MOD_INFO",
     "name": "Jury-Rigged Robots",
     "description": "Options for salvaging, jury rigging, and reprogramming broken robots.",
-    "authors": [ "Sunshine, TheSalamanderDJ" ],
+    "authors": [
+      "Sunshine, TheSalamanderDJ"
+    ],
     "category": "creatures",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

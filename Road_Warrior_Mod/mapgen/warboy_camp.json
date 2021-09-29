@@ -1,7 +1,9 @@
 [
   {
     "type": "mapgen",
-    "om_terrain": [ "bandit_camp_1" ],
+    "om_terrain": [
+      "bandit_camp_1"
+    ],
     "method": "json",
     "weight": 250,
     "object": {
@@ -33,28 +35,201 @@
         ",%,///,//P//WwwwW////WWW"
       ],
       "place_items": [
-        { "item": "stash_wood", "chance": 85, "x": [ 12, 12 ], "y": [ 8, 10 ] },
-        { "item": "dresser", "chance": 85, "x": [ 23, 23 ], "y": [ 8, 8 ] },
-        { "item": "home_hw", "chance": 85, "x": [ 12, 12 ], "y": [ 16, 18 ] },
-        { "item": "home_hw", "chance": 85, "x": [ 21, 23 ], "y": [ 20, 20 ] },
-        { "item": "home_hw", "chance": 80, "x": [ 22, 22 ], "y": [ 21, 21 ] },
-        { "item": "cannedfood", "chance": 90, "x": [ 9, 9 ], "y": [ 10, 16 ] },
-        { "item": "cannedfood", "chance": 90, "x": [ 14, 16 ], "y": [ 8, 8 ] },
-        { "item": "pasta", "chance": 90, "x": [ 8, 10 ], "y": [ 19, 19 ] },
-        { "item": "camping", "chance": 75, "x": [ 8, 10 ], "y": [ 13, 13 ] },
-        { "item": "camping", "chance": 75, "x": [ 8, 9 ], "y": [ 17, 18 ] },
-        { "item": "electronics", "chance": 75, "x": [ 23, 23 ], "y": [ 16, 18 ] }
+        {
+          "item": "stash_wood",
+          "chance": 85,
+          "x": [
+            12,
+            12
+          ],
+          "y": [
+            8,
+            10
+          ]
+        },
+        {
+          "item": "dresser",
+          "chance": 85,
+          "x": [
+            23,
+            23
+          ],
+          "y": [
+            8,
+            8
+          ]
+        },
+        {
+          "item": "home_hw",
+          "chance": 85,
+          "x": [
+            12,
+            12
+          ],
+          "y": [
+            16,
+            18
+          ]
+        },
+        {
+          "item": "home_hw",
+          "chance": 85,
+          "x": [
+            21,
+            23
+          ],
+          "y": [
+            20,
+            20
+          ]
+        },
+        {
+          "item": "home_hw",
+          "chance": 80,
+          "x": [
+            22,
+            22
+          ],
+          "y": [
+            21,
+            21
+          ]
+        },
+        {
+          "item": "cannedfood",
+          "chance": 90,
+          "x": [
+            9,
+            9
+          ],
+          "y": [
+            10,
+            16
+          ]
+        },
+        {
+          "item": "cannedfood",
+          "chance": 90,
+          "x": [
+            14,
+            16
+          ],
+          "y": [
+            8,
+            8
+          ]
+        },
+        {
+          "item": "pasta",
+          "chance": 90,
+          "x": [
+            8,
+            10
+          ],
+          "y": [
+            19,
+            19
+          ]
+        },
+        {
+          "item": "camping",
+          "chance": 75,
+          "x": [
+            8,
+            10
+          ],
+          "y": [
+            13,
+            13
+          ]
+        },
+        {
+          "item": "camping",
+          "chance": 75,
+          "x": [
+            8,
+            9
+          ],
+          "y": [
+            17,
+            18
+          ]
+        },
+        {
+          "item": "electronics",
+          "chance": 75,
+          "x": [
+            23,
+            23
+          ],
+          "y": [
+            16,
+            18
+          ]
+        }
       ],
       "place_npcs": [
-        { "class": "bandit", "x": 15, "y": 13 },
-        { "class": "bandit", "x": 20, "y": 12 },
-        { "class": "thug", "x": 20, "y": 20 }
+        {
+          "class": "bandit",
+          "x": 15,
+          "y": 13
+        },
+        {
+          "class": "bandit",
+          "x": 20,
+          "y": 12
+        },
+        {
+          "class": "thug",
+          "x": 20,
+          "y": 20
+        }
       ],
       "set": [
-        { "point": "trap", "id": "tr_landmine_buried", "x": [ 7, 23 ], "y": [ 2, 5 ], "repeat": [ 2, 6 ] },
-        { "point": "trap", "id": "tr_landmine_buried", "x": [ 2, 6 ], "y": [ 2, 23 ], "repeat": [ 2, 6 ] },
-        { "point": "trap", "id": "tr_rollmat", "x": 13, "y": 23 },
-        { "point": "trap", "id": "tr_rollmat", "x": 14, "y": 23 }
+        {
+          "point": "trap",
+          "id": "tr_landmine_buried",
+          "x": [
+            7,
+            23
+          ],
+          "y": [
+            2,
+            5
+          ],
+          "repeat": [
+            2,
+            6
+          ]
+        },
+        {
+          "point": "trap",
+          "id": "tr_landmine_buried",
+          "x": [
+            2,
+            6
+          ],
+          "y": [
+            2,
+            23
+          ],
+          "repeat": [
+            2,
+            6
+          ]
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 13,
+          "y": 23
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 14,
+          "y": 23
+        }
       ],
       "terrain": {
         "/": "t_dirt",
@@ -107,7 +282,9 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "bandit_camp_2" ],
+    "om_terrain": [
+      "bandit_camp_2"
+    ],
     "method": "json",
     "weight": 250,
     "object": {
@@ -139,21 +316,136 @@
         "WW//////////////////,,,,"
       ],
       "place_items": [
-        { "item": "bed", "chance": 80, "x": [ 2, 3 ], "y": [ 7, 8 ] },
-        { "item": "dresser", "chance": 75, "x": [ 1, 2 ], "y": [ 10, 10 ] },
-        { "item": "home_hw", "chance": 75, "x": [ 3, 3 ], "y": [ 17, 19 ] },
-        { "item": "electronics", "chance": 75, "x": [ 1, 2 ], "y": [ 19, 19 ] }
+        {
+          "item": "bed",
+          "chance": 80,
+          "x": [
+            2,
+            3
+          ],
+          "y": [
+            7,
+            8
+          ]
+        },
+        {
+          "item": "dresser",
+          "chance": 75,
+          "x": [
+            1,
+            2
+          ],
+          "y": [
+            10,
+            10
+          ]
+        },
+        {
+          "item": "home_hw",
+          "chance": 75,
+          "x": [
+            3,
+            3
+          ],
+          "y": [
+            17,
+            19
+          ]
+        },
+        {
+          "item": "electronics",
+          "chance": 75,
+          "x": [
+            1,
+            2
+          ],
+          "y": [
+            19,
+            19
+          ]
+        }
       ],
-      "place_npcs": [ { "class": "bandit", "x": 11, "y": 13 }, { "class": "bandit", "x": 15, "y": 22 } ],
+      "place_npcs": [
+        {
+          "class": "bandit",
+          "x": 11,
+          "y": 13
+        },
+        {
+          "class": "bandit",
+          "x": 15,
+          "y": 22
+        }
+      ],
       "set": [
-        { "point": "trap", "id": "tr_landmine_buried", "x": [ 0, 16 ], "y": [ 2, 5 ], "repeat": [ 2, 6 ] },
-        { "point": "trap", "id": "tr_landmine_buried", "x": [ 17, 21 ], "y": [ 2, 21 ], "repeat": [ 2, 6 ] },
-        { "point": "trap", "id": "tr_cot", "x": 12, "y": 18 },
-        { "point": "trap", "id": "tr_cot", "x": 12, "y": 19 },
-        { "point": "trap", "id": "tr_rollmat", "x": 11, "y": 14 },
-        { "point": "trap", "id": "tr_rollmat", "x": 12, "y": 14 },
-        { "point": "trap", "id": "tr_rollmat", "x": 11, "y": 12 },
-        { "point": "trap", "id": "tr_rollmat", "x": 12, "y": 12 }
+        {
+          "point": "trap",
+          "id": "tr_landmine_buried",
+          "x": [
+            0,
+            16
+          ],
+          "y": [
+            2,
+            5
+          ],
+          "repeat": [
+            2,
+            6
+          ]
+        },
+        {
+          "point": "trap",
+          "id": "tr_landmine_buried",
+          "x": [
+            17,
+            21
+          ],
+          "y": [
+            2,
+            21
+          ],
+          "repeat": [
+            2,
+            6
+          ]
+        },
+        {
+          "point": "trap",
+          "id": "tr_cot",
+          "x": 12,
+          "y": 18
+        },
+        {
+          "point": "trap",
+          "id": "tr_cot",
+          "x": 12,
+          "y": 19
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 11,
+          "y": 14
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 12,
+          "y": 14
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 11,
+          "y": 12
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 12,
+          "y": 12
+        }
       ],
       "terrain": {
         "/": "t_dirt",
@@ -206,7 +498,9 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "bandit_camp_3" ],
+    "om_terrain": [
+      "bandit_camp_3"
+    ],
     "method": "json",
     "weight": 250,
     "object": {
@@ -237,22 +531,122 @@
         ",,,,,,%,,,/,,,$,,/,/,,,%",
         "$,,%,,$,,,,,%,,,%,,$,,,,"
       ],
-      "place_items": [ { "item": "cannedfood", "chance": 75, "x": [ 20, 21 ], "y": [ 13, 14 ] } ],
+      "place_items": [
+        {
+          "item": "cannedfood",
+          "chance": 75,
+          "x": [
+            20,
+            21
+          ],
+          "y": [
+            13,
+            14
+          ]
+        }
+      ],
       "set": [
-        { "point": "trap", "id": "tr_landmine_buried", "x": [ 3, 7 ], "y": [ 0, 3 ], "repeat": [ 0, 2 ] },
-        { "point": "trap", "id": "tr_landmine_buried", "x": [ 3, 7 ], "y": [ 9, 21 ], "repeat": [ 2, 6 ] },
-        { "point": "trap", "id": "tr_landmine_buried", "x": [ 7, 21 ], "y": [ 19, 22 ], "repeat": [ 2, 4 ] },
-        { "point": "trap", "id": "tr_rollmat", "x": 13, "y": 1 },
-        { "point": "trap", "id": "tr_rollmat", "x": 14, "y": 1 },
-        { "point": "trap", "id": "tr_fur_rollmat", "x": 16, "y": 9 },
-        { "point": "trap", "id": "tr_fur_rollmat", "x": 17, "y": 9 },
-        { "point": "trap", "id": "tr_rollmat", "x": 14, "y": 13 },
-        { "point": "trap", "id": "tr_rollmat", "x": 15, "y": 13 }
+        {
+          "point": "trap",
+          "id": "tr_landmine_buried",
+          "x": [
+            3,
+            7
+          ],
+          "y": [
+            0,
+            3
+          ],
+          "repeat": [
+            0,
+            2
+          ]
+        },
+        {
+          "point": "trap",
+          "id": "tr_landmine_buried",
+          "x": [
+            3,
+            7
+          ],
+          "y": [
+            9,
+            21
+          ],
+          "repeat": [
+            2,
+            6
+          ]
+        },
+        {
+          "point": "trap",
+          "id": "tr_landmine_buried",
+          "x": [
+            7,
+            21
+          ],
+          "y": [
+            19,
+            22
+          ],
+          "repeat": [
+            2,
+            4
+          ]
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 13,
+          "y": 1
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 14,
+          "y": 1
+        },
+        {
+          "point": "trap",
+          "id": "tr_fur_rollmat",
+          "x": 16,
+          "y": 9
+        },
+        {
+          "point": "trap",
+          "id": "tr_fur_rollmat",
+          "x": 17,
+          "y": 9
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 14,
+          "y": 13
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 15,
+          "y": 13
+        }
       ],
       "place_npcs": [
-        { "class": "bandit", "x": 11, "y": 6 },
-        { "class": "bandit", "x": 16, "y": 9 },
-        { "class": "bandit", "x": 14, "y": 14 }
+        {
+          "class": "bandit",
+          "x": 11,
+          "y": 6
+        },
+        {
+          "class": "bandit",
+          "x": 16,
+          "y": 9
+        },
+        {
+          "class": "bandit",
+          "x": 14,
+          "y": 14
+        }
       ],
       "terrain": {
         "/": "t_dirt",
@@ -305,7 +699,9 @@
   },
   {
     "type": "mapgen",
-    "om_terrain": [ "bandit_camp_4" ],
+    "om_terrain": [
+      "bandit_camp_4"
+    ],
     "method": "json",
     "weight": 250,
     "object": {
@@ -337,25 +733,153 @@
         ",//,,,,,$,,,,,%,,,%,,,,,"
       ],
       "place_vehicles": [
-        { "vehicle": "motorcycle", "x": 8, "y": 6, "rotation": 180, "chance": 80 },
-        { "vehicle": "motorcycle", "x": 8, "y": 8, "rotation": 180, "chance": 80 },
-        { "vehicle": "motorcycle", "x": 9, "y": 10, "rotation": 180, "chance": 80 }
+        {
+          "vehicle": "motorcycle",
+          "x": 8,
+          "y": 6,
+          "rotation": 180,
+          "chance": 80
+        },
+        {
+          "vehicle": "motorcycle",
+          "x": 8,
+          "y": 8,
+          "rotation": 180,
+          "chance": 80
+        },
+        {
+          "vehicle": "motorcycle",
+          "x": 9,
+          "y": 10,
+          "rotation": 180,
+          "chance": 80
+        }
       ],
       "place_items": [
-        { "item": "mechanics", "chance": 65, "x": [ 8, 12 ], "y": [ 13, 13 ] },
-        { "item": "mechanics", "chance": 65, "x": [ 12, 12 ], "y": [ 4, 5 ] },
-        { "item": "mechanics", "chance": 65, "x": [ 12, 12 ], "y": [ 8, 9 ] },
-        { "item": "mechanics", "chance": 65, "x": [ 8, 9 ], "y": [ 4, 4 ] }
+        {
+          "item": "mechanics",
+          "chance": 65,
+          "x": [
+            8,
+            12
+          ],
+          "y": [
+            13,
+            13
+          ]
+        },
+        {
+          "item": "mechanics",
+          "chance": 65,
+          "x": [
+            12,
+            12
+          ],
+          "y": [
+            4,
+            5
+          ]
+        },
+        {
+          "item": "mechanics",
+          "chance": 65,
+          "x": [
+            12,
+            12
+          ],
+          "y": [
+            8,
+            9
+          ]
+        },
+        {
+          "item": "mechanics",
+          "chance": 65,
+          "x": [
+            8,
+            9
+          ],
+          "y": [
+            4,
+            4
+          ]
+        }
       ],
       "set": [
-        { "point": "trap", "id": "tr_landmine_buried", "x": [ 17, 21 ], "y": [ 2, 18 ], "repeat": [ 2, 6 ] },
-        { "point": "trap", "id": "tr_landmine_buried", "x": [ 7, 21 ], "y": [ 19, 22 ], "repeat": [ 2, 4 ] },
-        { "point": "trap", "id": "tr_rollmat", "x": 0, "y": 1 },
-        { "point": "trap", "id": "tr_rollmat", "x": 0, "y": 2 },
-        { "point": "trap", "id": "tr_rollmat", "x": 0, "y": 9 },
-        { "point": "trap", "id": "tr_rollmat", "x": 0, "y": 10 }
+        {
+          "point": "trap",
+          "id": "tr_landmine_buried",
+          "x": [
+            17,
+            21
+          ],
+          "y": [
+            2,
+            18
+          ],
+          "repeat": [
+            2,
+            6
+          ]
+        },
+        {
+          "point": "trap",
+          "id": "tr_landmine_buried",
+          "x": [
+            7,
+            21
+          ],
+          "y": [
+            19,
+            22
+          ],
+          "repeat": [
+            2,
+            4
+          ]
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 0,
+          "y": 1
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 0,
+          "y": 2
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 0,
+          "y": 9
+        },
+        {
+          "point": "trap",
+          "id": "tr_rollmat",
+          "x": 0,
+          "y": 10
+        }
       ],
-      "place_npcs": [ { "class": "thug", "x": 1, "y": 17 }, { "class": "bandit", "x": 4, "y": 17 }, { "class": "thug", "x": 12, "y": 6 } ],
+      "place_npcs": [
+        {
+          "class": "thug",
+          "x": 1,
+          "y": 17
+        },
+        {
+          "class": "bandit",
+          "x": 4,
+          "y": 17
+        },
+        {
+          "class": "thug",
+          "x": 12,
+          "y": 6
+        }
+      ],
       "terrain": {
         "/": "t_dirt",
         ".": "t_rock_floor",

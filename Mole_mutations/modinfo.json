@@ -6,6 +6,8 @@
     "authors": "Nancok",
     "description": "Adds a new mutation category that turns you into a mole-man.",
     "category": "misc_additions",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

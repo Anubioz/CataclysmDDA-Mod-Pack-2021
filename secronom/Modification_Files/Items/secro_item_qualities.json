@@ -2,11 +2,15 @@
   {
     "id": "SECRO_FLESH_MORPHING",
     "type": "tool_quality",
-    "name": { "str": "bio-organic morphing" }
+    "name": {
+      "str": "bio-organic morphing"
+    }
   },
   {
     "id": "SECRO_FLESH_REFORMING",
     "type": "tool_quality",
-    "name": { "str": "bio-organic reforming" }
+    "name": {
+      "str": "bio-organic reforming"
+    }
   }
 ]

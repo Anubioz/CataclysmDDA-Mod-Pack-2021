@@ -2,7 +2,9 @@
   {
     "id": "headlight_atomic",
     "type": "vehicle_part",
-    "name": { "str": "atomic headlight" },
+    "name": {
+      "str": "atomic headlight"
+    },
     "item": "headlight_atomic",
     "symbol": "*",
     "broken_symbol": "*",
@@ -13,48 +15,131 @@
     "bonus": 8000,
     "damage_modifier": 10,
     "folded_volume": "500 ml",
-    "breaks_into": [ { "item": "cable", "charges": [ 1, 4 ] }, { "item": "scrap", "count": [ 2, 4 ] } ],
+    "breaks_into": [
+      {
+        "item": "cable",
+        "charges": [
+          1,
+          4
+        ]
+      },
+      {
+        "item": "scrap",
+        "count": [
+          2,
+          4
+        ]
+      }
+    ],
     "requirements": {
-      "install": { "skills": [ [ "mechanics", 1 ] ], "time": "200 s", "using": [ [ "vehicle_screw", 1 ] ] },
-      "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "200 s", "using": [ [ "vehicle_screw", 1 ] ] },
-      "repair": { "skills": [ [ "mechanics", 1 ] ], "time": "20 s", "using": [ [ "adhesive", 1 ] ] }
+      "install": {
+        "skills": [
+          [
+            "mechanics",
+            1
+          ]
+        ],
+        "time": "200 s",
+        "using": [
+          [
+            "vehicle_screw",
+            1
+          ]
+        ]
+      },
+      "removal": {
+        "skills": [
+          [
+            "mechanics",
+            1
+          ]
+        ],
+        "time": "200 s",
+        "using": [
+          [
+            "vehicle_screw",
+            1
+          ]
+        ]
+      },
+      "repair": {
+        "skills": [
+          [
+            "mechanics",
+            1
+          ]
+        ],
+        "time": "20 s",
+        "using": [
+          [
+            "adhesive",
+            1
+          ]
+        ]
+      }
     },
-    "flags": [ "LEAK_DAM", "RADIOACTIVE", "CONE_LIGHT", "FOLDABLE" ]
+    "flags": [
+      "LEAK_DAM",
+      "RADIOACTIVE",
+      "CONE_LIGHT",
+      "FOLDABLE"
+    ]
   },
   {
     "id": "wide_headlight_atomic",
     "type": "vehicle_part",
-    "name": { "str": "wide angle atomic headlight" },
+    "name": {
+      "str": "wide angle atomic headlight"
+    },
     "item": "wide_headlight_atomic",
     "copy-from": "headlight_atomic",
     "looks_like": "headlight_atomic",
     "description": "A bright light that illuminates a wide cone outside the vehicle when turned on, self-powered by an atomic decay reaction that never stops.  During installation, you can choose what direction to point the light, so multiple headlights can illuminate the sides or rear, as well as the front.",
-    "flags": [ "LEAK_DAM", "RADIOACTIVE", "WIDE_CONE_LIGHT", "FOLDABLE" ]
+    "flags": [
+      "LEAK_DAM",
+      "RADIOACTIVE",
+      "WIDE_CONE_LIGHT",
+      "FOLDABLE"
+    ]
   },
   {
     "id": "headlight_reinforced_atomic",
     "copy-from": "headlight_atomic",
     "type": "vehicle_part",
-    "name": { "str": "reinforced atomic headlight" },
+    "name": {
+      "str": "reinforced atomic headlight"
+    },
     "item": "headlight_reinforced_atomic",
     "color": "blue",
-    "proportional": { "durability": 4 },
-    "damage_reduction": { "all": 12 }
+    "proportional": {
+      "durability": 4
+    },
+    "damage_reduction": {
+      "all": 12
+    }
   },
   {
     "id": "wide_headlight_reinforced_atomic",
     "copy-from": "wide_headlight_atomic",
     "type": "vehicle_part",
-    "name": { "str": "reinforced wide-angle atomic headlight" },
+    "name": {
+      "str": "reinforced wide-angle atomic headlight"
+    },
     "item": "wide_headlight_reinforced_atomic",
     "color": "blue",
-    "proportional": { "durability": 4 },
-    "damage_reduction": { "all": 12 }
+    "proportional": {
+      "durability": 4
+    },
+    "damage_reduction": {
+      "all": 12
+    }
   },
   {
     "id": "megafridge",
     "type": "vehicle_part",
-    "name": { "str": "megafridge" },
+    "name": {
+      "str": "megafridge"
+    },
     "symbol": "H",
     "color": "light_blue",
     "broken_symbol": "#",
@@ -69,24 +154,100 @@
     "item": "megafridge",
     "location": "center",
     "requirements": {
-      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 s", "using": [ [ "vehicle_wrench_2", 1 ] ] },
-      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "30 s", "using": [ [ "vehicle_wrench_2", 1 ] ] },
-      "repair": { "skills": [ [ "mechanics", 4 ] ], "time": "60 s", "using": [ [ "welding_standard", 5 ] ] }
+      "install": {
+        "skills": [
+          [
+            "mechanics",
+            3
+          ]
+        ],
+        "time": "60 s",
+        "using": [
+          [
+            "vehicle_wrench_2",
+            1
+          ]
+        ]
+      },
+      "removal": {
+        "skills": [
+          [
+            "mechanics",
+            2
+          ]
+        ],
+        "time": "30 s",
+        "using": [
+          [
+            "vehicle_wrench_2",
+            1
+          ]
+        ]
+      },
+      "repair": {
+        "skills": [
+          [
+            "mechanics",
+            4
+          ]
+        ],
+        "time": "60 s",
+        "using": [
+          [
+            "welding_standard",
+            5
+          ]
+        ]
+      }
     },
-    "flags": [ "CARGO", "OBSTACLE", "FRIDGE", "COVERED", "ENABLED_DRAINS_EPOWER" ],
-    "breaks_into": [
-      { "item": "steel_lump", "count": [ 16, 26 ] },
-      { "item": "steel_chunk", "count": [ 16, 26 ] },
-      { "item": "scrap", "count": [ 16, 26 ] },
-      { "item": "hose", "prob": 50 },
-      { "item": "motor_tiny", "prob": 25 }
+    "flags": [
+      "CARGO",
+      "OBSTACLE",
+      "FRIDGE",
+      "COVERED",
+      "ENABLED_DRAINS_EPOWER"
     ],
-    "damage_reduction": { "all": 32 }
+    "breaks_into": [
+      {
+        "item": "steel_lump",
+        "count": [
+          16,
+          26
+        ]
+      },
+      {
+        "item": "steel_chunk",
+        "count": [
+          16,
+          26
+        ]
+      },
+      {
+        "item": "scrap",
+        "count": [
+          16,
+          26
+        ]
+      },
+      {
+        "item": "hose",
+        "prob": 50
+      },
+      {
+        "item": "motor_tiny",
+        "prob": 25
+      }
+    ],
+    "damage_reduction": {
+      "all": 32
+    }
   },
   {
     "id": "megafreezer",
     "type": "vehicle_part",
-    "name": { "str": "megafreezer" },
+    "name": {
+      "str": "megafreezer"
+    },
     "symbol": "H",
     "color": "light_blue",
     "broken_symbol": "#",
@@ -99,18 +260,92 @@
     "item": "megafreezer",
     "location": "center",
     "requirements": {
-      "install": { "skills": [ [ "mechanics", 3 ] ], "time": "60 s", "using": [ [ "vehicle_wrench_2", 1 ] ] },
-      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "30 s", "using": [ [ "vehicle_wrench_2", 1 ] ] },
-      "repair": { "skills": [ [ "mechanics", 4 ] ], "time": "60 s", "using": [ [ "welding_standard", 5 ] ] }
+      "install": {
+        "skills": [
+          [
+            "mechanics",
+            3
+          ]
+        ],
+        "time": "60 s",
+        "using": [
+          [
+            "vehicle_wrench_2",
+            1
+          ]
+        ]
+      },
+      "removal": {
+        "skills": [
+          [
+            "mechanics",
+            2
+          ]
+        ],
+        "time": "30 s",
+        "using": [
+          [
+            "vehicle_wrench_2",
+            1
+          ]
+        ]
+      },
+      "repair": {
+        "skills": [
+          [
+            "mechanics",
+            4
+          ]
+        ],
+        "time": "60 s",
+        "using": [
+          [
+            "welding_standard",
+            5
+          ]
+        ]
+      }
     },
-    "flags": [ "CARGO", "OBSTACLE", "FREEZER", "COVERED", "ENABLED_DRAINS_EPOWER" ],
-    "breaks_into": [
-      { "item": "steel_lump", "count": [ 16, 26 ] },
-      { "item": "steel_chunk", "count": [ 16, 26 ] },
-      { "item": "scrap", "count": [ 16, 26 ] },
-      { "item": "hose", "prob": 50 },
-      { "item": "motor_tiny", "prob": 25 }
+    "flags": [
+      "CARGO",
+      "OBSTACLE",
+      "FREEZER",
+      "COVERED",
+      "ENABLED_DRAINS_EPOWER"
     ],
-    "damage_reduction": { "all": 32 }
+    "breaks_into": [
+      {
+        "item": "steel_lump",
+        "count": [
+          16,
+          26
+        ]
+      },
+      {
+        "item": "steel_chunk",
+        "count": [
+          16,
+          26
+        ]
+      },
+      {
+        "item": "scrap",
+        "count": [
+          16,
+          26
+        ]
+      },
+      {
+        "item": "hose",
+        "prob": 50
+      },
+      {
+        "item": "motor_tiny",
+        "prob": 25
+      }
+    ],
+    "damage_reduction": {
+      "all": 32
+    }
   }
 ]

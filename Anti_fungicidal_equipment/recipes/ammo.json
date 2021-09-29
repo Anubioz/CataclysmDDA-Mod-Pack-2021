@@ -6,16 +6,63 @@
     "subcategory": "CSC_AMMO_RIFLE",
     "skill_used": "fabrication",
     "difficulty": 3,
-    "skills_required": [ [ "gun", 1 ], [ "cooking", 3 ] ],
+    "skills_required": [
+      [
+        "gun",
+        1
+      ],
+      [
+        "cooking",
+        3
+      ]
+    ],
     "time": "5 s",
     "autolearn": true,
-    "using": [ [ "bullet_forming", 40 ] ],
+    "using": [
+      [
+        "bullet_forming",
+        40
+      ]
+    ],
     "components": [
-      [ [ "223_casing", 30 ] ],
-      [ [ "smrifle_primer", 30 ] ],
-      [ [ "gunpowder", 10 ], [ "gunpowder_rifle", 10 ] ],
-      [ [ "gas_fungicidal", 50 ], [ "antifungal", 5 ] ],
-      [ [ "plastic_chunk", 10 ] ]
+      [
+        [
+          "223_casing",
+          30
+        ]
+      ],
+      [
+        [
+          "smrifle_primer",
+          30
+        ]
+      ],
+      [
+        [
+          "gunpowder",
+          10
+        ],
+        [
+          "gunpowder_rifle",
+          10
+        ]
+      ],
+      [
+        [
+          "gas_fungicidal",
+          50
+        ],
+        [
+          "antifungal",
+          5
+        ]
+      ],
+      [
+        [
+          "plastic_chunk",
+          10
+        ]
+      ]
     ]
   },
   {
@@ -25,16 +72,67 @@
     "subcategory": "CSC_AMMO_RIFLE",
     "skill_used": "fabrication",
     "difficulty": 3,
-    "skills_required": [ [ "gun", 1 ], [ "cooking", 3 ] ],
+    "skills_required": [
+      [
+        "gun",
+        1
+      ],
+      [
+        "cooking",
+        3
+      ]
+    ],
     "time": "5 s",
     "autolearn": true,
-    "using": [ [ "bullet_forming", 40 ] ],
+    "using": [
+      [
+        "bullet_forming",
+        40
+      ]
+    ],
     "components": [
-      [ [ "308_casing", 20 ], [ "762_51_casing", 20 ] ],
-      [ [ "lgrifle_primer", 20 ] ],
-      [ [ "gunpowder", 10 ], [ "gunpowder_rifle", 10 ] ],
-      [ [ "gas_fungicidal", 50 ], [ "antifungal", 5 ] ],
-      [ [ "plastic_chunk", 15 ] ]
+      [
+        [
+          "308_casing",
+          20
+        ],
+        [
+          "762_51_casing",
+          20
+        ]
+      ],
+      [
+        [
+          "lgrifle_primer",
+          20
+        ]
+      ],
+      [
+        [
+          "gunpowder",
+          10
+        ],
+        [
+          "gunpowder_rifle",
+          10
+        ]
+      ],
+      [
+        [
+          "gas_fungicidal",
+          50
+        ],
+        [
+          "antifungal",
+          5
+        ]
+      ],
+      [
+        [
+          "plastic_chunk",
+          15
+        ]
+      ]
     ]
   },
   {
@@ -44,16 +142,63 @@
     "subcategory": "CSC_AMMO_RIFLE",
     "skill_used": "fabrication",
     "difficulty": 3,
-    "skills_required": [ [ "gun", 1 ], [ "cooking", 3 ] ],
+    "skills_required": [
+      [
+        "gun",
+        1
+      ],
+      [
+        "cooking",
+        3
+      ]
+    ],
     "time": "5 s",
     "autolearn": true,
-    "using": [ [ "bullet_forming", 40 ] ],
+    "using": [
+      [
+        "bullet_forming",
+        40
+      ]
+    ],
     "components": [
-      [ [ "50_casing", 25 ] ],
-      [ [ "lgrifle_primer", 25 ] ],
-      [ [ "gunpowder", 25 ], [ "gunpowder_rifle", 25 ] ],
-      [ [ "gas_fungicidal", 50 ], [ "antifungal", 5 ] ],
-      [ [ "plastic_chunk", 20 ] ]
+      [
+        [
+          "50_casing",
+          25
+        ]
+      ],
+      [
+        [
+          "lgrifle_primer",
+          25
+        ]
+      ],
+      [
+        [
+          "gunpowder",
+          25
+        ],
+        [
+          "gunpowder_rifle",
+          25
+        ]
+      ],
+      [
+        [
+          "gas_fungicidal",
+          50
+        ],
+        [
+          "antifungal",
+          5
+        ]
+      ],
+      [
+        [
+          "plastic_chunk",
+          20
+        ]
+      ]
     ]
   }
 ]

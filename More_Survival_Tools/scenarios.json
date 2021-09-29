@@ -3,12 +3,20 @@
     "id": "wilderness",
     "type": "scenario",
     "copy-from": "wilderness",
-    "extend": { "allowed_locs": [ "swamp" ] }
+    "extend": {
+      "allowed_locs": [
+        "swamp"
+      ]
+    }
   },
   {
     "id": "summer_advanced_start",
     "type": "scenario",
     "copy-from": "summer_advanced_start",
-    "extend": { "professions": [ "wanderer" ] }
+    "extend": {
+      "professions": [
+        "wanderer"
+      ]
+    }
   }
 ]

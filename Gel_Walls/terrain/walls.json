@@ -5,7 +5,9 @@
     "name": "gel wall",
     "description": "That's a gel wall.",
     "symbol": "#",
-    "color": [ "light_green" ],
+    "color": [
+      "light_green"
+    ],
     "move_cost": 0,
     "connects_to": "WALL",
     "bash": {
@@ -14,9 +16,27 @@
       "sound": "loud oozing!",
       "sound_fail": "oozing!",
       "ter_set": "t_null",
-      "items": [ { "item": "slime_scrap", "prob": 95, "count": [ 15, 23, 37, 43 ] } ]
+      "items": [
+        {
+          "item": "slime_scrap",
+          "prob": 95,
+          "count": [
+            15,
+            23,
+            37,
+            43
+          ]
+        }
+      ]
     },
-    "flags": [ "TRANSPARENT", "NOITEM", "REDUCE_SCENT", "SUPPORTS_ROOF", "WALL", "AUTO_WALL_SYMBOL" ]
+    "flags": [
+      "TRANSPARENT",
+      "NOITEM",
+      "REDUCE_SCENT",
+      "SUPPORTS_ROOF",
+      "WALL",
+      "AUTO_WALL_SYMBOL"
+    ]
   },
   {
     "id": "t_gel_wall_half",
@@ -24,7 +44,9 @@
     "name": "gel half-wall",
     "description": "That's a half gel wall.",
     "symbol": "#",
-    "color": [ "light_green" ],
+    "color": [
+      "light_green"
+    ],
     "move_cost": 4,
     "bash": {
       "str_min": 5,
@@ -32,9 +54,37 @@
       "sound": "loud oozing!",
       "sound_fail": "oozing!",
       "ter_set": "t_null",
-      "items": [ { "item": "slime_scrap", "prob": 95, "count": [ 12, 15, 23 ] } ]
+      "items": [
+        {
+          "item": "slime_scrap",
+          "prob": 95,
+          "count": [
+            12,
+            15,
+            23
+          ]
+        }
+      ]
     },
-    "deconstruct": { "ter_set": "t_null", "items": [ { "item": "slime_scrap", "count": [ 30, 28, 15 ] } ] },
-    "flags": [ "TRANSPARENT", "NOITEM", "REDUCE_SCENT", "SUPPORTS_ROOF", "MOUNTABLE" ]
+    "deconstruct": {
+      "ter_set": "t_null",
+      "items": [
+        {
+          "item": "slime_scrap",
+          "count": [
+            30,
+            28,
+            15
+          ]
+        }
+      ]
+    },
+    "flags": [
+      "TRANSPARENT",
+      "NOITEM",
+      "REDUCE_SCENT",
+      "SUPPORTS_ROOF",
+      "MOUNTABLE"
+    ]
   }
 ]

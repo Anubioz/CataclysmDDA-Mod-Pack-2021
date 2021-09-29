@@ -2,12 +2,17 @@
   {
     "id": "troll_bag",
     "type": "ARMOR",
-    "name": { "str": "human-skin bag", "str_pl": "human-skin bags" },
+    "name": {
+      "str": "human-skin bag",
+      "str_pl": "human-skin bags"
+    },
     "description": "A silk elven tunic",
     "weight": "400 g",
     "volume": "1000 ml",
     "color": "white",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "to_hit": 0,
     "symbol": "t",
     "price": "20 USD",
@@ -17,7 +22,20 @@
     "bashing": 0,
     "material_thickness": 1,
     "phase": "solid",
-	"armor": [ { "coverage": 60, "covers": [ "torso", "leg_l", "leg_r", "arm_l", "arm_r" ] } ],
-    "flags": [ "VARSIZE" ]
+    "armor": [
+      {
+        "coverage": 60,
+        "covers": [
+          "torso",
+          "leg_l",
+          "leg_r",
+          "arm_l",
+          "arm_r"
+        ]
+      }
+    ],
+    "flags": [
+      "VARSIZE"
+    ]
   }
 ]

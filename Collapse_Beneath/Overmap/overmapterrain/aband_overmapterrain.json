@@ -7,7 +7,9 @@
     "color": "red_white",
     "see_cost": 5,
     "mondensity": 1,
-    "flags": [ "NO_ROTATE" ]
+    "flags": [
+      "NO_ROTATE"
+    ]
   },
   {
     "id": "a_mine_deep1",
@@ -17,7 +19,9 @@
     "color": "red_white",
     "see_cost": 5,
     "mondensity": 1,
-    "flags": [ "NO_ROTATE" ]
+    "flags": [
+      "NO_ROTATE"
+    ]
   },
   {
     "id": "a_mine_deep1B",
@@ -27,7 +31,9 @@
     "color": "red_white",
     "see_cost": 5,
     "mondensity": 1,
-    "flags": [ "NO_ROTATE" ]
+    "flags": [
+      "NO_ROTATE"
+    ]
   },
   {
     "id": "a_mine_deep_secr",
@@ -37,7 +43,9 @@
     "color": "red_white",
     "see_cost": 5,
     "mondensity": 1,
-    "flags": [ "NO_ROTATE" ]
+    "flags": [
+      "NO_ROTATE"
+    ]
   },
   {
     "id": "a_mine_deep1A",
@@ -47,7 +55,9 @@
     "color": "red_white",
     "see_cost": 5,
     "mondensity": 1,
-    "flags": [ "NO_ROTATE" ]
+    "flags": [
+      "NO_ROTATE"
+    ]
   },
   {
     "id": "a_mine_deep1C",
@@ -57,7 +67,9 @@
     "color": "red_white",
     "see_cost": 5,
     "mondensity": 1,
-    "flags": [ "NO_ROTATE" ]
+    "flags": [
+      "NO_ROTATE"
+    ]
   },
   {
     "id": "a_mine_deep1D",
@@ -67,6 +79,8 @@
     "color": "red_white",
     "see_cost": 5,
     "mondensity": 1,
-    "flags": [ "NO_ROTATE" ]
+    "flags": [
+      "NO_ROTATE"
+    ]
   }
 ]

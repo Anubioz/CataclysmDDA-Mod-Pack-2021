@@ -3,11 +3,18 @@
     "id": "Mundane_Zombies",
     "type": "MOD_INFO",
     "name": "Mundane Zombies",
-    "authors": [ "Theundyingcode", "daftfad" ],
-    "maintainers": [ "Theundyingcode" ],
+    "authors": [
+      "Theundyingcode",
+      "daftfad"
+    ],
+    "maintainers": [
+      "Theundyingcode"
+    ],
     "description": "Removes all special zombies from the game.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   },
   {
     "type": "MONSTER_BLACKLIST",

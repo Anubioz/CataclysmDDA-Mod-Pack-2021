@@ -5,10 +5,15 @@
     "name": "No MiGo shooters",
     "description": "Removes MiGo slavers and MiGo scouts.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "monsters": [ "mon_mi_go_slaver", "mon_mi_go_scout" ]
+    "monsters": [
+      "mon_mi_go_slaver",
+      "mon_mi_go_scout"
+    ]
   }
 ]

@@ -8,6 +8,19 @@
     "time": "6 s",
     "reversible": true,
     "autolearn": true,
-    "components": [ [ [ "bag_canvas", 1 ] ], [ [ "string_36", 1 ] ] ]
+    "components": [
+      [
+        [
+          "bag_canvas",
+          1
+        ]
+      ],
+      [
+        [
+          "string_36",
+          1
+        ]
+      ]
+    ]
   }
 ]

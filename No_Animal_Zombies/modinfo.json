@@ -5,7 +5,9 @@
     "name": "No Animal Zombies",
     "description": "Removes all animal-type zombies from the game.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   },
   {
     "type": "MONSTER_BLACKLIST",

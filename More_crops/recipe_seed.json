@@ -9,8 +9,20 @@
     "difficulty": 9,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ]
+    ]
   },
   {
     "//": "種(螺旋状の石)のレシピ",
@@ -22,8 +34,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "spiral_stone", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "spiral_stone",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(渦流石)のレシピ",
@@ -35,8 +65,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "vortex_stone", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "vortex_stone",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(パンティー)のレシピ",
@@ -48,8 +96,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "panties", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "panties",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(振動器)のレシピ",
@@ -61,8 +127,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "vibrator", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "vibrator",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(コンタクト)のレシピ",
@@ -74,8 +158,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "contacts", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "contacts",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(散弾))のレシピ",
@@ -87,8 +189,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "shot_hull", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "shot_hull",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(7.62x25mm))のレシピ",
@@ -100,8 +220,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "762_25_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "762_25_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(70口径/ニトロエクスプレス))のレシピ",
@@ -113,8 +251,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "700nx_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "700nx_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(5.45x39mm))のレシピ",
@@ -126,8 +282,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "545_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "545_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.50口径BMG))のレシピ",
@@ -139,8 +313,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "50_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "50_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.45口径/ACP))のレシピ",
@@ -152,8 +344,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "45_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "45_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.40口径/S&W))のレシピ",
@@ -165,8 +375,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "40_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "40_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.38口径/スペシャル))のレシピ",
@@ -178,8 +406,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "38_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "38_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.32口径/ACP))のレシピ",
@@ -191,8 +437,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "32_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "32_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.308口径))のレシピ",
@@ -204,8 +468,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "308_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "308_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.30口径/ウィンチェスターマグナム))のレシピ",
@@ -217,8 +499,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "300_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "300_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.30-06口径))のレシピ",
@@ -230,8 +530,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "3006_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "3006_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.22口径/LR))のレシピ",
@@ -243,8 +561,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "22_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "22_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.223口径))のレシピ",
@@ -256,8 +592,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "223_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "223_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(7.62x54mm/R))のレシピ",
@@ -269,8 +623,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "762R_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "762R_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(7.62x39mm))のレシピ",
@@ -282,8 +654,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "762_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "762_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(9mm))のレシピ",
@@ -295,8 +685,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "9mm_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "9mm_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.454口径/カスール))のレシピ",
@@ -308,8 +716,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "454_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "454_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.44口径/マグナム))のレシピ",
@@ -321,8 +747,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "44_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "44_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(5.7x28mm))のレシピ",
@@ -334,8 +778,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "57mm_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "57mm_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(.50口径/S&Wマグナム))のレシピ",
@@ -347,8 +809,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "500_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "500_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(9x18mm))のレシピ",
@@ -360,8 +840,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "9x18mm_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "9x18mm_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(4.6x30mm))のレシピ",
@@ -373,8 +871,26 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "46mm_casing", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "46mm_casing",
+          1
+        ]
+      ]
+    ]
   },
   {
     "//": "種(空薬莢(5x50))のレシピ",
@@ -386,7 +902,25 @@
     "difficulty": 6,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "slime_scrap", 4 ] ], [ [ "5x50_hull", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "slime_scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "5x50_hull",
+          1
+        ]
+      ]
+    ]
   }
 ]

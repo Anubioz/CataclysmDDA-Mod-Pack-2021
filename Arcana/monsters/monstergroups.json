@@ -4,9 +4,21 @@
     "type": "monstergroup",
     "default": "mon_shadow_summoned",
     "monsters": [
-      { "monster": "mon_hunting_horror", "freq": 250, "cost_multiplier": 0 },
-      { "monster": "mon_gozu", "freq": 175, "cost_multiplier": 0 },
-      { "monster": "mon_flaming_eye", "freq": 75, "cost_multiplier": 0 }
+      {
+        "monster": "mon_hunting_horror",
+        "freq": 250,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_gozu",
+        "freq": 175,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_flaming_eye",
+        "freq": 75,
+        "cost_multiplier": 0
+      }
     ]
   },
   {
@@ -14,10 +26,26 @@
     "type": "monstergroup",
     "default": "mon_dementia",
     "monsters": [
-      { "monster": "mon_gracke", "freq": 150, "cost_multiplier": 0 },
-      { "monster": "mon_homunculus", "freq": 100, "cost_multiplier": 0 },
-      { "monster": "mon_mi_go", "freq": 50, "cost_multiplier": 0 },
-      { "monster": "mon_flesh_angel", "freq": 25, "cost_multiplier": 0 }
+      {
+        "monster": "mon_gracke",
+        "freq": 150,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_homunculus",
+        "freq": 100,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_mi_go",
+        "freq": 50,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_flesh_angel",
+        "freq": 25,
+        "cost_multiplier": 0
+      }
     ]
   },
   {
@@ -25,9 +53,21 @@
     "type": "monstergroup",
     "default": "mon_dementia",
     "monsters": [
-      { "monster": "mon_blank", "freq": 150, "cost_multiplier": 0 },
-      { "monster": "mon_homunculus", "freq": 100, "cost_multiplier": 0 },
-      { "monster": "mon_mi_go", "freq": 50, "cost_multiplier": 0 }
+      {
+        "monster": "mon_blank",
+        "freq": 150,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_homunculus",
+        "freq": 100,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_mi_go",
+        "freq": 50,
+        "cost_multiplier": 0
+      }
     ]
   },
   {
@@ -35,14 +75,46 @@
     "type": "monstergroup",
     "default": "mon_triffid",
     "monsters": [
-      { "monster": "mon_triffid_young", "freq": 300, "cost_multiplier": 0 },
-      { "monster": "mon_fungal_fighter", "freq": 160, "cost_multiplier": 0 },
-      { "monster": "mon_vinebeast", "freq": 160, "cost_multiplier": 10 },
-      { "monster": "mon_flying_polyp", "freq": 25, "cost_multiplier": 0 },
-      { "monster": "mon_hunting_horror", "freq": 240, "cost_multiplier": 0 },
-      { "monster": "mon_yugg", "freq": 70, "cost_multiplier": 0 },
-      { "monster": "mon_kreck", "freq": 210, "cost_multiplier": 0 },
-      { "monster": "mon_gozu", "freq": 25, "cost_multiplier": 0 }
+      {
+        "monster": "mon_triffid_young",
+        "freq": 300,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_fungal_fighter",
+        "freq": 160,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_vinebeast",
+        "freq": 160,
+        "cost_multiplier": 10
+      },
+      {
+        "monster": "mon_flying_polyp",
+        "freq": 25,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_hunting_horror",
+        "freq": 240,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_yugg",
+        "freq": 70,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_kreck",
+        "freq": 210,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_gozu",
+        "freq": 25,
+        "cost_multiplier": 0
+      }
     ]
   },
   {
@@ -50,14 +122,46 @@
     "type": "monstergroup",
     "default": "mon_blank",
     "monsters": [
-      { "monster": "mon_shadow_summoned", "freq": 200, "cost_multiplier": 0 },
-      { "monster": "mon_shadow_snake_summoned", "freq": 150, "cost_multiplier": 0 },
-      { "monster": "mon_hunting_horror", "freq": 200, "cost_multiplier": 0 },
-      { "monster": "mon_kreck", "freq": 150, "cost_multiplier": 0 },
-      { "monster": "mon_gracke", "freq": 75, "cost_multiplier": 0 },
-      { "monster": "mon_gozu", "freq": 75, "cost_multiplier": 0 },
-      { "monster": "mon_flying_polyp", "freq": 25, "cost_multiplier": 0 },
-      { "monster": "mon_flaming_eye", "freq": 25, "cost_multiplier": 0 }
+      {
+        "monster": "mon_shadow_summoned",
+        "freq": 200,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_shadow_snake_summoned",
+        "freq": 150,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_hunting_horror",
+        "freq": 200,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_kreck",
+        "freq": 150,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_gracke",
+        "freq": 75,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_gozu",
+        "freq": 75,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_flying_polyp",
+        "freq": 25,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_flaming_eye",
+        "freq": 25,
+        "cost_multiplier": 0
+      }
     ]
   },
   {
@@ -65,11 +169,31 @@
     "name": "GROUP_ARCHON",
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_shadow_snake_summoned", "freq": 400, "cost_multiplier": 0 },
-      { "monster": "mon_shadow_summoned", "freq": 250, "cost_multiplier": 0 },
-      { "monster": "mon_hunting_horror_summoned", "freq": 50, "cost_multiplier": 0 },
-      { "monster": "mon_vortex_summoned", "freq": 50, "cost_multiplier": 0 },
-      { "monster": "mon_archon", "freq": 0, "cost_multiplier": 0 }
+      {
+        "monster": "mon_shadow_snake_summoned",
+        "freq": 400,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_shadow_summoned",
+        "freq": 250,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_hunting_horror_summoned",
+        "freq": 50,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_vortex_summoned",
+        "freq": 50,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_archon",
+        "freq": 0,
+        "cost_multiplier": 0
+      }
     ]
   },
   {
@@ -77,9 +201,21 @@
     "name": "GROUP_ARCHON_RESURGENCE",
     "default": "mon_shadow_summoned",
     "monsters": [
-      { "monster": "mon_shadow_snake_summoned", "freq": 400, "cost_multiplier": 0 },
-      { "monster": "mon_hunting_horror_summoned", "freq": 100, "cost_multiplier": 0 },
-      { "monster": "mon_seraphic_shade", "freq": 0, "cost_multiplier": 0 }
+      {
+        "monster": "mon_shadow_snake_summoned",
+        "freq": 400,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_hunting_horror_summoned",
+        "freq": 100,
+        "cost_multiplier": 0
+      },
+      {
+        "monster": "mon_seraphic_shade",
+        "freq": 0,
+        "cost_multiplier": 0
+      }
     ]
   },
   {
@@ -92,15 +228,25 @@
         "monster": "mon_shadow_snake_summoned",
         "freq": 50,
         "cost_multiplier": 1,
-        "pack_size": [ 1, 3 ],
-        "conditions": [ "NIGHT" ]
+        "pack_size": [
+          1,
+          3
+        ],
+        "conditions": [
+          "NIGHT"
+        ]
       },
       {
         "monster": "mon_shadow_snake_summoned",
         "freq": 50,
         "cost_multiplier": 1,
-        "pack_size": [ 1, 3 ],
-        "conditions": [ "NIGHT" ]
+        "pack_size": [
+          1,
+          3
+        ],
+        "conditions": [
+          "NIGHT"
+        ]
       }
     ]
   },
@@ -110,6 +256,12 @@
     "override": false,
     "auto_total": true,
     "is_animal": true,
-    "monsters": [ { "monster": "mon_fleshy_shambler", "freq": 25, "cost_multiplier": 10 } ]
+    "monsters": [
+      {
+        "monster": "mon_fleshy_shambler",
+        "freq": 25,
+        "cost_multiplier": 10
+      }
+    ]
   }
 ]

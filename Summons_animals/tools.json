@@ -4,10 +4,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (cow)" },
+    "name": {
+      "str": "blob doll (cow)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -25,10 +29,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (albino penguin)" },
+    "name": {
+      "str": "blob doll (albino penguin)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -47,10 +55,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (bear)" },
+    "name": {
+      "str": "blob doll (bear)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -69,10 +81,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (cat)" },
+    "name": {
+      "str": "blob doll (cat)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -91,10 +107,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (chicken)" },
+    "name": {
+      "str": "blob doll (chicken)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -113,10 +133,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (chipmunk)" },
+    "name": {
+      "str": "blob doll (chipmunk)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -135,10 +159,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (beaver)" },
+    "name": {
+      "str": "blob doll (beaver)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -157,10 +185,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (dog)" },
+    "name": {
+      "str": "blob doll (dog)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -179,10 +211,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (duck)" },
+    "name": {
+      "str": "blob doll (duck)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -201,10 +237,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (fox)" },
+    "name": {
+      "str": "blob doll (fox)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -223,10 +263,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (groundhog)" },
+    "name": {
+      "str": "blob doll (groundhog)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -245,10 +289,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (jackrabbit)" },
+    "name": {
+      "str": "blob doll (jackrabbit)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -267,10 +315,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (horse)" },
+    "name": {
+      "str": "blob doll (horse)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -289,10 +341,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (mink)" },
+    "name": {
+      "str": "blob doll (mink)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -311,10 +367,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (muskrat)" },
+    "name": {
+      "str": "blob doll (muskrat)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -333,10 +393,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (opossum)" },
+    "name": {
+      "str": "blob doll (opossum)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -355,10 +419,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (otter)" },
+    "name": {
+      "str": "blob doll (otter)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -377,10 +445,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (pig)" },
+    "name": {
+      "str": "blob doll (pig)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -399,10 +471,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (pregnant giant cockroach)" },
+    "name": {
+      "str": "blob doll (pregnant giant cockroach)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -421,10 +497,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (rabbit)" },
+    "name": {
+      "str": "blob doll (rabbit)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -443,10 +523,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (raccoon)" },
+    "name": {
+      "str": "blob doll (raccoon)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -465,10 +549,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (sheep)" },
+    "name": {
+      "str": "blob doll (sheep)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -487,10 +575,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (squirrel)" },
+    "name": {
+      "str": "blob doll (squirrel)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -509,10 +601,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (weasel)" },
+    "name": {
+      "str": "blob doll (weasel)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,
@@ -531,10 +627,14 @@
     "type": "TOOL",
     "symbol": ",",
     "color": "dark_gray",
-    "name": { "str": "blob doll (wolf)" },
+    "name": {
+      "str": "blob doll (wolf)"
+    },
     "description": "A doll made from blobs in order to confess the loneliness of the end of the century.",
     "price": "84 USD",
-    "material": [ "silver" ],
+    "material": [
+      "silver"
+    ],
     "weight": "285 g",
     "volume": "250 ml",
     "bashing": 1,

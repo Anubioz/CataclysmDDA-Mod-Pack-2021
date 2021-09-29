@@ -9,7 +9,32 @@
     "pre_terrain": "t_pit_corpsed",
     "post_terrain": "blob_pit",
     "tools": [
-      [ [ "gloople", -1 ], [ "glooplegrow", -1 ], [ "oozle", -1 ], [ "oozlegrow", -1 ], [ "gray", -1 ], [ "graygrow", -1 ] ]
+      [
+        [
+          "gloople",
+          -1
+        ],
+        [
+          "glooplegrow",
+          -1
+        ],
+        [
+          "oozle",
+          -1
+        ],
+        [
+          "oozlegrow",
+          -1
+        ],
+        [
+          "gray",
+          -1
+        ],
+        [
+          "graygrow",
+          -1
+        ]
+      ]
     ]
   },
   {
@@ -22,7 +47,32 @@
     "pre_terrain": "t_slime",
     "post_terrain": "blob_pit_slime",
     "tools": [
-      [ [ "gloople", -1 ], [ "glooplegrow", -1 ], [ "oozle", -1 ], [ "oozlegrow", -1 ], [ "gray", -1 ], [ "graygrow", -1 ] ]
+      [
+        [
+          "gloople",
+          -1
+        ],
+        [
+          "glooplegrow",
+          -1
+        ],
+        [
+          "oozle",
+          -1
+        ],
+        [
+          "oozlegrow",
+          -1
+        ],
+        [
+          "gray",
+          -1
+        ],
+        [
+          "graygrow",
+          -1
+        ]
+      ]
     ]
   },
   {
@@ -39,9 +89,21 @@
       "ter_set": "t_pit",
       "sound": "squish!",
       "sound_fail": "squish!",
-      "items": [ { "item": "bfeed", "count": [ 250, 500 ] } ]
+      "items": [
+        {
+          "item": "bfeed",
+          "count": [
+            250,
+            500
+          ]
+        }
+      ]
     },
-    "flags": [ "WALL", "TRANSPARENT", "EASY_DECONSTRUCT" ]
+    "flags": [
+      "WALL",
+      "TRANSPARENT",
+      "EASY_DECONSTRUCT"
+    ]
   },
   {
     "id": "blob_pit_slime",
@@ -57,8 +119,20 @@
       "ter_set": "t_dirt",
       "sound": "squish!",
       "sound_fail": "squish!",
-      "items": [ { "item": "bfeed", "count": [ 50, 250 ] } ]
+      "items": [
+        {
+          "item": "bfeed",
+          "count": [
+            50,
+            250
+          ]
+        }
+      ]
     },
-    "flags": [ "WALL", "TRANSPARENT", "EASY_DECONSTRUCT" ]
+    "flags": [
+      "WALL",
+      "TRANSPARENT",
+      "EASY_DECONSTRUCT"
+    ]
   }
 ]

@@ -3,7 +3,9 @@
     "id": "secro_power_armor_module_core",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Core\"" },
+    "name": {
+      "str": "Secronom module implant \"Core\""
+    },
     "description": "A set of power armor modules that installs a power core on the chest that unifies the wearer's bionic power to the suit for energy distribution. Module implant type \"Core\" enables the user to activate/deactivate the power armor and take full control of it, only if the suit has no feature otherwise it is useless.",
     "weight": "500 g",
     "volume": "125 ml",
@@ -11,11 +13,21 @@
     "price_postapoc": "620 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "red",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "torso" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "torso"
+        ]
+      }
+    ],
     "power_armor": true,
     "material_thickness": 1,
     "use_action": {
@@ -30,7 +42,7 @@
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -47,14 +59,24 @@
         ]
       }
     ],
-    "ammo": [ "battery" ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "POWERARMOR_COMPATIBLE" ]
+    "ammo": [
+      "battery"
+    ],
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   },
   {
     "id": "secro_power_armor_module_core_act",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Core\"" },
+    "name": {
+      "str": "Secronom module implant \"Core\""
+    },
     "description": "A set of power armor modules that installs a power core on the chest that unifies the wearer's bionic power to the suit for energy distribution. Module implant type \"Core\" enables the user to activate/deactivate the power armor and take full control of it, only if the suit has no feature otherwise it is useless.",
     "weight": "500 g",
     "volume": "125 ml",
@@ -62,11 +84,21 @@
     "price_postapoc": "620 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "red",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "torso" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "torso"
+        ]
+      }
+    ],
     "power_armor": true,
     "material_thickness": 1,
     "use_action": {
@@ -75,13 +107,15 @@
       "type": "transform",
       "menu_text": "Deactivate \"Vessel\" module"
     },
-    "ammo": [ "battery" ],
+    "ammo": [
+      "battery"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -98,13 +132,21 @@
         ]
       }
     ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "POWERARMOR_COMPATIBLE" ]
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   },
   {
     "id": "secro_power_armor_module_vessel",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Vessel\"" },
+    "name": {
+      "str": "Secronom module implant \"Vessel\""
+    },
     "description": "A set of power armor modules that installs a transmission device located on the back of the wearer's head stretching down through the spine. Module implant type \"Vessel\" prevent the user from succumbing to the flesh by using a neural link to unify the suit and its wearer. Uses a built-in UPS.",
     "weight": "1900 g",
     "volume": "790 ml",
@@ -112,11 +154,21 @@
     "price_postapoc": "620 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "red",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "head" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "head"
+        ]
+      }
+    ],
     "material_thickness": 1,
     "charges_per_use": 1,
     "use_action": {
@@ -126,13 +178,15 @@
       "active": true,
       "menu_text": "Activate \"Vessel\" module"
     },
-    "ammo": [ "battery" ],
+    "ammo": [
+      "battery"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -149,13 +203,21 @@
         ]
       }
     ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "POWERARMOR_COMPATIBLE" ]
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   },
   {
     "id": "secro_power_armor_module_vessel_act",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Vessel\"" },
+    "name": {
+      "str": "Secronom module implant \"Vessel\""
+    },
     "description": "A set of power armor modules that installs a transmission device located on the back of the wearer's head stretching down through the spine. Module implant type \"Vessel\" prevent the user from succumbing to the flesh by using a neural link to unify the suit and its wearer. Uses a built-in UPS.",
     "weight": "1900 g",
     "volume": "790 ml",
@@ -163,11 +225,21 @@
     "price_postapoc": "620 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "red_white",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "head" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "head"
+        ]
+      }
+    ],
     "power_armor": true,
     "turns_per_charge": 1,
     "material_thickness": 1,
@@ -185,18 +257,29 @@
           "has": "WORN",
           "condition": "ALWAYS",
           "intermittent_activation": {
-            "effects": [ { "frequency": "5 seconds", "spell_effects": [ { "id": "secro_power_armor_module_vessel_act_link" } ] } ]
+            "effects": [
+              {
+                "frequency": "5 seconds",
+                "spell_effects": [
+                  {
+                    "id": "secro_power_armor_module_vessel_act_link"
+                  }
+                ]
+              }
+            ]
           }
         }
       ]
     },
-    "ammo": [ "battery" ],
+    "ammo": [
+      "battery"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -213,13 +296,24 @@
         ]
       }
     ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "NO_TAKEOFF", "RECHARGE", "POWERARMOR_COMPATIBLE" ]
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "NO_UNLOAD",
+      "NO_TAKEOFF",
+      "RECHARGE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   },
   {
     "id": "secro_power_armor_module_electric",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Shock\"" },
+    "name": {
+      "str": "Secronom module implant \"Shock\""
+    },
     "description": "A set of power armor modules that installs a pair of augmented gloves. Module implant type \"Shock\" allows the power armor to send electric discharges whenever the user performs an attack. Uses a built-in UPS.",
     "weight": "3005 g",
     "volume": "2 L",
@@ -227,11 +321,22 @@
     "price_postapoc": "1100 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "cyan",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "hand_l", "hand_r" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "hand_l",
+          "hand_r"
+        ]
+      }
+    ],
     "power_armor": true,
     "material_thickness": 1,
     "charges_per_use": 1,
@@ -242,13 +347,15 @@
       "active": true,
       "menu_text": "Activate \"Shock\" module"
     },
-    "ammo": [ "battery" ],
+    "ammo": [
+      "battery"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -265,13 +372,21 @@
         ]
       }
     ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "POWERARMOR_COMPATIBLE" ]
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   },
   {
     "id": "secro_power_armor_module_electric_act",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Shock\"" },
+    "name": {
+      "str": "Secronom module implant \"Shock\""
+    },
     "description": "A set of power armor modules that installs a pair of augmented gloves. Module implant type \"Shock\" allows the power armor to send electric discharges whenever the user performs an attack. Uses a built-in UPS.",
     "weight": "3005 g",
     "volume": "2 L",
@@ -279,11 +394,22 @@
     "price_postapoc": "1100 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "cyan_white",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "hand_l", "hand_r" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "hand_l",
+          "hand_r"
+        ]
+      }
+    ],
     "power_armor": true,
     "turns_per_charge": 1,
     "material_thickness": 1,
@@ -319,13 +445,15 @@
         }
       ]
     },
-    "ammo": [ "battery" ],
+    "ammo": [
+      "battery"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -342,13 +470,24 @@
         ]
       }
     ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "NO_TAKEOFF", "RECHARGE", "POWERARMOR_COMPATIBLE" ]
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "NO_UNLOAD",
+      "NO_TAKEOFF",
+      "RECHARGE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   },
   {
     "id": "secro_power_armor_module_pulsar",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Pulsar\"" },
+    "name": {
+      "str": "Secronom module implant \"Pulsar\""
+    },
     "description": "A set of power armor modules that installs a pair of prototype shockwave generators located on the shoulder joints. Module implant type \"Pulsar\" emits a powerful, short-ranged pulse in every direction - which can stun affected creatures - whenever the user is disturbed by physical force. Uses a built-in UPS.",
     "weight": "4225 g",
     "volume": "3 L",
@@ -356,11 +495,22 @@
     "price_postapoc": "730 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "dark_gray",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "arm_l", "arm_r" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ]
+      }
+    ],
     "power_armor": true,
     "material_thickness": 1,
     "charges_per_use": 1,
@@ -371,13 +521,15 @@
       "active": true,
       "menu_text": "Activate \"Pulsar\" module"
     },
-    "ammo": [ "battery" ],
+    "ammo": [
+      "battery"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -394,13 +546,21 @@
         ]
       }
     ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "POWERARMOR_COMPATIBLE" ]
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   },
   {
     "id": "secro_power_armor_module_pulsar_act",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Pulsar\"" },
+    "name": {
+      "str": "Secronom module implant \"Pulsar\""
+    },
     "description": "A set of power armor modules that installs a pair of prototype shockwave generators located on the shoulder joints. Module implant type \"Pulsar\" emits a powerful, short-ranged pulse in every direction - which can stun affected creatures - whenever the user is disturbed by physical force. Uses a built-in UPS.",
     "weight": "4225 g",
     "volume": "3 L",
@@ -408,11 +568,22 @@
     "price_postapoc": "730 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "dark_gray_white",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "arm_l", "arm_r" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ]
+      }
+    ],
     "power_armor": true,
     "turns_per_charge": 1,
     "material_thickness": 1,
@@ -441,13 +612,15 @@
         }
       ]
     },
-    "ammo": [ "battery" ],
+    "ammo": [
+      "battery"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -464,13 +637,24 @@
         ]
       }
     ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "NO_TAKEOFF", "RECHARGE", "POWERARMOR_COMPATIBLE" ]
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "NO_UNLOAD",
+      "NO_TAKEOFF",
+      "RECHARGE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   },
   {
     "id": "secro_power_armor_module_optics",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Optics\"" },
+    "name": {
+      "str": "Secronom module implant \"Optics\""
+    },
     "description": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception and slightly expands the sight range of its user. Uses a built-in UPS.",
     "weight": "4225 g",
     "volume": "3 L",
@@ -478,11 +662,21 @@
     "price_postapoc": "600 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "dark_gray",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "eyes" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "eyes"
+        ]
+      }
+    ],
     "power_armor": true,
     "material_thickness": 1,
     "charges_per_use": 1,
@@ -493,13 +687,15 @@
       "active": true,
       "menu_text": "Activate \"Optics\" module"
     },
-    "ammo": [ "battery" ],
+    "ammo": [
+      "battery"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -516,13 +712,21 @@
         ]
       }
     ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "POWERARMOR_COMPATIBLE" ]
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   },
   {
     "id": "secro_power_armor_module_optics_act",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": { "str": "Secronom module implant \"Optics\"" },
+    "name": {
+      "str": "Secronom module implant \"Optics\""
+    },
     "description": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception and slightly expands the sight range of its user. Uses a built-in UPS.\n\nModule implant type \"Optics\" provides:\n<color_white>Perception: <color_light_green>+6</color>\nSight range: <color_light_green>+4</color></color>",
     "weight": "4225 g",
     "volume": "3 L",
@@ -530,11 +734,21 @@
     "price_postapoc": "730 USD",
     "to_hit": 1,
     "bashing": 1,
-    "material": [ "superalloy" ],
+    "material": [
+      "superalloy"
+    ],
     "symbol": "[",
     "looks_like": "power_armor_frame",
     "color": "dark_gray_white",
-    "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "eyes" ] } ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 10,
+        "covers": [
+          "eyes"
+        ]
+      }
+    ],
     "power_armor": true,
     "turns_per_charge": 1,
     "material_thickness": 1,
@@ -551,17 +765,28 @@
         {
           "has": "WORN",
           "condition": "ALWAYS",
-          "values": [ { "value": "PERCEPTION", "add": 3 }, { "value": "SIGHT_RANGE", "add": 2 } ]
+          "values": [
+            {
+              "value": "PERCEPTION",
+              "add": 3
+            },
+            {
+              "value": "SIGHT_RANGE",
+              "add": 2
+            }
+          ]
         }
       ]
     },
-    "ammo": [ "battery" ],
+    "ammo": [
+      "battery"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "50 L",
-"max_contains_weight": "50 kg",
+        "max_contains_weight": "50 kg",
         "item_restriction": [
           "medium_battery_cell",
           "medium_plus_battery_cell",
@@ -578,6 +803,15 @@
         ]
       }
     ],
-    "flags": [ "WATERPROOF", "OUTER", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "NO_TAKEOFF", "RECHARGE", "POWERARMOR_COMPATIBLE" ]
+    "flags": [
+      "WATERPROOF",
+      "OUTER",
+      "STURDY",
+      "ELECTRIC_IMMUNE",
+      "NO_UNLOAD",
+      "NO_TAKEOFF",
+      "RECHARGE",
+      "POWERARMOR_COMPATIBLE"
+    ]
   }
 ]

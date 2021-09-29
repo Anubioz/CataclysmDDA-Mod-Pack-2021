@@ -3,10 +3,16 @@
     "id": "mo_veh",
     "type": "MOD_INFO",
     "name": "More Vehicles",
-    "authors": [ "Broken \"Spaghetti\" Admin" ],
-    "maintainers": [ "Broken \"Spaghetti\" Admin" ],
+    "authors": [
+      "Broken \"Spaghetti\" Admin"
+    ],
+    "maintainers": [
+      "Broken \"Spaghetti\" Admin"
+    ],
     "description": "Adds more vehicles and hopefuly gives variety",
     "category": "items",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

@@ -7,7 +7,12 @@
     "cut_resist": 6,
     "bash_dmg_verb": "cracked",
     "cut_dmg_verb": "cut",
-    "dmg_adj": [ "chipped", "cracked", "split", "broken" ],
+    "dmg_adj": [
+      "chipped",
+      "cracked",
+      "split",
+      "broken"
+    ],
     "acid_resist": 10,
     "elec_resist": 10,
     "fire_resist": 10,

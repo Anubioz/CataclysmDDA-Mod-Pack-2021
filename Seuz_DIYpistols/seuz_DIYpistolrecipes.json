@@ -5,22 +5,83 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_MAGAZINES",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 2 ],
+    "skills_required": [
+      "gun",
+      2
+    ],
     "difficulty": 3,
     "time": "5 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 10 ], [ "welder", 80 ], [ "welder_crude", 130 ], [ "toolset", 150 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          10
+        ],
+        [
+          "welder",
+          80
+        ],
+        [
+          "welder_crude",
+          130
+        ],
+        [
+          "toolset",
+          150
+        ]
+      ]
     ],
-    "components": [ [ [ "sheet_metal", 1 ] ], [ [ "spring", 1 ] ], [ [ "scrap", 1 ] ] ]
+    "components": [
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          1
+        ]
+      ],
+      [
+        [
+          "scrap",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "32survmagxl",
@@ -28,22 +89,83 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_MAGAZINES",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 2 ],
+    "skills_required": [
+      "gun",
+      2
+    ],
     "difficulty": 3,
     "time": "5 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 10 ], [ "welder", 80 ], [ "welder_crude", 130 ], [ "toolset", 150 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          10
+        ],
+        [
+          "welder",
+          80
+        ],
+        [
+          "welder_crude",
+          130
+        ],
+        [
+          "toolset",
+          150
+        ]
+      ]
     ],
-    "components": [ [ [ "sheet_metal", 1 ] ], [ [ "spring", 1 ] ], [ [ "scrap", 1 ] ] ]
+    "components": [
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          1
+        ]
+      ],
+      [
+        [
+          "scrap",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "DIY.32pistol",
@@ -51,29 +173,106 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 3 ],
+    "skills_required": [
+      "gun",
+      3
+    ],
     "difficulty": 4,
     "time": "550 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 25 ], [ "welder", 250 ], [ "welder_crude", 350 ], [ "toolset", 250 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          25
+        ],
+        [
+          "welder",
+          250
+        ],
+        [
+          "welder_crude",
+          350
+        ],
+        [
+          "toolset",
+          250
+        ]
+      ]
     ],
     "components": [
-      [ [ "sheet_metal", 1 ] ],
-      [ [ "spring", 2 ] ],
-      [ [ "scrap", 3 ] ],
-      [ [ "steel_chunk", 2 ] ],
-      [ [ "nail", 1 ] ],
-      [ [ "splinter", 1 ] ],
-      [ [ "pipe", 1 ] ]
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          2
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "steel_chunk",
+          2
+        ]
+      ],
+      [
+        [
+          "nail",
+          1
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ],
+      [
+        [
+          "pipe",
+          1
+        ]
+      ]
     ]
   },
   {
@@ -82,18 +281,89 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 1 ],
+    "skills_required": [
+      "gun",
+      1
+    ],
     "difficulty": 2,
     "time": "320 s",
     "reversible": false,
     "autolearn": true,
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
-    "tools": [ [ [ "goggles_welding", -1 ] ], [ [ "oxy_torch", 10 ], [ "welder", 50 ], [ "welder_crude", 100 ], [ "toolset", 50 ] ] ],
-    "components": [ [ [ "scrap", 1 ] ], [ [ "steel_chunk", 1 ] ], [ [ "nail", 2 ] ], [ [ "splinter", 1 ] ], [ [ "pipe", 1 ] ] ]
+    "tools": [
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          10
+        ],
+        [
+          "welder",
+          50
+        ],
+        [
+          "welder_crude",
+          100
+        ],
+        [
+          "toolset",
+          50
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "scrap",
+          1
+        ]
+      ],
+      [
+        [
+          "steel_chunk",
+          1
+        ]
+      ],
+      [
+        [
+          "nail",
+          2
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ],
+      [
+        [
+          "pipe",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "DIY.32smg",
@@ -101,30 +371,112 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 3 ],
+    "skills_required": [
+      "gun",
+      3
+    ],
     "difficulty": 5,
     "time": "650 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 15 ], [ "welder", 150 ], [ "welder_crude", 250 ], [ "toolset", 200 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          15
+        ],
+        [
+          "welder",
+          150
+        ],
+        [
+          "welder_crude",
+          250
+        ],
+        [
+          "toolset",
+          200
+        ]
+      ]
     ],
     "components": [
-      [ [ "sheet_metal", 1 ] ],
-      [ [ "spring", 2 ] ],
-      [ [ "scrap", 3 ] ],
-      [ [ "steel_chunk", 2 ] ],
-      [ [ "nail", 1 ] ],
-      [ [ "splinter", 1 ] ],
-      [ [ "pipe", 1 ] ],
-      [ [ "2x4", 1 ] ]
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          2
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "steel_chunk",
+          2
+        ]
+      ],
+      [
+        [
+          "nail",
+          1
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ],
+      [
+        [
+          "pipe",
+          1
+        ]
+      ],
+      [
+        [
+          "2x4",
+          1
+        ]
+      ]
     ]
   },
   {
@@ -133,29 +485,106 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 3 ],
+    "skills_required": [
+      "gun",
+      3
+    ],
     "difficulty": 4,
     "time": "650 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 15 ], [ "welder", 200 ], [ "welder_crude", 300 ], [ "toolset", 200 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          15
+        ],
+        [
+          "welder",
+          200
+        ],
+        [
+          "welder_crude",
+          300
+        ],
+        [
+          "toolset",
+          200
+        ]
+      ]
     ],
     "components": [
-      [ [ "sheet_metal", 1 ] ],
-      [ [ "spring", 2 ] ],
-      [ [ "scrap", 3 ] ],
-      [ [ "steel_chunk", 2 ] ],
-      [ [ "clockworks", 1 ] ],
-      [ [ "splinter", 1 ] ],
-      [ [ "pipe", 3 ] ]
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          2
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "steel_chunk",
+          2
+        ]
+      ],
+      [
+        [
+          "clockworks",
+          1
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ],
+      [
+        [
+          "pipe",
+          3
+        ]
+      ]
     ]
   },
   {
@@ -164,29 +593,106 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 3 ],
+    "skills_required": [
+      "gun",
+      3
+    ],
     "difficulty": 4,
     "time": "650 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 15 ], [ "welder", 200 ], [ "welder_crude", 300 ], [ "toolset", 200 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          15
+        ],
+        [
+          "welder",
+          200
+        ],
+        [
+          "welder_crude",
+          300
+        ],
+        [
+          "toolset",
+          200
+        ]
+      ]
     ],
     "components": [
-      [ [ "sheet_metal", 1 ] ],
-      [ [ "spring", 2 ] ],
-      [ [ "scrap", 3 ] ],
-      [ [ "steel_chunk", 2 ] ],
-      [ [ "clockworks", 1 ] ],
-      [ [ "splinter", 1 ] ],
-      [ [ "pipe", 3 ] ]
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          2
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "steel_chunk",
+          2
+        ]
+      ],
+      [
+        [
+          "clockworks",
+          1
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ],
+      [
+        [
+          "pipe",
+          3
+        ]
+      ]
     ]
   },
   {
@@ -195,29 +701,106 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 3 ],
+    "skills_required": [
+      "gun",
+      3
+    ],
     "difficulty": 4,
     "time": "650 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 15 ], [ "welder", 200 ], [ "welder_crude", 300 ], [ "toolset", 200 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          15
+        ],
+        [
+          "welder",
+          200
+        ],
+        [
+          "welder_crude",
+          300
+        ],
+        [
+          "toolset",
+          200
+        ]
+      ]
     ],
     "components": [
-      [ [ "sheet_metal", 1 ] ],
-      [ [ "spring", 2 ] ],
-      [ [ "scrap", 3 ] ],
-      [ [ "steel_chunk", 2 ] ],
-      [ [ "clockworks", 1 ] ],
-      [ [ "splinter", 1 ] ],
-      [ [ "pipe", 3 ] ]
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          2
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "steel_chunk",
+          2
+        ]
+      ],
+      [
+        [
+          "clockworks",
+          1
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ],
+      [
+        [
+          "pipe",
+          3
+        ]
+      ]
     ]
   },
   {
@@ -226,29 +809,106 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 3 ],
+    "skills_required": [
+      "gun",
+      3
+    ],
     "difficulty": 4,
     "time": "650 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 15 ], [ "welder", 200 ], [ "welder_crude", 300 ], [ "toolset", 200 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          15
+        ],
+        [
+          "welder",
+          200
+        ],
+        [
+          "welder_crude",
+          300
+        ],
+        [
+          "toolset",
+          200
+        ]
+      ]
     ],
     "components": [
-      [ [ "sheet_metal", 1 ] ],
-      [ [ "spring", 2 ] ],
-      [ [ "scrap", 3 ] ],
-      [ [ "steel_chunk", 2 ] ],
-      [ [ "clockworks", 1 ] ],
-      [ [ "splinter", 1 ] ],
-      [ [ "pipe", 3 ] ]
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          2
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "steel_chunk",
+          2
+        ]
+      ],
+      [
+        [
+          "clockworks",
+          1
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ],
+      [
+        [
+          "pipe",
+          3
+        ]
+      ]
     ]
   },
   {
@@ -257,13 +917,44 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 1 ],
+    "skills_required": [
+      "gun",
+      1
+    ],
     "difficulty": 2,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
-    "components": [ [ [ "pipe", 1 ] ], [ [ "scrap", 3 ] ], [ [ "splinter", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "SAW_M_FINE",
+        "level": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "pipe",
+          1
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "9mmsingle_pistol",
@@ -271,13 +962,44 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 1 ],
+    "skills_required": [
+      "gun",
+      1
+    ],
     "difficulty": 2,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
-    "components": [ [ [ "pipe", 1 ] ], [ [ "scrap", 3 ] ], [ [ "splinter", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "SAW_M_FINE",
+        "level": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "pipe",
+          1
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "40single_pistol",
@@ -285,13 +1007,44 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 1 ],
+    "skills_required": [
+      "gun",
+      1
+    ],
     "difficulty": 2,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
-    "components": [ [ [ "pipe", 1 ] ], [ [ "scrap", 3 ] ], [ [ "splinter", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "SAW_M_FINE",
+        "level": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "pipe",
+          1
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "45single_pistol",
@@ -299,13 +1052,44 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 1 ],
+    "skills_required": [
+      "gun",
+      1
+    ],
     "difficulty": 2,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
-    "components": [ [ [ "pipe", 1 ] ], [ [ "scrap", 3 ] ], [ [ "splinter", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "SAW_M_FINE",
+        "level": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "pipe",
+          1
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "44single_pistol",
@@ -313,13 +1097,44 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 1 ],
+    "skills_required": [
+      "gun",
+      1
+    ],
     "difficulty": 2,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
-    "components": [ [ [ "pipe", 2 ] ], [ [ "scrap", 8 ] ], [ [ "splinter", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "SAW_M_FINE",
+        "level": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1
+      }
+    ],
+    "components": [
+      [
+        [
+          "pipe",
+          2
+        ]
+      ],
+      [
+        [
+          "scrap",
+          8
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "44survrevolver",
@@ -327,29 +1142,106 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 3 ],
+    "skills_required": [
+      "gun",
+      3
+    ],
     "difficulty": 5,
     "time": "650 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 15 ], [ "welder", 200 ], [ "welder_crude", 300 ], [ "toolset", 200 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          15
+        ],
+        [
+          "welder",
+          200
+        ],
+        [
+          "welder_crude",
+          300
+        ],
+        [
+          "toolset",
+          200
+        ]
+      ]
     ],
     "components": [
-      [ [ "sheet_metal", 1 ] ],
-      [ [ "spring", 2 ] ],
-      [ [ "scrap", 4 ] ],
-      [ [ "steel_chunk", 3 ] ],
-      [ [ "clockworks", 1 ] ],
-      [ [ "splinter", 1 ] ],
-      [ [ "pipe", 3 ] ]
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          2
+        ]
+      ],
+      [
+        [
+          "scrap",
+          4
+        ]
+      ],
+      [
+        [
+          "steel_chunk",
+          3
+        ]
+      ],
+      [
+        [
+          "clockworks",
+          1
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ],
+      [
+        [
+          "pipe",
+          3
+        ]
+      ]
     ]
   },
   {
@@ -358,30 +1250,112 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_RANGED",
     "skill_used": "mechanics",
-    "skills_required": [ "gun", 3 ],
+    "skills_required": [
+      "gun",
+      3
+    ],
     "difficulty": 5,
     "time": "650 s",
     "reversible": false,
     "autolearn": true,
-    "book_learn": [ [ "textbook_fabrication", 2 ] ],
+    "book_learn": [
+      [
+        "textbook_fabrication",
+        2
+      ]
+    ],
     "qualities": [
-      { "id": "SAW_M_FINE", "level": 1, "amount": 1 },
-      { "id": "SCREW_FINE", "level": 1, "amount": 1 },
-      { "id": "WRENCH_FINE", "level": 1, "amount": 1 }
+      {
+        "id": "SAW_M_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "SCREW_FINE",
+        "level": 1,
+        "amount": 1
+      },
+      {
+        "id": "WRENCH_FINE",
+        "level": 1,
+        "amount": 1
+      }
     ],
     "tools": [
-      [ [ "goggles_welding", -1 ] ],
-      [ [ "oxy_torch", 15 ], [ "welder", 150 ], [ "welder_crude", 250 ], [ "toolset", 200 ] ]
+      [
+        [
+          "goggles_welding",
+          -1
+        ]
+      ],
+      [
+        [
+          "oxy_torch",
+          15
+        ],
+        [
+          "welder",
+          150
+        ],
+        [
+          "welder_crude",
+          250
+        ],
+        [
+          "toolset",
+          200
+        ]
+      ]
     ],
     "components": [
-      [ [ "sheet_metal", 1 ] ],
-      [ [ "spring", 2 ] ],
-      [ [ "scrap", 3 ] ],
-      [ [ "steel_chunk", 2 ] ],
-      [ [ "nail", 1 ] ],
-      [ [ "splinter", 1 ] ],
-      [ [ "pipe", 1 ] ],
-      [ [ "2x4", 1 ] ]
+      [
+        [
+          "sheet_metal",
+          1
+        ]
+      ],
+      [
+        [
+          "spring",
+          2
+        ]
+      ],
+      [
+        [
+          "scrap",
+          3
+        ]
+      ],
+      [
+        [
+          "steel_chunk",
+          2
+        ]
+      ],
+      [
+        [
+          "nail",
+          1
+        ]
+      ],
+      [
+        [
+          "splinter",
+          1
+        ]
+      ],
+      [
+        [
+          "pipe",
+          1
+        ]
+      ],
+      [
+        [
+          "2x4",
+          1
+        ]
+      ]
     ]
   }
 ]

@@ -7,6 +7,8 @@
     "maintainers": "TheGoatGod",
     "description": "adds several new homemade handguns,more content incoming.",
     "category": "items",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

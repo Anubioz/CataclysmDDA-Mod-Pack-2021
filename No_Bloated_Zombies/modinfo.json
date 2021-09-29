@@ -5,10 +5,14 @@
     "name": "No Bloated Zombies",
     "description": "Removes all bloated zombies from the game.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "monsters": [ "mon_zombie_gasbag" ]
+    "monsters": [
+      "mon_zombie_gasbag"
+    ]
   }
 ]

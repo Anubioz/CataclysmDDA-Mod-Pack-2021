@@ -3,9 +3,13 @@
     "id": "generatormod",
     "type": "MOD_INFO",
     "name": "Generator mod",
-    "authors": [ "The Goat God" ],
+    "authors": [
+      "The Goat God"
+    ],
     "description": "adds in base building genertors 25L and 10L genertors.",
     "category": "content",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

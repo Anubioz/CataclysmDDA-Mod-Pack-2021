@@ -20,16 +20,32 @@
       ]
     },
     "responses": [
-      { "text": "What's going on?", "topic": "TALK_GLADIATOR_SITUATION" },
-      { "text": "Why are the others attacking us?", "topic": "TALK_GLADIATOR_HOSTILE" },
+      {
+        "text": "What's going on?",
+        "topic": "TALK_GLADIATOR_SITUATION"
+      },
+      {
+        "text": "Why are the others attacking us?",
+        "topic": "TALK_GLADIATOR_HOSTILE"
+      },
       {
         "text": "Follow my lead, I'll get us out of here.",
-        "condition": { "u_has_trait": "PROF_GLADIATOR" },
+        "condition": {
+          "u_has_trait": "PROF_GLADIATOR"
+        },
         "switch": true,
         "topic": "TALK_GLADIATOR_RECRUIT"
       },
-      { "text": "I'll help get you out of here.", "switch": true, "default": true, "topic": "TALK_GLADIATOR_RECRUIT" },
-      { "text": "Bye.", "topic": "TALK_DONE" }
+      {
+        "text": "I'll help get you out of here.",
+        "switch": true,
+        "default": true,
+        "topic": "TALK_GLADIATOR_RECRUIT"
+      },
+      {
+        "text": "Bye.",
+        "topic": "TALK_DONE"
+      }
     ]
   },
   {
@@ -48,7 +64,12 @@
         "Are you with the police?  Please, they've had us trapped down here for their fucking pit fights."
       ]
     },
-    "responses": [ { "text": "I see…", "topic": "TALK_GLADIATOR" } ]
+    "responses": [
+      {
+        "text": "I see…",
+        "topic": "TALK_GLADIATOR"
+      }
+    ]
   },
   {
     "type": "talk_topic",
@@ -66,7 +87,12 @@
         "They've been running this blood sport long enough that some of us can't even remember the surface."
       ]
     },
-    "responses": [ { "text": "Oh.", "topic": "TALK_GLADIATOR" } ]
+    "responses": [
+      {
+        "text": "Oh.",
+        "topic": "TALK_GLADIATOR"
+      }
+    ]
   },
   {
     "type": "talk_topic",
@@ -86,6 +112,12 @@
         "You're really getting me out of here?  Thank you…"
       ]
     },
-    "responses": [ { "text": "Let's go!", "topic": "TALK_DONE", "effect": "follow" } ]
+    "responses": [
+      {
+        "text": "Let's go!",
+        "topic": "TALK_DONE",
+        "effect": "follow"
+      }
+    ]
   }
 ]

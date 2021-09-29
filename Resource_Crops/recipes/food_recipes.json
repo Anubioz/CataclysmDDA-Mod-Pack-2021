@@ -5,13 +5,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "meat seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "meat seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_meatMut",
@@ -19,13 +40,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "mutant meat seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "mutant meat seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_meatTaint",
@@ -33,13 +75,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "tainted meat seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "tainted meat seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_meatHum",
@@ -47,13 +110,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "human meat seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "human meat seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_meatDemHum",
@@ -61,13 +145,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "demihuman meat seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "demihuman meat seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_pizzaSup",
@@ -75,13 +180,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "supreme pizza seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "supreme pizza seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_pizzaMeat",
@@ -89,13 +215,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "meat pizza seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "meat pizza seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_pizzaChee",
@@ -103,13 +250,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "cheese pizza seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "cheese pizza seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_pizzaVeg",
@@ -117,13 +285,34 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "veggy pizza seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "veggy pizza seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_flour",
@@ -131,12 +320,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "flour seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "flour seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "flour", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "flour",
+          10
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_biscuit",
@@ -144,12 +360,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "biscuit seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "biscuit seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "biscuit", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "biscuit",
+          10
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_smores",
@@ -157,12 +400,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "s'mores seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "s'mores seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "smores", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "smores",
+          10
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_cookies",
@@ -170,12 +440,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "cookies seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "cookies seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "cookies", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "cookies",
+          10
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_cereal_wheat",
@@ -183,12 +480,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "wheat cereal seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "wheat cereal seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "cereal2", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "cereal2",
+          10
+        ]
+      ]
+    ]
   },
   {
     "result": "rc_seed_pemmican",
@@ -196,12 +520,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "pemmican seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "pemmican seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "pemmican", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "pemmican",
+          10
+        ]
+      ]
+    ]
   },
   {
     "type": "recipe",
@@ -209,12 +560,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "marshmallow seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "marshmallow seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "marshmallow", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "marshmallow",
+          10
+        ]
+      ]
+    ]
   },
   {
     "type": "recipe",
@@ -222,12 +600,39 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "graham cracker seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "graham cracker seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "grahmcrackers", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "grahmcrackers",
+          10
+        ]
+      ]
+    ]
   },
   {
     "type": "recipe",
@@ -235,11 +640,46 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
-    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "toastem seeds" } },
+    "skills_required": [
+      [
+        "cooking",
+        5
+      ],
+      [
+        "fabrication",
+        5
+      ]
+    ],
+    "book_learn": {
+      "rc_textbook_infseeds": {
+        "skill_level": 5,
+        "recipe_name": "toastem seeds"
+      }
+    },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "toastem", 10 ], [ "toastem2", 10 ], [ "toastem3", 10 ] ] ]
+    "components": [
+      [
+        [
+          "rc_seed_mat",
+          1
+        ]
+      ],
+      [
+        [
+          "toastem",
+          10
+        ],
+        [
+          "toastem2",
+          10
+        ],
+        [
+          "toastem3",
+          10
+        ]
+      ]
+    ]
   }
 ]

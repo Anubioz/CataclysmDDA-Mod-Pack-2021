@@ -7,8 +7,20 @@
     "implement_prompt": "Impregnate with wax",
     "destroy_prompt": "Extract waterproofing",
     "mod_value": [
-      { "type": "encumbrance", "value": 2, "proportion": [ "coverage" ] },
-      { "type": "warmth", "value": 5, "proportion": [ "coverage" ] }
+      {
+        "type": "encumbrance",
+        "value": 2,
+        "proportion": [
+          "coverage"
+        ]
+      },
+      {
+        "type": "warmth",
+        "value": 5,
+        "proportion": [
+          "coverage"
+        ]
+      }
     ]
   }
 ]

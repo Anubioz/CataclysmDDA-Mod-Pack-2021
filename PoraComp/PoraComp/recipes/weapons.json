@@ -9,7 +9,35 @@
     "time": "150 s",
     "reversible": false,
     "autolearn": true,
-    "qualities": [ { "id": "HAMMER", "level": 2 } ],
-    "components": [ [ [ "umbrella", 1 ] ], [ [ "duct_tape", 50 ], [ "superglue", 1 ] ], [ [ "scrap", 1 ] ] ]
+    "qualities": [
+      {
+        "id": "HAMMER",
+        "level": 2
+      }
+    ],
+    "components": [
+      [
+        [
+          "umbrella",
+          1
+        ]
+      ],
+      [
+        [
+          "duct_tape",
+          50
+        ],
+        [
+          "superglue",
+          1
+        ]
+      ],
+      [
+        [
+          "scrap",
+          1
+        ]
+      ]
+    ]
   }
 ]

@@ -3,10 +3,17 @@
     "id": "SD_Magcrafting_Realguns_Extension",
     "type": "MOD_INFO",
     "name": "Craft Ammo Mags - ERG",
-    "authors": [ "ShadowDragon8685" ],
-    "maintainers": [ "ShadowDragon8685" ],
+    "authors": [
+      "ShadowDragon8685"
+    ],
+    "maintainers": [
+      "ShadowDragon8685"
+    ],
     "description": "Adds recipes for ammo mags for Extended Realistic Guns.",
     "category": "items",
-    "dependencies": [ "dda", "realguns" ]
+    "dependencies": [
+      "dda",
+      "realguns"
+    ]
   }
 ]

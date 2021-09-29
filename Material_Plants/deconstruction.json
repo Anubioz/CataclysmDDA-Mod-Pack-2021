@@ -4,7 +4,29 @@
     "type": "uncraft",
     "skill_used": "tailor",
     "time": 90000,
-    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "SEW", "level": 2 } ],
-    "components": [ [ [ "kev_thread", 120 ] ], [ [ "sheet_metal", 2 ] ] ]
+    "qualities": [
+      {
+        "id": "CUT",
+        "level": 1
+      },
+      {
+        "id": "SEW",
+        "level": 2
+      }
+    ],
+    "components": [
+      [
+        [
+          "kev_thread",
+          120
+        ]
+      ],
+      [
+        [
+          "sheet_metal",
+          2
+        ]
+      ]
+    ]
   }
 ]

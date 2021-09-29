@@ -6,9 +6,15 @@
     "subcategory": "CSC_FOOD_VEGGI",
     "skill_used": "cooking",
     "difficulty": 3,
-    "skills_required": [ "mechanics", 2 ],
+    "skills_required": [
+      "mechanics",
+      2
+    ],
     "time": "500 s",
-    "batch_time_factors": [ 83, 5 ],
+    "batch_time_factors": [
+      83,
+      5
+    ],
     "autolearn": true,
     "container": "bag_plastic"
   },
@@ -21,10 +27,51 @@
     "result_mult": 24,
     "time": "440 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 350 ], [ "irradiaterig", 350 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          350
+        ],
+        [
+          "irradiaterig",
+          350
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "apple", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "apple",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_banana",
@@ -34,10 +81,51 @@
     "result_mult": 24,
     "time": "530 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 525 ], [ "irradiaterig", 525 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          525
+        ],
+        [
+          "irradiaterig",
+          525
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "banana", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "banana",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_orange",
@@ -47,10 +135,51 @@
     "result_mult": 24,
     "time": "460 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 395 ], [ "irradiaterig", 395 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          395
+        ],
+        [
+          "irradiaterig",
+          395
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "orange", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "orange",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_lemon",
@@ -60,10 +189,51 @@
     "result_mult": 24,
     "time": "380 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 225 ], [ "irradiaterig", 225 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          225
+        ],
+        [
+          "irradiaterig",
+          225
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "lemon", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "lemon",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_blueberries",
@@ -72,10 +242,51 @@
     "id_suffix": "batch_in_a_bag",
     "result_mult": 24,
     "tools": [
-      [ [ "survivor_food_irradiator", 465 ], [ "irradiaterig", 465 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          465
+        ],
+        [
+          "irradiaterig",
+          465
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "blueberries", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "blueberries",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_strawberries",
@@ -84,10 +295,51 @@
     "id_suffix": "batch_in_a_bag",
     "result_mult": 24,
     "tools": [
-      [ [ "survivor_food_irradiator", 465 ], [ "irradiaterig", 465 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          465
+        ],
+        [
+          "irradiaterig",
+          465
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "strawberries", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "strawberries",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_lettuce",
@@ -97,10 +349,51 @@
     "result_mult": 8,
     "time": "320 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 175 ], [ "irradiaterig", 175 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          175
+        ],
+        [
+          "irradiaterig",
+          175
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 8 ], [ "water_clean", 8 ] ], [ [ "lettuce", 32 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          8
+        ],
+        [
+          "water_clean",
+          8
+        ]
+      ],
+      [
+        [
+          "lettuce",
+          32
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_cabbage",
@@ -110,10 +403,51 @@
     "result_mult": 24,
     "time": "9 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 545 ], [ "irradiaterig", 545 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          545
+        ],
+        [
+          "irradiaterig",
+          545
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "cabbage", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "cabbage",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_tomato",
@@ -123,10 +457,51 @@
     "result_mult": 24,
     "time": "8 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 425 ], [ "irradiaterig", 425 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          425
+        ],
+        [
+          "irradiaterig",
+          425
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "tomato", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "tomato",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_broccoli",
@@ -136,10 +511,51 @@
     "result_mult": 24,
     "time": "460 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 395 ], [ "irradiaterig", 395 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          395
+        ],
+        [
+          "irradiaterig",
+          395
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "broccoli", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "broccoli",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_zucchini",
@@ -149,10 +565,51 @@
     "result_mult": 24,
     "time": "470 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 420 ], [ "irradiaterig", 420 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          420
+        ],
+        [
+          "irradiaterig",
+          420
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "zucchini", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "zucchini",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_onion",
@@ -162,10 +619,51 @@
     "result_mult": 24,
     "time": "390 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 265 ], [ "irradiaterig", 265 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          265
+        ],
+        [
+          "irradiaterig",
+          265
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "onion", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "onion",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_carrot",
@@ -175,10 +673,51 @@
     "result_mult": 24,
     "time": "350 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 185 ], [ "irradiaterig", 185 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          185
+        ],
+        [
+          "irradiaterig",
+          185
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "carrot", 144 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "carrot",
+          144
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_corn",
@@ -188,10 +727,51 @@
     "result_mult": 24,
     "time": "10 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 660 ], [ "irradiaterig", 660 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          660
+        ],
+        [
+          "irradiaterig",
+          660
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "corn", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "corn",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_pumpkin",
@@ -201,10 +781,51 @@
     "result_mult": 2,
     "time": "270 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 115 ], [ "irradiaterig", 115 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          115
+        ],
+        [
+          "irradiaterig",
+          115
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 2 ], [ "water_clean", 2 ] ], [ [ "pumpkin", 16 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          2
+        ],
+        [
+          "water_clean",
+          2
+        ]
+      ],
+      [
+        [
+          "pumpkin",
+          16
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_grapefruit",
@@ -213,10 +834,51 @@
     "id_suffix": "batch_in_a_bag",
     "result_mult": 24,
     "tools": [
-      [ [ "survivor_food_irradiator", 465 ], [ "irradiaterig", 465 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          465
+        ],
+        [
+          "irradiaterig",
+          465
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "grapefruit", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "grapefruit",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_pear",
@@ -226,10 +888,51 @@
     "result_mult": 24,
     "time": "470 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 405 ], [ "irradiaterig", 405 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          405
+        ],
+        [
+          "irradiaterig",
+          405
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "pear", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "pear",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_cherries",
@@ -238,10 +941,51 @@
     "id_suffix": "batch_in_a_bag",
     "result_mult": 24,
     "tools": [
-      [ [ "survivor_food_irradiator", 465 ], [ "irradiaterig", 465 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          465
+        ],
+        [
+          "irradiaterig",
+          465
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "cherries", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "cherries",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_plums",
@@ -250,10 +994,51 @@
     "id_suffix": "batch_in_a_bag",
     "result_mult": 24,
     "tools": [
-      [ [ "survivor_food_irradiator", 465 ], [ "irradiaterig", 465 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          465
+        ],
+        [
+          "irradiaterig",
+          465
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "plums", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "plums",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_grapes",
@@ -263,10 +1048,51 @@
     "result_mult": 24,
     "time": "620 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 700 ], [ "irradiaterig", 700 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          700
+        ],
+        [
+          "irradiaterig",
+          700
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "grapes", 48 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "grapes",
+          48
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_pineapple",
@@ -276,10 +1102,51 @@
     "result_mult": 6,
     "time": "5 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 145 ], [ "irradiaterig", 145 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          145
+        ],
+        [
+          "irradiaterig",
+          145
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 6 ], [ "water_clean", 6 ] ], [ [ "pineapple", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          6
+        ],
+        [
+          "water_clean",
+          6
+        ]
+      ],
+      [
+        [
+          "pineapple",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_peach",
@@ -289,10 +1156,51 @@
     "result_mult": 24,
     "time": "440 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 350 ], [ "irradiaterig", 350 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          350
+        ],
+        [
+          "irradiaterig",
+          350
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "peach", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "peach",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_cranberries",
@@ -302,10 +1210,51 @@
     "result_mult": 24,
     "time": "670 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 790 ], [ "irradiaterig", 790 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          790
+        ],
+        [
+          "irradiaterig",
+          790
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "cranberries", 72 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "cranberries",
+          72
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_watermelon",
@@ -315,10 +1264,51 @@
     "result_mult": 2,
     "time": "270 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 115 ], [ "irradiaterig", 115 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          115
+        ],
+        [
+          "irradiaterig",
+          115
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 2 ], [ "water_clean", 2 ] ], [ [ "watermelon", 16 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          2
+        ],
+        [
+          "water_clean",
+          2
+        ]
+      ],
+      [
+        [
+          "watermelon",
+          16
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_melon",
@@ -328,10 +1318,51 @@
     "result_mult": 6,
     "time": "310 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 175 ], [ "irradiaterig", 175 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          175
+        ],
+        [
+          "irradiaterig",
+          175
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 6 ], [ "water_clean", 6 ] ], [ [ "melon", 48 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          6
+        ],
+        [
+          "water_clean",
+          6
+        ]
+      ],
+      [
+        [
+          "melon",
+          48
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_raspberries",
@@ -341,10 +1372,51 @@
     "result_mult": 24,
     "time": "530 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 525 ], [ "irradiaterig", 525 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          525
+        ],
+        [
+          "irradiaterig",
+          525
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "raspberries", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "raspberries",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_blackberries",
@@ -354,10 +1426,51 @@
     "result_mult": 24,
     "time": "530 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 525 ], [ "irradiaterig", 525 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          525
+        ],
+        [
+          "irradiaterig",
+          525
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "blackberries", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "blackberries",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_mango",
@@ -367,10 +1480,51 @@
     "result_mult": 24,
     "time": "440 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 350 ], [ "irradiaterig", 350 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          350
+        ],
+        [
+          "irradiaterig",
+          350
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "mango", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "mango",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_pomegranate",
@@ -380,10 +1534,51 @@
     "result_mult": 24,
     "time": "620 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 700 ], [ "irradiaterig", 700 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          700
+        ],
+        [
+          "irradiaterig",
+          700
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "pomegranate", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "pomegranate",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_rhubarb",
@@ -393,10 +1588,51 @@
     "result_mult": 24,
     "time": "620 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 700 ], [ "irradiaterig", 700 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          700
+        ],
+        [
+          "irradiaterig",
+          700
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "rhubarb", 48 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "rhubarb",
+          48
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_papaya",
@@ -405,10 +1641,51 @@
     "id_suffix": "batch_in_a_bag",
     "result_mult": 24,
     "tools": [
-      [ [ "survivor_food_irradiator", 465 ], [ "irradiaterig", 465 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          465
+        ],
+        [
+          "irradiaterig",
+          465
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "papaya", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "papaya",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_kiwi",
@@ -418,10 +1695,51 @@
     "result_mult": 24,
     "time": "380 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 230 ], [ "irradiaterig", 230 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          230
+        ],
+        [
+          "irradiaterig",
+          230
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "kiwi", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "kiwi",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_apricot",
@@ -431,10 +1749,51 @@
     "result_mult": 24,
     "time": "440 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 350 ], [ "irradiaterig", 350 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          350
+        ],
+        [
+          "irradiaterig",
+          350
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "apricot", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "apricot",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_cucumber",
@@ -444,10 +1803,51 @@
     "result_mult": 24,
     "time": "440 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 350 ], [ "irradiaterig", 350 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          350
+        ],
+        [
+          "irradiaterig",
+          350
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "cucumber", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "cucumber",
+          24
+        ]
+      ]
+    ]
   },
   {
     "result": "irradiated_celery",
@@ -457,9 +1857,50 @@
     "result_mult": 24,
     "time": "350 s",
     "tools": [
-      [ [ "survivor_food_irradiator", 185 ], [ "irradiaterig", 185 ] ],
-      [ [ "vac_sealer", 10 ], [ "makeshift_sealer", 20 ] ]
+      [
+        [
+          "survivor_food_irradiator",
+          185
+        ],
+        [
+          "irradiaterig",
+          185
+        ]
+      ],
+      [
+        [
+          "vac_sealer",
+          10
+        ],
+        [
+          "makeshift_sealer",
+          20
+        ]
+      ]
     ],
-    "components": [ [ [ "bag_plastic", 1 ] ], [ [ "water", 24 ], [ "water_clean", 24 ] ], [ [ "celery", 24 ] ] ]
+    "components": [
+      [
+        [
+          "bag_plastic",
+          1
+        ]
+      ],
+      [
+        [
+          "water",
+          24
+        ],
+        [
+          "water_clean",
+          24
+        ]
+      ],
+      [
+        [
+          "celery",
+          24
+        ]
+      ]
+    ]
   }
 ]

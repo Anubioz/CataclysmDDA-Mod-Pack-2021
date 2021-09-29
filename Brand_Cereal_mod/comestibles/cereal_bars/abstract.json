@@ -2,7 +2,9 @@
   {
     "abstract": "cereal_bar_small",
     "type": "COMESTIBLE",
-    "name": { "str_sp": "Cereal bar small." },
+    "name": {
+      "str_sp": "Cereal bar small."
+    },
     "weight": "42 g",
     "volume": "200 ml",
     "color": "red",
@@ -15,16 +17,33 @@
     "description": "Cereal bar small.  you shouldn't see this.",
     "price": "25 USD",
     "price_postapoc": "2 USD",
-    "material": [ "wheat", "fruit" ],
+    "material": [
+      "wheat",
+      "fruit"
+    ],
     "charges": 2,
-    "flags": [ "USE_EAT_VERB", "EATEN_COLD" ],
-    "vitamins": [ [ "vitA", 4 ], [ "iron", 12 ] ],
+    "flags": [
+      "USE_EAT_VERB",
+      "EATEN_COLD"
+    ],
+    "vitamins": [
+      [
+        "vitA",
+        4
+      ],
+      [
+        "iron",
+        12
+      ]
+    ],
     "fun": 20
   },
   {
     "abstract": "cereal_bar_medium",
     "type": "COMESTIBLE",
-    "name": { "str_sp": "Cereal bar medium" },
+    "name": {
+      "str_sp": "Cereal bar medium"
+    },
     "weight": "125 g",
     "volume": "250 ml",
     "color": "red",
@@ -37,16 +56,33 @@
     "description": "Cereal bar small.  you shouldn't see this.",
     "price": "50 USD",
     "price_postapoc": "275 cent",
-    "material": [ "wheat", "fruit" ],
+    "material": [
+      "wheat",
+      "fruit"
+    ],
     "charges": 4,
-    "flags": [ "USE_EAT_VERB", "EATEN_COLD" ],
-    "vitamins": [ [ "vitA", 4 ], [ "iron", 12 ] ],
+    "flags": [
+      "USE_EAT_VERB",
+      "EATEN_COLD"
+    ],
+    "vitamins": [
+      [
+        "vitA",
+        4
+      ],
+      [
+        "iron",
+        12
+      ]
+    ],
     "fun": 20
   },
   {
     "abstract": "cereal_bar_large",
     "type": "COMESTIBLE",
-    "name": { "str_sp": "Cereal bar large" },
+    "name": {
+      "str_sp": "Cereal bar large"
+    },
     "weight": "250 g",
     "volume": "250 ml",
     "color": "red",
@@ -59,10 +95,25 @@
     "description": "Cereal bar small.  you shouldn't see this.",
     "price": "100 USD",
     "price_postapoc": "4 USD",
-    "material": [ "wheat", "fruit" ],
+    "material": [
+      "wheat",
+      "fruit"
+    ],
     "charges": 6,
-    "flags": [ "USE_EAT_VERB", "EATEN_COLD" ],
-    "vitamins": [ [ "vitA", 4 ], [ "iron", 12 ] ],
+    "flags": [
+      "USE_EAT_VERB",
+      "EATEN_COLD"
+    ],
+    "vitamins": [
+      [
+        "vitA",
+        4
+      ],
+      [
+        "iron",
+        12
+      ]
+    ],
     "fun": 20
   }
 ]

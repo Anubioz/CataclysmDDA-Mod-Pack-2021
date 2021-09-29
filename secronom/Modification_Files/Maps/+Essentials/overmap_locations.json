@@ -2,6 +2,9 @@
   {
     "id": "flesh_forest_dp",
     "type": "overmap_location",
-    "terrains": [ "flesh_forest_mid", "flesh_forest_near" ]
+    "terrains": [
+      "flesh_forest_mid",
+      "flesh_forest_near"
+    ]
   }
 ]

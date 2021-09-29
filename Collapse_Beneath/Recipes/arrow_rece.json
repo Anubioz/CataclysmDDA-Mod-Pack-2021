@@ -8,12 +8,53 @@
     "difficulty": 2,
     "time": "9 s",
     "reversible": false,
-    "autolearn": [ [ "survival", 1 ], [ "fabrication", 2 ] ],
+    "autolearn": [
+      [
+        "survival",
+        1
+      ],
+      [
+        "fabrication",
+        2
+      ]
+    ],
     "components": [
-      [ [ "sulfugland", 1 ] ],
-      [ [ "chem_ethanol", 250 ], [ "denat_alcohol", 250 ] ],
-      [ [ "string_6", 1 ] ],
-      [ [ "thread", 40 ], [ "rag", 2 ], [ "duct_tape", 25 ] ]
+      [
+        [
+          "sulfugland",
+          1
+        ]
+      ],
+      [
+        [
+          "chem_ethanol",
+          250
+        ],
+        [
+          "denat_alcohol",
+          250
+        ]
+      ],
+      [
+        [
+          "string_6",
+          1
+        ]
+      ],
+      [
+        [
+          "thread",
+          40
+        ],
+        [
+          "rag",
+          2
+        ],
+        [
+          "duct_tape",
+          25
+        ]
+      ]
     ]
   },
   {
@@ -25,12 +66,53 @@
     "difficulty": 3,
     "time": "9 s",
     "reversible": false,
-    "autolearn": [ [ "survival", 1 ], [ "fabrication", 2 ] ],
+    "autolearn": [
+      [
+        "survival",
+        1
+      ],
+      [
+        "fabrication",
+        2
+      ]
+    ],
     "components": [
-      [ [ "sulfugland", 1 ] ],
-      [ [ "chem_ethanol", 250 ], [ "denat_alcohol", 250 ] ],
-      [ [ "string_6", 1 ] ],
-      [ [ "thread", 40 ], [ "rag", 2 ], [ "duct_tape", 25 ] ]
+      [
+        [
+          "sulfugland",
+          1
+        ]
+      ],
+      [
+        [
+          "chem_ethanol",
+          250
+        ],
+        [
+          "denat_alcohol",
+          250
+        ]
+      ],
+      [
+        [
+          "string_6",
+          1
+        ]
+      ],
+      [
+        [
+          "thread",
+          40
+        ],
+        [
+          "rag",
+          2
+        ],
+        [
+          "duct_tape",
+          25
+        ]
+      ]
     ]
   }
 ]

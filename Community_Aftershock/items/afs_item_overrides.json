@@ -4,13 +4,18 @@
     "type": "AMMO",
     "copy-from": "battery",
     "category": "tools",
-    "name": { "str": "battery", "str_pl": "batteries" }
+    "name": {
+      "str": "battery",
+      "str_pl": "batteries"
+    }
   },
   {
     "id": "plut_cell",
     "type": "AMMO",
     "copy-from": "plut_cell",
     "category": "tools",
-    "name": { "str": "plutonium cell" }
+    "name": {
+      "str": "plutonium cell"
+    }
   }
 ]

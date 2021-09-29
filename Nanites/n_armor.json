@@ -2,7 +2,9 @@
   {
     "id": "nanites_hairpin",
     "type": "ARMOR",
-    "name": { "str": "nanites hairpin" },
+    "name": {
+      "str": "nanites hairpin"
+    },
     "volume": "1 ml",
     "material_thickness": 0,
     "description": "Nanites hairpin. Looks like real.",
@@ -10,7 +12,9 @@
     "to_hit": 0,
     "color": "light_gray",
     "price": "10 USD",
-    "material": [ "nanites" ],
+    "material": [
+      "nanites"
+    ],
     "symbol": "[",
     "bashing": 0,
     "cutting": 0,

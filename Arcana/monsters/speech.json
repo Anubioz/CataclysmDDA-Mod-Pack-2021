@@ -19,7 +19,10 @@
   },
   {
     "type": "speech",
-    "speaker": [ "mon_archon", "mon_seraphic_shade" ],
+    "speaker": [
+      "mon_archon",
+      "mon_seraphic_shade"
+    ],
     "sound": "\"Interloper, you defile this place.\"",
     "volume": 40
   },
@@ -55,31 +58,46 @@
   },
   {
     "type": "speech",
-    "speaker": [ "mon_archon", "mon_seraphic_shade" ],
+    "speaker": [
+      "mon_archon",
+      "mon_seraphic_shade"
+    ],
     "sound": "\"Yours is just one of a thousand worlds destined to burn.\"",
     "volume": 30
   },
   {
     "type": "speech",
-    "speaker": [ "mon_archon", "mon_seraphic_shade" ],
+    "speaker": [
+      "mon_archon",
+      "mon_seraphic_shade"
+    ],
     "sound": "\"You will pay for your insolence!\"",
     "volume": 40
   },
   {
     "type": "speech",
-    "speaker": [ "mon_archon", "mon_seraphic_shade" ],
+    "speaker": [
+      "mon_archon",
+      "mon_seraphic_shade"
+    ],
     "sound": "\"Open your eyes, mortal.\"",
     "volume": 30
   },
   {
     "type": "speech",
-    "speaker": [ "mon_archon", "mon_seraphic_shade" ],
+    "speaker": [
+      "mon_archon",
+      "mon_seraphic_shade"
+    ],
     "sound": "\"Cast aside the veil, and behold the truth.\"",
     "volume": 30
   },
   {
     "type": "speech",
-    "speaker": [ "mon_archon", "mon_seraphic_shade" ],
+    "speaker": [
+      "mon_archon",
+      "mon_seraphic_shade"
+    ],
     "sound": "\"Cast aside…cast aside…\"",
     "volume": 20
   },
@@ -91,13 +109,19 @@
   },
   {
     "type": "speech",
-    "speaker": [ "mon_archon", "mon_seraphic_shade" ],
+    "speaker": [
+      "mon_archon",
+      "mon_seraphic_shade"
+    ],
     "sound": "\"Soon, I will claim what is rightfully mine.\"",
     "volume": 40
   },
   {
     "type": "speech",
-    "speaker": [ "mon_archon", "mon_seraphic_shade" ],
+    "speaker": [
+      "mon_archon",
+      "mon_seraphic_shade"
+    ],
     "sound": "chanting in an unearthly language!",
     "volume": 40
   },

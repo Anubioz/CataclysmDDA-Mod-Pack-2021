@@ -5,10 +5,14 @@
     "name": "No Kreck",
     "description": "Removes all worms from the game.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "monsters": [ "mon_kreck" ]
+    "monsters": [
+      "mon_kreck"
+    ]
   }
 ]

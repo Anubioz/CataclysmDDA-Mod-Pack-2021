@@ -9,10 +9,33 @@
     "difficulty": 2,
     "time": "1 s",
     "autolearn": true,
-    "batch_time_factors": [ 83, 3 ],
-    "flags": [ "BLIND_EASY" ],
-    "tools": [ [ [ "rock_quern", -1 ], [ "clay_quern", -1 ] ] ],
-    "components": [ [ [ "chem_egg_shells", 100 ] ] ]
+    "batch_time_factors": [
+      83,
+      3
+    ],
+    "flags": [
+      "BLIND_EASY"
+    ],
+    "tools": [
+      [
+        [
+          "rock_quern",
+          -1
+        ],
+        [
+          "clay_quern",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "chem_egg_shells",
+          100
+        ]
+      ]
+    ]
   },
   {
     "type": "recipe",
@@ -22,13 +45,37 @@
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "cooking",
-    "skills_required": [ [ "survival", 1 ] ],
+    "skills_required": [
+      [
+        "survival",
+        1
+      ]
+    ],
     "difficulty": 2,
     "time": "1 m",
     "autolearn": true,
-    "batch_time_factors": [ 83, 3 ],
-    "flags": [ "BLIND_EASY" ],
-    "tools": [ [ [ "mortar_pestle", -1 ] ] ],
-    "components": [ [ [ "chem_egg_shells", 100 ] ] ]
+    "batch_time_factors": [
+      83,
+      3
+    ],
+    "flags": [
+      "BLIND_EASY"
+    ],
+    "tools": [
+      [
+        [
+          "mortar_pestle",
+          -1
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "chem_egg_shells",
+          100
+        ]
+      ]
+    ]
   }
 ]

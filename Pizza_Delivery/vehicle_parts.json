@@ -2,7 +2,9 @@
   {
     "id": "insulated_box_large",
     "type": "vehicle_part",
-    "name": { "str": "large insulated box" },
+    "name": {
+      "str": "large insulated box"
+    },
     "description": "A storage place to keep your pizzas warm.  Might be useable for other food as well.",
     "symbol": "o",
     "color": "red",
@@ -13,18 +15,78 @@
     "size": 500,
     "item": "insulated_box_large",
     "location": "center",
-    "flags": [ "CARGO", "BOARDABLE", "COVERED", "LOCKABLE_CARGO" ],
+    "flags": [
+      "CARGO",
+      "BOARDABLE",
+      "COVERED",
+      "LOCKABLE_CARGO"
+    ],
     "requirements": {
-      "install": { "skills": [ [ "mechanics", 1 ] ], "time": "30 s", "using": [ [ "vehicle_screw", 1 ] ] },
-      "removal": { "skills": [ [ "mechanics", 2 ] ], "time": "15 s", "using": [ [ "vehicle_screw", 1 ] ] },
-      "repair": { "skills": [ [ "mechanics", 2 ] ], "time": "30 s", "using": [ [ "adhesive", 1 ] ] }
+      "install": {
+        "skills": [
+          [
+            "mechanics",
+            1
+          ]
+        ],
+        "time": "30 s",
+        "using": [
+          [
+            "vehicle_screw",
+            1
+          ]
+        ]
+      },
+      "removal": {
+        "skills": [
+          [
+            "mechanics",
+            2
+          ]
+        ],
+        "time": "15 s",
+        "using": [
+          [
+            "vehicle_screw",
+            1
+          ]
+        ]
+      },
+      "repair": {
+        "skills": [
+          [
+            "mechanics",
+            2
+          ]
+        ],
+        "time": "30 s",
+        "using": [
+          [
+            "adhesive",
+            1
+          ]
+        ]
+      }
     },
-    "breaks_into": [ { "item": "insulated_box_large" }, { "item": "scrap", "count": [ 2, 4 ] } ]
+    "breaks_into": [
+      {
+        "item": "insulated_box_large"
+      },
+      {
+        "item": "scrap",
+        "count": [
+          2,
+          4
+        ]
+      }
+    ]
   },
   {
     "id": "drone_interface",
     "type": "vehicle_part",
-    "name": { "str": "drone interface" },
+    "name": {
+      "str": "drone interface"
+    },
     "symbol": "$",
     "looks_like": "robot_controls",
     "color": "light_green",
@@ -36,8 +98,35 @@
     "bonus": 40,
     "item": "laptop",
     "requirements": {
-      "install": { "time": 15000, "skills": [ [ "electronics", 4 ] ], "qualities": [ { "id": "SCREW", "level": 2 } ] },
-      "removal": { "skills": [ [ "electronics", 1 ] ], "qualities": [ { "id": "SCREW", "level": 2 } ] }
+      "install": {
+        "time": 15000,
+        "skills": [
+          [
+            "electronics",
+            4
+          ]
+        ],
+        "qualities": [
+          {
+            "id": "SCREW",
+            "level": 2
+          }
+        ]
+      },
+      "removal": {
+        "skills": [
+          [
+            "electronics",
+            1
+          ]
+        ],
+        "qualities": [
+          {
+            "id": "SCREW",
+            "level": 2
+          }
+        ]
+      }
     },
     "breaks_into": "ig_vp_device"
   }

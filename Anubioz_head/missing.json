@@ -4,7 +4,9 @@
     "looks_like": "ar15",
     "type": "GUN",
     "reload_noise_volume": 10,
-    "name": { "str": "AK-74M" },
+    "name": {
+      "str": "AK-74M"
+    },
     "//": "AKs likewise aren't commercially traded in the US, plus this is newer.",
     "description": "The successor to the well-known AK-47 rifle.  It combines the reliability of the AK series with the high-velocity, lightweight 5.45x39mm cartridge.",
     "weight": "3400 g",
@@ -13,37 +15,92 @@
     "price_postapoc": 4000,
     "to_hit": -1,
     "bashing": 11,
-    "material": [ "steel", "wood" ],
+    "material": [
+      "steel",
+      "wood"
+    ],
     "symbol": "(",
     "color": "brown",
     "ammo": "545x39",
     "skill": "rifle",
     "dispersion": 150,
     "durability": 8,
-    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 4 ] ],
+    "modes": [
+      [
+        "DEFAULT",
+        "semi-auto",
+        1
+      ],
+      [
+        "AUTO",
+        "auto",
+        4
+      ]
+    ],
     "barrel_volume": "20 ml",
     "valid_mod_locations": [
-      [ "accessories", 4 ],
-      [ "barrel", 1 ],
-      [ "bore", 1 ],
-      [ "brass catcher", 1 ],
-      [ "grip", 1 ],
-      [ "mechanism", 4 ],
-      [ "muzzle", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "sling", 1 ],
-      [ "stock", 1 ],
-      [ "underbarrel", 1 ]
+      [
+        "accessories",
+        4
+      ],
+      [
+        "barrel",
+        1
+      ],
+      [
+        "bore",
+        1
+      ],
+      [
+        "brass catcher",
+        1
+      ],
+      [
+        "grip",
+        1
+      ],
+      [
+        "mechanism",
+        4
+      ],
+      [
+        "muzzle",
+        1
+      ],
+      [
+        "rail",
+        1
+      ],
+      [
+        "sights",
+        1
+      ],
+      [
+        "sling",
+        1
+      ],
+      [
+        "stock",
+        1
+      ],
+      [
+        "underbarrel",
+        1
+      ]
     ],
-    "flags": [ "NEVER_JAMS" ],
+    "flags": [
+      "NEVER_JAMS"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "ak74mag", "rpk74mag" ]
+        "item_restriction": [
+          "ak74mag",
+          "rpk74mag"
+        ]
       }
     ]
   },
@@ -52,7 +109,9 @@
     "looks_like": "ar15",
     "type": "GUN",
     "reload_noise_volume": 10,
-    "name": { "str": "AN-94" },
+    "name": {
+      "str": "AN-94"
+    },
     "description": "Intended to replace the AK-74, this rifle uses a sophisticated mechanism to delay felt recoil, along with a very fast two-round burst mode.  While its increased complexity prevented it from being adopted by the Russian military, it has seen service among their special forces.",
     "weight": "3850 g",
     "volume": "1750 ml",
@@ -60,27 +119,82 @@
     "price_postapoc": 4500,
     "to_hit": -1,
     "bashing": 11,
-    "material": [ "steel", "plastic" ],
+    "material": [
+      "steel",
+      "plastic"
+    ],
     "symbol": "(",
     "color": "brown",
     "ammo": "545x39",
     "skill": "rifle",
     "dispersion": 150,
     "durability": 7,
-    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "BURST", "2 rd.", 2 ], [ "AUTO", "auto", 4 ] ],
+    "modes": [
+      [
+        "DEFAULT",
+        "semi-auto",
+        1
+      ],
+      [
+        "BURST",
+        "2 rd.",
+        2
+      ],
+      [
+        "AUTO",
+        "auto",
+        4
+      ]
+    ],
     "valid_mod_locations": [
-      [ "accessories", 4 ],
-      [ "barrel", 1 ],
-      [ "bore", 1 ],
-      [ "brass catcher", 1 ],
-      [ "grip", 1 ],
-      [ "mechanism", 4 ],
-      [ "muzzle", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "sling", 1 ],
-      [ "stock", 1 ],
-      [ "underbarrel", 1 ]
+      [
+        "accessories",
+        4
+      ],
+      [
+        "barrel",
+        1
+      ],
+      [
+        "bore",
+        1
+      ],
+      [
+        "brass catcher",
+        1
+      ],
+      [
+        "grip",
+        1
+      ],
+      [
+        "mechanism",
+        4
+      ],
+      [
+        "muzzle",
+        1
+      ],
+      [
+        "rail",
+        1
+      ],
+      [
+        "sights",
+        1
+      ],
+      [
+        "sling",
+        1
+      ],
+      [
+        "stock",
+        1
+      ],
+      [
+        "underbarrel",
+        1
+      ]
     ],
     "pocket_data": [
       {
@@ -88,14 +202,19 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "ak74mag", "rpk74mag" ]
+        "item_restriction": [
+          "ak74mag",
+          "rpk74mag"
+        ]
       }
     ]
   },
-    {
+  {
     "id": "nail_bomb",
     "type": "TOOL",
-    "name": { "str": "nail bomb" },
+    "name": {
+      "str": "nail bomb"
+    },
     "description": "A crude and bulky improvised bomb.  Made from a container, an explosive surrounded by nails and a fuse.  Use this item to light the fuse.  You will then have five turns before it explodes; throwing it would be a good idea.",
     "category": "weapons",
     "weight": "470 g",
@@ -104,11 +223,22 @@
     "to_hit": 1,
     "price": 900,
     "price_postapoc": 500,
-    "material": [ "aluminum", "iron" ],
+    "material": [
+      "aluminum",
+      "iron"
+    ],
     "symbol": "*",
     "color": "green",
     "explode_in_fire": true,
-    "explosion": { "power": 175, "shrapnel": { "casing_mass": 160, "fragment_mass": 0.4, "drop": "nail", "recovery": 16 } },
+    "explosion": {
+      "power": 175,
+      "shrapnel": {
+        "casing_mass": 160,
+        "fragment_mass": 0.4,
+        "drop": "nail",
+        "recovery": 16
+      }
+    },
     "use_action": {
       "target": "nail_bomb_act",
       "msg": "You light the fuse on the %s.",
@@ -118,59 +248,90 @@
       "menu_text": "Light fuse",
       "type": "transform"
     },
-    "flags": [ "RADIO_MODABLE", "RADIO_INVOKE_PROC", "BOMB", "NO_REPAIR" ]
+    "flags": [
+      "RADIO_MODABLE",
+      "RADIO_INVOKE_PROC",
+      "BOMB",
+      "NO_REPAIR"
+    ]
   },
   {
-  "id": "nail_bomb_act",
-  "copy-from": "nail_bomb",
-  "type": "TOOL",
-  "name": { "str": "active nail bomb" },
-  "description": "A crude and bulky improvised bomb.  Made from a container, an explosive surrounded by nails and a fuse.  The fuse has been lit, you should throw it.",
-  "price": 0,
-  "price_postapoc": 0,
-  "initial_charges": 5,
-  "max_charges": 5,
-  "turns_per_charge": 1,
-  "use_action": {
-    "type": "explosion",
-    "no_deactivate_msg": "You've already lit the fuse - what are you waiting for?",
-    "sound_volume": 0,
-    "sound_msg": "ssss...",
-    "explosion": { "power": 175, "shrapnel": { "casing_mass": 160, "fragment_mass": 0.4, "drop": "nail", "recovery": 16 } }
+    "id": "nail_bomb_act",
+    "copy-from": "nail_bomb",
+    "type": "TOOL",
+    "name": {
+      "str": "active nail bomb"
+    },
+    "description": "A crude and bulky improvised bomb.  Made from a container, an explosive surrounded by nails and a fuse.  The fuse has been lit, you should throw it.",
+    "price": 0,
+    "price_postapoc": 0,
+    "initial_charges": 5,
+    "max_charges": 5,
+    "turns_per_charge": 1,
+    "use_action": {
+      "type": "explosion",
+      "no_deactivate_msg": "You've already lit the fuse - what are you waiting for?",
+      "sound_volume": 0,
+      "sound_msg": "ssss...",
+      "explosion": {
+        "power": 175,
+        "shrapnel": {
+          "casing_mass": 160,
+          "fragment_mass": 0.4,
+          "drop": "nail",
+          "recovery": 16
+        }
+      }
+    },
+    "flags": [
+      "BOMB",
+      "TRADER_AVOID",
+      "NO_REPAIR"
+    ]
   },
-  "flags": [ "BOMB", "TRADER_AVOID", "NO_REPAIR" ]
-}, {
-  "type": "AMMO",
-  "id": "shotcanister_scrap",
-  "price": 1000,
-  "price_postapoc": 250,
-  "name": { "str": "scrap shotcanister" },
-  "symbol": "=",
-  "color": "green",
-  "description": "This small paper canister resembling a crude shotshell is filled to the brim with assorted pieces of scrap metal.",
-  "material": [ "steel" ],
-  "volume": "250 ml",
-  "weight": "55 g",
-  "bashing": 2,
-  "cutting": 1,
-  "ammo_type": "shotcanister",
-  "looks_like": "shot_scrap",
-  "range": 1,
-  "damage": { "damage_type": "stab", "amount": 10 },
-  "dispersion": 250,
-  "loudness": 0,
-  "count": 10
-},
+  {
+    "type": "AMMO",
+    "id": "shotcanister_scrap",
+    "price": 1000,
+    "price_postapoc": 250,
+    "name": {
+      "str": "scrap shotcanister"
+    },
+    "symbol": "=",
+    "color": "green",
+    "description": "This small paper canister resembling a crude shotshell is filled to the brim with assorted pieces of scrap metal.",
+    "material": [
+      "steel"
+    ],
+    "volume": "250 ml",
+    "weight": "55 g",
+    "bashing": 2,
+    "cutting": 1,
+    "ammo_type": "shotcanister",
+    "looks_like": "shot_scrap",
+    "range": 1,
+    "damage": {
+      "damage_type": "stab",
+      "amount": 10
+    },
+    "dispersion": 250,
+    "loudness": 0,
+    "count": 10
+  },
   {
     "type": "AMMO",
     "id": "shotcanister_pebble",
     "price": 1000,
     "price_postapoc": 50,
-    "name": { "str": "pebble shotcanister" },
+    "name": {
+      "str": "pebble shotcanister"
+    },
     "symbol": "=",
     "color": "green",
     "description": "This small paper canister resembling a crude shotshell is filled to the brim with tiny pebbles.  Damage is pathetic but flight is much more stable than scrap.",
-    "material": [ "stone" ],
+    "material": [
+      "stone"
+    ],
     "volume": "250 ml",
     "weight": "55 g",
     "bashing": 2,
@@ -178,7 +339,11 @@
     "ammo_type": "shotcanister",
     "looks_like": "shot_scrap",
     "range": 2,
-    "damage": { "damage_type": "stab", "amount": 7, "armor_penetration": 1 },
+    "damage": {
+      "damage_type": "stab",
+      "amount": 7,
+      "armor_penetration": 1
+    },
     "dispersion": 80,
     "loudness": 0,
     "count": 10
@@ -188,11 +353,15 @@
     "id": "shotcanister_flechette",
     "price": 1000,
     "price_postapoc": 250,
-    "name": { "str": "flechette shotcanister" },
+    "name": {
+      "str": "flechette shotcanister"
+    },
     "symbol": "=",
     "color": "green",
     "description": "This small paper canister resembling a crude shotshell is filled to the brim with handmade flechettes, giving it some armor piercing capabilities.",
-    "material": [ "steel" ],
+    "material": [
+      "steel"
+    ],
     "volume": "250 ml",
     "weight": "55 g",
     "bashing": 2,
@@ -200,7 +369,11 @@
     "ammo_type": "shotcanister",
     "looks_like": "shot_scrap",
     "range": 3,
-    "damage": { "damage_type": "stab", "amount": 13, "armor_penetration": 7 },
+    "damage": {
+      "damage_type": "stab",
+      "amount": 13,
+      "armor_penetration": 7
+    },
     "dispersion": 50,
     "loudness": 0,
     "count": 10
@@ -210,11 +383,15 @@
     "id": "shotcanister_bearing",
     "price": 1000,
     "price_postapoc": 250,
-    "name": { "str": "bearing shotcanister" },
+    "name": {
+      "str": "bearing shotcanister"
+    },
     "symbol": "=",
     "color": "green",
     "description": "This small paper canister resembling a crude shotshell is filled to the brim with handmade bearings, stabilizing its flight pattern a tiny bit.",
-    "material": [ "steel" ],
+    "material": [
+      "steel"
+    ],
     "volume": "250 ml",
     "weight": "55 g",
     "bashing": 2,
@@ -222,15 +399,24 @@
     "ammo_type": "shotcanister",
     "looks_like": "shot_scrap",
     "range": 2,
-    "damage": { "damage_type": "stab", "amount": 12, "armor_penetration": 2 },
+    "damage": {
+      "damage_type": "stab",
+      "amount": 12,
+      "armor_penetration": 2
+    },
     "dispersion": 100,
     "loudness": 0,
     "count": 10
   },
-    {
+  {
     "id": "bionics_tech",
     "type": "item_group",
-    "items": [ [ "bio_atomic_battery", 10 ] ]
+    "items": [
+      [
+        "bio_atomic_battery",
+        10
+      ]
+    ]
   },
   {
     "type": "ammunition_type",
@@ -238,17 +424,31 @@
     "name": "shotcanister",
     "default": "shotcanister_scrap"
   },
-   {
+  {
     "id": "laser_cannon",
     "looks_like": "gatling_mech_laser",
     "type": "GUN",
     "symbol": "(",
-    "name": { "str": "Experimental laser cannon MK iii" },
+    "name": {
+      "str": "Experimental laser cannon MK iii"
+    },
     "description": "A refined and upgraded highly experimental incredibly destructive futuristic power of demolition enhanced with the technology beyond human possibilities with a unique design that propels BL9 capable of changing it's physical and chemical structure, in this case, concentrated rays of vaporized BL9",
-    "ammo": [ "battery" ],
-    "material": [ "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "NEVER_JAMS", "NON-FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "ammo": [
+      "battery"
+    ],
+    "material": [
+      "steel"
+    ],
+    "ammo_effects": [
+      "NEVER_MISFIRES",
+      "TANGLE"
+    ],
+    "flags": [
+      "NEVER_JAMS",
+      "NON-FOULING",
+      "NEEDS_NO_LUBE",
+      "WATERPROOF_GUN"
+    ],
     "skill": "launcher",
     "weight": "4300 g",
     "volume": "2500 ml",
@@ -256,41 +456,103 @@
     "price_postapoc": "80 USD",
     "to_hit": -1,
     "bashing": 8,
-    "ranged_damage": { "damage_type": "heat", "amount": 1, "armor_penetration": 1 },
+    "ranged_damage": {
+      "damage_type": "heat",
+      "amount": 1,
+      "armor_penetration": 1
+    },
     "range": 35,
     "dispersion": 65,
     "durability": 10,
-    "modes": [ [ "DEFAULT", "single", 1, "NPC_AVOID" ] ],
-    "valid_mod_locations": [
-      [ "accessories", 4 ],
-      [ "emitter", 1 ],
-      [ "grip", 1 ],
-      [ "lens", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "sling", 1 ],
-      [ "stock", 1 ],
-      [ "underbarrel", 1 ]
+    "modes": [
+      [
+        "DEFAULT",
+        "single",
+        1,
+        "NPC_AVOID"
+      ]
     ],
-     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid":true, "ammo_restriction": { "battery": 5000 } } ]
+    "valid_mod_locations": [
+      [
+        "accessories",
+        4
+      ],
+      [
+        "emitter",
+        1
+      ],
+      [
+        "grip",
+        1
+      ],
+      [
+        "lens",
+        1
+      ],
+      [
+        "rail",
+        1
+      ],
+      [
+        "sights",
+        1
+      ],
+      [
+        "sling",
+        1
+      ],
+      [
+        "stock",
+        1
+      ],
+      [
+        "underbarrel",
+        1
+      ]
+    ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE",
+        "rigid": true,
+        "ammo_restriction": {
+          "battery": 5000
+        }
+      }
+    ]
   },
   {
     "id": "survivor_special_700",
     "type": "GUN",
-    "name": { "str": "Survivor Special 700" },
+    "name": {
+      "str": "Survivor Special 700"
+    },
     "description": "A rusty receiver, a R700 pattern barrel and half a broken crutch; all held together in the shape of a rifle with nothing more than glue, duct tape, and generous amounts of faith.",
     "weight": 4080,
     "volume": 12,
     "price": 100000,
     "bashing": 12,
     "to_hit": -1,
-    "material": [ "steel", "plastic" ],
+    "material": [
+      "steel",
+      "plastic"
+    ],
     "symbol": "(",
     "color": "brown",
     "skill": "rifle",
     "ammo": "3006",
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid":true, "ammo_restriction": { "3006": 1 } } ],
-    "ranged_damage": { "damage_type": "bullet", "amount": 7 },
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE",
+        "rigid": true,
+        "ammo_restriction": {
+          "3006": 1
+        }
+      }
+    ],
+    "ranged_damage": {
+      "damage_type": "bullet",
+      "amount": 7
+    },
     "dispersion": 60,
     "sight_dispersion": 150,
     "recoil": 150,
@@ -299,32 +561,92 @@
     "clip_size": 1,
     "reload": 75,
     "barrel_volume": "20 ml",
-    "valid_mod_locations": [ [ "accessories", 4 ], [ "bore", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "sights", 1 ] ],
-    "flags": [ "RELOAD_ONE" ]
+    "valid_mod_locations": [
+      [
+        "accessories",
+        4
+      ],
+      [
+        "bore",
+        1
+      ],
+      [
+        "grip",
+        1
+      ],
+      [
+        "mechanism",
+        4
+      ],
+      [
+        "muzzle",
+        1
+      ],
+      [
+        "sights",
+        1
+      ]
+    ],
+    "flags": [
+      "RELOAD_ONE"
+    ]
   },
-    {
-      "type": "MONSTER_FACTION",
-      "name": "neworder_bot"
-    },
   {
-  "id": "CBM_SCI",
-  "type": "harvest",
-  "entries": [
-    { "drop": "bionics_sci", "type": "bionic_group" },
-    { "drop": "meat_tainted", "type": "flesh", "mass_ratio": 0.25 },
-    { "drop": "fat_tainted", "type": "flesh", "mass_ratio": 0.08 },
-    { "drop": "bone_tainted", "type": "bone", "mass_ratio": 0.1 }
-  ]
-},
+    "type": "MONSTER_FACTION",
+    "name": "neworder_bot"
+  },
   {
-  "id": "CBM_OP",
-  "type": "harvest",
-  "entries": [
-    { "drop": "bio_power_storage_mkII", "type": "bionic" },
-    { "drop": "bionics_op", "type": "bionic_group" },
-    { "drop": "meat_tainted", "type": "flesh", "mass_ratio": 0.25 },
-    { "drop": "fat_tainted", "type": "flesh", "mass_ratio": 0.08 },
-    { "drop": "bone_tainted", "type": "bone", "mass_ratio": 0.1 }
-  ]
- }
+    "id": "CBM_SCI",
+    "type": "harvest",
+    "entries": [
+      {
+        "drop": "bionics_sci",
+        "type": "bionic_group"
+      },
+      {
+        "drop": "meat_tainted",
+        "type": "flesh",
+        "mass_ratio": 0.25
+      },
+      {
+        "drop": "fat_tainted",
+        "type": "flesh",
+        "mass_ratio": 0.08
+      },
+      {
+        "drop": "bone_tainted",
+        "type": "bone",
+        "mass_ratio": 0.1
+      }
+    ]
+  },
+  {
+    "id": "CBM_OP",
+    "type": "harvest",
+    "entries": [
+      {
+        "drop": "bio_power_storage_mkII",
+        "type": "bionic"
+      },
+      {
+        "drop": "bionics_op",
+        "type": "bionic_group"
+      },
+      {
+        "drop": "meat_tainted",
+        "type": "flesh",
+        "mass_ratio": 0.25
+      },
+      {
+        "drop": "fat_tainted",
+        "type": "flesh",
+        "mass_ratio": 0.08
+      },
+      {
+        "drop": "bone_tainted",
+        "type": "bone",
+        "mass_ratio": 0.1
+      }
+    ]
+  }
 ]

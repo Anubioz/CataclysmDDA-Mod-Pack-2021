@@ -3,23 +3,37 @@
     "type": "MONSTER_FACTION",
     "name": "invader_alien",
     "base_faction": "nether",
-    "neutral": [ "alien_carnivore", "alien_herbivore", "stray" ],
+    "neutral": [
+      "alien_carnivore",
+      "alien_herbivore",
+      "stray"
+    ],
     "by_mood": "animal"
   },
   {
     "type": "MONSTER_FACTION",
     "name": "alien_herbivore",
     "base_faction": "herbivore",
-    "neutral": [ "invader_alien", "stray" ],
-    "by_mood": [ "alien_carnivore" ]
+    "neutral": [
+      "invader_alien",
+      "stray"
+    ],
+    "by_mood": [
+      "alien_carnivore"
+    ]
   },
   {
     "type": "MONSTER_FACTION",
     "name": "alien_carnivore",
     "base_faction": "mutant",
-    "neutral": [ "invader_alien", "stray" ],
+    "neutral": [
+      "invader_alien",
+      "stray"
+    ],
     "by_mood": "alien_carnivore",
-    "hate": [ "alien_herbivore" ]
+    "hate": [
+      "alien_herbivore"
+    ]
   },
   {
     "type": "MONSTER_FACTION",
@@ -31,20 +45,30 @@
     "name": "stray",
     "//": "largely neutral to animals, but will retaliate.  strictly neutral to their creators.",
     "base_faction": "bot",
-    "neutral": [ "invader_alien", "alien_herbivore", "alien_carnivore" ]
+    "neutral": [
+      "invader_alien",
+      "alien_herbivore",
+      "alien_carnivore"
+    ]
   },
   {
     "type": "MONSTER_FACTION",
     "name": "lurker",
     "base_faction": "gator",
-    "hate": [ "fish", "aquatic_predator" ],
+    "hate": [
+      "fish",
+      "aquatic_predator"
+    ],
     "by_mood": "gator"
   },
   {
     "type": "MONSTER_FACTION",
     "name": "bileworm",
     "base_faction": "dog",
-    "by_mood": [ "small_animal", "dog" ]
+    "by_mood": [
+      "small_animal",
+      "dog"
+    ]
   },
   {
     "type": "MONSTER_FACTION",

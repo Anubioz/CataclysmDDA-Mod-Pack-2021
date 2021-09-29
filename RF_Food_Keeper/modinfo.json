@@ -6,6 +6,8 @@
     "authors": "MUR meat",
     "description": "Add an RF.A food keeper that can create irradiated food.",
     "category": "items",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

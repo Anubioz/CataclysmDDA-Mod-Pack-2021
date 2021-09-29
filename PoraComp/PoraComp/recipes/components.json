@@ -8,8 +8,53 @@
     "difficulty": 4,
     "time": "2 s",
     "autolearn": true,
-    "qualities": [ { "id": "CHEM", "level": 1 }, { "id": "HAMMER" } ],
-    "tools": [ [ [ "surface_heat", 5, "LIST" ] ] ],
-    "components": [ [ [ "water", 1 ], [ "water_clean", 1 ] ], [ [ "bleach", 1 ] ], [ [ "lye_powder", 100 ] ], [ [ "splinter", 10 ] ] ]
+    "qualities": [
+      {
+        "id": "CHEM",
+        "level": 1
+      },
+      {
+        "id": "HAMMER"
+      }
+    ],
+    "tools": [
+      [
+        [
+          "surface_heat",
+          5,
+          "LIST"
+        ]
+      ]
+    ],
+    "components": [
+      [
+        [
+          "water",
+          1
+        ],
+        [
+          "water_clean",
+          1
+        ]
+      ],
+      [
+        [
+          "bleach",
+          1
+        ]
+      ],
+      [
+        [
+          "lye_powder",
+          100
+        ]
+      ],
+      [
+        [
+          "splinter",
+          10
+        ]
+      ]
+    ]
   }
 ]

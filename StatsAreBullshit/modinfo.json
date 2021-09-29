@@ -3,10 +3,16 @@
     "id": "StatsAreBullshit",
     "type": "MOD_INFO",
     "name": "Anime Bullshit",
-    "authors": [ "Chaosvolt" ],
+    "authors": [
+      "Chaosvolt"
+    ],
     "description": "This is a terrible idea.",
     "category": "rebalance",
-    "dependencies": [ "dda", "Arcana", "magiclysm" ]
+    "dependencies": [
+      "dda",
+      "Arcana",
+      "magiclysm"
+    ]
   },
   {
     "type": "skill_boost",

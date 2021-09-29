@@ -2,7 +2,9 @@
   {
     "id": "HALFHUNGER",
     "type": "mutation",
-    "name": { "str": "Hunger Reduction 1/2" },
+    "name": {
+      "str": "Hunger Reduction 1/2"
+    },
     "points": 0,
     "description": "The need for food is reduced by 1/2 from the base game.",
     "starting_trait": true,
@@ -13,7 +15,9 @@
   {
     "id": "HALFTHIRST",
     "type": "mutation",
-    "name": { "str": "Thirst Reduction 1/2" },
+    "name": {
+      "str": "Thirst Reduction 1/2"
+    },
     "points": 0,
     "description": "The need for liquid is reduced by 1/2 from the base game.",
     "starting_trait": true,
@@ -24,7 +28,9 @@
   {
     "id": "QUARTERHUNGER",
     "type": "mutation",
-    "name": { "str": "Hunger Reduction 1/4" },
+    "name": {
+      "str": "Hunger Reduction 1/4"
+    },
     "points": 0,
     "description": "The need for food is reduced by 3/4 from the base game.",
     "starting_trait": true,
@@ -35,7 +41,9 @@
   {
     "id": "QUARTERTHIRST",
     "type": "mutation",
-    "name": { "str": "Thirst Reduction 1/4" },
+    "name": {
+      "str": "Thirst Reduction 1/4"
+    },
     "points": 0,
     "description": "The need for liquid is reduced by 3/4 from the base game.",
     "starting_trait": true,
@@ -46,7 +54,9 @@
   {
     "id": "TENTHHUNGER",
     "type": "mutation",
-    "name": { "str": "Hunger Reduction 1/10" },
+    "name": {
+      "str": "Hunger Reduction 1/10"
+    },
     "points": 0,
     "description": "The need for food is reduced by 9/10 from the base game.",
     "starting_trait": true,
@@ -57,7 +67,9 @@
   {
     "id": "TENTHTHIRST",
     "type": "mutation",
-    "name": { "str": "Thirst Reduction 1/10" },
+    "name": {
+      "str": "Thirst Reduction 1/10"
+    },
     "points": 0,
     "description": "The need for liquid is reduced by 9/10 from the base game.",
     "starting_trait": true,

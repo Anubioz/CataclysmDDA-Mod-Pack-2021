@@ -2,11 +2,15 @@
   {
     "type": "MONSTER_FACTION",
     "name": "tyranids",
-    "neutral": [ "small_animal" ]
+    "neutral": [
+      "small_animal"
+    ]
   },
   {
     "type": "MONSTER_FACTION",
     "name": "ork",
-    "neutral": [ "small_animal" ]
+    "neutral": [
+      "small_animal"
+    ]
   }
 ]

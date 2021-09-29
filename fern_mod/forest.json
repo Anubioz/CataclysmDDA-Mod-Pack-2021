@@ -1,10 +1,28 @@
 [
   {
     "type": "region_overlay",
-    "regions": [ "all" ],
+    "regions": [
+      "all"
+    ],
     "forest_mapgen_settings": {
-      "forest": { "components": { "shrubs_and_flowers": { "types": { "t_fern": 15 } } } },
-      "forest_thick": { "components": { "shrubs_and_flowers": { "types": { "t_fern": 15 } } } }
+      "forest": {
+        "components": {
+          "shrubs_and_flowers": {
+            "types": {
+              "t_fern": 15
+            }
+          }
+        }
+      },
+      "forest_thick": {
+        "components": {
+          "shrubs_and_flowers": {
+            "types": {
+              "t_fern": 15
+            }
+          }
+        }
+      }
     }
   }
 ]

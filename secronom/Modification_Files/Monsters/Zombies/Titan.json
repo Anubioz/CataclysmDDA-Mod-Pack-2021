@@ -3,16 +3,25 @@
     "//": "This zombie should path from brute zombie, and much like a hulk... Only difference is its armor, damage and speed gain.",
     "id": "mon_zombie_titan",
     "type": "MONSTER",
-    "name": { "str": "titan" },
+    "name": {
+      "str": "titan"
+    },
     "description": "A swollen body covered in thick exoskeleton plates and protruding bone, lays under its bulging muscles.",
     "default_faction": "zombie",
-    "species": [ "ZOMBIE", "SECROZED_3", "HUMAN" ],
+    "species": [
+      "ZOMBIE",
+      "SECROZED_3",
+      "HUMAN"
+    ],
     "volume": "875000 ml",
     "weight": "200000 g",
     "hp": 460,
     "speed": 110,
     "diff": 10,
-    "material": [ "flesh", "bone" ],
+    "material": [
+      "flesh",
+      "bone"
+    ],
     "symbol": "⟑",
     "color": "light_red_magenta",
     "aggression": 100,
@@ -25,7 +34,12 @@
     "dodge": 1,
     "harvest": "zombie",
     "vision_day": 25,
-    "melee_damage": [ { "damage_type": "bash", "amount": 9 } ],
+    "melee_damage": [
+      {
+        "damage_type": "bash",
+        "amount": 9
+      }
+    ],
     "armor_bash": 10,
     "armor_cut": 16,
     "armor_acid": 3,
@@ -33,15 +47,22 @@
     "special_attacks": [
       {
         "type": "spell",
-        "spell_data": { "id": "mon_zombie_titan_charge_target" },
+        "spell_data": {
+          "id": "mon_zombie_titan_charge_target"
+        },
         "cooldown": 60,
         "monster_message": "<color_yellow>%1$s blocks with both arms then sprints toward %3$s!</color>"
       },
-      [ "SMASH", 32 ]
+      [
+        "SMASH",
+        32
+      ]
     ],
     "death_drops": "mon_zombie_hulk_death_drops",
-    "upgrades": { "half_life": 20, "into": "mon_zombie_blacktitan" },
-    
+    "upgrades": {
+      "half_life": 20,
+      "into": "mon_zombie_blacktitan"
+    },
     "flags": [
       "SEES",
       "HEARS",
@@ -65,16 +86,25 @@
   {
     "id": "mon_zombie_blacktitan",
     "type": "MONSTER",
-    "name": { "str": "black titan" },
+    "name": {
+      "str": "black titan"
+    },
     "description": "Enormous muscle mass, has desaturated from high-end mutations while its exoskeleton unified with the rotten tissue.",
     "default_faction": "zombie",
-    "species": [ "ZOMBIE", "SECROZED_3", "HUMAN" ],
+    "species": [
+      "ZOMBIE",
+      "SECROZED_3",
+      "HUMAN"
+    ],
     "volume": "875000 ml",
     "weight": "200000 g",
     "hp": 715,
     "speed": 125,
     "diff": 30,
-    "material": [ "flesh", "bone" ],
+    "material": [
+      "flesh",
+      "bone"
+    ],
     "symbol": "⟑",
     "color": "dark_gray_red",
     "aggression": 100,
@@ -86,7 +116,12 @@
     "harvest": "zombie",
     "attack_cost": 350,
     "vision_day": 25,
-    "melee_damage": [ { "damage_type": "bash", "amount": 12 } ],
+    "melee_damage": [
+      {
+        "damage_type": "bash",
+        "amount": 12
+      }
+    ],
     "armor_bash": 17,
     "armor_cut": 22,
     "armor_acid": 4,
@@ -94,14 +129,18 @@
     "special_attacks": [
       {
         "type": "spell",
-        "spell_data": { "id": "mon_zombie_titan_charge_target" },
+        "spell_data": {
+          "id": "mon_zombie_titan_charge_target"
+        },
         "cooldown": 50,
         "monster_message": "<color_yellow>%1$s blocks with both arms then sprints toward %3$s!</color>"
       },
-      [ "SMASH", 26 ]
+      [
+        "SMASH",
+        26
+      ]
     ],
     "death_drops": "mon_zombie_hulk_death_drops",
-    
     "flags": [
       "SEES",
       "HEARS",

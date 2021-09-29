@@ -2,9 +2,13 @@
   {
     "id": "dks_monspell_stun",
     "type": "SPELL",
-    "name": { "str": "psi stun" },
+    "name": {
+      "str": "psi stun"
+    },
     "description": "an attack that stuns the target for a few turns",
-    "valid_targets": [ "hostile" ],
+    "valid_targets": [
+      "hostile"
+    ],
     "effect": "attack",
     "shape": "blast",
     "effect_str": "stunned",
@@ -13,14 +17,20 @@
     "max_range": 10,
     "min_duration": 225,
     "max_duration": 225,
-    "flags": [ "SILENT" ]
+    "flags": [
+      "SILENT"
+    ]
   },
   {
     "id": "dks_monspell_panic",
     "type": "SPELL",
-    "name": { "str": "psi panic" },
+    "name": {
+      "str": "psi panic"
+    },
     "description": "an attack that panics the target for a few turns",
-    "valid_targets": [ "hostile" ],
+    "valid_targets": [
+      "hostile"
+    ],
     "effect": "attack",
     "shape": "blast",
     "effect_str": "panic",
@@ -29,14 +39,20 @@
     "max_range": 10,
     "min_duration": 425,
     "max_duration": 425,
-    "flags": [ "SILENT" ]
+    "flags": [
+      "SILENT"
+    ]
   },
   {
     "id": "dks_monspell_halluc",
     "type": "SPELL",
-    "name": { "str": "psi hallucinate" },
+    "name": {
+      "str": "psi hallucinate"
+    },
     "description": "an attack that causes the target to hallucinate for a few turns",
-    "valid_targets": [ "hostile" ],
+    "valid_targets": [
+      "hostile"
+    ],
     "effect": "attack",
     "shape": "blast",
     "effect_str": "visuals",
@@ -45,14 +61,20 @@
     "max_range": 10,
     "min_duration": 225,
     "max_duration": 225,
-    "flags": [ "SILENT" ]
+    "flags": [
+      "SILENT"
+    ]
   },
   {
     "id": "dks_monspell_psighost",
     "type": "SPELL",
-    "name": { "str": "psi ghost" },
+    "name": {
+      "str": "psi ghost"
+    },
     "description": "an attack that summons a temporary monster",
-    "valid_targets": [ "ground" ],
+    "valid_targets": [
+      "ground"
+    ],
     "effect": "summon",
     "shape": "blast",
     "effect_str": "dks_mon_psighost",
@@ -65,14 +87,22 @@
     "max_aoe": 3,
     "min_duration": 1800,
     "max_duration": 3600,
-    "flags": [ "SILENT", "HOSTILE_SUMMON" ]
+    "flags": [
+      "SILENT",
+      "HOSTILE_SUMMON"
+    ]
   },
   {
     "id": "dks_spell_mindblast",
     "type": "SPELL",
-    "name": { "str": "psi mindblast" },
+    "name": {
+      "str": "psi mindblast"
+    },
     "description": "blasts a target with a wave of disorienting psionic energy.  has random effects",
-    "valid_targets": [ "hostile", "ground" ],
+    "valid_targets": [
+      "hostile",
+      "ground"
+    ],
     "message": "",
     "effect": "none",
     "shape": "blast",
@@ -82,21 +112,40 @@
     "max_range": 10,
     "base_casting_time": 250,
     "extra_effects": [
-      { "id": "dks_monspell_stun" },
-      { "id": "dks_monspell_panic" },
-      { "id": "dks_monspell_panic" },
-      { "id": "dks_monspell_halluc" },
-      { "id": "dks_monspell_halluc" },
-      { "id": "dks_monspell_psighost" }
+      {
+        "id": "dks_monspell_stun"
+      },
+      {
+        "id": "dks_monspell_panic"
+      },
+      {
+        "id": "dks_monspell_panic"
+      },
+      {
+        "id": "dks_monspell_halluc"
+      },
+      {
+        "id": "dks_monspell_halluc"
+      },
+      {
+        "id": "dks_monspell_psighost"
+      }
     ],
-    "flags": [ "SILENT", "WONDER" ]
+    "flags": [
+      "SILENT",
+      "WONDER"
+    ]
   },
   {
     "id": "dks_cameraflash",
     "type": "SPELL",
-    "name": { "str": "camera" },
+    "name": {
+      "str": "camera"
+    },
     "description": "an attack that blinds the target for a few turns",
-    "valid_targets": [ "hostile" ],
+    "valid_targets": [
+      "hostile"
+    ],
     "effect": "attack",
     "shape": "blast",
     "effect_str": "blind",
@@ -105,6 +154,8 @@
     "max_range": 1,
     "min_duration": 425,
     "max_duration": 425,
-    "flags": [ "SILENT" ]
+    "flags": [
+      "SILENT"
+    ]
   }
 ]

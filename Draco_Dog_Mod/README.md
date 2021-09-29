@@ -1,42 +1,54 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  
+**Table of Contents**
 
 - [DG_Mods](#dg_mods)
     - [Armoring:](#armoring)
     - [Training:](#training)
     - [Morale:](#morale)
-      - [0.6](#06)
-      - [0.5](#05)
-      - [0.4c](#04c)
-      - [0.4b](#04b)
-      - [0.4a](#04a)
-      - [0.4](#04)
-      - [0.3](#03)
-      - [0.2](#02)
-      - [0.1](#01)
+        - [0.6](#06)
+        - [0.5](#05)
+        - [0.4c](#04c)
+        - [0.4b](#04b)
+        - [0.4a](#04a)
+        - [0.4](#04)
+        - [0.3](#03)
+        - [0.2](#02)
+        - [0.1](#01)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # DG_Mods
+
 Collection of Mods for Cataclysm: Dark Days Ahead
 
 To install, place DracoDogMods folder in your /data/mods/ folder.
 
 ### Armoring:
+
 * Basic system implemented in core DDA by mlangsdorf.
 * Only protective values are altered, so there are no changes to dodge/health/speed at this time.
 
-* OLD: You can add or remove armor through crafting menu with Kevlar vest (transform into dog harness) or Kevlar dog harness and one crated dog. You will have to activate dog after crafting completed. Essentially improves health (significantly), adds armor to bash/cut, lowers dodge (by 1) and speed (mainly by weight, heavier dogs aren't as affected whereas smaller dogs are affected more heavily).
+* OLD: You can add or remove armor through crafting menu with Kevlar vest (transform into dog harness) or Kevlar dog
+  harness and one crated dog. You will have to activate dog after crafting completed. Essentially improves health (
+  significantly), adds armor to bash/cut, lowers dodge (by 1) and speed (mainly by weight, heavier dogs aren't as
+  affected whereas smaller dogs are affected more heavily).
 
 ### Training:
-* Basic system (will eventually be expanded: either specific training that leads to "certified" attack dog [train dodge, train special attacks, train melee, etc that requires sufficient player skill and survival] or incremental stages [partially trained dog -> semi-trained dog -> nearly-trained dog -> attack dog]).
-* You need suitable skill (attempting under skill requirements will result in constant failures and wasted time), dog whistle, dog food and crated dog.
+
+* Basic system (will eventually be expanded: either specific training that leads to "certified" attack
+  dog [train dodge, train special attacks, train melee, etc that requires sufficient player skill and survival] or
+  incremental stages [partially trained dog -> semi-trained dog -> nearly-trained dog -> attack dog]).
+* You need suitable skill (attempting under skill requirements will result in constant failures and wasted time), dog
+  whistle, dog food and crated dog.
 * Training will take significant time (4 hours, subject to change).
-* Essentially improves aggression, damage, dodge (by 1), health (slightly), morale, speed. May add "LUNGE" attack and/or remove "HIT_AND_RUN" depending on breed.
+* Essentially improves aggression, damage, dodge (by 1), health (slightly), morale, speed. May add "LUNGE" attack and/or
+  remove "HIT_AND_RUN" depending on breed.
 
 ### Morale:
-* Added playing with pets in core DDA. May update to increase bonus if playing with "GUILT" flags or preferences (when implemented).
+
+* Added playing with pets in core DDA. May update to increase bonus if playing with "GUILT" flags or preferences (when
+  implemented).
 * Additionally seek to add "fetch" or other type of activities with pets.
 
 Changelog:
@@ -69,7 +81,8 @@ Changelog:
 
 - Updated dog entries to more closely mirror DDA master and cleaned up with proportion/relative flags.
 
-- Added Australian Cattle Dog, Great Pyrenees (debug spawn only for now) and Rottweiler (debug spawn only for now) entries and associated armored/attack/armoredattack.
+- Added Australian Cattle Dog, Great Pyrenees (debug spawn only for now) and Rottweiler (debug spawn only for now)
+  entries and associated armored/attack/armoredattack.
 
 - Removed duplicate biosig compared to DDA master.
 
@@ -87,7 +100,8 @@ Changelog:
 
 #### 0.4c
 
-- Removed obsolete files (some parts are now in vanilla gameplay). May cause issues on first load; should be able to save and reload with no more errors.
+- Removed obsolete files (some parts are now in vanilla gameplay). May cause issues on first load; should be able to
+  save and reload with no more errors.
 
 - Updated harvest for proper values with recent vanilla changes.
 
@@ -111,20 +125,24 @@ Changelog:
 
 - Corrected a lot of descriptions to better detail what you can do with item as well as fixed the nouns.
 
-- Added new animal shelter location - somewhat frequent as veterinarian clinics with items more geared towards pets. Good location to find rare pets.
+- Added new animal shelter location - somewhat frequent as veterinarian clinics with items more geared towards pets.
+  Good location to find rare pets.
 
-- Added new animal pound location - somewhat frequent as veterinarian clinics with items more geared towards pets. Good location to find pets.
+- Added new animal pound location - somewhat frequent as veterinarian clinics with items more geared towards pets. Good
+  location to find pets.
 
-- Altered armoring dogs to use tailoring 1 if using Kevlar dog harness, otherwise you can now craft Kevlar dog harnesses by repurposing Kevlar vests.
+- Altered armoring dogs to use tailoring 1 if using Kevlar dog harness, otherwise you can now craft Kevlar dog harnesses
+  by repurposing Kevlar vests.
 
 - Adjusted dog stats.
 
-- Removed breeding due to vanilla breeding ability [no longer manual, but automatic. May want to kennel dogs to replenish supply].
+- Removed breeding due to vanilla breeding
+  ability [no longer manual, but automatic. May want to kennel dogs to replenish supply].
 
 #### 0.3
 
-- Added new category 'Animals' with subcategories 'Canine Armor/Breeding/Training'
-to control some of the bloat and clogging up normal categories.
+- Added new category 'Animals' with subcategories 'Canine Armor/Breeding/Training' to control some of the bloat and
+  clogging up normal categories.
 
 - Changed "sleep" to "crated" syntax to improve vocabulary and not be creepy.
 

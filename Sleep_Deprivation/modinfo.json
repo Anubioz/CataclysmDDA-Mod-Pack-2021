@@ -3,11 +3,17 @@
     "id": "sleepdeprivation",
     "type": "MOD_INFO",
     "name": "Sleep Deprivation",
-    "authors": [ "Kevin Giovinazzo" ],
-    "maintainers": [ "Kevin Giovinazzo" ],
+    "authors": [
+      "Kevin Giovinazzo"
+    ],
+    "maintainers": [
+      "Kevin Giovinazzo"
+    ],
     "description": "Enables sleep deprivation mechanics independently of a player's fatigue.",
     "category": "rebalance",
     "obsolete": false,
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

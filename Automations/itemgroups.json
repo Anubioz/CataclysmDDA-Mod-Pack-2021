@@ -2,6 +2,11 @@
   {
     "id": "electronics",
     "type": "item_group",
-    "items": [ [ "civ_UPS_off", 10 ] ]
+    "items": [
+      [
+        "civ_UPS_off",
+        10
+      ]
+    ]
   }
 ]

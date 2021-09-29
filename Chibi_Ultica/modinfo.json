@@ -3,11 +3,19 @@
     "id": "Chibi_Ultica",
     "type": "MOD_INFO",
     "name": "Chibi Ultica",
-    "authors": [ "Mshock777", "Xotto", "SomeDeadGuy" ],
-    "maintainers": [ "Fris0uman" ],
+    "authors": [
+      "Mshock777",
+      "Xotto",
+      "SomeDeadGuy"
+    ],
+    "maintainers": [
+      "Fris0uman"
+    ],
     "description": "Uses Character, and Monster sprites from MSX with the UlticaShell tileset.",
     "category": "graphical",
     "obsolete": false,
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

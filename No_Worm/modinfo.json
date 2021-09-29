@@ -5,10 +5,14 @@
     "name": "No Worms",
     "description": "Removes all worms from the game.",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "monsters": [ "mon_worm" ]
+    "monsters": [
+      "mon_worm"
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  
+**Table of Contents**
 
 - [PoraComp](#poracomp)
 - [Version 1.5.1](#version-151)
@@ -16,14 +16,14 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # PoraComp
-The PoraComp mod is a json only endeavour that aims to complile all my mods into one place, plus a few extra tidbits aimed at an intuitive gameplay experience. 
-Ideas, suggestions and other such mentions are more than welcome and I can be reached by email at poragonplays@gmail.com
 
+The PoraComp mod is a json only endeavour that aims to complile all my mods into one place, plus a few extra tidbits
+aimed at an intuitive gameplay experience. Ideas, suggestions and other such mentions are more than welcome and I can be
+reached by email at poragonplays@gmail.com
 
 Detailed Changelogs;
 
-
-#Version 1.5.2
+# Version 1.5.2
 
 Poracomp Additions
 
@@ -32,20 +32,19 @@ Poracomp Additions
 	Added insulated canteen
 	Added insulated 2.5L canteen
 
-
 # Version 1.5.1
 
 No Freeze Additions
 
 	Fixed egg_bird copy-from
-	
+
 BioCo Additions
 
 	Moved MagTec content to BioCo
 	Added fire extinguisher bionic
 
-
 # Version 1.5 Corprate Take-Over (11/10/2018)
+
 # !Expected Error! Upon first load after updating "Synthetic Base" recipie will pop an error. After a save and exist issue with be resolved.
 
 All Around Additions
@@ -55,7 +54,7 @@ All Around Additions
 No-Freeze Additions
 
 	Added imitation peanutbutter to no freeze list
-	
+
 PoraComp Additions
 
 	Moved medicines/foods, related recipies, and related effects to BioCo
@@ -66,7 +65,7 @@ PoraComp Additions
 	Buffed holo cloak by making it repairable
 		- Mainly so you can wear it in style
 	Properly moved obsolete items to obsolete folder
-	
+
 BioCo Additions (Whoo Boy)
 
 	Added BioCo AutoDoc item
@@ -104,7 +103,6 @@ MutEx Additions
 	Added Twisted Hulk
 		Hulk, but without eyes and with good ears. Also has a nasty-er pain filled slap and a terrifying piercing attack.
 
-
 # Version 1.4 The refactoring (10/5/2018)
 
 New Additions
@@ -115,12 +113,12 @@ New Additions
 		-https://github.com/Poragon/No-Freeze
 	Added BioCo mod
 		-https://github.com/Poragon/BioCo/blob/master/README.md
-		
+
 Rebalances
 
 	Buffed Bioco Food Bar calorie count.
 	Buffed UPS Pouch to hold 4 seperate UPS units at once
-	
+
 MagTec Additions
 
 	Added MagTec Revolver Rifle
@@ -133,8 +131,7 @@ MagTec Additions
 		- Electricity use is now consistent based on a 20% efficiency rate and a 372.6 J/UPS-charge ratio for UPS/Projectile weapons
 	Moved damage over to guns for UPS/Projectile weapons
 		- Damage and recoil values applied to the gun instead of ammo for UPS/Projectile weapons
-		
-	
+
 # Version 1.3.3 (9/9/2018)
 
 New Additions
@@ -166,20 +163,18 @@ New Additions
 		- Replacement for all survivor hoods
 		- 7 Enc 4 Bash 6 Cut 2 Acid 4 Fire 5 Env
 		- Can be worn over helmets \o/
-	
-	
+
 Rebalances
-	
+
 	Completely re-did survivor armor, with a focus on a generalist set that is not the best in the game. See new additions for detail
 	Blacklisted old survivor armor
 	Nerfed XE037 healing, included mutagen in recipie
 	Blacklisted obsolete revolver crossbow line (archery/crossbow update fixed the inate imbalance)
-	
+
 Removals
-	
+
 	Removed Nutrient Cubes (stable and unstable)
 
-	
 # Version 1.3 (8/24/2018)
 
 New Additions
@@ -188,13 +183,13 @@ New Additions
 	- An immediate healing item that punishes rapid doses
 	- Added recipie for item
 	- Added effect for item
-	
+
 Rebalances
 
 	Emergency Trauma Foam nerfed and updated for new system, no longer has instant healing but instead good bandage/disinfect power
 	Coilgun was given a three round burst fire
 	Removed surviour hood changes from 1.2
-	
+
 Tweaks
 
 	Removed optionals entirely
@@ -203,16 +198,13 @@ Tweaks
 # Version 1.2 (5/1/2018)
 
 Rebalances
-	
+
         Buffed survivour hoods (can now be worn with helmets)
-	
-	
-	
-	
+
 # Version 1.1 (3/15/2018)
 
 New Additions
-	
+
     Added Emergency Trauma Foam
 		- Heals like pre-nerf disinfectant, along with a !painkiller effect! and the ability to stop bleeding
 		- No more bathing in easy to craft disinfectant to fight bullet wounds
@@ -223,23 +215,18 @@ New Additions
 		- Tent wall door thingy
 	Added recipie for centrifuge
 		- Possible later use, currently no actual reason to make it
-	
 
 Rebalances
-	
+
     Nerfed healing power of disinfectant and antiseptic powder by 60%
 	Increase Stable Nutrient Cube decay time from 1 to 3 days
 	Increased batch time second factor for Synthetic Nutrient Base, Stable Nutrient Cube, and Unstable Nutrient Cube to 5 from 3 (Slower batch crafting)
 	Increased Revolver Crossbow and Pre-Load Revolver Crossbow damage, reduced dispersion
 
-
-
-
-
 # Version 1.0 (3/14/2018)
 
 Content Additions
-	
+
     Added Pre-Load Revolver Crossbow
 		- A crossbow that uses a magazine system to allow for fighting larger numbers at once, though has a lower base damage than normal crossbow.
 		- So long as magazine supply is maintained this weapon is basically an upgraded repeater crossbow.
@@ -268,14 +255,14 @@ Content Additions
 		- Added recipie for item
 	Added a recipie for Heavy Duty Cables
 		- Allows more linking of electrical systems among vehicles.
-	
+
 Rebalances
-	
+
     Reduced time on combat nails (fletchette) recipie
 	(Optionals) Changed around bionic slot balance
 	Changed MRB vests to the strapped layer of clothing
-	
+
 Tweaks
-	
+
         Added UPS_Mag flag to UPS_off and UPS_adv_off for UPS Pouch use
 	(Optionals) Changed tileset.json to allow for use with MshockXotto+

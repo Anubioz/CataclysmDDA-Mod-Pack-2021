@@ -40,9 +40,30 @@
             "........................",
             "........................"
           ],
-          "terrain": { ".": "t_grass", "O": "t_living_wood_wall" },
-          "furniture": { "H": "f_hay", "#": "f_table", "h": "f_chair" },
-          "place_monsters": [ { "monster": "GROUP_FOREST", "chance": 2, "x": [ 3, 5 ], "y": [ 10, 12 ], "density": 0.15 } ]
+          "terrain": {
+            ".": "t_grass",
+            "O": "t_living_wood_wall"
+          },
+          "furniture": {
+            "H": "f_hay",
+            "#": "f_table",
+            "h": "f_chair"
+          },
+          "place_monsters": [
+            {
+              "monster": "GROUP_FOREST",
+              "chance": 2,
+              "x": [
+                3,
+                5
+              ],
+              "y": [
+                10,
+                12
+              ],
+              "density": 0.15
+            }
+          ]
         }
       }
     ]
@@ -50,12 +71,34 @@
   {
     "id": "elf_house_1",
     "type": "overmap_special",
-    "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "elf_house_1_north" } ],
-    "locations": [ "forest" ],
-    "city_distance": [ 20, -1 ],
-    "city_sizes": [ 4, 12 ],
-    "occurrences": [ 0, 30 ],
+    "overmaps": [
+      {
+        "point": [
+          0,
+          0,
+          0
+        ],
+        "overmap": "elf_house_1_north"
+      }
+    ],
+    "locations": [
+      "forest"
+    ],
+    "city_distance": [
+      20,
+      -1
+    ],
+    "city_sizes": [
+      4,
+      12
+    ],
+    "occurrences": [
+      0,
+      30
+    ],
     "rotate": false,
-    "flags": [ "CLASSIC" ]
+    "flags": [
+      "CLASSIC"
+    ]
   }
 ]

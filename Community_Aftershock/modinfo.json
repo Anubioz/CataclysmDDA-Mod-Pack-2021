@@ -3,10 +3,16 @@
     "id": "community_aftershock",
     "type": "MOD_INFO",
     "name": "Community Aftershock",
-    "authors": [ "Esther" ],
-    "maintainers": [ "Esther" ],
+    "authors": [
+      "Esther"
+    ],
+    "maintainers": [
+      "Esther"
+    ],
     "description": "Drifts the game away from realism and more towards sci-fi.  NOTE: Incompatible with Bright Nights. Community driven extension!",
     "category": "content",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

@@ -5,13 +5,25 @@
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_CONTAINERS",
     "skill_used": "fabrication",
-    "skills_required": [ "fabrication", 1 ],
+    "skills_required": [
+      "fabrication",
+      1
+    ],
     "difficulty": 1,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "components": [ [ [ "bag_canvas", 1 ] ] ],
-    "flags": [ "BLIND_EASY" ]
+    "components": [
+      [
+        [
+          "bag_canvas",
+          1
+        ]
+      ]
+    ],
+    "flags": [
+      "BLIND_EASY"
+    ]
   },
   {
     "result": "ammo_box_nail",
@@ -19,13 +31,25 @@
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_CONTAINERS",
     "skill_used": "fabrication",
-    "skills_required": [ "fabrication", 1 ],
+    "skills_required": [
+      "fabrication",
+      1
+    ],
     "difficulty": 1,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "components": [ [ [ "box_small", 1 ] ] ],
-    "flags": [ "BLIND_EASY" ]
+    "components": [
+      [
+        [
+          "box_small",
+          1
+        ]
+      ]
+    ],
+    "flags": [
+      "BLIND_EASY"
+    ]
   },
   {
     "result": "ammo_box_9mm",
@@ -33,13 +57,25 @@
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
     "skill_used": "fabrication",
-    "skills_required": [ "fabrication", 1 ],
+    "skills_required": [
+      "fabrication",
+      1
+    ],
     "difficulty": 1,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "components": [ [ [ "box_small", 1 ] ] ],
-    "flags": [ "BLIND_EASY" ]
+    "components": [
+      [
+        [
+          "box_small",
+          1
+        ]
+      ]
+    ],
+    "flags": [
+      "BLIND_EASY"
+    ]
   },
   {
     "result": "ammo_box_shot",
@@ -47,13 +83,25 @@
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
     "skill_used": "fabrication",
-    "skills_required": [ "fabrication", 1 ],
+    "skills_required": [
+      "fabrication",
+      1
+    ],
     "difficulty": 1,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "components": [ [ [ "box_small", 1 ] ] ],
-    "flags": [ "BLIND_EASY" ]
+    "components": [
+      [
+        [
+          "box_small",
+          1
+        ]
+      ]
+    ],
+    "flags": [
+      "BLIND_EASY"
+    ]
   },
   {
     "result": "ammo_box_223",
@@ -61,13 +109,25 @@
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
     "skill_used": "fabrication",
-    "skills_required": [ "fabrication", 1 ],
+    "skills_required": [
+      "fabrication",
+      1
+    ],
     "difficulty": 1,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "components": [ [ [ "box_small", 1 ] ] ],
-    "flags": [ "BLIND_EASY" ]
+    "components": [
+      [
+        [
+          "box_small",
+          1
+        ]
+      ]
+    ],
+    "flags": [
+      "BLIND_EASY"
+    ]
   },
   {
     "result": "ammo_box_50",
@@ -75,12 +135,24 @@
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
     "skill_used": "fabrication",
-    "skills_required": [ "fabrication", 1 ],
+    "skills_required": [
+      "fabrication",
+      1
+    ],
     "difficulty": 1,
     "time": "2 s",
     "reversible": true,
     "autolearn": true,
-    "components": [ [ [ "box_small", 1 ] ] ],
-    "flags": [ "BLIND_EASY" ]
+    "components": [
+      [
+        [
+          "box_small",
+          1
+        ]
+      ]
+    ],
+    "flags": [
+      "BLIND_EASY"
+    ]
   }
 ]

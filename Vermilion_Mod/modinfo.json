@@ -3,9 +3,13 @@
     "id": "VermilionMod",
     "type": "MOD_INFO",
     "name": "The Vermilion Mod",
-    "authors": [ "Vermilion" ],
+    "authors": [
+      "Vermilion"
+    ],
     "description": "Adds a random assortment of over-the-top weapons, gear and risqué items for the depraved.",
     "category": "items",
-    "dependencies": [ "dda" ]
+    "dependencies": [
+      "dda"
+    ]
   }
 ]

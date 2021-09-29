@@ -5,7 +5,9 @@
     "name": "Zombie Nightvision",
     "description": "Gives all zombies perfect nightvision.",
     "category": "rebalance",
-    "dependencies": [ "dda" ],
+    "dependencies": [
+      "dda"
+    ],
     "obsolete": false
   },
   {

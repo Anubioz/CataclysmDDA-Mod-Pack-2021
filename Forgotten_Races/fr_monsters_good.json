@@ -2,12 +2,16 @@
   {
     "id": "mon_elf",
     "type": "MONSTER",
-    "name": { "str": "elf" },
+    "name": {
+      "str": "elf"
+    },
     "species": "ELF",
     "default_faction": "elf",
     "symbol": "E",
     "color": "white",
-    "material": [ "flesh" ],
+    "material": [
+      "flesh"
+    ],
     "diff": 6,
     "aggression": 30,
     "morale": 100,
@@ -24,18 +28,36 @@
     "hp": 100,
     "description": "A mystical elf. looks very agile and graceful.  ",
     "regen_morale": true,
-    "flags": [ "SEES", "HEARS", "SMELLS", "GOODHEARING", "WARM", "BONES" ],
-    "death_drops": { "groups": [ [ "default_elf_equipment", 100 ] ] }
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "GOODHEARING",
+      "WARM",
+      "BONES"
+    ],
+    "death_drops": {
+      "groups": [
+        [
+          "default_elf_equipment",
+          100
+        ]
+      ]
+    }
   },
   {
     "id": "mon_dwarf",
     "type": "MONSTER",
-    "name": { "str": "dwarf" },
+    "name": {
+      "str": "dwarf"
+    },
     "species": "DWARF",
     "default_faction": "dwarf",
     "symbol": "D",
     "color": "brown",
-    "material": [ "flesh" ],
+    "material": [
+      "flesh"
+    ],
     "diff": 16,
     "aggression": 50,
     "morale": 100,
@@ -52,18 +74,36 @@
     "hp": 200,
     "description": "A boisterous dwarf stumps out of the shadows of this cave.  ",
     "regen_morale": true,
-    "flags": [ "SEES", "HEARS", "SMELLS", "KEENNOSE", "WARM", "BONES" ],
-    "death_drops": { "groups": [ [ "default_dwarf_equipment", 100 ] ] }
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "KEENNOSE",
+      "WARM",
+      "BONES"
+    ],
+    "death_drops": {
+      "groups": [
+        [
+          "default_dwarf_equipment",
+          100
+        ]
+      ]
+    }
   },
   {
     "id": "mon_halfling",
     "type": "MONSTER",
-    "name": { "str": "halfling" },
+    "name": {
+      "str": "halfling"
+    },
     "species": "HALFLING",
     "default_faction": "halfling",
     "symbol": "H",
     "color": "brown",
-    "material": [ "flesh" ],
+    "material": [
+      "flesh"
+    ],
     "diff": 6,
     "aggression": 10,
     "morale": 50,
@@ -79,8 +119,28 @@
     "vision_night": 5,
     "hp": 30,
     "description": "A diminuitive halfling smiles up at you.  ",
-    "special_attacks": [ [ "BRANDISH", 10 ] ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BONES", "GROUP_MORALE", "SWARMS" ],
-    "death_drops": { "groups": [ [ "default_halfling_equipment", 100 ] ] }
+    "special_attacks": [
+      [
+        "BRANDISH",
+        10
+      ]
+    ],
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "WARM",
+      "BONES",
+      "GROUP_MORALE",
+      "SWARMS"
+    ],
+    "death_drops": {
+      "groups": [
+        [
+          "default_halfling_equipment",
+          100
+        ]
+      ]
+    }
   }
 ]
