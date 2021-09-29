@@ -3,13 +3,9 @@
     "id": "fern mod",
     "type": "MOD_INFO",
     "name": "fern mod",
-    "authors": [
-      "e1ven"
-    ],
+    "authors": [ "e1ven" ],
     "description": "Adds ferns to the game.",
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

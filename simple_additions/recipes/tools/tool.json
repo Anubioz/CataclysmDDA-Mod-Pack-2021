@@ -9,29 +9,11 @@
   "time": "45 s",
   "autolearn": true,
   "qualities": [
-    {
-      "id": "HAMMER",
-      "level": 1
-    }
+    { "id": "HAMMER", "level": 1 }
   ],
   "components": [
-    [
-      [
-        "scrap",
-        1
-      ]
-    ],
-    [
-      [
-        "rag",
-        1
-      ]
-    ],
-    [
-      [
-        "oil_lamp",
-        1
-      ]
-    ]
+    [ [ "scrap", 1 ] ],
+    [ [ "rag", 1 ] ],
+    [ [ "oil_lamp", 1 ] ]
   ]
 }

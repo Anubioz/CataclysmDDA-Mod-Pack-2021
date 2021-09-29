@@ -6,65 +6,19 @@
     "category": "CC_ELECTRONIC",
     "subcategory": "CSC_ELECTRONIC_PARTS",
     "skill_used": "electronics",
-    "skills_required": [
-      "fabrication",
-      1
-    ],
+    "skills_required": [ "fabrication", 1 ],
     "difficulty": 3,
     "time": "15 s",
     "reversible": true,
     "decomp_learn": 3,
-    "book_learn": [
-      [
-        "manual_electronics",
-        2
-      ],
-      [
-        "mag_electronics",
-        2
-      ]
-    ],
-    "using": [
-      [
-        "soldering_standard",
-        30
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "book_learn": [ [ "manual_electronics", 2 ], [ "mag_electronics", 2 ] ],
+    "using": [ [ "soldering_standard", 30 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "light_battery_cell",
-          15
-        ],
-        [
-          "light_plus_battery_cell",
-          10
-        ]
-      ],
-      [
-        [
-          "scrap",
-          12
-        ]
-      ],
-      [
-        [
-          "cable",
-          15
-        ]
-      ],
-      [
-        [
-          "box_small",
-          1
-        ]
-      ]
+      [ [ "light_battery_cell", 15 ], [ "light_plus_battery_cell", 10 ] ],
+      [ [ "scrap", 12 ] ],
+      [ [ "cable", 15 ] ],
+      [ [ "box_small", 1 ] ]
     ]
   }
 ]

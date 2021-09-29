@@ -2,17 +2,10 @@
   {
     "id": "summon_subzero_talons",
     "type": "SPELL",
-    "name": {
-      "str": "Subzero Talons"
-    },
+    "name": { "str": "Subzero Talons" },
     "description": "Your fingers stiffen as condensation freezes into claws, intensifying your naturally cold touch and protecting your hands from damage.",
-    "valid_targets": [
-      "none"
-    ],
-    "flags": [
-      "NO_LEGS",
-      "CONCENTRATE"
-    ],
+    "valid_targets": [ "none" ],
+    "flags": [ "NO_LEGS", "CONCENTRATE" ],
     "min_damage": 1,
     "max_damage": 1,
     "effect": "spawn_item",

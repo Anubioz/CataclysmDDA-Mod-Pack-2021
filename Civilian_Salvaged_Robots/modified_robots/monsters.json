@@ -4,9 +4,7 @@
     "type": "MONSTER",
     "copy-from": "mon_utilibot",
     "looks_like": "mon_utilibot",
-    "name": {
-      "str": "knight robot"
-    },
+    "name": { "str": "knight robot" },
     "color": "light_blue",
     "symbol": "R",
     "hp": 150,
@@ -23,9 +21,7 @@
     "melee_dice_sides": 6,
     "melee_cut": 16,
     "dodge": 4,
-    "anger_triggers": [
-      "HURT"
-    ],
+    "anger_triggers": [ "HURT" ],
     "revert_to_itype": "bot_utilibot_knight",
     "description": "A utility robot modified for melee combat. Walking with a broadsword at hand and steel plate in the most fragile spot it moves and fight like a knight."
   },
@@ -34,9 +30,7 @@
     "type": "MONSTER",
     "copy-from": "mon_utilibot",
     "looks_like": "mon_utilibot_butler",
-    "name": {
-      "str": "assasin robot"
-    },
+    "name": { "str": "assasin robot" },
     "color": "light_red",
     "symbol": "R",
     "hp": 50,
@@ -53,25 +47,17 @@
     "melee_dice_sides": 6,
     "melee_cut": 10,
     "dodge": 8,
-    "anger_triggers": [
-      "HURT"
-    ],
+    "anger_triggers": [ "HURT" ],
     "revert_to_itype": "bot_utilibot_assan",
     "description": "A butler robot modified for melee combat. It moves with precision and speed, with a tanto in hand this robot fights with a excelent form but it seems to be fragile.",
-    "extend": {
-      "flags": [
-        "HIT_AND_RUN"
-      ]
-    }
+    "extend": { "flags": [ "HIT_AND_RUN" ] }
   },
   {
     "id": "mon_utilibot_smasher",
     "type": "MONSTER",
     "copy-from": "mon_utilibot",
     "looks_like": "mon_utilibot_const",
-    "name": {
-      "str": "smasher robot"
-    },
+    "name": { "str": "smasher robot" },
     "color": "yellow",
     "symbol": "R",
     "hp": 350,
@@ -87,9 +73,7 @@
     "melee_dice": 1,
     "melee_dice_sides": 4,
     "dodge": 0,
-    "anger_triggers": [
-      "HURT"
-    ],
+    "anger_triggers": [ "HURT" ],
     "revert_to_itype": "bot_utilibot_smasher",
     "description": "A construction robot modified for melee combat. Moving slowly it carries a sledge hammer, the steel plates armoring it covers the entire robot, protecting every weakpoint."
   },
@@ -98,9 +82,7 @@
     "type": "MONSTER",
     "copy-from": "mon_utilibot",
     "looks_like": "mon_utilibot_fire",
-    "name": {
-      "str": "hellknight robot"
-    },
+    "name": { "str": "hellknight robot" },
     "color": "light_red",
     "symbol": "R",
     "hp": 150,
@@ -117,119 +99,74 @@
     "melee_dice_sides": 6,
     "melee_cut": 20,
     "dodge": 4,
-    "anger_triggers": [
-      "HURT"
-    ],
+    "anger_triggers": [ "HURT" ],
     "revert_to_itype": "bot_utilibot_hellknight",
     "description": "A firefighter robot modified for melee combat. With a broadsword ignited with fire it fights like a knight from hell."
   },
   {
     "id": "mon_roomba_boom",
     "type": "MONSTER",
-    "name": {
-      "str": "kamikaze roomba"
-    },
+    "name": { "str": "kamikaze roomba" },
     "description": "A modified roomba with a explosive charge on it. Researching to destroy it's target",
     "default_faction": "utility_bot",
-    "species": [
-      "ROBOT"
-    ],
+    "species": [ "ROBOT" ],
     "weight": "15 kg",
     "volume": "30 L",
     "hp": 45,
     "speed": 150,
-    "material": [
-      "plastic"
-    ],
+    "material": [ "plastic" ],
     "symbol": "O",
     "color": "light_red",
     "morale": 100,
     "aggression": 100,
-    "anger_triggers": [
-      "HURT"
-    ],
+    "anger_triggers": [ "HURT" ],
     "armor_bash": 4,
     "armor_cut": 4,
     "armor_fire": 0,
     "armor_acid": 0,
     "vision_day": 50,
-    "death_function": {
-      "corpse_type": "BROKEN"
-    },
+    "death_function": { "corpse_type": "BROKEN" },
     "revert_to_itype": "bot_roomba_boom",
-    "flags": [
-      "SEES",
-      "HEARS",
-      "ELECTRONIC",
-      "NO_BREATHE",
-      "PRIORITIZE_TARGETS",
-      "PATH_AVOID_DANGER_1"
-    ],
-    "starting_ammo": {
-      "grenade": 1
-    },
-    "special_attacks": [
-      [
-        "KAMIKAZE",
-        0
-      ]
-    ]
+    "flags": [ "SEES", "HEARS", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ],
+    "starting_ammo": { "grenade": 1 },
+    "special_attacks": [ [ "KAMIKAZE", 0 ] ]
   },
   {
     "id": "mon_doomba",
     "type": "MONSTER",
-    "name": {
-      "str": "doomba"
-    },
+    "name": { "str": "doomba" },
     "description": "A modified roomba with a FULL SIZE CHAINSAW ON IT! IT'LL RIP AND TEAR THROUGH IT'S ENEMIES!",
     "default_faction": "utility_bot",
-    "species": [
-      "ROBOT"
-    ],
+    "species": [ "ROBOT" ],
     "weight": "15 kg",
     "volume": "30 L",
     "hp": 45,
     "speed": 150,
-    "material": [
-      "plastic"
-    ],
+    "material": [ "plastic" ],
     "symbol": "O",
     "color": "light_red",
     "morale": 100,
     "aggression": 100,
-    "anger_triggers": [
-      "HURT"
-    ],
+    "anger_triggers": [ "HURT" ],
     "armor_bash": 4,
     "armor_cut": 4,
     "armor_fire": 0,
     "armor_acid": 0,
     "vision_day": 40,
-    "death_function": {
-      "corpse_type": "BROKEN"
-    },
+    "death_function": { "corpse_type": "BROKEN" },
     "revert_to_itype": "bot_doomba",
     "melee_dice": 2,
     "melee_dice_sides": 6,
     "melee_cut": 32,
     "dodge": 0,
-    "flags": [
-      "SEES",
-      "HEARS",
-      "ELECTRONIC",
-      "NO_BREATHE",
-      "PRIORITIZE_TARGETS",
-      "PATH_AVOID_DANGER_1"
-    ]
+    "flags": [ "SEES", "HEARS", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ]
   },
   {
     "id": "mon_grocery_killer",
     "type": "MONSTER",
     "copy-from": "mon_utilibot",
     "looks_like": "mon_grocerybot",
-    "name": {
-      "str": "grocery bot mk2"
-    },
+    "name": { "str": "grocery bot mk2" },
     "color": "light_blue",
     "symbol": "R",
     "hp": 100,
@@ -246,9 +183,7 @@
     "melee_dice_sides": 6,
     "melee_cut": 32,
     "dodge": 0,
-    "anger_triggers": [
-      "HURT"
-    ],
+    "anger_triggers": [ "HURT" ],
     "revert_to_itype": "bot_grocery_killer",
     "description": "A grocery bot modified for melee combat. It wields a chainsaw revving, moving slowly with a smile towards the clients to rip their flesh for not paying their bills."
   }

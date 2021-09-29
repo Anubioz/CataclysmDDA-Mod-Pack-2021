@@ -2,9 +2,7 @@
   {
     "id": "rc_money_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "cash fungus"
-    },
+    "name": { "str": "cash fungus" },
     "description": "A fungaloid that supposedly has a cash card in its body.",
     "hp": 1,
     "volume": "500 ml",
@@ -12,37 +10,23 @@
     "symbol": "o",
     "color": "light_gray",
     "default_faction": "fungus",
-    "species": [
-      "FUNGUS"
-    ],
+    "species": [ "FUNGUS" ],
     "bodytype": "blob",
     "speed": 0,
-    "material": [
-      "veggy"
-    ],
+    "material": [ "veggy" ],
     "dodge": 0,
     "armor_bash": 0,
     "armor_cut": 0,
     "armor_bullet": 0,
     "harvest": "exempt",
     "death_drops": "rc_drop_cashcard",
-    "death_function": {
-      "message": "The %s disappears.",
-      "corpse_type": "NO_CORPSE"
-    },
-    "flags": [
-      "NOHEAD",
-      "IMMOBILE",
-      "NO_BREATHE",
-      "PACIFIST"
-    ]
+    "death_function": { "message": "The %s disappears.", "corpse_type": "NO_CORPSE" },
+    "flags": [ "NOHEAD", "IMMOBILE", "NO_BREATHE", "PACIFIST" ]
   },
   {
     "id": "rc_22_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".22 ammo fungus"
-    },
+    "name": { "str": ".22 ammo fungus" },
     "description": "A fungaloid that supposedly has .22 ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_22"
@@ -50,9 +34,7 @@
   {
     "id": "rc_10mm_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "10mm ammo fungus"
-    },
+    "name": { "str": "10mm ammo fungus" },
     "description": "A fungaloid that supposedly has 10mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_10mm"
@@ -60,9 +42,7 @@
   {
     "id": "rc_12mm_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "12mm ammo fungus"
-    },
+    "name": { "str": "12mm ammo fungus" },
     "description": "A fungaloid that supposedly has 12mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_12mm"
@@ -70,9 +50,7 @@
   {
     "id": "rc_20x66_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "22x66 ammo fungus"
-    },
+    "name": { "str": "22x66 ammo fungus" },
     "description": "A fungaloid that supposedly has 22x66 ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_20x66"
@@ -80,9 +58,7 @@
   {
     "id": "rc_223_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".223 ammo fungus"
-    },
+    "name": { "str": ".223 ammo fungus" },
     "description": "A fungaloid that supposedly has .223 ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_223"
@@ -90,9 +66,7 @@
   {
     "id": "rc_270win_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".270 Winchester ammo fungus"
-    },
+    "name": { "str": ".270 Winchester ammo fungus" },
     "description": "A fungaloid that supposedly has .270 Winchester ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_270win"
@@ -100,9 +74,7 @@
   {
     "id": "rc_300win_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".300 Winchester ammo fungus"
-    },
+    "name": { "str": ".300 Winchester ammo fungus" },
     "description": "A fungaloid that supposedly has .300 Winchester ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_300win"
@@ -110,9 +82,7 @@
   {
     "id": "rc_3006spring_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".30-06 Springfield ammo fungus"
-    },
+    "name": { "str": ".30-06 Springfield ammo fungus" },
     "description": "A fungaloid that supposedly has .30-06 Springfield ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_3006spring"
@@ -120,9 +90,7 @@
   {
     "id": "rc_300blk_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".300 Blackout ammo fungus"
-    },
+    "name": { "str": ".300 Blackout ammo fungus" },
     "description": "A fungaloid that supposedly has .300 Blackout ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_300blk"
@@ -130,9 +98,7 @@
   {
     "id": "rc_308win_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".308 Winchester ammo fungus"
-    },
+    "name": { "str": ".308 Winchester ammo fungus" },
     "description": "A fungaloid that supposedly has .308 Winchester ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_308win"
@@ -140,9 +106,7 @@
   {
     "id": "rc_32acp_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".32 ACP ammo fungus"
-    },
+    "name": { "str": ".32 ACP ammo fungus" },
     "description": "A fungaloid that supposedly has .32 ACP ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_32acp"
@@ -150,9 +114,7 @@
   {
     "id": "rc_357mag_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".357 magnum ammo fungus"
-    },
+    "name": { "str": ".357 magnum ammo fungus" },
     "description": "A fungaloid that supposedly has .357 magnum ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_357mag"
@@ -160,9 +122,7 @@
   {
     "id": "rc_357sig_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".357 SIG ammo fungus"
-    },
+    "name": { "str": ".357 SIG ammo fungus" },
     "description": "A fungaloid that supposedly has .357 SIG ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_357sig"
@@ -170,9 +130,7 @@
   {
     "id": "rc_36navy_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".36 paper cartridge fungus"
-    },
+    "name": { "str": ".36 paper cartridge fungus" },
     "description": "A fungaloid that supposedly has .36 paper cartridge in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_36navy"
@@ -180,9 +138,7 @@
   {
     "id": "rc_38spec_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".38 ammo fungus"
-    },
+    "name": { "str": ".38 ammo fungus" },
     "description": "A fungaloid that supposedly has .38 ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_38spec"
@@ -190,9 +146,7 @@
   {
     "id": "rc_380acp_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".380 ACP fungus"
-    },
+    "name": { "str": ".380 ACP fungus" },
     "description": "A fungaloid that supposedly has .380 ACP in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_380acp"
@@ -200,9 +154,7 @@
   {
     "id": "rc_40sw_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".40 S&W fungus"
-    },
+    "name": { "str": ".40 S&W fungus" },
     "description": "A fungaloid that supposedly has .40 S&W in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_40sw"
@@ -210,9 +162,7 @@
   {
     "id": "rc_40x46gren_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "40x46mm grenade fungus"
-    },
+    "name": { "str": "40x46mm grenade fungus" },
     "description": "A fungaloid that supposedly has 40x46mm grenade in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_40x46gren"
@@ -220,9 +170,7 @@
   {
     "id": "rc_40x53gren_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "40x53mm grenade fungus"
-    },
+    "name": { "str": "40x53mm grenade fungus" },
     "description": "A fungaloid that supposedly has 40x53mm grenade in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_40x53gren"
@@ -230,9 +178,7 @@
   {
     "id": "rc_410000_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".410 000 ammo fungus"
-    },
+    "name": { "str": ".410 000 ammo fungus" },
     "description": "A fungaloid that supposedly has .410 000 ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_410000"
@@ -240,9 +186,7 @@
   {
     "id": "rc_44mag_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".44 Magnum ammo fungus"
-    },
+    "name": { "str": ".44 Magnum ammo fungus" },
     "description": "A fungaloid that supposedly has .44 Magnum ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_44mag"
@@ -250,9 +194,7 @@
   {
     "id": "rc_44army_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".44 paper cartridge fungus"
-    },
+    "name": { "str": ".44 paper cartridge fungus" },
     "description": "A fungaloid that supposedly has .44 paper cartridge in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_44army"
@@ -260,9 +202,7 @@
   {
     "id": "rc_45acp_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".45 ACP fungus"
-    },
+    "name": { "str": ".45 ACP fungus" },
     "description": "A fungaloid that supposedly has .45 ACP in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_45acp"
@@ -270,9 +210,7 @@
   {
     "id": "rc_454casu_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".454 Casull fungus"
-    },
+    "name": { "str": ".454 Casull fungus" },
     "description": "A fungaloid that supposedly has .454 Casull in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_454casu"
@@ -280,9 +218,7 @@
   {
     "id": "rc_4570_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".45-70 Government ammo fungus"
-    },
+    "name": { "str": ".45-70 Government ammo fungus" },
     "description": "A fungaloid that supposedly has .45-70 Government ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_4570"
@@ -290,9 +226,7 @@
   {
     "id": "rc_45colt_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".45 Colt ammo fungus"
-    },
+    "name": { "str": ".45 Colt ammo fungus" },
     "description": "A fungaloid that supposedly has .45 Colt ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_45colt"
@@ -300,9 +234,7 @@
   {
     "id": "rc_46mm_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "4.6x30mm ammo fungus"
-    },
+    "name": { "str": "4.6x30mm ammo fungus" },
     "description": "A fungaloid that supposedly has 4.6x30mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_46mm"
@@ -310,9 +242,7 @@
   {
     "id": "rc_460row_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".460 Rowland ammo fungus"
-    },
+    "name": { "str": ".460 Rowland ammo fungus" },
     "description": "A fungaloid that supposedly has .460 Rowland ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_460row"
@@ -320,9 +250,7 @@
   {
     "id": "rc_50bmg_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".50 BMG ammo fungus"
-    },
+    "name": { "str": ".50 BMG ammo fungus" },
     "description": "A fungaloid that supposedly has .50 BMG ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_50bmg"
@@ -330,9 +258,7 @@
   {
     "id": "rc_500mag_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".500 S&W Magnum ammo fungus"
-    },
+    "name": { "str": ".500 S&W Magnum ammo fungus" },
     "description": "A fungaloid that supposedly has .500 S&W Magnum ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_500mag"
@@ -340,9 +266,7 @@
   {
     "id": "rc_545x39_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "5.45x39mm ammo fungus"
-    },
+    "name": { "str": "5.45x39mm ammo fungus" },
     "description": "A fungaloid that supposedly has 5.45x39mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_545x39"
@@ -350,9 +274,7 @@
   {
     "id": "rc_57x28_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "5.7x28mm ammo fungus"
-    },
+    "name": { "str": "5.7x28mm ammo fungus" },
     "description": "A fungaloid that supposedly has 5.7x28mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_57x28"
@@ -360,9 +282,7 @@
   {
     "id": "rc_5x40_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "5x50mm ammo fungus"
-    },
+    "name": { "str": "5x50mm ammo fungus" },
     "description": "A fungaloid that supposedly has 5x50mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_5x40"
@@ -370,9 +290,7 @@
   {
     "id": "rc_66rock_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "66mm ammo fungus"
-    },
+    "name": { "str": "66mm ammo fungus" },
     "description": "A fungaloid that supposedly has 66mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_66rock"
@@ -380,9 +298,7 @@
   {
     "id": "rc_700nitro_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": ".700 Nitro Express ammo fungus"
-    },
+    "name": { "str": ".700 Nitro Express ammo fungus" },
     "description": "A fungaloid that supposedly has .700 Nitro Express ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_700nitro"
@@ -390,9 +306,7 @@
   {
     "id": "rc_762x39_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "7.62x39mm ammo fungus"
-    },
+    "name": { "str": "7.62x39mm ammo fungus" },
     "description": "A fungaloid that supposedly has 7.62x39mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_762x39"
@@ -400,9 +314,7 @@
   {
     "id": "rc_762x54_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "7.62x54mmR ammo fungus"
-    },
+    "name": { "str": "7.62x54mmR ammo fungus" },
     "description": "A fungaloid that supposedly has 7.62x54mmR ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_762x54"
@@ -410,9 +322,7 @@
   {
     "id": "rc_762x25_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "7.62x25mm ammo fungus"
-    },
+    "name": { "str": "7.62x25mm ammo fungus" },
     "description": "A fungaloid that supposedly has 7.62x25mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_762x25"
@@ -420,9 +330,7 @@
   {
     "id": "rc_84x246_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "84x246mm ammo fungus"
-    },
+    "name": { "str": "84x246mm ammo fungus" },
     "description": "A fungaloid that supposedly has 84x246mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_84x246"
@@ -430,9 +338,7 @@
   {
     "id": "rc_8x40_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "8x40mm ammo fungus"
-    },
+    "name": { "str": "8x40mm ammo fungus" },
     "description": "A fungaloid that supposedly has 8x40mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_8x40"
@@ -440,9 +346,7 @@
   {
     "id": "rc_9x19_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "9x19mm ammo fungus"
-    },
+    "name": { "str": "9x19mm ammo fungus" },
     "description": "A fungaloid that supposedly has 9x19mm ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_9x19"
@@ -450,9 +354,7 @@
   {
     "id": "rc_9x18maka_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "9x18mm Makarov ammo fungus"
-    },
+    "name": { "str": "9x18mm Makarov ammo fungus" },
     "description": "A fungaloid that supposedly has 9x18mm Makarov ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_9x18maka"
@@ -460,9 +362,7 @@
   {
     "id": "rc_atgm_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "ATGM HEAT ammo fungus"
-    },
+    "name": { "str": "ATGM HEAT ammo fungus" },
     "description": "A fungaloid that supposedly has ATGM HEAT ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_atgm"
@@ -470,9 +370,7 @@
   {
     "id": "rc_barbpara_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "paralyzing barbs fungus"
-    },
+    "name": { "str": "paralyzing barbs fungus" },
     "description": "A fungaloid that supposedly has paralyzing barbs in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_barbpara"
@@ -480,9 +378,7 @@
   {
     "id": "rc_cannon_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "cannon shots fungus"
-    },
+    "name": { "str": "cannon shots fungus" },
     "description": "A fungaloid that supposedly has cannon shots in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_cannon"
@@ -490,9 +386,7 @@
   {
     "id": "rc_gas_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "sprayable gas fungus"
-    },
+    "name": { "str": "sprayable gas fungus" },
     "description": "A fungaloid that supposedly has sprayable gas in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_gas"
@@ -500,9 +394,7 @@
   {
     "id": "rc_1231n_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "12.31n ammo fungus"
-    },
+    "name": { "str": "12.31n ammo fungus" },
     "description": "A fungaloid that supposedly has 12.31n ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_1231n"
@@ -510,9 +402,7 @@
   {
     "id": "rc_rebarrail_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "rebar ammo fungus"
-    },
+    "name": { "str": "rebar ammo fungus" },
     "description": "A fungaloid that supposedly has rebar ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_rebarrail"
@@ -520,9 +410,7 @@
   {
     "id": "rc_paintball_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "paintball fungus"
-    },
+    "name": { "str": "paintball fungus" },
     "description": "A fungaloid that supposedly has paintball in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_paintball"
@@ -530,9 +418,7 @@
   {
     "id": "rc_rpg_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "RPG-7 ammo fungus"
-    },
+    "name": { "str": "RPG-7 ammo fungus" },
     "description": "A fungaloid that supposedly has RPG-7 ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_rpg"
@@ -540,9 +426,7 @@
   {
     "id": "rc_shotgun_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "shotgun ammo fungus"
-    },
+    "name": { "str": "shotgun ammo fungus" },
     "description": "A fungaloid that supposedly has shotgun ammo in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_shotgun"
@@ -550,9 +434,7 @@
   {
     "id": "rc_flare_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "signal flare fungus"
-    },
+    "name": { "str": "signal flare fungus" },
     "description": "A fungaloid that supposedly has signal flare in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_flare"
@@ -560,9 +442,7 @@
   {
     "id": "rc_cbm_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "compact bionic modules fungus"
-    },
+    "name": { "str": "compact bionic modules fungus" },
     "description": "A fungaloid that supposedly has compact bionic modules in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_cbm2"
@@ -570,9 +450,7 @@
   {
     "id": "rc_batterydispos_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "disposable battery fungus"
-    },
+    "name": { "str": "disposable battery fungus" },
     "description": "A fungaloid that supposedly has disposable battery in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "rc_drop_batterydispos"
@@ -580,9 +458,7 @@
   {
     "id": "rc_lab_library_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "labratory book fungus"
-    },
+    "name": { "str": "labratory book fungus" },
     "description": "A fungaloid that supposedly has labratoy books in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "lab_bookshelves"
@@ -590,9 +466,7 @@
   {
     "id": "rc_exotic_books_fungus",
     "type": "MONSTER",
-    "name": {
-      "str": "exotic book fungus"
-    },
+    "name": { "str": "exotic book fungus" },
     "description": "A fungaloid that supposedly has exotic books in its body.",
     "copy-from": "rc_money_fungus",
     "death_drops": "exotic_books"

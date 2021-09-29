@@ -5,14 +5,10 @@
     "name": "No Skeletal Juggernauts",
     "description": "Removes skeletal juggernauts from the game.",
     "category": "monster_exclude",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "monsters": [
-      "mon_skeleton_hulk"
-    ]
+    "monsters": [ "mon_skeleton_hulk" ]
   }
 ]

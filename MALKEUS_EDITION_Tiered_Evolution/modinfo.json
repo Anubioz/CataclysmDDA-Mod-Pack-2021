@@ -6,8 +6,6 @@
     "authors": "Malkeus",
     "description": "Makes game progressively harder by adding a third tier of evolutions.",
     "category": "rebalance",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

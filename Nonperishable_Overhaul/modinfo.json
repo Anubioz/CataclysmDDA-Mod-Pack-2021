@@ -3,16 +3,10 @@
     "id": "Nonperishable_Overhaul",
     "type": "MOD_INFO",
     "name": "Nonperishable Overhaul",
-    "authors": [
-      "Chaosvolt"
-    ],
-    "maintainers": [
-      "Chaosvolt"
-    ],
+    "authors": [ "Chaosvolt" ],
+    "maintainers": [ "Chaosvolt" ],
     "description": "Reduces excessive use of spoilage for non-perishables.",
     "category": "rebalance",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

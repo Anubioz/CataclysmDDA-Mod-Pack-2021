@@ -5,9 +5,7 @@
     "name": "<color_red>!!! 1. ADD THIS</color> (CataclysmDDA-Mod-Pack-2021)",
     "description": "\n<color_yellow>It will add all other supported mods in the correct order. You can remove this entry afterwards and safely remove any mods you don't like</color>",
     "category": "content",
-    "authors": [
-      "anubioz"
-    ],
+    "authors": [ "anubioz" ],
     "dependencies": [
       "dda",
       "anubioz_head",

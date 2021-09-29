@@ -10,20 +10,8 @@
     "time": "3 s",
     "autolearn": true,
     "reversible": true,
-    "using": [
-      [
-        "sewing_standard",
-        12
-      ]
-    ],
-    "components": [
-      [
-        [
-          "rag",
-          6
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 12 ] ],
+    "components": [ [ [ "rag", 6 ] ] ]
   },
   {
     "result": "wood_helmet",
@@ -35,44 +23,9 @@
     "difficulty": 3,
     "time": "4 s",
     "autolearn": true,
-    "byproducts": [
-      [
-        "splinter",
-        180
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "proficiencies": [
-      {
-        "proficiency": "prof_carving"
-      }
-    ],
-    "components": [
-      [
-        [
-          "log",
-          1
-        ]
-      ],
-      [
-        [
-          "cordage_short",
-          4,
-          "LIST"
-        ]
-      ],
-      [
-        [
-          "plant_cordage",
-          6,
-          "LIST"
-        ]
-      ]
-    ]
+    "byproducts": [ [ "splinter", 180 ] ],
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "proficiencies": [ { "proficiency": "prof_carving" } ],
+    "components": [ [ [ "log", 1 ] ], [ [ "cordage_short", 4, "LIST" ] ], [ [ "plant_cordage", 6, "LIST" ] ] ]
   }
 ]

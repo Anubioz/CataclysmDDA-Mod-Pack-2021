@@ -9,62 +9,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_alexa",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_alexa", 1 ] ] ]
   },
   {
     "result": "ring_gold_ame",
@@ -76,62 +24,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_ame",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_ame", 1 ] ] ]
   },
   {
     "result": "ring_gold_aqua",
@@ -143,62 +39,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_aqua",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_aqua", 1 ] ] ]
   },
   {
     "result": "ring_gold_cit",
@@ -210,62 +54,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_cit",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_cit", 1 ] ] ]
   },
   {
     "result": "ring_gold_eme",
@@ -277,62 +69,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_eme",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_eme", 1 ] ] ]
   },
   {
     "result": "ring_gold_gar",
@@ -344,62 +84,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_gar",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_gar", 1 ] ] ]
   },
   {
     "result": "ring_gold_jade",
@@ -411,62 +99,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_jade",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_jade", 1 ] ] ]
   },
   {
     "result": "ring_gold_lap",
@@ -478,62 +114,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_lap",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_lap", 1 ] ] ]
   },
   {
     "result": "ring_gold_moon",
@@ -545,62 +129,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_moon",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_moon", 1 ] ] ]
   },
   {
     "result": "ring_gold_mor",
@@ -612,62 +144,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_mor",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_mor", 1 ] ] ]
   },
   {
     "result": "ring_gold_onyx",
@@ -679,62 +159,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_onyx",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_onyx", 1 ] ] ]
   },
   {
     "result": "ring_gold_opal",
@@ -746,62 +174,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_opal",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_opal", 1 ] ] ]
   },
   {
     "result": "ring_gold_para",
@@ -813,62 +189,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_para",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_para", 1 ] ] ]
   },
   {
     "result": "ring_gold_peri",
@@ -880,62 +204,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_peri",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_peri", 1 ] ] ]
   },
   {
     "result": "ring_gold_rubel",
@@ -947,62 +219,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_rubel",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_rubel", 1 ] ] ]
   },
   {
     "result": "ring_gold_ruby",
@@ -1014,62 +234,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_ruby",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_ruby", 1 ] ] ]
   },
   {
     "result": "ring_gold_sapp",
@@ -1081,62 +249,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_sapp",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_sapp", 1 ] ] ]
   },
   {
     "result": "ring_gold_spi",
@@ -1148,62 +264,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_spi",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_spi", 1 ] ] ]
   },
   {
     "result": "ring_gold_tan",
@@ -1215,62 +279,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_tan",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_tan", 1 ] ] ]
   },
   {
     "result": "ring_gold_topaz",
@@ -1282,62 +294,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_topaz",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_topaz", 1 ] ] ]
   },
   {
     "result": "ring_gold_tour",
@@ -1349,62 +309,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_tour",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_tour", 1 ] ] ]
   },
   {
     "result": "ring_gold_turq",
@@ -1416,62 +324,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_turq",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_turq", 1 ] ] ]
   },
   {
     "result": "ring_gold_zir",
@@ -1483,62 +339,10 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_zir",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_zir", 1 ] ] ]
   },
   {
     "result": "ring_gold_rq",
@@ -1550,61 +354,9 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": false,
-    "book_learn": [
-      [
-        "book_gem",
-        6
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "ANVIL",
-        "level": 3
-      },
-      {
-        "id": "HAMMER",
-        "level": 3
-      },
-      {
-        "id": "CHISEL",
-        "level": 3
-      }
-    ],
-    "tools": [
-      [
-        [
-          "tongs",
-          -1
-        ]
-      ],
-      [
-        [
-          "swage",
-          -1
-        ]
-      ],
-      [
-        [
-          "forge",
-          50
-        ],
-        [
-          "oxy_torch",
-          10
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "gold_small",
-          3
-        ],
-        [
-          "gem_rq",
-          1
-        ]
-      ]
-    ]
+    "book_learn": [ [ "book_gem", 6 ] ],
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+    "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "forge", 50 ], [ "oxy_torch", 10 ] ] ],
+    "components": [ [ [ "gold_small", 3 ], [ "gem_rq", 1 ] ] ]
   }
 ]

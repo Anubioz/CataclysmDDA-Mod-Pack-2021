@@ -3,14 +3,9 @@
     "id": "service_weapon",
     "type": "MOD_INFO",
     "name": "Service Weapon",
-    "authors": [
-      "Firebrand"
-    ],
+    "authors": [ "Firebrand" ],
     "description": "Adds the morphing, alien Service Weapon.",
     "category": "items",
-    "dependencies": [
-      "dda",
-      "aftershock"
-    ]
+    "dependencies": [ "dda", "aftershock" ]
   }
 ]

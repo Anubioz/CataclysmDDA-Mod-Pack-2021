@@ -3,41 +3,22 @@
     "id": "No_Triffids",
     "type": "MOD_INFO",
     "name": "No Triffids",
-    "authors": [
-      "Williham Totland"
-    ],
+    "authors": [ "Williham Totland" ],
     "description": "Removes triffids from the game.",
     "category": "monster_exclude",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "categories": [
-      "GROUP_TRIFFID"
-    ]
+    "categories": [ "GROUP_TRIFFID" ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "monsters": [
-      "mon_triffid",
-      "mon_triffid_young",
-      "mon_fungal_fighter",
-      "mon_vinebeast",
-      "mon_triffid_queen",
-      "mon_triffid_heart"
-    ]
+    "monsters": [ "mon_triffid", "mon_triffid_young", "mon_fungal_fighter", "mon_vinebeast", "mon_triffid_queen", "mon_triffid_heart" ]
   },
   {
     "type": "region_overlay",
-    "regions": [
-      "all"
-    ],
-    "overmap_feature_flag_settings": {
-      "blacklist": [
-        "TRIFFID"
-      ]
-    }
+    "regions": [ "all" ],
+    "overmap_feature_flag_settings": { "blacklist": [ "TRIFFID" ] }
   }
 ]

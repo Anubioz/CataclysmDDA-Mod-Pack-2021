@@ -3,14 +3,10 @@
     "id": "no_pipe_guns",
     "type": "MOD_INFO",
     "name": "No Makeshift Firearms",
-    "authors": [
-      "Cyrano7"
-    ],
+    "authors": [ "Cyrano7" ],
     "description": "Removes crafted pipe and scrap metal firearms that fire conventional cartridges.",
     "category": "item_exclude",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   },
   {
     "type": "ITEM_BLACKLIST",

@@ -3,8 +3,6 @@
     "id": "gas_station",
     "type": "start_location",
     "name": "Gas Station",
-    "terrain": [
-      "gas_station"
-    ]
+    "terrain": [ "gas_station" ]
   }
 ]

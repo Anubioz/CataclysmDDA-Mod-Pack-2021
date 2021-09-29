@@ -3,14 +3,10 @@
     "type": "MOD_INFO",
     "id": "manual_slimesprings",
     "name": "Manual Slimesprings",
-    "authors": [
-      "Olaroll"
-    ],
+    "authors": [ "Olaroll" ],
     "description": "Disables automatic spawning of slimesprings",
     "category": "rebalance",
-    "dependencies": [
-      "dda"
-    ],
+    "dependencies": [ "dda" ],
     "version": "1.0"
   }
 ]

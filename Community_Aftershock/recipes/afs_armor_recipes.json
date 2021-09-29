@@ -8,38 +8,8 @@
     "difficulty": 3,
     "time": "400 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        18
-      ]
-    ],
-    "components": [
-      [
-        [
-          "bone",
-          18
-        ],
-        [
-          "bone_human",
-          18
-        ],
-        [
-          "bone_tainted",
-          36
-        ]
-      ],
-      [
-        [
-          "leather",
-          6
-        ],
-        [
-          "fur",
-          6
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 18 ] ],
+    "components": [ [ [ "bone", 18 ], [ "bone_human", 18 ], [ "bone_tainted", 36 ] ], [ [ "leather", 6 ], [ "fur", 6 ] ] ]
   },
   {
     "result": "afs_quilt_patchwork",
@@ -51,20 +21,8 @@
     "time": "20 s",
     "autolearn": true,
     "reversible": true,
-    "using": [
-      [
-        "sewing_standard",
-        80
-      ]
-    ],
-    "components": [
-      [
-        [
-          "felt_patch",
-          30
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 80 ] ],
+    "components": [ [ [ "felt_patch", 30 ] ] ]
   },
   {
     "result": "afs_boot_arrow_quiver",
@@ -74,36 +32,9 @@
     "skill_used": "fabrication",
     "time": "100 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        25
-      ]
-    ],
-    "byproducts": [
-      [
-        "leather",
-        8
-      ]
-    ],
-    "components": [
-      [
-        [
-          "thigh_high_boots",
-          1
-        ]
-      ],
-      [
-        [
-          "string_6",
-          3
-        ],
-        [
-          "rope_6",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 25 ] ],
+    "byproducts": [ [ "leather", 8 ] ],
+    "components": [ [ [ "thigh_high_boots", 1 ] ], [ [ "string_6", 3 ], [ "rope_6", 1 ] ] ]
   },
   {
     "result": "afs_boot_bolt_quiver",
@@ -113,36 +44,9 @@
     "skill_used": "fabrication",
     "time": "100 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        25
-      ]
-    ],
-    "byproducts": [
-      [
-        "leather",
-        8
-      ]
-    ],
-    "components": [
-      [
-        [
-          "thigh_high_boots",
-          1
-        ]
-      ],
-      [
-        [
-          "string_6",
-          3
-        ],
-        [
-          "rope_6",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 25 ] ],
+    "byproducts": [ [ "leather", 8 ] ],
+    "components": [ [ [ "thigh_high_boots", 1 ] ], [ [ "string_6", 3 ], [ "rope_6", 1 ] ] ]
   },
   {
     "result": "afs_brigandine_crafted",
@@ -153,39 +57,9 @@
     "difficulty": 3,
     "time": "250 s",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_armwest",
-        1
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        30
-      ]
-    ],
-    "components": [
-      [
-        [
-          "rag",
-          15
-        ]
-      ],
-      [
-        [
-          "sheet_metal_small",
-          6
-        ]
-      ],
-      [
-        [
-          "adhesive",
-          1,
-          "LIST"
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_armwest", 1 ] ],
+    "using": [ [ "sewing_standard", 30 ] ],
+    "components": [ [ [ "rag", 15 ] ], [ [ "sheet_metal_small", 6 ] ], [ [ "adhesive", 1, "LIST" ] ] ]
   },
   {
     "result": "afs_brigandine",
@@ -195,40 +69,10 @@
     "skill_used": "tailor",
     "difficulty": 4,
     "time": "10 s",
-    "book_learn": [
-      [
-        "textbook_armwest",
-        3
-      ]
-    ],
-    "tools": [
-      [
-        [
-          "cordless_drill",
-          20
-        ]
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        40
-      ]
-    ],
-    "components": [
-      [
-        [
-          "leather",
-          14
-        ]
-      ],
-      [
-        [
-          "sheet_metal_small",
-          8
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_armwest", 3 ] ],
+    "tools": [ [ [ "cordless_drill", 20 ] ] ],
+    "using": [ [ "sewing_standard", 40 ] ],
+    "components": [ [ [ "leather", 14 ] ], [ [ "sheet_metal_small", 8 ] ] ]
   },
   {
     "result": "afs_titanium_vest",
@@ -240,26 +84,8 @@
     "time": "100 s",
     "autolearn": true,
     "reversible": true,
-    "using": [
-      [
-        "sewing_standard",
-        14
-      ]
-    ],
-    "components": [
-      [
-        [
-          "afs_scrap_titanium",
-          8
-        ]
-      ],
-      [
-        [
-          "rag",
-          6
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 14 ] ],
+    "components": [ [ [ "afs_scrap_titanium", 8 ] ], [ [ "rag", 6 ] ] ]
   },
   {
     "result": "afs_mbr_titanium",
@@ -271,23 +97,8 @@
     "reversible": true,
     "decomp_learn": 0,
     "autolearn": true,
-    "components": [
-      [
-        [
-          "lsurvivor_armor",
-          1
-        ]
-      ],
-      [
-        [
-          "afs_scrap_titanium",
-          6
-        ]
-      ]
-    ],
-    "flags": [
-      "BLIND_EASY"
-    ]
+    "components": [ [ [ "lsurvivor_armor", 1 ] ], [ [ "afs_scrap_titanium", 6 ] ] ],
+    "flags": [ "BLIND_EASY" ]
   },
   {
     "result": "ear_plugs",
@@ -298,28 +109,8 @@
     "difficulty": 2,
     "time": "100 s",
     "autolearn": true,
-    "using": [
-      [
-        "surface_heat",
-        5,
-        "LIST"
-      ]
-    ],
-    "tools": [
-      [
-        [
-          "mold_plastic",
-          -1
-        ]
-      ]
-    ],
-    "components": [
-      [
-        [
-          "plastic_chunk",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "surface_heat", 5, "LIST" ] ],
+    "tools": [ [ [ "mold_plastic", -1 ] ] ],
+    "components": [ [ [ "plastic_chunk", 1 ] ] ]
   }
 ]

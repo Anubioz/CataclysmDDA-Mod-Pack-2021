@@ -8,35 +8,8 @@
     "skill_used": "tailor",
     "time": "90 s",
     "autolearn": true,
-    "qualities": [
-      {
-        "id": "SEW",
-        "level": 1
-      },
-      {
-        "id": "CUT",
-        "level": 1
-      },
-      {
-        "id": "LEATHER_AWL",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          6
-        ]
-      ],
-      [
-        [
-          "filament",
-          4,
-          "LIST"
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SEW", "level": 1 }, { "id": "CUT", "level": 1 }, { "id": "LEATHER_AWL", "level": 1 } ],
+    "components": [ [ [ "snake_skin", 6 ] ], [ [ "filament", 4, "LIST" ] ] ]
   },
   {
     "result": "tanned_allig_hide",
@@ -47,35 +20,8 @@
     "skill_used": "tailor",
     "time": "90 s",
     "autolearn": true,
-    "qualities": [
-      {
-        "id": "SEW",
-        "level": 1
-      },
-      {
-        "id": "CUT",
-        "level": 1
-      },
-      {
-        "id": "LEATHER_AWL",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          6
-        ]
-      ],
-      [
-        [
-          "filament",
-          4,
-          "LIST"
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SEW", "level": 1 }, { "id": "CUT", "level": 1 }, { "id": "LEATHER_AWL", "level": 1 } ],
+    "components": [ [ [ "allig_hide", 6 ] ], [ [ "filament", 4, "LIST" ] ] ]
   },
   {
     "result": "tanning_snake",
@@ -83,108 +29,24 @@
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",
-    "skills_required": [
-      "chemistry",
-      2
-    ],
+    "skills_required": [ "chemistry", 2 ],
     "difficulty": 3,
     "time": "48 s",
-    "batch_time_factors": [
-      20,
-      10
-    ],
+    "batch_time_factors": [ 20, 10 ],
     "autolearn": true,
     "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      },
-      {
-        "id": "COOK",
-        "level": 2
-      },
-      {
-        "id": "BOIL",
-        "level": 1
-      },
-      {
-        "id": "CONTAIN",
-        "level": 1
-      }
+      { "id": "CUT", "level": 1 },
+      { "id": "COOK", "level": 2 },
+      { "id": "BOIL", "level": 1 },
+      { "id": "CONTAIN", "level": 1 }
     ],
-    "tools": [
-      [
-        [
-          "surface_heat",
-          20,
-          "LIST"
-        ]
-      ]
-    ],
+    "tools": [ [ [ "surface_heat", 20, "LIST" ] ] ],
     "components": [
-      [
-        [
-          "water_clean",
-          2
-        ],
-        [
-          "water",
-          2
-        ]
-      ],
-      [
-        [
-          "tanbark",
-          1
-        ],
-        [
-          "acorns",
-          2
-        ],
-        [
-          "hops",
-          2
-        ],
-        [
-          "pine_bough",
-          6
-        ],
-        [
-          "brain",
-          3
-        ]
-      ],
-      [
-        [
-          "salt_water",
-          2
-        ],
-        [
-          "saline",
-          10
-        ],
-        [
-          "salt",
-          10
-        ]
-      ],
-      [
-        [
-          "edible_tallow_lard",
-          1,
-          "LIST"
-        ],
-        [
-          "tallow_tainted",
-          1
-        ]
-      ],
-      [
-        [
-          "cured_snake_skin",
-          6
-        ]
-      ]
+      [ [ "water_clean", 2 ], [ "water", 2 ] ],
+      [ [ "tanbark", 1 ], [ "acorns", 2 ], [ "hops", 2 ], [ "pine_bough", 6 ], [ "brain", 3 ] ],
+      [ [ "salt_water", 2 ], [ "saline", 10 ], [ "salt", 10 ] ],
+      [ [ "edible_tallow_lard", 1, "LIST" ], [ "tallow_tainted", 1 ] ],
+      [ [ "cured_snake_skin", 6 ] ]
     ]
   },
   {
@@ -193,108 +55,24 @@
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",
-    "skills_required": [
-      "chemistry",
-      2
-    ],
+    "skills_required": [ "chemistry", 2 ],
     "difficulty": 3,
     "time": "48 s",
-    "batch_time_factors": [
-      20,
-      10
-    ],
+    "batch_time_factors": [ 20, 10 ],
     "autolearn": true,
     "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      },
-      {
-        "id": "COOK",
-        "level": 2
-      },
-      {
-        "id": "BOIL",
-        "level": 1
-      },
-      {
-        "id": "CONTAIN",
-        "level": 1
-      }
+      { "id": "CUT", "level": 1 },
+      { "id": "COOK", "level": 2 },
+      { "id": "BOIL", "level": 1 },
+      { "id": "CONTAIN", "level": 1 }
     ],
-    "tools": [
-      [
-        [
-          "surface_heat",
-          20,
-          "LIST"
-        ]
-      ]
-    ],
+    "tools": [ [ [ "surface_heat", 20, "LIST" ] ] ],
     "components": [
-      [
-        [
-          "water_clean",
-          2
-        ],
-        [
-          "water",
-          2
-        ]
-      ],
-      [
-        [
-          "tanbark",
-          1
-        ],
-        [
-          "acorns",
-          2
-        ],
-        [
-          "hops",
-          2
-        ],
-        [
-          "pine_bough",
-          6
-        ],
-        [
-          "brain",
-          3
-        ]
-      ],
-      [
-        [
-          "salt_water",
-          2
-        ],
-        [
-          "saline",
-          10
-        ],
-        [
-          "salt",
-          10
-        ]
-      ],
-      [
-        [
-          "edible_tallow_lard",
-          1,
-          "LIST"
-        ],
-        [
-          "tallow_tainted",
-          1
-        ]
-      ],
-      [
-        [
-          "cured_allig_hide",
-          6
-        ]
-      ]
+      [ [ "water_clean", 2 ], [ "water", 2 ] ],
+      [ [ "tanbark", 1 ], [ "acorns", 2 ], [ "hops", 2 ], [ "pine_bough", 6 ], [ "brain", 3 ] ],
+      [ [ "salt_water", 2 ], [ "saline", 10 ], [ "salt", 10 ] ],
+      [ [ "edible_tallow_lard", 1, "LIST" ], [ "tallow_tainted", 1 ] ],
+      [ [ "cured_allig_hide", 6 ] ]
     ]
   },
   {
@@ -303,41 +81,12 @@
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",
-    "skills_required": [
-      "chemistry",
-      1
-    ],
+    "skills_required": [ "chemistry", 1 ],
     "difficulty": 1,
     "time": "5 s",
     "autolearn": true,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "salt_water",
-          1
-        ],
-        [
-          "saline",
-          2
-        ],
-        [
-          "salt",
-          2
-        ]
-      ],
-      [
-        [
-          "raw_snake_skin",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "salt_water", 1 ], [ "saline", 2 ], [ "salt", 2 ] ], [ [ "raw_snake_skin", 1 ] ] ]
   },
   {
     "result": "cured_allig_hide",
@@ -345,41 +94,12 @@
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",
-    "skills_required": [
-      "chemistry",
-      1
-    ],
+    "skills_required": [ "chemistry", 1 ],
     "difficulty": 1,
     "time": "5 s",
     "autolearn": true,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "salt_water",
-          1
-        ],
-        [
-          "saline",
-          2
-        ],
-        [
-          "salt",
-          2
-        ]
-      ],
-      [
-        [
-          "raw_allig_hide",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "salt_water", 1 ], [ "saline", 2 ], [ "salt", 2 ] ], [ [ "raw_allig_hide", 1 ] ] ]
   },
   {
     "result": "sleeveless_snake_duster",
@@ -390,34 +110,9 @@
     "difficulty": 6,
     "time": "3 m",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_tailor",
-        4
-      ],
-      [
-        "tailor_portfolio",
-        4
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        50
-      ]
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          25
-        ],
-        [
-          "tanned_snake_skin",
-          4
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "tailor_portfolio", 4 ] ],
+    "using": [ [ "sewing_standard", 50 ] ],
+    "components": [ [ [ "snake_skin", 25 ], [ "tanned_snake_skin", 4 ] ] ]
   },
   {
     "result": "sleeveless_snake_duster",
@@ -428,29 +123,10 @@
     "skill_used": "tailor",
     "time": "6 s",
     "autolearn": true,
-    "byproducts": [
-      [
-        "snake_skin",
-        4
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "flags": [
-      "NO_RESIZE"
-    ],
-    "components": [
-      [
-        [
-          "snake_duster",
-          1
-        ]
-      ]
-    ]
+    "byproducts": [ [ "snake_skin", 4 ] ],
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "flags": [ "NO_RESIZE" ],
+    "components": [ [ [ "snake_duster", 1 ] ] ]
   },
   {
     "result": "snake_duster",
@@ -461,34 +137,9 @@
     "difficulty": 6,
     "time": "3 m",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_tailor",
-        4
-      ],
-      [
-        "tailor_portfolio",
-        4
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        60
-      ]
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          29
-        ],
-        [
-          "tanned_snake_skin",
-          5
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "tailor_portfolio", 4 ] ],
+    "using": [ [ "sewing_standard", 60 ] ],
+    "components": [ [ [ "snake_skin", 29 ], [ "tanned_snake_skin", 5 ] ] ]
   },
   {
     "result": "snake_jacket",
@@ -499,34 +150,9 @@
     "difficulty": 5,
     "time": "2 m",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_tailor",
-        4
-      ],
-      [
-        "manual_tailor",
-        3
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        30
-      ]
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          18
-        ],
-        [
-          "tanned_snake_skin",
-          3
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "manual_tailor", 3 ] ],
+    "using": [ [ "sewing_standard", 30 ] ],
+    "components": [ [ [ "snake_skin", 18 ], [ "tanned_snake_skin", 3 ] ] ]
   },
   {
     "result": "sleeveless_allig_duster",
@@ -537,34 +163,9 @@
     "difficulty": 6,
     "time": "3 m",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_tailor",
-        4
-      ],
-      [
-        "tailor_portfolio",
-        4
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        50
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          25
-        ],
-        [
-          "tanned_allig_hide",
-          4
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "tailor_portfolio", 4 ] ],
+    "using": [ [ "sewing_standard", 50 ] ],
+    "components": [ [ [ "allig_hide", 25 ], [ "tanned_allig_hide", 4 ] ] ]
   },
   {
     "result": "sleeveless_heavy_allig_duster",
@@ -575,34 +176,9 @@
     "difficulty": 6,
     "time": "3 m",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_tailor",
-        4
-      ],
-      [
-        "tailor_portfolio",
-        4
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        50
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          30
-        ],
-        [
-          "tanned_allig_hide",
-          5
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "tailor_portfolio", 4 ] ],
+    "using": [ [ "sewing_standard", 50 ] ],
+    "components": [ [ [ "allig_hide", 30 ], [ "tanned_allig_hide", 5 ] ] ]
   },
   {
     "result": "sleeveless_allig_duster",
@@ -613,29 +189,10 @@
     "skill_used": "tailor",
     "time": "6 s",
     "autolearn": true,
-    "byproducts": [
-      [
-        "allig_hide",
-        4
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "flags": [
-      "NO_RESIZE"
-    ],
-    "components": [
-      [
-        [
-          "allig_duster",
-          1
-        ]
-      ]
-    ]
+    "byproducts": [ [ "allig_hide", 4 ] ],
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "flags": [ "NO_RESIZE" ],
+    "components": [ [ [ "allig_duster", 1 ] ] ]
   },
   {
     "result": "sleeveless_heavy_allig_duster",
@@ -646,29 +203,10 @@
     "skill_used": "tailor",
     "time": "6 s",
     "autolearn": true,
-    "byproducts": [
-      [
-        "allig_hide",
-        4
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "flags": [
-      "NO_RESIZE"
-    ],
-    "components": [
-      [
-        [
-          "heavy_allig_duster",
-          1
-        ]
-      ]
-    ]
+    "byproducts": [ [ "allig_hide", 4 ] ],
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "flags": [ "NO_RESIZE" ],
+    "components": [ [ [ "heavy_allig_duster", 1 ] ] ]
   },
   {
     "result": "allig_duster",
@@ -679,34 +217,9 @@
     "difficulty": 6,
     "time": "3 m",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_tailor",
-        4
-      ],
-      [
-        "tailor_portfolio",
-        4
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        60
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          29
-        ],
-        [
-          "tanned_allig_hide",
-          5
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "tailor_portfolio", 4 ] ],
+    "using": [ [ "sewing_standard", 60 ] ],
+    "components": [ [ [ "allig_hide", 29 ], [ "tanned_allig_hide", 5 ] ] ]
   },
   {
     "result": "heavy_allig_duster",
@@ -717,34 +230,9 @@
     "difficulty": 6,
     "time": "3 m",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_tailor",
-        4
-      ],
-      [
-        "tailor_portfolio",
-        4
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        60
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          32
-        ],
-        [
-          "tanned_allig_hide",
-          6
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "tailor_portfolio", 4 ] ],
+    "using": [ [ "sewing_standard", 60 ] ],
+    "components": [ [ [ "allig_hide", 32 ], [ "tanned_allig_hide", 6 ] ] ]
   },
   {
     "result": "allig_jacket",
@@ -755,34 +243,9 @@
     "difficulty": 5,
     "time": "2 m",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_tailor",
-        4
-      ],
-      [
-        "manual_tailor",
-        3
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        30
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          18
-        ],
-        [
-          "tanned_allig_hide",
-          3
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "manual_tailor", 3 ] ],
+    "using": [ [ "sewing_standard", 30 ] ],
+    "components": [ [ [ "allig_hide", 18 ], [ "tanned_allig_hide", 3 ] ] ]
   },
   {
     "result": "heavy_allig_jacket",
@@ -793,34 +256,9 @@
     "difficulty": 5,
     "time": "2 m",
     "autolearn": true,
-    "book_learn": [
-      [
-        "textbook_tailor",
-        4
-      ],
-      [
-        "manual_tailor",
-        3
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        30
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          24
-        ],
-        [
-          "tanned_allig_hide",
-          4
-        ]
-      ]
-    ]
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "manual_tailor", 3 ] ],
+    "using": [ [ "sewing_standard", 30 ] ],
+    "components": [ [ [ "allig_hide", 24 ], [ "tanned_allig_hide", 4 ] ] ]
   },
   {
     "result": "snake_belt",
@@ -830,24 +268,8 @@
     "skill_used": "tailor",
     "time": "8 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        12
-      ]
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          6
-        ],
-        [
-          "tanned_snake_skin",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 12 ] ],
+    "components": [ [ [ "snake_skin", 6 ], [ "tanned_snake_skin", 1 ] ] ]
   },
   {
     "result": "allig_belt",
@@ -857,24 +279,8 @@
     "skill_used": "tailor",
     "time": "8 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        12
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          6
-        ],
-        [
-          "tanned_allig_hide",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 12 ] ],
+    "components": [ [ [ "allig_hide", 6 ], [ "tanned_allig_hide", 1 ] ] ]
   },
   {
     "result": "snake_hood",
@@ -885,19 +291,8 @@
     "difficulty": 1,
     "time": "12 s",
     "autolearn": true,
-    "tools": [],
-    "components": [
-      [
-        [
-          "snake_skin",
-          6
-        ],
-        [
-          "tanned_snake_skin",
-          1
-        ]
-      ]
-    ]
+    "tools": [  ],
+    "components": [ [ [ "snake_skin", 6 ], [ "tanned_snake_skin", 1 ] ] ]
   },
   {
     "result": "allig_hood",
@@ -908,19 +303,8 @@
     "difficulty": 1,
     "time": "12 s",
     "autolearn": true,
-    "tools": [],
-    "components": [
-      [
-        [
-          "allig_hide",
-          6
-        ],
-        [
-          "tanned_allig_hide",
-          1
-        ]
-      ]
-    ]
+    "tools": [  ],
+    "components": [ [ [ "allig_hide", 6 ], [ "tanned_allig_hide", 1 ] ] ]
   },
   {
     "result": "heavy_allig_hood",
@@ -931,19 +315,8 @@
     "difficulty": 2,
     "time": "12 s",
     "autolearn": true,
-    "tools": [],
-    "components": [
-      [
-        [
-          "allig_hide",
-          12
-        ],
-        [
-          "tanned_allig_hide",
-          2
-        ]
-      ]
-    ]
+    "tools": [  ],
+    "components": [ [ [ "allig_hide", 12 ], [ "tanned_allig_hide", 2 ] ] ]
   },
   {
     "result": "snake_cloak",
@@ -952,31 +325,12 @@
     "subcategory": "CSC_ARMOR_SUIT",
     "skill_used": "tailor",
     "difficulty": 2,
-    "skills_required": [
-      "survival",
-      1
-    ],
+    "skills_required": [ "survival", 1 ],
     "time": "25 s",
     "reversible": true,
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        18
-      ]
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          15
-        ],
-        [
-          "tanned_snake_skin",
-          3
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 18 ] ],
+    "components": [ [ [ "snake_skin", 15 ], [ "tanned_snake_skin", 3 ] ] ]
   },
   {
     "result": "allig_cloak",
@@ -985,31 +339,12 @@
     "subcategory": "CSC_ARMOR_SUIT",
     "skill_used": "tailor",
     "difficulty": 2,
-    "skills_required": [
-      "survival",
-      1
-    ],
+    "skills_required": [ "survival", 1 ],
     "time": "25 s",
     "reversible": true,
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        18
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          15
-        ],
-        [
-          "tanned_allig_hide",
-          3
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 18 ] ],
+    "components": [ [ [ "allig_hide", 15 ], [ "tanned_allig_hide", 3 ] ] ]
   },
   {
     "result": "heavy_allig_cloak",
@@ -1018,31 +353,12 @@
     "subcategory": "CSC_ARMOR_SUIT",
     "skill_used": "tailor",
     "difficulty": 2,
-    "skills_required": [
-      "survival",
-      1
-    ],
+    "skills_required": [ "survival", 1 ],
     "time": "25 s",
     "reversible": true,
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        18
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          24
-        ],
-        [
-          "tanned_allig_hide",
-          4
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 18 ] ],
+    "components": [ [ [ "allig_hide", 24 ], [ "tanned_allig_hide", 4 ] ] ]
   },
   {
     "result": "snake_gloves",
@@ -1053,38 +369,9 @@
     "difficulty": 2,
     "time": "16 s",
     "autolearn": true,
-    "book_learn": [
-      [
-        "manual_tailor",
-        1
-      ],
-      [
-        "mag_tailor",
-        0
-      ],
-      [
-        "textbook_survival",
-        1
-      ],
-      [
-        "pocket_survival",
-        1
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        6
-      ]
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          2
-        ]
-      ]
-    ]
+    "book_learn": [ [ "manual_tailor", 1 ], [ "mag_tailor", 0 ], [ "textbook_survival", 1 ], [ "pocket_survival", 1 ] ],
+    "using": [ [ "sewing_standard", 6 ] ],
+    "components": [ [ [ "snake_skin", 2 ] ] ]
   },
   {
     "result": "allig_gloves",
@@ -1095,38 +382,9 @@
     "difficulty": 2,
     "time": "16 s",
     "autolearn": true,
-    "book_learn": [
-      [
-        "manual_tailor",
-        1
-      ],
-      [
-        "mag_tailor",
-        0
-      ],
-      [
-        "textbook_survival",
-        1
-      ],
-      [
-        "pocket_survival",
-        1
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        6
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          2
-        ]
-      ]
-    ]
+    "book_learn": [ [ "manual_tailor", 1 ], [ "mag_tailor", 0 ], [ "textbook_survival", 1 ], [ "pocket_survival", 1 ] ],
+    "using": [ [ "sewing_standard", 6 ] ],
+    "components": [ [ [ "allig_hide", 2 ] ] ]
   },
   {
     "result": "heavy_allig_gloves",
@@ -1137,38 +395,9 @@
     "difficulty": 2,
     "time": "16 s",
     "autolearn": true,
-    "book_learn": [
-      [
-        "manual_tailor",
-        1
-      ],
-      [
-        "mag_tailor",
-        0
-      ],
-      [
-        "textbook_survival",
-        1
-      ],
-      [
-        "pocket_survival",
-        1
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        6
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          4
-        ]
-      ]
-    ]
+    "book_learn": [ [ "manual_tailor", 1 ], [ "mag_tailor", 0 ], [ "textbook_survival", 1 ], [ "pocket_survival", 1 ] ],
+    "using": [ [ "sewing_standard", 6 ] ],
+    "components": [ [ [ "allig_hide", 4 ] ] ]
   },
   {
     "result": "snake_loincloth",
@@ -1178,20 +407,8 @@
     "skill_used": "tailor",
     "time": "3 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        12
-      ]
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          4
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 12 ] ],
+    "components": [ [ [ "snake_skin", 4 ] ] ]
   },
   {
     "result": "allig_loincloth",
@@ -1201,20 +418,8 @@
     "skill_used": "tailor",
     "time": "3 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        12
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          4
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 12 ] ],
+    "components": [ [ [ "allig_hide", 4 ] ] ]
   },
   {
     "result": "snake_pants",
@@ -1225,24 +430,8 @@
     "difficulty": 4,
     "time": "50 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        10
-      ]
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          10
-        ],
-        [
-          "tanned_snake_skin",
-          2
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [ [ [ "snake_skin", 10 ], [ "tanned_snake_skin", 2 ] ] ]
   },
   {
     "result": "allig_pants",
@@ -1253,24 +442,8 @@
     "difficulty": 4,
     "time": "50 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        10
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          10
-        ],
-        [
-          "tanned_allig_hide",
-          2
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [ [ [ "allig_hide", 10 ], [ "tanned_allig_hide", 2 ] ] ]
   },
   {
     "result": "heavy_allig_pants",
@@ -1281,24 +454,8 @@
     "difficulty": 4,
     "time": "50 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        10
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          16
-        ],
-        [
-          "tanned_allig_hide",
-          3
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [ [ [ "allig_hide", 16 ], [ "tanned_allig_hide", 3 ] ] ]
   },
   {
     "result": "snake_boots",
@@ -1309,24 +466,8 @@
     "difficulty": 2,
     "time": "35 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        10
-      ]
-    ],
-    "components": [
-      [
-        [
-          "snake_skin",
-          10
-        ],
-        [
-          "tanned_snake_skin",
-          2
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [ [ [ "snake_skin", 10 ], [ "tanned_snake_skin", 2 ] ] ]
   },
   {
     "result": "allig_boots",
@@ -1337,24 +478,8 @@
     "difficulty": 2,
     "time": "35 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        10
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          10
-        ],
-        [
-          "tanned_allig_hide",
-          2
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [ [ [ "allig_hide", 10 ], [ "tanned_allig_hide", 2 ] ] ]
   },
   {
     "result": "heavy_allig_boots",
@@ -1365,23 +490,7 @@
     "difficulty": 2,
     "time": "35 s",
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        10
-      ]
-    ],
-    "components": [
-      [
-        [
-          "allig_hide",
-          16
-        ],
-        [
-          "tanned_allig_hide",
-          3
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [ [ [ "allig_hide", 16 ], [ "tanned_allig_hide", 3 ] ] ]
   }
 ]

@@ -3,16 +3,10 @@
     "id": "tow_mod",
     "type": "MOD_INFO",
     "name": "Tow mod",
-    "authors": [
-      "TheGoatGod"
-    ],
-    "maintainers": [
-      "TheGoatGod"
-    ],
+    "authors": [ "TheGoatGod" ],
+    "maintainers": [ "TheGoatGod" ],
     "description": "Adds a lightweight tow rope to the game with crafting ability.",
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

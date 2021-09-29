@@ -3,13 +3,9 @@
     "id": "wet_morale_removed",
     "type": "MOD_INFO",
     "name": "Remove Wet/Dry Morale Effects",
-    "authors": [
-      "Mewb"
-    ],
+    "authors": [ "Mewb" ],
     "description": "Removes wet and dry morale effects because that should be the least of your worries in the apocalypse.",
     "category": "rebalance",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

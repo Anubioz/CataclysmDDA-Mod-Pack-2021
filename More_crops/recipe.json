@@ -10,20 +10,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "shot_hull_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "shot_hull_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(7.62x25mm)のレシピ",
@@ -36,20 +24,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "762_25_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "762_25_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(70口径/ニトロエクスプレス)のレシピ",
@@ -62,20 +38,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "700nx_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "700nx_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(5.45x39mm)のレシピ",
@@ -88,20 +52,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "545_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "545_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.50口径BMG)のレシピ",
@@ -114,20 +66,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "50_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "50_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.45口径/ACP)のレシピ",
@@ -139,20 +79,8 @@
     "difficulty": 0,
     "time": "50 s",
     "autolearn": true,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "45_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "45_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.40口径/S&W)のレシピ",
@@ -165,20 +93,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "40_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "40_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.38口径/スペシャル)のレシピ",
@@ -191,20 +107,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "38_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "38_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.32口径/ACP)のレシピ",
@@ -217,20 +121,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "32_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "32_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.308口径)のレシピ",
@@ -243,20 +135,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "308_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "308_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.30口径/ウィンチェスターマグナム)のレシピ",
@@ -269,20 +149,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "300_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "300_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.30-06口径)のレシピ",
@@ -295,20 +163,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "3006_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "3006_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.22口径/LR)のレシピ",
@@ -321,20 +177,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "22_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "22_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.223口径)のレシピ",
@@ -347,20 +191,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "223_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "223_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(7.62x54mm/R)のレシピ",
@@ -373,20 +205,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "762R_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "762R_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(7.62x39mm)のレシピ",
@@ -399,20 +219,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "762_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "762_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(9mm)のレシピ",
@@ -425,20 +233,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "9mm_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "9mm_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.454口径/カスール)のレシピ",
@@ -451,20 +247,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "454_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "454_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.44口径/マグナム)のレシピ",
@@ -477,20 +261,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "44_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "44_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(5.7x28mm)のレシピ",
@@ -503,20 +275,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "57mm_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "57mm_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(.50口径/S&Wマグナム)のレシピ",
@@ -529,20 +289,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "500_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "500_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(9x18mm)のレシピ",
@@ -555,20 +303,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "9x18mm_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "9x18mm_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(4.6x30mm)のレシピ",
@@ -581,20 +317,8 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "46mm_casing_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "46mm_casing_Chunk", 1 ] ] ]
   },
   {
     "//": "空薬莢(5x50)のレシピ",
@@ -607,19 +331,7 @@
     "time": "50 s",
     "autolearn": true,
     "result_mult": 50,
-    "qualities": [
-      {
-        "id": "CUT",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "5x50_hull_Chunk",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "5x50_hull_Chunk", 1 ] ] ]
   }
 ]

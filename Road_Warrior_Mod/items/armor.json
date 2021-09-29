@@ -2,68 +2,33 @@
   {
     "id": "jacket_road_warrior",
     "type": "ARMOR",
-    "name": {
-      "str": "road warrior jacket"
-    },
+    "name": { "str": "road warrior jacket" },
     "weight": "1550 g",
     "color": "dark_gray",
     "to_hit": 1,
     "symbol": "[",
     "description": "A tough leather jacket, equipped and armored to deal with the threats of the post-apocalytic world.",
     "price": "125 USD",
-    "material": [
-      "leather"
-    ],
+    "material": [ "leather" ],
     "volume": "5 L",
     "cutting": 0,
     "warmth": 30,
     "phase": "solid",
     "environmental_protection": 1,
     "bashing": 0,
-    "flags": [
-      "VARSIZE",
-      "POCKETS",
-      "OUTER"
-    ],
-    "armor": [
-      {
-        "encumbrance": 16,
-        "coverage": 90,
-        "covers": [
-          "torso",
-          "arm_l",
-          "arm_r"
-        ]
-      }
-    ],
+    "flags": [ "VARSIZE", "POCKETS", "OUTER" ],
+    "armor": [ { "encumbrance": 16, "coverage": 90, "covers": [ "torso", "arm_l", "arm_r" ] } ],
     "material_thickness": 4,
     "pocket_data": [
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "10 L",
-        "max_contains_weight": "10 kg",
-        "moves": 80
-      },
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "5 L",
-        "max_contains_weight": "5 kg",
-        "moves": 80
-      },
-      {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "5 L",
-        "max_contains_weight": "5 kg",
-        "moves": 80
-      }
+      { "pocket_type": "CONTAINER", "max_contains_volume": "10 L", "max_contains_weight": "10 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "5 L", "max_contains_weight": "5 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "5 L", "max_contains_weight": "5 kg", "moves": 80 }
     ]
   },
   {
     "id": "badge_MFP",
     "type": "ARMOR",
-    "name": {
-      "str": "MFP Officer badge"
-    },
+    "name": { "str": "MFP Officer badge" },
     "volume": "3 ml",
     "material_thickness": 0,
     "description": "A tarnished bronze shield gives an air of authority to the wearer.",
@@ -71,10 +36,7 @@
     "to_hit": 0,
     "color": "yellow",
     "price": "50 USD",
-    "material": [
-      "silver",
-      "bronze"
-    ],
+    "material": [ "silver", "bronze" ],
     "symbol": "[",
     "bashing": 0,
     "cutting": 0,
@@ -85,9 +47,7 @@
   {
     "id": "leg_brace",
     "type": "ARMOR",
-    "name": {
-      "str": "medical leg brace"
-    },
+    "name": { "str": "medical leg brace" },
     "weight": "570 g",
     "volume": "1250 ml",
     "price": "150 USD",
@@ -95,24 +55,9 @@
     "color": "dark_gray",
     "description": "A leather leg brace held together with steel pivots and rivets. Designed to help the wearer walk better.",
     "to_hit": -1,
-    "material": [
-      "leather",
-      "steel"
-    ],
-    "armor": [
-      {
-        "encumbrance": 0,
-        "coverage": 90,
-        "covers": [
-          "leg_l",
-          "leg_r"
-        ]
-      }
-    ],
-    "flags": [
-      "VARSIZE",
-      "OVERSIZE"
-    ],
+    "material": [ "leather", "steel" ],
+    "armor": [ { "encumbrance": 0, "coverage": 90, "covers": [ "leg_l", "leg_r" ] } ],
+    "flags": [ "VARSIZE", "OVERSIZE" ],
     "cutting": 0,
     "bashing": 0,
     "warmth": 0,

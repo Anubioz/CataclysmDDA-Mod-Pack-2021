@@ -5,12 +5,8 @@
     "name": "CataclysmDDA-Mod-Pack-2021 missing items restore",
     "description": "\n<color_yellow>Needed for correct work of the CataclysmDDA-Mod-Pack-2021 pack</color>",
     "category": "content",
-    "authors": [
-      "anubioz"
-    ],
-    "dependencies": [
-      "dda"
-    ],
+    "authors": [ "anubioz" ],
+    "dependencies": [ "dda" ],
     "path": ""
   }
 ]

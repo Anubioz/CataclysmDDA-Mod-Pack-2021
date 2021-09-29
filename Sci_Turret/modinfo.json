@@ -3,16 +3,10 @@
     "id": "sci_turret",
     "type": "MOD_INFO",
     "name": "Science Turret",
-    "authors": [
-      "Broken \"Spaghetti\" Admin"
-    ],
-    "maintainers": [
-      "Broken \"Spaghetti\"  Admin"
-    ],
+    "authors": [ "Broken \"Spaghetti\" Admin" ],
+    "maintainers": [ "Broken \"Spaghetti\"  Admin" ],
     "description": "Adds new factions and edits some pre-existing monsters.",
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

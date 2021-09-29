@@ -2,9 +2,7 @@
   {
     "id": "wood_elbow_pads",
     "type": "ARMOR",
-    "name": {
-      "str": "pair of wooden elbow pads"
-    },
+    "name": { "str": "pair of wooden elbow pads" },
     "description": "a pair of makeshift elbow pads made of wood and natural cordage",
     "weight": "200 g",
     "volume": "750 ml",
@@ -12,26 +10,12 @@
     "price_postapoc": "50 cent",
     "to_hit": -2,
     "bashing": 5,
-    "material": [
-      "wood"
-    ],
+    "material": [ "wood" ],
     "symbol": "[",
     "looks_like": "armguard_hard",
     "color": "yellow",
-    "armor": [
-      {
-        "encumbrance": 2,
-        "coverage": 30,
-        "covers": [
-          "arm_l",
-          "arm_r"
-        ]
-      }
-    ],
+    "armor": [ { "encumbrance": 2, "coverage": 30, "covers": [ "arm_l", "arm_r" ] } ],
     "material_thickness": 4,
-    "flags": [
-      "WATER_FRIENDLY",
-      "BELTED"
-    ]
+    "flags": [ "WATER_FRIENDLY", "BELTED" ]
   }
 ]

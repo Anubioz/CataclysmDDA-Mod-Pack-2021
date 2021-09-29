@@ -2,57 +2,37 @@
   {
     "id": "MAMMAL",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT",
-      "FIRE",
-      "FRIEND_DIED"
-    ]
+    "fear_triggers": [ "HURT", "FIRE", "FRIEND_DIED" ]
   },
   {
     "id": "AMPHIBIAN",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT",
-      "FIRE"
-    ]
+    "fear_triggers": [ "HURT", "FIRE" ]
   },
   {
     "id": "BIRD",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT",
-      "SOUND"
-    ]
+    "fear_triggers": [ "HURT", "SOUND" ]
   },
   {
     "id": "REPTILE",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT",
-      "FIRE"
-    ]
+    "fear_triggers": [ "HURT", "FIRE" ]
   },
   {
     "id": "FISH",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT",
-      "FRIEND_ATTACKED"
-    ]
+    "fear_triggers": [ "HURT", "FRIEND_ATTACKED" ]
   },
   {
     "id": "MUTANT",
     "type": "SPECIES",
-    "fear_triggers": [
-      "FIRE"
-    ]
+    "fear_triggers": [ "FIRE" ]
   },
   {
     "id": "NETHER",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT"
-    ]
+    "fear_triggers": [ "HURT" ]
   },
   {
     "type": "SPECIES",
@@ -61,55 +41,34 @@
   {
     "id": "FUNGUS",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT",
-      "FIRE"
-    ]
+    "fear_triggers": [ "HURT", "FIRE" ]
   },
   {
     "id": "INSECT",
     "type": "SPECIES",
-    "anger_triggers": [
-      "FRIEND_DIED"
-    ],
-    "fear_triggers": [
-      "HURT",
-      "FIRE"
-    ]
+    "anger_triggers": [ "FRIEND_DIED" ],
+    "fear_triggers": [ "HURT", "FIRE" ]
   },
   {
     "id": "SPIDER",
     "type": "SPECIES",
-    "anger_triggers": [
-      "FRIEND_DIED"
-    ],
-    "fear_triggers": [
-      "HURT",
-      "FIRE"
-    ]
+    "anger_triggers": [ "FRIEND_DIED" ],
+    "fear_triggers": [ "HURT", "FIRE" ]
   },
   {
     "id": "PLANT",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT",
-      "FIRE"
-    ]
+    "fear_triggers": [ "HURT", "FIRE" ]
   },
   {
     "id": "MOLLUSK",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT",
-      "FIRE"
-    ]
+    "fear_triggers": [ "HURT", "FIRE" ]
   },
   {
     "id": "WORM",
     "type": "SPECIES",
-    "fear_triggers": [
-      "HURT"
-    ]
+    "fear_triggers": [ "HURT" ]
   },
   {
     "type": "SPECIES",

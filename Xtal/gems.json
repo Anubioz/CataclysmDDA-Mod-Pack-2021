@@ -5,16 +5,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Alexandrite",
-      "str_pl": "Alexandrites"
-    },
+    "name": { "str": "Alexandrite", "str_pl": "Alexandrites" },
     "description": "A cool bluish mossy green in daylight. A warm raspberry tone in lamplight.",
     "price": "50 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "alexandrite"
-    ],
+    "material": [ "alexandrite" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -27,16 +22,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Amethyst",
-      "str_pl": "Amethysts"
-    },
+    "name": { "str": "Amethyst", "str_pl": "Amethysts" },
     "description": "The gem of a clear mind.",
     "price": "30 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "amethyst"
-    ],
+    "material": [ "amethyst" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -49,16 +39,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Aquamarine",
-      "str_pl": "Aquamarines"
-    },
+    "name": { "str": "Aquamarine", "str_pl": "Aquamarines" },
     "description": "The gem of youth.",
     "price": "30 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "aquamarine"
-    ],
+    "material": [ "aquamarine" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -71,16 +56,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Citrine",
-      "str_pl": "Citrines"
-    },
+    "name": { "str": "Citrine", "str_pl": "Citrines" },
     "description": "The gem of anti-poison.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "citrine"
-    ],
+    "material": [ "citrine" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -93,16 +73,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Emerald",
-      "str_pl": "Emeralds"
-    },
+    "name": { "str": "Emerald", "str_pl": "Emeralds" },
     "description": "The gem of fertility.",
     "price": "40 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "emerald"
-    ],
+    "material": [ "emerald" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -115,16 +90,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Garnet",
-      "str_pl": "Garnets"
-    },
+    "name": { "str": "Garnet", "str_pl": "Garnets" },
     "description": "The gem of safety.",
     "price": "1 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "garnet"
-    ],
+    "material": [ "garnet" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -137,16 +107,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Jade",
-      "str_pl": "Jades"
-    },
+    "name": { "str": "Jade", "str_pl": "Jades" },
     "description": "The gem of protection.",
     "price": "30 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "jade"
-    ],
+    "material": [ "jade" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -159,16 +124,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Lapis Lazuli",
-      "str_pl": "Lapis Lazulis"
-    },
+    "name": { "str": "Lapis Lazuli", "str_pl": "Lapis Lazulis" },
     "description": "The gem of freedom.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "lapis_lazuli"
-    ],
+    "material": [ "lapis_lazuli" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -181,16 +141,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Moonstone",
-      "str_pl": "Moonstones"
-    },
+    "name": { "str": "Moonstone", "str_pl": "Moonstones" },
     "description": "The gem of the moon.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "moonstone"
-    ],
+    "material": [ "moonstone" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -203,16 +158,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Morganite",
-      "str_pl": "Morganites"
-    },
+    "name": { "str": "Morganite", "str_pl": "Morganites" },
     "description": "The gem of divine love.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "morganite"
-    ],
+    "material": [ "morganite" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -225,16 +175,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Onyx",
-      "str_pl": "Onyxs"
-    },
+    "name": { "str": "Onyx", "str_pl": "Onyxs" },
     "description": "A fine black gemstone.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "onyx"
-    ],
+    "material": [ "onyx" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -247,16 +192,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Opal",
-      "str_pl": "Opals"
-    },
+    "name": { "str": "Opal", "str_pl": "Opals" },
     "description": "The queen of gems.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "opal"
-    ],
+    "material": [ "opal" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -269,16 +209,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Paraiba",
-      "str_pl": "Paraiba"
-    },
+    "name": { "str": "Paraiba", "str_pl": "Paraiba" },
     "description": "Gem of the seas.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "paraiba"
-    ],
+    "material": [ "paraiba" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -291,16 +226,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Peridot",
-      "str_pl": "Peridots"
-    },
+    "name": { "str": "Peridot", "str_pl": "Peridots" },
     "description": "The gem of a new world.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "peridot"
-    ],
+    "material": [ "peridot" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -313,16 +243,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Rubellite",
-      "str_pl": "Rubellite"
-    },
+    "name": { "str": "Rubellite", "str_pl": "Rubellite" },
     "description": "The gem of passion.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "rubellite"
-    ],
+    "material": [ "rubellite" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -335,16 +260,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Ruby",
-      "str_pl": "Rubys"
-    },
+    "name": { "str": "Ruby", "str_pl": "Rubys" },
     "description": "The king of gems.",
     "price": "15 kUSD",
     "price_postapoc": "150 cent",
-    "material": [
-      "ruby"
-    ],
+    "material": [ "ruby" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -357,16 +277,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Sapphire",
-      "str_pl": "Sappgires"
-    },
+    "name": { "str": "Sapphire", "str_pl": "Sappgires" },
     "description": "The gem of purity.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "sapphire"
-    ],
+    "material": [ "sapphire" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -379,16 +294,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Spinel",
-      "str_pl": "Spinels"
-    },
+    "name": { "str": "Spinel", "str_pl": "Spinels" },
     "description": "The gem of reconciliation.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "spinel"
-    ],
+    "material": [ "spinel" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -401,16 +311,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Tanzanite",
-      "str_pl": "Tanzanites"
-    },
+    "name": { "str": "Tanzanite", "str_pl": "Tanzanites" },
     "description": "The gem of Kilimanjaro.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "tanzanite"
-    ],
+    "material": [ "tanzanite" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -423,16 +328,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Topaz",
-      "str_pl": "Topazs"
-    },
+    "name": { "str": "Topaz", "str_pl": "Topazs" },
     "description": "The gem of the sun goddess.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "topaz"
-    ],
+    "material": [ "topaz" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -445,16 +345,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Tourmaline",
-      "str_pl": "Tourmalines"
-    },
+    "name": { "str": "Tourmaline", "str_pl": "Tourmalines" },
     "description": "The gem of many colors.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "tourmaline"
-    ],
+    "material": [ "tourmaline" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -467,16 +362,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Turquoise",
-      "str_pl": "Turquoises"
-    },
+    "name": { "str": "Turquoise", "str_pl": "Turquoises" },
     "description": "The gem of the ancients.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "turquoise"
-    ],
+    "material": [ "turquoise" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -489,16 +379,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Zircon",
-      "str_pl": "Zircons"
-    },
+    "name": { "str": "Zircon", "str_pl": "Zircons" },
     "description": "The gem of honor.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "zircon"
-    ],
+    "material": [ "zircon" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,
@@ -511,16 +396,11 @@
     "category": "spare_parts",
     "symbol": "*",
     "color": "white",
-    "name": {
-      "str": "Rose Quartz",
-      "str_pl": "Rose Quartz"
-    },
+    "name": { "str": "Rose Quartz", "str_pl": "Rose Quartz" },
     "description": "The gem of the princess.",
     "price": "10 kUSD",
     "price_postapoc": "1 USD",
-    "material": [
-      "rose_quartz"
-    ],
+    "material": [ "rose_quartz" ],
     "weight": "5 g",
     "volume": "250 ml",
     "count": 1,

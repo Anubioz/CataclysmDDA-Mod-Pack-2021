@@ -5,8 +5,6 @@
     "name": "More crops",
     "description": "Add crops that can take useful items.",
     "category": "buildings",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

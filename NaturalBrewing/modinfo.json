@@ -4,12 +4,8 @@
     "id": "Natural Brewing",
     "name": "Natural Brewing",
     "description": "Brew alcohol without access to modern materials like yeast.",
-    "authors": [
-      "Aira"
-    ],
+    "authors": [ "Aira" ],
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

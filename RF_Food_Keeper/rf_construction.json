@@ -6,14 +6,7 @@
     "category": "FURN",
     "difficulty": 0,
     "time": "40 s",
-    "components": [
-      [
-        [
-          "rf_food_keeper",
-          1
-        ]
-      ]
-    ],
+    "components": [ [ [ "rf_food_keeper", 1 ] ] ],
     "pre_special": "check_empty",
     "post_terrain": "f_rf_food_keeper"
   }

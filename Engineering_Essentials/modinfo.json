@@ -3,13 +3,9 @@
     "id": "EngineeringEssentials",
     "type": "MOD_INFO",
     "name": "Engineering essentials",
-    "authors": [
-      "Eila Attwood"
-    ],
+    "authors": [ "Eila Attwood" ],
     "description": "Some advanced (and not so advanced) engineering additions.",
     "category": "content",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

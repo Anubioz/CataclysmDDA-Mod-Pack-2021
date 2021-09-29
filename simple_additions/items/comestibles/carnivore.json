@@ -3,9 +3,7 @@
     "id": "offal_jerky",
     "copy-from": "flesh",
     "type": "COMESTIBLE",
-    "name": {
-      "str_sp": "offal jerky"
-    },
+    "name": { "str_sp": "offal jerky" },
     "description": "Salty dried offal that lasts for a long time, but will make you thirsty.",
     "primary_material": "cured_meat",
     "weight": "85 g",
@@ -19,35 +17,12 @@
     "quench": -5,
     "fun": -5,
     "calories": 348,
-    "vitamins": [
-      [
-        "vitA",
-        0
-      ],
-      [
-        "vitC",
-        0
-      ],
-      [
-        "calcium",
-        2
-      ],
-      [
-        "iron",
-        26
-      ],
-      [
-        "vitB",
-        35
-      ]
-    ]
+    "vitamins": [ [ "vitA", 0 ], [ "vitC", 0 ], [ "calcium", 2 ], [ "iron", 26 ], [ "vitB", 35 ] ]
   },
   {
     "type": "COMESTIBLE",
     "id": "dry_blood",
-    "name": {
-      "str": "dehydrated blood"
-    },
+    "name": { "str": "dehydrated blood" },
     "copy-from": "meat_cooked",
     "weight": "85 g",
     "color": "red",
@@ -59,8 +34,6 @@
     "price_postapoc": "3 USD",
     "primary_material": "cured_meat",
     "volume": "125 ml",
-    "flags": [
-      "EDIBLE_FROZEN"
-    ]
+    "flags": [ "EDIBLE_FROZEN" ]
   }
 ]

@@ -3,13 +3,9 @@
     "id": "safe_portable_autodoc",
     "type": "MOD_INFO",
     "name": "Safe Portable Autodoc",
-    "authors": [
-      "Fris0uman"
-    ],
+    "authors": [ "Fris0uman" ],
     "description": "A patch to make the Portable Autodoc mkII safe.",
     "category": "rebalance",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

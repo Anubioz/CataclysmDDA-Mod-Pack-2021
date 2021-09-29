@@ -3,20 +3,13 @@
     "id": "No_Fungus_failed_weapon",
     "type": "MOD_INFO",
     "name": "No_Fungus_failed_weapon",
-    "authors": [
-      "Ez"
-    ],
+    "authors": [ "Ez" ],
     "description": "Removes fungus_failed_weapon.",
     "category": "monster_exclude",
-    "dependencies": [
-      "dda",
-      "Cata++"
-    ]
+    "dependencies": [ "dda", "Cata++" ]
   },
   {
     "type": "MONSTER_BLACKLIST",
-    "monsters": [
-      "mon_fungus_failed_weapon"
-    ]
+    "monsters": [ "mon_fungus_failed_weapon" ]
   }
 ]

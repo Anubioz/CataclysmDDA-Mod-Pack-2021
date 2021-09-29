@@ -3,16 +3,10 @@
     "id": "climate_defying_farming",
     "type": "MOD_INFO",
     "name": "Climate Defying Farming",
-    "authors": [
-      "Maddremor"
-    ],
-    "maintainers": [
-      "TheGoatGod"
-    ],
+    "authors": [ "Maddremor" ],
+    "maintainers": [ "TheGoatGod" ],
     "description": "Adds different crops that would not grow in New England or are somewhat fantastical.",
     "category": "rebalance",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

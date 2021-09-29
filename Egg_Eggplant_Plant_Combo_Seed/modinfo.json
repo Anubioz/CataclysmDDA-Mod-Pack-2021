@@ -6,8 +6,6 @@
     "authors": "Maddremor",
     "description": "A plant that yields both eggs and eggplants.",
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

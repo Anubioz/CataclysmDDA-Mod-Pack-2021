@@ -5,12 +5,7 @@
     "name": "Sonic Boom",
     "description": "Adds Sonic Force spells",
     "category": "items",
-    "authors": [
-      "Mrsecretguy1/Kenan, Chaosvolt"
-    ],
-    "dependencies": [
-      "dda",
-      "magiclysm"
-    ]
+    "authors": [ "Mrsecretguy1/Kenan, Chaosvolt" ],
+    "dependencies": [ "dda", "magiclysm" ]
   }
 ]

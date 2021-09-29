@@ -3,13 +3,9 @@
     "id": "More_Tools",
     "type": "MOD_INFO",
     "name": "More tools",
-    "authors": [
-      "The Goat God"
-    ],
+    "authors": [ "The Goat God" ],
     "description": "This mod adds varius diffrent tools to the game",
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

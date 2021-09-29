@@ -9,49 +9,12 @@
     "difficulty": 2,
     "time": "60 s",
     "autolearn": true,
-    "qualities": [
-      {
-        "id": "HAMMER",
-        "level": 1
-      }
-    ],
-    "using": [
-      [
-        "welding_standard",
-        8
-      ]
-    ],
+    "qualities": [ { "id": "HAMMER", "level": 1 } ],
+    "using": [ [ "welding_standard", 8 ] ],
     "components": [
-      [
-        [
-          "duct_tape",
-          50
-        ]
-      ],
-      [
-        [
-          "grip_hook",
-          2
-        ]
-      ],
-      [
-        [
-          "rope_30",
-          1
-        ],
-        [
-          "rope_makeshift_30",
-          1
-        ],
-        [
-          "rope_6",
-          6
-        ],
-        [
-          "rope_makeshift_6",
-          6
-        ]
-      ]
+      [ [ "duct_tape", 50 ] ],
+      [ [ "grip_hook", 2 ] ],
+      [ [ "rope_30", 1 ], [ "rope_makeshift_30", 1 ], [ "rope_6", 6 ], [ "rope_makeshift_6", 6 ] ]
     ]
   },
   {
@@ -64,41 +27,8 @@
     "difficulty": 2,
     "time": "60 s",
     "autolearn": true,
-    "qualities": [
-      {
-        "id": "HAMMER",
-        "level": 1
-      }
-    ],
-    "using": [
-      [
-        "welding_standard",
-        8
-      ]
-    ],
-    "components": [
-      [
-        [
-          "duct_tape",
-          50
-        ]
-      ],
-      [
-        [
-          "grip_hook",
-          2
-        ]
-      ],
-      [
-        [
-          "belt_rope_30",
-          1
-        ],
-        [
-          "belt_rope_6",
-          6
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "HAMMER", "level": 1 } ],
+    "using": [ [ "welding_standard", 8 ] ],
+    "components": [ [ [ "duct_tape", 50 ] ], [ [ "grip_hook", 2 ] ], [ [ "belt_rope_30", 1 ], [ "belt_rope_6", 6 ] ] ]
   }
 ]

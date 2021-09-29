@@ -3,15 +3,10 @@
     "id": "no_encyclopedia",
     "type": "MOD_INFO",
     "name": "No Encyclopedia",
-    "authors": [
-      "Ez"
-    ],
+    "authors": [ "Ez" ],
     "description": "Removes encyclopedia from cata++",
     "category": "item_exclude",
-    "dependencies": [
-      "dda",
-      "Cata++"
-    ]
+    "dependencies": [ "dda", "Cata++" ]
   },
   {
     "type": "ITEM_BLACKLIST",

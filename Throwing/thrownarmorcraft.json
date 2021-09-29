@@ -6,38 +6,12 @@
     "subcategory": "CSC_ARMOR_ARMS",
     "skill_used": "tailor",
     "difficulty": 3,
-    "skills_required": [
-      [
-        "gun",
-        1
-      ],
-      [
-        "throw",
-        1
-      ]
-    ],
+    "skills_required": [ [ "gun", 1 ], [ "throw", 1 ] ],
     "time": "30 s",
     "reversible": true,
-    "book_learn": [
-      [
-        "crafting_throw",
-        3
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        20
-      ]
-    ],
-    "components": [
-      [
-        [
-          "leather",
-          4
-        ]
-      ]
-    ]
+    "book_learn": [ [ "crafting_throw", 3 ] ],
+    "using": [ [ "sewing_standard", 20 ] ],
+    "components": [ [ [ "leather", 4 ] ] ]
   },
   {
     "result": "knife_bandolier_wrist_strap",
@@ -46,38 +20,12 @@
     "subcategory": "CSC_ARMOR_HANDS",
     "skill_used": "tailor",
     "difficulty": 2,
-    "skills_required": [
-      [
-        "gun",
-        1
-      ],
-      [
-        "throw",
-        1
-      ]
-    ],
+    "skills_required": [ [ "gun", 1 ], [ "throw", 1 ] ],
     "time": "20 s",
     "reversible": true,
-    "book_learn": [
-      [
-        "crafting_throw",
-        3
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        10
-      ]
-    ],
-    "components": [
-      [
-        [
-          "leather",
-          2
-        ]
-      ]
-    ]
+    "book_learn": [ [ "crafting_throw", 3 ] ],
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [ [ [ "leather", 2 ] ] ]
   },
   {
     "result": "chest_knife_bandolier",
@@ -86,38 +34,12 @@
     "subcategory": "CSC_ARMOR_TORSO",
     "skill_used": "tailor",
     "difficulty": 3,
-    "skills_required": [
-      [
-        "gun",
-        1
-      ],
-      [
-        "throw",
-        1
-      ]
-    ],
+    "skills_required": [ [ "gun", 1 ], [ "throw", 1 ] ],
     "time": "45 s",
     "reversible": true,
-    "book_learn": [
-      [
-        "crafting_throw",
-        3
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        40
-      ]
-    ],
-    "components": [
-      [
-        [
-          "leather",
-          8
-        ]
-      ]
-    ]
+    "book_learn": [ [ "crafting_throw", 3 ] ],
+    "using": [ [ "sewing_standard", 40 ] ],
+    "components": [ [ [ "leather", 8 ] ] ]
   },
   {
     "result": "leg_knife_bandolier",
@@ -126,38 +48,12 @@
     "subcategory": "CSC_ARMOR_LEGS",
     "skill_used": "tailor",
     "difficulty": 2,
-    "skills_required": [
-      [
-        "gun",
-        1
-      ],
-      [
-        "throw",
-        1
-      ]
-    ],
+    "skills_required": [ [ "gun", 1 ], [ "throw", 1 ] ],
     "time": "30 s",
     "reversible": true,
-    "book_learn": [
-      [
-        "crafting_throw",
-        3
-      ]
-    ],
-    "using": [
-      [
-        "sewing_standard",
-        20
-      ]
-    ],
-    "components": [
-      [
-        [
-          "leather",
-          4
-        ]
-      ]
-    ]
+    "book_learn": [ [ "crafting_throw", 3 ] ],
+    "using": [ [ "sewing_standard", 20 ] ],
+    "components": [ [ [ "leather", 4 ] ] ]
   },
   {
     "result": "leather_belt_loop",
@@ -169,23 +65,7 @@
     "time": "15 s",
     "reversible": true,
     "autolearn": true,
-    "using": [
-      [
-        "sewing_standard",
-        12
-      ]
-    ],
-    "components": [
-      [
-        [
-          "leather_belt",
-          1
-        ],
-        [
-          "leather",
-          6
-        ]
-      ]
-    ]
+    "using": [ [ "sewing_standard", 12 ] ],
+    "components": [ [ [ "leather_belt", 1 ], [ "leather", 6 ] ] ]
   }
 ]

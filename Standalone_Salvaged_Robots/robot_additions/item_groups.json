@@ -2,11 +2,6 @@
   {
     "id": "paintball_items",
     "type": "item_group",
-    "items": [
-      [
-        "glowball",
-        45
-      ]
-    ]
+    "items": [ [ "glowball", 45 ] ]
   }
 ]

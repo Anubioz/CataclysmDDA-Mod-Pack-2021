@@ -2,17 +2,13 @@
   {
     "id": "mon_bandit_glock",
     "type": "MONSTER",
-    "name": {
-      "str": "Bandit"
-    },
+    "name": { "str": "Bandit" },
     "default_faction": "bandit_gun",
     "symbol": "@",
     "color": "red",
     "volume": "62500 ml",
     "weight": "81500 g",
-    "material": [
-      "flesh"
-    ],
+    "material": [ "flesh" ],
     "diff": 15,
     "aggression": 100,
     "morale": 100,
@@ -29,23 +25,10 @@
     "armor_acid": 1,
     "vision_day": 30,
     "vision_night": 8,
-    "death_drops": {
-      "subtype": "collection",
-      "groups": [
-        [
-          "bandit_glock",
-          100
-        ]
-      ]
-    },
-    "upgrades": {
-      "into": "mon_bandit_m1911",
-      "half_life": 21
-    },
+    "death_drops": { "subtype": "collection", "groups": [ [ "bandit_glock", 100 ] ] },
+    "upgrades": { "into": "mon_bandit_m1911", "half_life": 21 },
     "hp": 45,
-    "starting_ammo": {
-      "reloaded_9mm": 24
-    },
+    "starting_ammo": { "reloaded_9mm": 24 },
     "special_attacks": [
       {
         "type": "gun",
@@ -56,25 +39,10 @@
         "fake_str": 10,
         "fake_dex": 6,
         "fake_per": 5,
-        "fake_skills": [
-          [
-            "gun",
-            1
-          ],
-          [
-            "pistol",
-            2
-          ]
-        ],
+        "fake_skills": [ [ "gun", 1 ], [ "pistol", 2 ] ],
         "move_cost": 100,
         "targeting_cost": 45,
-        "ranges": [
-          [
-            5,
-            35,
-            "DEFAULT"
-          ]
-        ],
+        "ranges": [ [ 5, 35, "DEFAULT" ] ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -101,39 +69,21 @@
       "BONES",
       "PUSH_MON"
     ],
-    "anger_triggers": [
-      "HURT",
-      "FRIEND_ATTACKED",
-      "PLAYER_CLOSE"
-    ],
-    "fear_triggers": [
-      "FRIEND_DIED",
-      "SOUND",
-      "FIRE"
-    ],
-    "placate_triggers": [
-      "PLAYER_WEAK",
-      "SOUND",
-      "MEAT"
-    ],
-    "categories": [
-      "CLASSIC"
-    ]
+    "anger_triggers": [ "HURT", "FRIEND_ATTACKED", "PLAYER_CLOSE" ],
+    "fear_triggers": [ "FRIEND_DIED", "SOUND", "FIRE" ],
+    "placate_triggers": [ "PLAYER_WEAK", "SOUND", "MEAT" ],
+    "categories": [ "CLASSIC" ]
   },
   {
     "id": "mon_bandit_m1911",
     "type": "MONSTER",
-    "name": {
-      "str": "Highwayman"
-    },
+    "name": { "str": "Highwayman" },
     "default_faction": "bandit_gun",
     "symbol": "@",
     "color": "white",
     "volume": "62500 ml",
     "weight": "81500 g",
-    "material": [
-      "flesh"
-    ],
+    "material": [ "flesh" ],
     "diff": 15,
     "aggression": 100,
     "morale": 100,
@@ -150,23 +100,10 @@
     "armor_acid": 2,
     "vision_day": 40,
     "vision_night": 2,
-    "death_drops": {
-      "subtype": "collection",
-      "groups": [
-        [
-          "bandit_highway",
-          100
-        ]
-      ]
-    },
-    "upgrades": {
-      "into": "mon_bandit_smg",
-      "half_life": 28
-    },
+    "death_drops": { "subtype": "collection", "groups": [ [ "bandit_highway", 100 ] ] },
+    "upgrades": { "into": "mon_bandit_smg", "half_life": 28 },
     "hp": 60,
-    "starting_ammo": {
-      "45_acp": 24
-    },
+    "starting_ammo": { "45_acp": 24 },
     "special_attacks": [
       {
         "type": "gun",
@@ -177,25 +114,10 @@
         "fake_str": 11,
         "fake_dex": 8,
         "fake_per": 7,
-        "fake_skills": [
-          [
-            "gun",
-            2
-          ],
-          [
-            "pistol",
-            2
-          ]
-        ],
+        "fake_skills": [ [ "gun", 2 ], [ "pistol", 2 ] ],
         "move_cost": 150,
         "targeting_cost": 30,
-        "ranges": [
-          [
-            5,
-            35,
-            "DEFAULT"
-          ]
-        ],
+        "ranges": [ [ 5, 35, "DEFAULT" ] ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -222,39 +144,21 @@
       "BONES",
       "PUSH_MON"
     ],
-    "anger_triggers": [
-      "HURT",
-      "FRIEND_ATTACKED",
-      "PLAYER_CLOSE"
-    ],
-    "fear_triggers": [
-      "FRIEND_DIED",
-      "SOUND",
-      "FIRE"
-    ],
-    "placate_triggers": [
-      "PLAYER_WEAK",
-      "SOUND",
-      "MEAT"
-    ],
-    "categories": [
-      "CLASSIC"
-    ]
+    "anger_triggers": [ "HURT", "FRIEND_ATTACKED", "PLAYER_CLOSE" ],
+    "fear_triggers": [ "FRIEND_DIED", "SOUND", "FIRE" ],
+    "placate_triggers": [ "PLAYER_WEAK", "SOUND", "MEAT" ],
+    "categories": [ "CLASSIC" ]
   },
   {
     "id": "mon_bandit_smg",
     "type": "MONSTER",
-    "name": {
-      "str": "Outlaw"
-    },
+    "name": { "str": "Outlaw" },
     "default_faction": "bandit_gun",
     "symbol": "@",
     "color": "red",
     "volume": "62500 ml",
     "weight": "81500 g",
-    "material": [
-      "flesh"
-    ],
+    "material": [ "flesh" ],
     "diff": 20,
     "aggression": 100,
     "morale": 100,
@@ -271,19 +175,8 @@
     "armor_acid": 4,
     "vision_day": 45,
     "vision_night": 3,
-    "death_drops": {
-      "subtype": "collection",
-      "groups": [
-        [
-          "bandit_smg",
-          100
-        ]
-      ]
-    },
-    "upgrades": {
-      "into": "mon_bandit_alpha",
-      "half_life": 30
-    },
+    "death_drops": { "subtype": "collection", "groups": [ [ "bandit_smg", 100 ] ] },
+    "upgrades": { "into": "mon_bandit_alpha", "half_life": 30 },
     "hp": 90,
     "special_attacks": [
       {
@@ -296,25 +189,10 @@
         "fake_dex": 4,
         "fake_per": 3,
         "fake_int": 1,
-        "fake_skills": [
-          [
-            "gun",
-            3
-          ],
-          [
-            "smg",
-            4
-          ]
-        ],
+        "fake_skills": [ [ "gun", 3 ], [ "smg", 4 ] ],
         "move_cost": 115,
         "targeting_cost": 85,
-        "ranges": [
-          [
-            5,
-            35,
-            "AUTO"
-          ]
-        ],
+        "ranges": [ [ 5, 35, "AUTO" ] ],
         "require_targeting_player": true,
         "require_targeting_npc": true,
         "require_targeting_monster": true,
@@ -322,9 +200,7 @@
         "no_ammo_sound": "click, click, click"
       }
     ],
-    "starting_ammo": {
-      "9mm": 300
-    },
+    "starting_ammo": { "9mm": 300 },
     "description": "A crazed gunman out for blood, he doesn't hesitate to brandish his submachinegun at the mere hint of potential prey.",
     "flags": [
       "ATTACKMON",
@@ -342,23 +218,9 @@
       "BONES",
       "PUSH_MON"
     ],
-    "anger_triggers": [
-      "HURT",
-      "FRIEND_ATTACKED",
-      "PLAYER_CLOSE"
-    ],
-    "fear_triggers": [
-      "FRIEND_DIED",
-      "SOUND",
-      "FIRE"
-    ],
-    "placate_triggers": [
-      "PLAYER_WEAK",
-      "SOUND",
-      "MEAT"
-    ],
-    "categories": [
-      "CLASSIC"
-    ]
+    "anger_triggers": [ "HURT", "FRIEND_ATTACKED", "PLAYER_CLOSE" ],
+    "fear_triggers": [ "FRIEND_DIED", "SOUND", "FIRE" ],
+    "placate_triggers": [ "PLAYER_WEAK", "SOUND", "MEAT" ],
+    "categories": [ "CLASSIC" ]
   }
 ]

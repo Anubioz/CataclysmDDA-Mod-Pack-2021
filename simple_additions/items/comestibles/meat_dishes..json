@@ -2,9 +2,7 @@
   {
     "type": "COMESTIBLE",
     "id": "dry_offal",
-    "name": {
-      "str": "dehydrated offal"
-    },
+    "name": { "str": "dehydrated offal" },
     "copy-from": "meat_cooked",
     "weight": "85 g",
     "color": "red",
@@ -13,13 +11,9 @@
     "description": "Dehydrated offal flakes.  With proper storage, this dried food will remain edible for an incredibly long time.",
     "price": "9 USD",
     "price_postapoc": "3 USD",
-    "material": [
-      "flesh"
-    ],
+    "material": [ "flesh" ],
     "primary_material": "cured_meat",
     "volume": "125 ml",
-    "flags": [
-      "EDIBLE_FROZEN"
-    ]
+    "flags": [ "EDIBLE_FROZEN" ]
   }
 ]

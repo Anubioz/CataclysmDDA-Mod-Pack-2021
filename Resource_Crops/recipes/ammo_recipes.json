@@ -5,34 +5,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".22 ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".22 ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_10mm",
@@ -40,34 +19,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "10mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "10mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_12mm",
@@ -75,34 +33,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "12mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "12mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_20x66",
@@ -110,34 +47,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "22x66 ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "22x66 ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_223",
@@ -145,34 +61,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".223 ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".223 ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_270win",
@@ -180,34 +75,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".270 Winchester ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".270 Winchester ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_300win",
@@ -215,34 +89,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".300 Winchester ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".300 Winchester ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_3006spring",
@@ -250,34 +103,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".30-06 Springfield ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".30-06 Springfield ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_300blk",
@@ -285,34 +117,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".300 Blackout ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".300 Blackout ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_308win",
@@ -320,34 +131,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".308 Winchester ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".308 Winchester ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_32acp",
@@ -355,34 +145,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".32 ACP ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".32 ACP ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_357mag",
@@ -390,34 +159,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".357 magnum ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".357 magnum ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_357sig",
@@ -425,34 +173,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".357 SIG ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".357 SIG ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_36navy",
@@ -460,34 +187,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".36 paper cartridge seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".36 paper cartridge seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_38spec",
@@ -495,34 +201,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".38 ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".38 ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_380acp",
@@ -530,34 +215,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".380 ACP seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".380 ACP seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_40sw",
@@ -565,34 +229,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".40 S&W seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".40 S&W seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_40x46gren",
@@ -600,34 +243,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "40x46mm grenade seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "40x46mm grenade seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_40x53gren",
@@ -635,34 +257,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "40x53mm grenade seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "40x53mm grenade seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_410000",
@@ -670,34 +271,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".410 000 ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".410 000 ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_44mag",
@@ -705,34 +285,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".44 Magnum ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".44 Magnum ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_44army",
@@ -740,34 +299,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".44 paper cartridge seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".44 paper cartridge seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_45acp",
@@ -775,34 +313,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".45 ACP seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".45 ACP seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_454casu",
@@ -810,34 +327,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".454 Casull seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".454 Casull seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_4570",
@@ -845,34 +341,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".45-70 Government ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".45-70 Government ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_45colt",
@@ -880,34 +355,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".45 Colt ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".45 Colt ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_46mm",
@@ -915,34 +369,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "4.6x30mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "4.6x30mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_460row",
@@ -950,34 +383,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".460 Rowland ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".460 Rowland ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_50bmg",
@@ -985,34 +397,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".50 BMG ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".50 BMG ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_500mag",
@@ -1020,34 +411,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".500 S&W Magnum ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".500 S&W Magnum ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_545x39",
@@ -1055,34 +425,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "5.45x39mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "5.45x39mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_57x28",
@@ -1090,34 +439,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "5.7x28mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "5.7x28mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_5x40",
@@ -1125,34 +453,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "5x50mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "5x50mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_66rock",
@@ -1160,34 +467,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "66mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "66mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_700nitro",
@@ -1195,34 +481,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": ".700 Nitro Express ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": ".700 Nitro Express ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_762x39",
@@ -1230,34 +495,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "7.62x39mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "7.62x39mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_762x54",
@@ -1265,34 +509,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "7.62x54mmR ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "7.62x54mmR ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_762x25",
@@ -1300,34 +523,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "7.62x25mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "7.62x25mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_84x246",
@@ -1335,34 +537,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "84x246mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "84x246mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_8x40",
@@ -1370,34 +551,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "8x40mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "8x40mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_9x19",
@@ -1405,34 +565,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "9x19mm ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "9x19mm ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_9x18maka",
@@ -1440,34 +579,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "9x18mm Makarov ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "9x18mm Makarov ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_atgm",
@@ -1475,34 +593,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "ATGM HEAT ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "ATGM HEAT ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_barbpara",
@@ -1510,34 +607,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "paralyzing barbs seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "paralyzing barbs seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_cannon",
@@ -1545,34 +621,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "cannon shots seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "cannon shots seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_gas",
@@ -1580,34 +635,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "sprayable gas seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "sprayable gas seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_1231n",
@@ -1615,34 +649,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "12.31n ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "12.31n ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_flintlock",
@@ -1650,34 +663,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "flintlock ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "flintlock ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_rebarrail",
@@ -1685,34 +677,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "rebar ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "rebar ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_paintball",
@@ -1720,34 +691,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "paintball seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "paintball seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_rpg",
@@ -1755,34 +705,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "RPG-7 ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "RPG-7 ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_shotgun",
@@ -1790,34 +719,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "shotgun ammo seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "shotgun ammo seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_flare",
@@ -1825,34 +733,13 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "signal flare seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "signal flare seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   },
   {
     "result": "rc_seed_oxyacetylene",
@@ -1860,33 +747,12 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "oxyacetylene seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "oxyacetylene seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "autolearn": true,
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ] ]
   }
 ]

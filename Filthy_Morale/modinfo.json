@@ -5,9 +5,7 @@
     "name": "Filthy Clothing",
     "description": "Worn dirty clothing (dropped by zombies) will cause morale penalties and, if hit in combat, infections.",
     "category": "rebalance",
-    "dependencies": [
-      "dda"
-    ],
+    "dependencies": [ "dda" ],
     "obsolete": false
   }
 ]

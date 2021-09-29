@@ -62,14 +62,7 @@
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
-    "spawns": {
-      "group": "GROUP_SADDLER_ENTRANCE",
-      "population": [
-        5,
-        25
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER_ENTRANCE", "population": [ 5, 25 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -79,14 +72,7 @@
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
-    "spawns": {
-      "group": "GROUP_SADDLER_ENTRANCE",
-      "population": [
-        5,
-        25
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER_ENTRANCE", "population": [ 5, 25 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -96,14 +82,7 @@
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
-    "spawns": {
-      "group": "GROUP_SADDLER_ENTRANCE",
-      "population": [
-        5,
-        25
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER_ENTRANCE", "population": [ 5, 25 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -113,14 +92,7 @@
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
-    "spawns": {
-      "group": "GROUP_SADDLER_ENTRANCE",
-      "population": [
-        5,
-        25
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER_ENTRANCE", "population": [ 5, 25 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -130,14 +102,7 @@
     "sym": ".",
     "color": "green",
     "see_cost": 2,
-    "spawns": {
-      "group": "GROUP_SADDLER_ENTRANCE",
-      "population": [
-        5,
-        25
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER_ENTRANCE", "population": [ 5, 25 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -147,14 +112,7 @@
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
-    "spawns": {
-      "group": "GROUP_SADDLER_ENTRANCE",
-      "population": [
-        5,
-        25
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER_ENTRANCE", "population": [ 5, 25 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -164,14 +122,7 @@
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
-    "spawns": {
-      "group": "GROUP_SADDLER_ENTRANCE",
-      "population": [
-        5,
-        25
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER_ENTRANCE", "population": [ 5, 25 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -181,14 +132,7 @@
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
-    "spawns": {
-      "group": "GROUP_SADDLER_ENTRANCE",
-      "population": [
-        5,
-        25
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER_ENTRANCE", "population": [ 5, 25 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -198,14 +142,7 @@
     "sym": ".",
     "color": "brown",
     "see_cost": 2,
-    "spawns": {
-      "group": "GROUP_SADDLER_ENTRANCE",
-      "population": [
-        5,
-        25
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER_ENTRANCE", "population": [ 5, 25 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -215,14 +152,7 @@
     "sym": "C",
     "color": "green",
     "see_cost": 5,
-    "spawns": {
-      "group": "GROUP_SADDLER",
-      "population": [
-        50,
-        100
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER", "population": [ 50, 100 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -232,14 +162,7 @@
     "sym": "C",
     "color": "green",
     "see_cost": 5,
-    "spawns": {
-      "group": "GROUP_SADDLER",
-      "population": [
-        50,
-        100
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER", "population": [ 50, 100 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -249,14 +172,7 @@
     "sym": "C",
     "color": "green",
     "see_cost": 5,
-    "spawns": {
-      "group": "GROUP_SADDLER",
-      "population": [
-        50,
-        100
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER", "population": [ 50, 100 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -266,14 +182,7 @@
     "sym": "C",
     "color": "light_green",
     "see_cost": 5,
-    "spawns": {
-      "group": "GROUP_SADDLER",
-      "population": [
-        100,
-        200
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_SADDLER", "population": [ 100, 200 ], "chance": 100 },
     "extras": "build"
   },
   {
@@ -286,10 +195,7 @@
     "see_cost": 2,
     "extras": "build",
     "mondensity": 3,
-    "flags": [
-      "SIDEWALK",
-      "GENERIC_LOOT"
-    ]
+    "flags": [ "SIDEWALK", "GENERIC_LOOT" ]
   },
   {
     "id": "secro_basement_flesh",
@@ -298,11 +204,7 @@
     "sym": "O",
     "color": "dark_gray_red",
     "copy-from": "generic_city_building_no_sidewalk",
-    "flags": [
-      "KNOWN_UP",
-      "NO_ROTATE",
-      "GENERIC_LOOT"
-    ]
+    "flags": [ "KNOWN_UP", "NO_ROTATE", "GENERIC_LOOT" ]
   },
   {
     "id": "flesh_forest_1",
@@ -310,14 +212,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -326,14 +221,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -342,14 +230,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -358,14 +239,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -382,14 +256,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -398,14 +265,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -414,14 +274,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -430,14 +283,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -446,14 +292,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -462,14 +301,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -478,14 +310,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -494,14 +319,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 100
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 3 ], "chance": 100 },
     "see_cost": 10
   },
   {
@@ -510,13 +328,7 @@
     "name": "forest",
     "sym": "F",
     "color": "green",
-    "spawns": {
-      "group": "GROUP_FF_SURFACE",
-      "population": [
-        1,
-        2
-      ]
-    },
+    "spawns": { "group": "GROUP_FF_SURFACE", "population": [ 1, 2 ] },
     "see_cost": 10
   },
   {
@@ -524,14 +336,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -540,14 +345,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -556,14 +354,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -572,14 +363,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -588,14 +372,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "light_red",
     "see_cost": 10
   },
@@ -604,14 +381,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -620,14 +390,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -636,14 +399,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -652,14 +408,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -668,14 +417,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -684,14 +426,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -700,14 +435,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -716,14 +444,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -732,14 +453,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "light_red",
     "see_cost": 10
   },
@@ -748,14 +462,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -764,14 +471,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -780,14 +480,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -796,14 +489,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -812,14 +498,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -828,14 +507,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -844,14 +516,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -860,14 +525,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -876,14 +534,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "light_red",
     "see_cost": 10
   },
@@ -892,14 +543,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -908,14 +552,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -924,14 +561,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -940,14 +570,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -956,14 +579,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -972,14 +588,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -988,14 +597,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -1004,14 +606,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -1020,14 +615,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "light_red",
     "see_cost": 10
   },
@@ -1036,14 +624,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -1052,14 +633,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -1068,14 +642,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   },
@@ -1084,14 +651,7 @@
     "type": "overmap_terrain",
     "name": "flesh",
     "sym": "#",
-    "spawns": {
-      "group": "GROUP_FF_INSIDE",
-      "population": [
-        1,
-        3
-      ],
-      "chance": 20
-    },
+    "spawns": { "group": "GROUP_FF_INSIDE", "population": [ 1, 3 ], "chance": 20 },
     "color": "red",
     "see_cost": 10
   }

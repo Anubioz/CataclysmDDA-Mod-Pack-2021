@@ -33,19 +33,6 @@
       "bio_power_storage",
       "bio_torsionratchet"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl",
-        "footrags",
-        "hat_noise_cancelling"
-      ],
-      "male": [
-        "briefs"
-      ],
-      "female": [
-        "bra",
-        "panties"
-      ]
-    }
+    "items": { "both": [ "subsuit_xl", "footrags", "hat_noise_cancelling" ], "male": [ "briefs" ], "female": [ "bra", "panties" ] }
   }
 ]

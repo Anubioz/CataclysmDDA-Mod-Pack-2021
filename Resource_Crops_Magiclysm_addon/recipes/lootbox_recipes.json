@@ -5,39 +5,12 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "animist scroll seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "animist scroll seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ],
-      [
-        [
-          "rune_animist",
-          10
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "rune_animist", 10 ] ] ]
   },
   {
     "type": "recipe",
@@ -45,39 +18,12 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "biomancer scroll seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "biomancer scroll seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ],
-      [
-        [
-          "rune_biomancer",
-          10
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "rune_biomancer", 10 ] ] ]
   },
   {
     "type": "recipe",
@@ -85,39 +31,12 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "druid scroll seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "druid scroll seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ],
-      [
-        [
-          "rune_druid",
-          10
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "rune_druid", 10 ] ] ]
   },
   {
     "type": "recipe",
@@ -125,39 +44,12 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "earthshaper scroll seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "earthshaper scroll seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ],
-      [
-        [
-          "rune_earthshaper",
-          10
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "rune_earthshaper", 10 ] ] ]
   },
   {
     "type": "recipe",
@@ -165,39 +57,12 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "kelvinist scroll seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "kelvinist scroll seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ],
-      [
-        [
-          "rune_kelvinist",
-          10
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "rune_kelvinist", 10 ] ] ]
   },
   {
     "type": "recipe",
@@ -205,39 +70,12 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "magus scroll seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "magus scroll seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ],
-      [
-        [
-          "rune_magus",
-          10
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "rune_magus", 10 ] ] ]
   },
   {
     "type": "recipe",
@@ -245,39 +83,12 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "stormshaper scroll seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "stormshaper scroll seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ],
-      [
-        [
-          "rune_stormshaper",
-          10
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "rune_stormshaper", 10 ] ] ]
   },
   {
     "type": "recipe",
@@ -285,38 +96,11 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_SEEDS",
     "skill_used": "fabrication",
-    "skills_required": [
-      [
-        "cooking",
-        5
-      ],
-      [
-        "fabrication",
-        5
-      ]
-    ],
-    "book_learn": {
-      "rc_textbook_infseeds": {
-        "skill_level": 5,
-        "recipe_name": "technomancer scroll seeds"
-      }
-    },
+    "skills_required": [ [ "cooking", 5 ], [ "fabrication", 5 ] ],
+    "book_learn": { "rc_textbook_infseeds": { "skill_level": 5, "recipe_name": "technomancer scroll seeds" } },
     "difficulty": 3,
     "time": "20 s",
     "activity_level": "NO_EXERCISE",
-    "components": [
-      [
-        [
-          "rc_seed_mat",
-          1
-        ]
-      ],
-      [
-        [
-          "rune_technomancer",
-          10
-        ]
-      ]
-    ]
+    "components": [ [ [ "rc_seed_mat", 1 ] ], [ [ "rune_technomancer", 10 ] ] ]
   }
 ]

@@ -3,13 +3,9 @@
     "id": "with_extra_mushrooms",
     "type": "MOD_INFO",
     "name": "With Extra Mushrooms",
-    "authors": [
-      "Xhuis"
-    ],
+    "authors": [ "Xhuis" ],
     "description": "Adds more comestibles for post-threshold Mycus characters.",
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

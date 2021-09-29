@@ -3,14 +3,10 @@
     "id": "no_mutagen",
     "type": "MOD_INFO",
     "name": "Disable Mutagens",
-    "authors": [
-      "Kevin Granade"
-    ],
+    "authors": [ "Kevin Granade" ],
     "description": "Removes mutagen items from the game.",
     "category": "item_exclude",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   },
   {
     "type": "ITEM_BLACKLIST",

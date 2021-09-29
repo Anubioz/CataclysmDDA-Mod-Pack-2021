@@ -5,31 +5,11 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_EXPLOSIVE",
     "skill_used": "cooking",
-    "skills_required": [
-      "cooking",
-      1
-    ],
+    "skills_required": [ "cooking", 1 ],
     "difficulty": 1,
     "time": "10 s",
     "autolearn": true,
-    "components": [
-      [
-        [
-          "ammonia",
-          2
-        ],
-        [
-          "bleach",
-          2
-        ]
-      ],
-      [
-        [
-          "jug_plastic",
-          1
-        ]
-      ]
-    ]
+    "components": [ [ [ "ammonia", 2 ], [ "bleach", 2 ] ], [ [ "jug_plastic", 1 ] ] ]
   },
   {
     "result": "fungicidalbomb_can",
@@ -37,44 +17,14 @@
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_EXPLOSIVE",
     "skill_used": "cooking",
-    "skills_required": [
-      "cooking",
-      1
-    ],
+    "skills_required": [ "cooking", 1 ],
     "difficulty": 1,
     "time": "10 s",
     "autolearn": true,
     "components": [
-      [
-        [
-          "ammonia",
-          1
-        ],
-        [
-          "bleach",
-          1
-        ]
-      ],
-      [
-        [
-          "canister_empty",
-          1
-        ],
-        [
-          "can_food",
-          1
-        ],
-        [
-          "can_drink",
-          1
-        ]
-      ],
-      [
-        [
-          "duct_tape",
-          5
-        ]
-      ]
+      [ [ "ammonia", 1 ], [ "bleach", 1 ] ],
+      [ [ "canister_empty", 1 ], [ "can_food", 1 ], [ "can_drink", 1 ] ],
+      [ [ "duct_tape", 5 ] ]
     ]
   }
 ]

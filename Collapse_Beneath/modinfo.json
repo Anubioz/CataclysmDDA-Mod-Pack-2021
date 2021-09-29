@@ -3,14 +3,10 @@
     "id": "Collapse_beneath",
     "type": "MOD_INFO",
     "name": "Collapse beneath",
-    "authors": [
-      "Yonsisac"
-    ],
+    "authors": [ "Yonsisac" ],
     "description": "Adds new undeground content and dangers to die to",
     "category": "misc_additions",
-    "dependencies": [
-      "dda"
-    ],
+    "dependencies": [ "dda" ],
     "obsolete": false
   }
 ]

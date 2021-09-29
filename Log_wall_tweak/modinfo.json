@@ -6,8 +6,6 @@
     "authors": "Maddremor",
     "description": "Reduces 2x4 cost of log wall construction.",
     "category": "misc_additions",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

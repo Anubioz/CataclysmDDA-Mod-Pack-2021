@@ -8,26 +8,9 @@
     "difficulty": 3,
     "time": "450 s",
     "autolearn": true,
-    "using": [
-      [
-        "filament",
-        15
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SEW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "rag",
-          20
-        ]
-      ]
-    ]
+    "using": [ [ "filament", 15 ] ],
+    "qualities": [ { "id": "SEW", "level": 1 } ],
+    "components": [ [ [ "rag", 20 ] ] ]
   },
   {
     "result": "maid_hat",
@@ -38,25 +21,8 @@
     "difficulty": 3,
     "time": "50 s",
     "autolearn": true,
-    "using": [
-      [
-        "filament",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SEW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "rag",
-          4
-        ]
-      ]
-    ]
+    "using": [ [ "filament", 5 ] ],
+    "qualities": [ { "id": "SEW", "level": 1 } ],
+    "components": [ [ [ "rag", 4 ] ] ]
   }
 ]

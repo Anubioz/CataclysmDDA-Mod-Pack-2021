@@ -9,34 +9,9 @@
     "time": "100 s",
     "autolearn": true,
     "reversible": true,
-    "using": [
-      [
-        "welding_standard",
-        5
-      ],
-      [
-        "sewing_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "HAMMER",
-        "level": 2
-      }
-    ],
-    "components": [
-      [
-        [
-          "sheet_metal",
-          3
-        ],
-        [
-          "nomex",
-          30
-        ]
-      ]
-    ]
+    "using": [ [ "welding_standard", 5 ], [ "sewing_standard", 5 ] ],
+    "qualities": [ { "id": "HAMMER", "level": 2 } ],
+    "components": [ [ [ "sheet_metal", 3 ], [ "nomex", 30 ] ] ]
   },
   {
     "result": "insulated_box_medium",
@@ -48,34 +23,9 @@
     "time": "100 s",
     "autolearn": true,
     "reversible": true,
-    "using": [
-      [
-        "welding_standard",
-        5
-      ],
-      [
-        "sewing_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "HAMMER",
-        "level": 2
-      }
-    ],
-    "components": [
-      [
-        [
-          "sheet_metal",
-          2
-        ],
-        [
-          "nomex",
-          20
-        ]
-      ]
-    ]
+    "using": [ [ "welding_standard", 5 ], [ "sewing_standard", 5 ] ],
+    "qualities": [ { "id": "HAMMER", "level": 2 } ],
+    "components": [ [ [ "sheet_metal", 2 ], [ "nomex", 20 ] ] ]
   },
   {
     "result": "insulated_box_small",
@@ -87,33 +37,8 @@
     "time": "100 s",
     "autolearn": true,
     "reversible": true,
-    "using": [
-      [
-        "welding_standard",
-        5
-      ],
-      [
-        "sewing_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "HAMMER",
-        "level": 2
-      }
-    ],
-    "components": [
-      [
-        [
-          "sheet_metal",
-          1
-        ],
-        [
-          "nomex",
-          10
-        ]
-      ]
-    ]
+    "using": [ [ "welding_standard", 5 ], [ "sewing_standard", 5 ] ],
+    "qualities": [ { "id": "HAMMER", "level": 2 } ],
+    "components": [ [ [ "sheet_metal", 1 ], [ "nomex", 10 ] ] ]
   }
 ]

@@ -2,9 +2,7 @@
   {
     "id": "frostie_wheel",
     "type": "vehicle_part",
-    "name": {
-      "str": "snow slider"
-    },
+    "name": { "str": "snow slider" },
     "item": "frostie_wheel",
     "location": "under",
     "symbol": "|",
@@ -14,40 +12,18 @@
     "durability": 500,
     "damage_modifier": 200,
     "folded_volume": "250 ml",
-    "breaks_into": [
-      {
-        "item": "frostiegrow"
-      }
-    ],
+    "breaks_into": [ { "item": "frostiegrow" } ],
     "description": "A living blob, existing in a super-cooled state.  It acts as a wheel.",
-    "requirements": {
-      "repair": {
-        "time": "5 s",
-        "using": [
-          [
-            "blobrep",
-            1
-          ]
-        ]
-      }
-    },
+    "requirements": { "repair": { "time": "5 s", "using": [ [ "blobrep", 1 ] ] } },
     "rolling_resistance": 1.5,
     "wheel_type": "standard",
     "contact_area": 153,
-    "flags": [
-      "WHEEL",
-      "FOLDABLE",
-      "EXTRA_DRAG",
-      "SHARP",
-      "STABLE"
-    ]
+    "flags": [ "WHEEL", "FOLDABLE", "EXTRA_DRAG", "SHARP", "STABLE" ]
   },
   {
     "id": "frostie_wheel_sea",
     "type": "vehicle_part",
-    "name": {
-      "str": "icy sea skimmer"
-    },
+    "name": { "str": "icy sea skimmer" },
     "item": "frostie_hull",
     "location": "under",
     "symbol": "|",
@@ -57,36 +33,15 @@
     "durability": 500,
     "damage_modifier": 200,
     "folded_volume": "250 ml",
-    "breaks_into": [
-      {
-        "item": "frostiegrow"
-      }
-    ],
+    "breaks_into": [ { "item": "frostiegrow" } ],
     "description": "A living blob, existing in a super-cooled state.  It acts as a boat hull.",
-    "requirements": {
-      "repair": {
-        "time": "5 s",
-        "using": [
-          [
-            "blobrep",
-            1
-          ]
-        ]
-      }
-    },
-    "flags": [
-      "FLOATS",
-      "FOLDABLE",
-      "EXTRA_DRAG",
-      "SHARP"
-    ]
+    "requirements": { "repair": { "time": "5 s", "using": [ [ "blobrep", 1 ] ] } },
+    "flags": [ "FLOATS", "FOLDABLE", "EXTRA_DRAG", "SHARP" ]
   },
   {
     "id": "gloople_wheel",
     "type": "vehicle_part",
-    "name": {
-      "str": "gelatinous wheel"
-    },
+    "name": { "str": "gelatinous wheel" },
     "item": "gloople_wheel",
     "location": "under",
     "symbol": "|",
@@ -97,44 +52,17 @@
     "damage_modifier": 10,
     "folded_volume": "250 ml",
     "description": "A living blob.  It acts as a wheel.",
-    "breaks_into": [
-      {
-        "item": "glooplegrow"
-      },
-      {
-        "item": "water",
-        "count": [
-          50,
-          100
-        ]
-      }
-    ],
-    "requirements": {
-      "repair": {
-        "time": "5 s",
-        "using": [
-          [
-            "blobrep",
-            1
-          ]
-        ]
-      }
-    },
+    "breaks_into": [ { "item": "glooplegrow" }, { "item": "water", "count": [ 50, 100 ] } ],
+    "requirements": { "repair": { "time": "5 s", "using": [ [ "blobrep", 1 ] ] } },
     "rolling_resistance": 1.75,
     "wheel_type": "standard",
     "contact_area": 153,
-    "flags": [
-      "WHEEL",
-      "FOLDABLE",
-      "STABLE"
-    ]
+    "flags": [ "WHEEL", "FOLDABLE", "STABLE" ]
   },
   {
     "id": "gray_wheel",
     "type": "vehicle_part",
-    "name": {
-      "str": "gray wheel"
-    },
+    "name": { "str": "gray wheel" },
     "item": "gray_wheel",
     "location": "under",
     "symbol": "|",
@@ -145,44 +73,17 @@
     "damage_modifier": 10,
     "folded_volume": "250 ml",
     "description": "A living blob.  It acts as a wheel.",
-    "breaks_into": [
-      {
-        "item": "graygrow"
-      },
-      {
-        "item": "water",
-        "count": [
-          100,
-          200
-        ]
-      }
-    ],
-    "requirements": {
-      "repair": {
-        "time": "5 s",
-        "using": [
-          [
-            "blobrep",
-            1
-          ]
-        ]
-      }
-    },
+    "breaks_into": [ { "item": "graygrow" }, { "item": "water", "count": [ 100, 200 ] } ],
+    "requirements": { "repair": { "time": "5 s", "using": [ [ "blobrep", 1 ] ] } },
     "rolling_resistance": 1.25,
     "wheel_type": "standard",
     "contact_area": 153,
-    "flags": [
-      "WHEEL",
-      "FOLDABLE",
-      "STABLE"
-    ]
+    "flags": [ "WHEEL", "FOLDABLE", "STABLE" ]
   },
   {
     "id": "grinder",
     "type": "vehicle_part",
-    "name": {
-      "str": "earthen roller"
-    },
+    "name": { "str": "earthen roller" },
     "item": "grinder",
     "location": "structure",
     "symbol": "O",
@@ -192,38 +93,17 @@
     "durability": 2500,
     "damage_modifier": 250,
     "folded_volume": "250 ml",
-    "breaks_into": [
-      {
-        "item": "gray"
-      }
-    ],
-    "requirements": {
-      "repair": {
-        "time": "5 s",
-        "using": [
-          [
-            "blobrep",
-            1
-          ]
-        ]
-      }
-    },
+    "breaks_into": [ { "item": "gray" } ],
+    "requirements": { "repair": { "time": "5 s", "using": [ [ "blobrep", 1 ] ] } },
     "rolling_resistance": 6,
     "wheel_type": "rigid",
     "contact_area": 500,
-    "flags": [
-      "WHEEL",
-      "FOLDABLE",
-      "PROTRUSION",
-      "STABLE"
-    ]
+    "flags": [ "WHEEL", "FOLDABLE", "PROTRUSION", "STABLE" ]
   },
   {
     "id": "oozle_wheel",
     "type": "vehicle_part",
-    "name": {
-      "str": "oozing wheel"
-    },
+    "name": { "str": "oozing wheel" },
     "item": "oozle_wheel",
     "location": "under",
     "symbol": "|",
@@ -233,36 +113,11 @@
     "durability": 500,
     "damage_modifier": 10,
     "folded_volume": "250 ml",
-    "breaks_into": [
-      {
-        "item": "oozlegrow"
-      },
-      {
-        "item": "water",
-        "count": [
-          100,
-          200
-        ]
-      }
-    ],
-    "requirements": {
-      "repair": {
-        "time": "5 s",
-        "using": [
-          [
-            "blobrep",
-            1
-          ]
-        ]
-      }
-    },
+    "breaks_into": [ { "item": "oozlegrow" }, { "item": "water", "count": [ 100, 200 ] } ],
+    "requirements": { "repair": { "time": "5 s", "using": [ [ "blobrep", 1 ] ] } },
     "rolling_resistance": 1.5,
     "wheel_type": "standard",
     "contact_area": 153,
-    "flags": [
-      "WHEEL",
-      "FOLDABLE",
-      "STABLE"
-    ]
+    "flags": [ "WHEEL", "FOLDABLE", "STABLE" ]
   }
 ]

@@ -3,11 +3,6 @@
     "id": "mags_pistol_rare",
     "type": "item_group",
     "//": "Aftermarket or otherwise uncommon pistol magazines excluding milspec.",
-    "items": [
-      [
-        "deaglemag50",
-        20
-      ]
-    ]
+    "items": [ [ "deaglemag50", 20 ] ]
   }
 ]

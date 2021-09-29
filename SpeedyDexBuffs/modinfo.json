@@ -3,17 +3,10 @@
     "id": "speedydexbuffs",
     "type": "MOD_INFO",
     "name": "SpeedyDex Buffs",
-    "authors": [
-      "KorGgenT?"
-    ],
-    "maintainers": [
-      "KorGgenT?"
-    ],
+    "authors": [ "KorGgenT?" ],
+    "maintainers": [ "KorGgenT?" ],
     "description": "Stamina buffs and cool messages",
     "category": "rebalance",
-    "dependencies": [
-      "dda",
-      "speedydex"
-    ]
+    "dependencies": [ "dda", "speedydex" ]
   }
 ]

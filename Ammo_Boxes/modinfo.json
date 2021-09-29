@@ -3,16 +3,10 @@
     "id": "ammo_boxes",
     "type": "MOD_INFO",
     "name": "Ammo Boxes",
-    "authors": [
-      "Maddremor"
-    ],
-    "maintainers": [
-      "TheGoatGod"
-    ],
+    "authors": [ "Maddremor" ],
+    "maintainers": [ "TheGoatGod" ],
     "description": "Adds cardboard boxes to package ammo.",
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

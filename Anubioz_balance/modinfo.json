@@ -5,9 +5,7 @@
     "name": "<color_red>!!! 2. ADD THIS FOR NICER BALANCE</color> (CataclysmDDA-Mod-Pack-2021)",
     "description": "\n<color_yellow>It will make your game somewhat easier</color>",
     "category": "content",
-    "authors": [
-      "anubioz"
-    ],
+    "authors": [ "anubioz" ],
     "dependencies": [
       "log_wall_tweak",
       "light_weariness",

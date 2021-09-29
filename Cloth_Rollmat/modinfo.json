@@ -3,16 +3,10 @@
     "id": "Cloth Rollmat",
     "type": "MOD_INFO",
     "name": "ClothRollmat",
-    "authors": [
-      "TinyHippo"
-    ],
-    "maintainers": [
-      "TinyHippo"
-    ],
+    "authors": [ "TinyHippo" ],
+    "maintainers": [ "TinyHippo" ],
     "description": "Adds a cloth crafting recipe for the Rollmat.",
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

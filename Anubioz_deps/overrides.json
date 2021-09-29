@@ -4,238 +4,72 @@
     "id": "mags_milspec",
     "//": "Current military specification magazines.",
     "items": [
-      [
-        "rm4502",
-        2
-      ],
-      [
-        "rm4504",
-        2
-      ],
-      [
-        "huge_atomic_battery_cell",
-        2
-      ],
-      [
-        "20x66_20_mag",
-        10
-      ],
-      [
-        "20x66_40_mag",
-        5
-      ],
-      [
-        "5x50_50_mag",
-        5
-      ],
-      [
-        "5x50_100_mag",
-        5
-      ],
-      [
-        "8x40_10_mag",
-        5
-      ],
-      [
-        "8x40_25_mag",
-        5
-      ],
-      [
-        "8x40_50_mag",
-        10
-      ],
-      [
-        "8x40_100_mag",
-        10
-      ],
-      [
-        "8x40_250_mag",
-        5
-      ],
-      [
-        "8x40_500_mag",
-        5
-      ],
-      [
-        "hk_g80mag",
-        40
-      ],
-      [
-        "hk46mag",
-        15
-      ],
-      [
-        "hk46bigmag",
-        5
-      ],
-      [
-        "m107a1mag",
-        50
-      ],
-      [
-        "tac50mag",
-        20
-      ],
-      [
-        "m2010mag",
-        10
-      ],
-      [
-        "scarhmag",
-        50
-      ],
-      [
-        "scarhbigmag",
-        20
-      ],
-      [
-        "stanag5",
-        2
-      ],
-      [
-        "stanag10",
-        5
-      ],
-      [
-        "stanag20",
-        10
-      ],
-      [
-        "stanag30",
-        20
-      ],
-      [
-        "stanag40",
-        2
-      ],
-      [
-        "stanag50",
-        2
-      ],
-      [
-        "stanag60",
-        3
-      ],
-      [
-        "stanag100",
-        2
-      ],
-      [
-        "hk417mag_20rd",
-        30
-      ],
-      [
-        "hk417mag_10rd",
-        20
-      ],
-      [
-        "p320mag_17rd_9x19mm",
-        60
-      ],
-      [
-        "p226mag_15rd_9x19mm",
-        5
-      ],
-      [
-        "sp2022mag_15rd_9mm",
-        5
-      ],
-      [
-        "btmp9mag_9x19mm_15",
-        1
-      ],
-      [
-        "btmp9mag_9x19mm_20",
-        1
-      ],
-      [
-        "btmp9mag_9x19mm_25",
-        1
-      ],
-      [
-        "btmp9mag_9x19mm_30",
-        1
-      ],
-      [
-        "m1911mag",
-        5
-      ],
-      [
-        "m9mag",
-        15
-      ],
-      [
-        "stanag30",
-        20
-      ],
-      [
-        "stanag50",
-        5
-      ],
-      [
-        "usp9mag",
-        15
-      ],
-      [
-        "usp45mag",
-        5
-      ],
-      [
-        "3006_clip",
-        5
-      ],
-      [
-        "pressurized_tank",
-        5
-      ],
-      [
-        "falmag",
-        20
-      ],
-      [
-        "g3mag",
-        15
-      ],
-      [
-        "m14mag",
-        25
-      ],
-      [
-        "m1911mag",
-        15
-      ],
-      [
-        "m1918mag",
-        5
-      ],
-      [
-        "m9mag",
-        25
-      ],
-      [
-        "stenmag",
-        40
-      ],
-      [
-        "thompson_mag",
-        5
-      ]
+      [ "rm4502", 2 ],
+      [ "rm4504", 2 ],
+      [ "huge_atomic_battery_cell", 2 ],
+      [ "20x66_20_mag", 10 ],
+      [ "20x66_40_mag", 5 ],
+      [ "5x50_50_mag", 5 ],
+      [ "5x50_100_mag", 5 ],
+      [ "8x40_10_mag", 5 ],
+      [ "8x40_25_mag", 5 ],
+      [ "8x40_50_mag", 10 ],
+      [ "8x40_100_mag", 10 ],
+      [ "8x40_250_mag", 5 ],
+      [ "8x40_500_mag", 5 ],
+      [ "hk_g80mag", 40 ],
+      [ "hk46mag", 15 ],
+      [ "hk46bigmag", 5 ],
+      [ "m107a1mag", 50 ],
+      [ "tac50mag", 20 ],
+      [ "m2010mag", 10 ],
+      [ "scarhmag", 50 ],
+      [ "scarhbigmag", 20 ],
+      [ "stanag5", 2 ],
+      [ "stanag10", 5 ],
+      [ "stanag20", 10 ],
+      [ "stanag30", 20 ],
+      [ "stanag40", 2 ],
+      [ "stanag50", 2 ],
+      [ "stanag60", 3 ],
+      [ "stanag100", 2 ],
+      [ "hk417mag_20rd", 30 ],
+      [ "hk417mag_10rd", 20 ],
+      [ "p320mag_17rd_9x19mm", 60 ],
+      [ "p226mag_15rd_9x19mm", 5 ],
+      [ "sp2022mag_15rd_9mm", 5 ],
+      [ "btmp9mag_9x19mm_15", 1 ],
+      [ "btmp9mag_9x19mm_20", 1 ],
+      [ "btmp9mag_9x19mm_25", 1 ],
+      [ "btmp9mag_9x19mm_30", 1 ],
+      [ "m1911mag", 5 ],
+      [ "m9mag", 15 ],
+      [ "stanag30", 20 ],
+      [ "stanag50", 5 ],
+      [ "usp9mag", 15 ],
+      [ "usp45mag", 5 ],
+      [ "3006_clip", 5 ],
+      [ "pressurized_tank", 5 ],
+      [ "falmag", 20 ],
+      [ "g3mag", 15 ],
+      [ "m14mag", 25 ],
+      [ "m1911mag", 15 ],
+      [ "m1918mag", 5 ],
+      [ "m9mag", 25 ],
+      [ "stenmag", 40 ],
+      [ "thompson_mag", 5 ]
     ]
   },
   {
     "id": "debug_backpack",
     "type": "ARMOR",
-    "name": {
-      "str": "debug pocket universe"
-    },
+    "name": { "str": "debug pocket universe" },
     "description": "A pocket universe.  Can store approximately 384 * 10^6 bugs.",
     "weight": "1 g",
     "volume": "1 L",
     "price": 0,
     "price_postapoc": 0,
-    "material": [
-      "cotton"
-    ],
+    "material": [ "cotton" ],
     "symbol": "[",
     "looks_like": "backpack",
     "color": "yellow",
@@ -256,19 +90,8 @@
     ],
     "warmth": 0,
     "material_thickness": 0,
-    "flags": [
-      "BELTED",
-      "WATER_FRIENDLY",
-      "TARDIS"
-    ],
-    "armor": [
-      {
-        "encumbrance": [
-          0,
-          0
-        ]
-      }
-    ]
+    "flags": [ "BELTED", "WATER_FRIENDLY", "TARDIS" ],
+    "armor": [ { "encumbrance": [ 0, 0 ] } ]
   },
   {
     "type": "region_settings",
@@ -296,46 +119,16 @@
       "deep_rock",
       "deep_rock"
     ],
-    "default_groundcover": [
-      [
-        "t_region_groundcover",
-        1
-      ]
-    ],
+    "default_groundcover": [ [ "t_region_groundcover", 1 ] ],
     "region_terrain_and_furniture": {
       "terrain": {
-        "t_region_groundcover": {
-          "t_grass": 12,
-          "t_grass_dead": 2,
-          "t_dirt": 1
-        },
-        "t_region_groundcover_urban": {
-          "t_grass": 20,
-          "t_grass_dead": 3
-        },
-        "t_region_groundcover_forest": {
-          "t_grass_long": 5,
-          "t_grass_tall": 1,
-          "t_moss": 1,
-          "t_grass_dead": 3
-        },
-        "t_region_groundcover_swamp": {
-          "t_grass_long": 3,
-          "t_grass_tall": 1,
-          "t_moss": 2,
-          "t_dirt": 2
-        },
-        "t_region_groundcover_barren": {
-          "t_dirt": 30,
-          "t_grass_dead": 2,
-          "t_railroad_rubble": 1
-        },
-        "t_region_grass": {
-          "t_grass": 1
-        },
-        "t_region_soil": {
-          "t_dirt": 1
-        },
+        "t_region_groundcover": { "t_grass": 12, "t_grass_dead": 2, "t_dirt": 1 },
+        "t_region_groundcover_urban": { "t_grass": 20, "t_grass_dead": 3 },
+        "t_region_groundcover_forest": { "t_grass_long": 5, "t_grass_tall": 1, "t_moss": 1, "t_grass_dead": 3 },
+        "t_region_groundcover_swamp": { "t_grass_long": 3, "t_grass_tall": 1, "t_moss": 2, "t_dirt": 2 },
+        "t_region_groundcover_barren": { "t_dirt": 30, "t_grass_dead": 2, "t_railroad_rubble": 1 },
+        "t_region_grass": { "t_grass": 1 },
+        "t_region_soil": { "t_dirt": 1 },
         "t_region_shrub": {
           "t_underbrush": 30,
           "t_shrub": 10,
@@ -360,13 +153,7 @@
           "t_shrub_huckleberry": 2,
           "t_shrub_peanut": 1
         },
-        "t_region_shrub_decorative": {
-          "t_shrub": 3,
-          "t_fern": 1,
-          "t_shrub_rose": 2,
-          "t_shrub_hydrangea": 2,
-          "t_shrub_lilac": 2
-        },
+        "t_region_shrub_decorative": { "t_shrub": 3, "t_fern": 1, "t_shrub_rose": 2, "t_shrub_hydrangea": 2, "t_shrub_lilac": 2 },
         "t_region_tree": {
           "t_tree": 128,
           "t_tree_young": 128,
@@ -437,11 +224,7 @@
           "t_tree_hickory_dead": 16,
           "t_tree_dead": 4
         },
-        "t_region_tree_evergreen": {
-          "t_tree_pine": 32,
-          "t_tree_juniper": 16,
-          "t_tree_deadpine": 2
-        }
+        "t_region_tree_evergreen": { "t_tree_pine": 32, "t_tree_juniper": 16, "t_tree_deadpine": 2 }
       },
       "furniture": {
         "f_region_flower": {
@@ -483,11 +266,7 @@
           "f_sunflower": 1,
           "f_mustard": 1
         },
-        "f_region_water_plant": {
-          "f_cattails": 15,
-          "f_lilypad": 1,
-          "f_lotus": 5
-        }
+        "f_region_water_plant": { "f_cattails": 15, "f_lilypad": 1, "f_lotus": 5 }
       }
     },
     "river_scale": 1.0,
@@ -562,41 +341,15 @@
       "noise_threshold_lake": 0.25,
       "lake_size_min": 20,
       "lake_depth": -5,
-      "shore_extendable_overmap_terrain": [
-        "forest",
-        "forest_thick",
-        "forest_water",
-        "field"
-      ],
+      "shore_extendable_overmap_terrain": [ "forest", "forest_thick", "forest_water", "field" ],
       "shore_extendable_overmap_terrain_aliases": [
-        {
-          "om_terrain": "island_forest",
-          "om_terrain_match_type": "TYPE",
-          "alias": "forest"
-        },
-        {
-          "om_terrain": "island_forest_thick",
-          "om_terrain_match_type": "TYPE",
-          "alias": "forest_thick"
-        },
-        {
-          "om_terrain": "island_forest_water",
-          "om_terrain_match_type": "TYPE",
-          "alias": "forest_water"
-        },
-        {
-          "om_terrain": "island_field",
-          "om_terrain_match_type": "TYPE",
-          "alias": "field"
-        }
+        { "om_terrain": "island_forest", "om_terrain_match_type": "TYPE", "alias": "forest" },
+        { "om_terrain": "island_forest_thick", "om_terrain_match_type": "TYPE", "alias": "forest_thick" },
+        { "om_terrain": "island_forest_water", "om_terrain_match_type": "TYPE", "alias": "forest_water" },
+        { "om_terrain": "island_field", "om_terrain_match_type": "TYPE", "alias": "field" }
       ]
     },
-    "overmap_ravine_settings": {
-      "num_ravines": 0,
-      "ravine_width": 3,
-      "ravine_range": 45,
-      "ravine_depth": -3
-    },
+    "overmap_ravine_settings": { "num_ravines": 0, "ravine_width": 3, "ravine_range": 45, "ravine_depth": -3 },
     "overmap_forest_settings": {
       "noise_threshold_forest": 0.2,
       "noise_threshold_forest_thick": 0.25,
@@ -612,28 +365,11 @@
         "item_group_chance": 60,
         "item_spawn_iterations": 1,
         "clear_groundcover": false,
-        "groundcover": {
-          "t_region_groundcover_forest": 1
-        },
+        "groundcover": { "t_region_groundcover_forest": 1 },
         "clear_components": false,
         "components": {
-          "trees": {
-            "sequence": 0,
-            "chance": 12,
-            "clear_types": false,
-            "types": {
-              "t_region_tree": 128
-            }
-          },
-          "shrubs_and_flowers": {
-            "sequence": 1,
-            "chance": 10,
-            "clear_types": false,
-            "types": {
-              "t_region_shrub": 100,
-              "f_region_weed": 20
-            }
-          },
+          "trees": { "sequence": 0, "chance": 12, "clear_types": false, "types": { "t_region_tree": 128 } },
+          "shrubs_and_flowers": { "sequence": 1, "chance": 10, "clear_types": false, "types": { "t_region_shrub": 100, "f_region_weed": 20 } },
           "clutter": {
             "sequence": 2,
             "chance": 80,
@@ -649,17 +385,10 @@
               "t_pit_shallow": 1
             }
           },
-          "water": {
-            "sequence": 3,
-            "chance": 512,
-            "clear_types": false,
-            "types": {
-              "t_water_sh": 1
-            }
-          }
+          "water": { "sequence": 3, "chance": 512, "clear_types": false, "types": { "t_water_sh": 1 } }
         },
         "clear_terrain_furniture": false,
-        "terrain_furniture": {}
+        "terrain_furniture": {  }
       },
       "forest_thick": {
         "sparseness_adjacency_factor": 4,
@@ -667,28 +396,11 @@
         "item_group_chance": 60,
         "item_spawn_iterations": 1,
         "clear_groundcover": false,
-        "groundcover": {
-          "t_region_groundcover_forest": 1
-        },
+        "groundcover": { "t_region_groundcover_forest": 1 },
         "clear_components": false,
         "components": {
-          "trees": {
-            "sequence": 0,
-            "chance": 5,
-            "clear_types": false,
-            "types": {
-              "t_region_tree": 100
-            }
-          },
-          "shrubs_and_flowers": {
-            "sequence": 1,
-            "chance": 5,
-            "clear_types": false,
-            "types": {
-              "t_region_shrub": 100,
-              "f_region_weed": 20
-            }
-          },
+          "trees": { "sequence": 0, "chance": 5, "clear_types": false, "types": { "t_region_tree": 100 } },
+          "shrubs_and_flowers": { "sequence": 1, "chance": 5, "clear_types": false, "types": { "t_region_shrub": 100, "f_region_weed": 20 } },
           "clutter": {
             "sequence": 2,
             "chance": 64,
@@ -704,17 +416,10 @@
               "t_pit_shallow": 1
             }
           },
-          "water": {
-            "sequence": 3,
-            "chance": 512,
-            "clear_types": false,
-            "types": {
-              "t_water_sh": 1
-            }
-          }
+          "water": { "sequence": 3, "chance": 512, "clear_types": false, "types": { "t_water_sh": 1 } }
         },
         "clear_terrain_furniture": false,
-        "terrain_furniture": {}
+        "terrain_furniture": {  }
       },
       "forest_water": {
         "sparseness_adjacency_factor": 2,
@@ -722,9 +427,7 @@
         "item_group_chance": 60,
         "item_spawn_iterations": 1,
         "clear_groundcover": false,
-        "groundcover": {
-          "t_region_groundcover_swamp": 1
-        },
+        "groundcover": { "t_region_groundcover_swamp": 1 },
         "clear_components": false,
         "components": {
           "trees": {
@@ -759,46 +462,17 @@
               "t_tree_dead": 30
             }
           },
-          "shrubs_and_flowers": {
-            "sequence": 1,
-            "chance": 15,
-            "clear_types": false,
-            "types": {
-              "t_region_shrub": 80,
-              "f_region_weed": 30
-            }
-          },
+          "shrubs_and_flowers": { "sequence": 1, "chance": 15, "clear_types": false, "types": { "t_region_shrub": 80, "f_region_weed": 30 } },
           "clutter": {
             "sequence": 2,
             "chance": 75,
             "clear_types": false,
-            "types": {
-              "t_trunk": 1,
-              "f_boulder_small": 2,
-              "f_boulder_medium": 1
-            }
+            "types": { "t_trunk": 1, "f_boulder_small": 2, "f_boulder_medium": 1 }
           },
-          "water": {
-            "sequence": 3,
-            "chance": 2,
-            "clear_types": false,
-            "types": {
-              "t_swater_sh": 12,
-              "t_swater_dp": 1,
-              "t_water_sh": 6
-            }
-          }
+          "water": { "sequence": 3, "chance": 2, "clear_types": false, "types": { "t_swater_sh": 12, "t_swater_dp": 1, "t_water_sh": 6 } }
         },
         "clear_terrain_furniture": false,
-        "terrain_furniture": {
-          "t_water_sh": {
-            "chance": 2,
-            "clear_furniture": false,
-            "furniture": {
-              "f_region_water_plant": 1
-            }
-          }
-        }
+        "terrain_furniture": { "t_water_sh": { "chance": 2, "clear_furniture": false, "furniture": { "f_region_water_plant": 1 } } }
       }
     },
     "forest_trail_settings": {
@@ -814,14 +488,8 @@
       "trail_width_offset_min": 1,
       "trail_width_offset_max": 3,
       "clear_trail_terrain": false,
-      "trail_terrain": {
-        "t_dirt": 1
-      },
-      "trailheads": {
-        "trailhead_basic": 1,
-        "trailhead_outhouse": 1,
-        "trailhead_shack": 1
-      }
+      "trail_terrain": { "t_dirt": 1 },
+      "trailheads": { "trailhead_basic": 1, "trailhead_outhouse": 1, "trailhead_shack": 1 }
     },
     "map_extras": {
       "forest": {
@@ -967,18 +635,8 @@
           "mx_exocrash_2": 1
         }
       },
-      "bridgehead_ground": {
-        "chance": 5,
-        "extras": {
-          "mx_minefield": 100
-        }
-      },
-      "road_nesw_manhole": {
-        "chance": 20,
-        "extras": {
-          "mx_city_trap": 100
-        }
-      },
+      "bridgehead_ground": { "chance": 5, "extras": { "mx_minefield": 100 } },
+      "road_nesw_manhole": { "chance": 20, "extras": { "mx_city_trap": 100 } },
       "build": {
         "chance": 90,
         "extras": {
@@ -996,30 +654,9 @@
           "mx_corpses": 30
         }
       },
-      "marloss": {
-        "chance": 20,
-        "extras": {
-          "mx_marloss_pilgrimage": 100
-        }
-      },
-      "subway": {
-        "chance": 75,
-        "extras": {
-          "mx_military": 5,
-          "mx_science": 12,
-          "mx_drugdeal": 5,
-          "mx_casings": 10
-        }
-      },
-      "lab_subway": {
-        "chance": 25,
-        "extras": {
-          "mx_military": 5,
-          "mx_science": 15,
-          "mx_portal": 3,
-          "mx_portal_in": 3
-        }
-      },
+      "marloss": { "chance": 20, "extras": { "mx_marloss_pilgrimage": 100 } },
+      "subway": { "chance": 75, "extras": { "mx_military": 5, "mx_science": 12, "mx_drugdeal": 5, "mx_casings": 10 } },
+      "lab_subway": { "chance": 25, "extras": { "mx_military": 5, "mx_science": 15, "mx_portal": 3, "mx_portal_in": 3 } },
       "research_facility_lot": {
         "chance": 3,
         "extras": {
@@ -1047,18 +684,8 @@
           "mx_casings": 30
         }
       },
-      "river": {
-        "chance": 3,
-        "extras": {
-          "mx_reed": 100
-        }
-      },
-      "lake_shore": {
-        "chance": 2,
-        "extras": {
-          "mx_reed": 100
-        }
-      },
+      "river": { "chance": 3, "extras": { "mx_reed": 100 } },
+      "lake_shore": { "chance": 2, "extras": { "mx_reed": 100 } },
       "sewer": {
         "chance": 1,
         "extras": {
@@ -1498,44 +1125,25 @@
         "snowstorm"
       ]
     },
-    "overmap_feature_flag_settings": {
-      "clear_blacklist": true,
-      "blacklist": [],
-      "clear_whitelist": true,
-      "whitelist": []
-    }
+    "overmap_feature_flag_settings": { "clear_blacklist": true, "blacklist": [  ], "clear_whitelist": true, "whitelist": [  ] }
   },
   {
     "type": "item_group",
     "subtype": "collection",
     "id": "broken_robots",
-    "entries": [
-      {
-        "group": "military",
-        "prob": 30,
-        "count": [
-          1,
-          4
-        ]
-      }
-    ]
+    "entries": [ { "group": "military", "prob": 30, "count": [ 1, 4 ] } ]
   },
   {
     "id": "ds_monitor",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": {
-      "str": "C.R.I.T S-I G.E.A.R"
-    },
+    "name": { "str": "C.R.I.T S-I G.E.A.R" },
     "description": "C.R.I.T standard issue General Engineering Assistance Rig.  Plugged into your spinal cord, this device improves your overall physique and provides basic information on your surroundings.",
     "weight": "500 g",
     "volume": "1 L",
     "price": "250 kUSD",
     "to_hit": -3,
-    "material": [
-      "plastic",
-      "steel"
-    ],
+    "material": [ "plastic", "steel" ],
     "symbol": "[",
     "color": "light_green",
     "warmth": 0,
@@ -1546,73 +1154,37 @@
           "has": "WORN",
           "condition": "ALWAYS",
           "values": [
-            {
-              "value": "STRENGTH",
-              "add": 2
-            },
-            {
-              "value": "INTELLIGENCE",
-              "add": 2
-            },
-            {
-              "value": "PERCEPTION",
-              "add": 2
-            },
-            {
-              "value": "DEXTERITY",
-              "add": 2
-            }
+            { "value": "STRENGTH", "add": 2 },
+            { "value": "INTELLIGENCE", "add": 2 },
+            { "value": "PERCEPTION", "add": 2 },
+            { "value": "DEXTERITY", "add": 2 }
           ]
         }
       ]
     },
     "material_thickness": 10,
     "environmental_protection": 0,
-    "flags": [
-      "ONLY_ONE",
-      "TRADER_AVOID",
-      "BELTED",
-      "NO_TAKEOFF"
-    ]
+    "flags": [ "ONLY_ONE", "TRADER_AVOID", "BELTED", "NO_TAKEOFF" ]
   },
   {
     "id": "ds_armor",
     "type": "ARMOR",
     "category": "armor",
-    "name": {
-      "str": "C.R.I.T Engineering Suit"
-    },
+    "name": { "str": "C.R.I.T Engineering Suit" },
     "description": "An airtight, flexible suit of woven composite fibers complete with segmented plates of armor.  A complex system digitizes items in an individual pocket universe for storage while built in joint-torsion ratchets generate the neccessary energy required to power the interface.",
     "weight": "13460 g",
     "volume": "14 L",
     "price": "9000 kUSD",
     "to_hit": -5,
     "bashing": 8,
-    "material": [
-      "superalloy",
-      "nomex",
-      "kevlar"
-    ],
+    "material": [ "superalloy", "nomex", "kevlar" ],
     "symbol": "[",
     "color": "light_gray",
     "armor": [
       {
         "encumbrance": 25,
         "coverage": 100,
-        "covers": [
-          "head",
-          "eyes",
-          "mouth",
-          "torso",
-          "leg_l",
-          "leg_r",
-          "arm_l",
-          "arm_r",
-          "hand_l",
-          "hand_r",
-          "foot_l",
-          "foot_r"
-        ]
+        "covers": [ "head", "eyes", "mouth", "torso", "leg_l", "leg_r", "arm_l", "arm_r", "hand_l", "hand_r", "foot_l", "foot_r" ]
       }
     ],
     "warmth": 15,
@@ -1628,19 +1200,8 @@
     ],
     "material_thickness": 3,
     "environmental_protection": 18,
-    "use_action": [
-      "WEATHER_TOOL"
-    ],
-    "flags": [
-      "ELECTRIC_IMMUNE",
-      "GAS_PROOF",
-      "VARSIZE",
-      "OVERSIZE",
-      "STURDY",
-      "ONLY_ONE",
-      "WATERPROOF",
-      "CLIMATE_CONTROL"
-    ]
+    "use_action": [ "WEATHER_TOOL" ],
+    "flags": [ "ELECTRIC_IMMUNE", "GAS_PROOF", "VARSIZE", "OVERSIZE", "STURDY", "ONLY_ONE", "WATERPROOF", "CLIMATE_CONTROL" ]
   },
   {
     "type": "item_group",
@@ -1648,172 +1209,56 @@
     "subtype": "distribution",
     "//": "High-tech bionics, handy for the harried researcher.  They get access to classified toys too, but only stuff a scientist would have use for.",
     "items": [
-      [
-        "burnt_out_bionic",
-        60
-      ],
-      [
-        "bio_batteries",
-        30
-      ],
-      [
-        "bio_power_storage",
-        30
-      ],
-      [
-        "bio_metabolics",
-        5
-      ],
-      [
-        "bio_ethanol",
-        5
-      ],
-      [
-        "bio_ups",
-        10
-      ],
-      [
-        "bio_torsionratchet",
-        30
-      ],
-      [
-        "bio_tools",
-        10
-      ],
-      [
-        "bio_flashlight",
-        30
-      ],
-      [
-        "bio_lighter",
-        25
-      ],
-      [
-        "bio_magnet",
-        20
-      ],
-      [
-        "bio_memory",
-        15
-      ],
-      [
-        "bio_ears",
-        10
-      ],
-      [
-        "bio_sunglasses",
-        10
-      ],
-      [
-        "bio_eye_optic",
-        10
-      ],
-      [
-        "bio_eye_enhancer",
-        5
-      ],
-      [
-        "bio_dex_enhancer",
-        5
-      ],
-      [
-        "bio_int_enhancer",
-        10
-      ],
-      [
-        "bio_night_vision",
-        1
-      ],
-      [
-        "bio_infrared",
-        2
-      ],
-      [
-        "bio_synaptic_regen",
-        12
-      ],
-      [
-        "bio_gills",
-        5
-      ],
-      [
-        "bio_climate",
-        2
-      ],
-      [
-        "bio_heatsink",
-        2
-      ],
-      [
-        "bio_blood_filter",
-        10
-      ],
-      [
-        "bio_fingerhack",
-        2
-      ],
-      [
-        "bio_lockpick",
-        2
-      ],
-      [
-        "bio_surgical_razor",
-        8
-      ],
-      [
-        "bio_nanobots",
-        15
-      ],
-      [
-        "bio_blood_anal",
-        10
-      ],
-      [
-        "bio_geiger",
-        15
-      ],
-      [
-        "bio_radscrubber",
-        10
-      ],
-      [
-        "bio_watch",
-        40
-      ],
-      [
-        "bio_leukocyte",
-        15
-      ],
-      [
-        "bio_syringe",
-        2
-      ],
-      [
-        "bio_jointservo",
-        10
-      ],
-      [
-        "bio_soporific",
-        2
-      ]
+      [ "burnt_out_bionic", 60 ],
+      [ "bio_batteries", 30 ],
+      [ "bio_power_storage", 30 ],
+      [ "bio_metabolics", 5 ],
+      [ "bio_ethanol", 5 ],
+      [ "bio_ups", 10 ],
+      [ "bio_torsionratchet", 30 ],
+      [ "bio_tools", 10 ],
+      [ "bio_flashlight", 30 ],
+      [ "bio_lighter", 25 ],
+      [ "bio_magnet", 20 ],
+      [ "bio_memory", 15 ],
+      [ "bio_ears", 10 ],
+      [ "bio_sunglasses", 10 ],
+      [ "bio_eye_optic", 10 ],
+      [ "bio_eye_enhancer", 5 ],
+      [ "bio_dex_enhancer", 5 ],
+      [ "bio_int_enhancer", 10 ],
+      [ "bio_night_vision", 1 ],
+      [ "bio_infrared", 2 ],
+      [ "bio_synaptic_regen", 12 ],
+      [ "bio_gills", 5 ],
+      [ "bio_climate", 2 ],
+      [ "bio_heatsink", 2 ],
+      [ "bio_blood_filter", 10 ],
+      [ "bio_fingerhack", 2 ],
+      [ "bio_lockpick", 2 ],
+      [ "bio_surgical_razor", 8 ],
+      [ "bio_nanobots", 15 ],
+      [ "bio_blood_anal", 10 ],
+      [ "bio_geiger", 15 ],
+      [ "bio_radscrubber", 10 ],
+      [ "bio_watch", 40 ],
+      [ "bio_leukocyte", 15 ],
+      [ "bio_syringe", 2 ],
+      [ "bio_jointservo", 10 ],
+      [ "bio_soporific", 2 ]
     ]
   },
   {
     "id": "rucksack",
     "repairs_like": "bigback",
     "type": "ARMOR",
-    "name": {
-      "str": "military rucksack"
-    },
+    "name": { "str": "military rucksack" },
     "description": "A huge military rucksack, provides a lot of storage.",
     "weight": "1140 g",
     "volume": "11 L",
     "price": 9200,
     "price_postapoc": 1250,
-    "material": [
-      "cotton",
-      "plastic"
-    ],
+    "material": [ "cotton", "plastic" ],
     "symbol": "[",
     "looks_like": "backpack",
     "color": "green",
@@ -1853,21 +1298,1825 @@
     ],
     "warmth": 8,
     "material_thickness": 0.2,
-    "flags": [
-      "BELTED",
-      "WATER_FRIENDLY"
-    ],
-    "armor": [
+    "flags": [ "BELTED", "WATER_FRIENDLY" ],
+    "armor": [ { "encumbrance": [ 10, 50 ], "coverage": 40, "covers": [ "torso" ] } ]
+  },
+  {
+    "id": "survivor_belt_notools",
+    "type": "ARMOR",
+    "name": { "str": "survivor belt" },
+    "description": "A custom-built leather belt covered with pouches, with a sheath to carry a smaller blade and a holster to carry a pistol.  Durable and carefully crafted to be comfortable to wear.  Activate to sheathe/draw a weapon.",
+    "weight": "1549 g",
+    "volume": "2250 ml",
+    "price": 15000,
+    "price_postapoc": 2500,
+    "material": [ "leather" ],
+    "symbol": "[",
+    "looks_like": "holster",
+    "color": "brown",
+    "material_thickness": 2,
+    "pocket_data": [
       {
-        "encumbrance": [
-          10,
-          50
-        ],
-        "coverage": 40,
-        "covers": [
-          "torso"
-        ]
+        "holster": true,
+        "min_item_volume": "250 ml",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "70 cm",
+        "moves": 20,
+        "flag_restriction": [ "SHEATH_KNIFE" ]
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1000 g",
+        "max_item_length": "13 cm",
+        "moves": 50
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1000 g",
+        "max_item_length": "13 cm",
+        "moves": 50
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1000 g",
+        "max_item_length": "13 cm",
+        "moves": 50
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1000 g",
+        "max_item_length": "13 cm",
+        "moves": 50
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1000 g",
+        "max_item_length": "13 cm",
+        "moves": 50
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1000 g",
+        "max_item_length": "13 cm",
+        "moves": 50
+      },
+      {
+        "magazine_well": "350 ml",
+        "pocket_type": "CONTAINER",
+        "holster": true,
+        "min_item_volume": "300 ml",
+        "max_contains_volume": "1000 ml",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "30 cm",
+        "moves": 50
       }
-    ]
+    ],
+    "use_action": { "type": "holster", "holster_prompt": "Store item", "holster_msg": "You put your %1$s in your %2$s" },
+    "flags": [ "WATER_FRIENDLY", "STURDY", "WAIST" ],
+    "armor": [ { "encumbrance": [ 2, 6 ], "coverage": 15, "covers": [ "torso" ] } ]
+  },
+  {
+    "id": "boots_fsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of survivor fireboots", "str_pl": "pairs of survivor fireboots" },
+    "description": "A pair of customized, Kevlar-armored Nomex boots.  These will keep you alive, even when knee-deep in the flames.",
+    "weight": "1980 g",
+    "volume": "3 L",
+    "price": 24000,
+    "price_postapoc": 6000,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "kevlar", "nomex" ],
+    "symbol": "[",
+    "looks_like": "boots_combat",
+    "color": "light_gray",
+    "warmth": 15,
+    "material_thickness": 5,
+    "environmental_protection": 10,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 35, "coverage": 100, "covers": [ "foot_l", "foot_r" ] } ]
+  },
+  {
+    "id": "xl_boots_fsurvivor",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL survivor fireboots", "str_pl": "pairs of XL survivor fireboots" },
+    "copy-from": "boots_fsurvivor",
+    "proportional": { "weight": 1.5, "volume": 1.5 },
+    "flags": [ "VARSIZE", "WATERPROOF", "OVERSIZE", "STURDY" ]
+  },
+  {
+    "id": "boots_wsurvivor_nofur",
+    "type": "ARMOR",
+    "name": { "str": "pair of faux fur winter survivor boots", "str_pl": "pairs of faux fur winter survivor boots" },
+    "description": "A pair of customized, Kevlar-armored boots.  Warm thanks to a faux-fur lining, these will keep you alive even when knee-deep in the dead.",
+    "copy-from": "boots_wsurvivor",
+    "material": [ "kevlar", "faux_fur" ],
+    "symbol": "[",
+    "warmth": 50,
+    "looks_like": "boots_fur",
+    "color": "pink"
+  },
+  {
+    "id": "xl_boots_wsurvivor_nofur",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL faux fur winter survivor boots", "str_pl": "pairs of XL faux fur winter survivor boots" },
+    "copy-from": "boots_wsurvivor",
+    "material": [ "kevlar", "faux_fur" ],
+    "description": "A pair of customized and oversized Kevlar-armored boots.  Warm thanks to a faux-fur lining, these will keep you alive even when knee-deep in the dead.",
+    "color": "pink",
+    "warmth": 50,
+    "proportional": { "weight": 1.3, "volume": 1.3 },
+    "flags": [ "VARSIZE", "WATERPROOF", "OVERSIZE", "STURDY" ]
+  },
+  {
+    "id": "boots_h20survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of survivor wetsuit boots", "str_pl": "pairs of survivor wetsuit boots" },
+    "description": "A pair of customized, Kevlar-armored neoprene boots.  These will keep you dry and alive, come hell or high water.",
+    "weight": "1180 g",
+    "volume": "1500 ml",
+    "price": 24000,
+    "price_postapoc": 6000,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "kevlar", "plastic", "neoprene" ],
+    "symbol": "[",
+    "looks_like": "boots_bunker",
+    "color": "dark_gray",
+    "warmth": 15,
+    "material_thickness": 3,
+    "environmental_protection": 10,
+    "flags": [ "VARSIZE", "WATER_FRIENDLY", "STURDY" ],
+    "armor": [ { "encumbrance": 32, "coverage": 100, "covers": [ "foot_l", "foot_r" ] } ]
+  },
+  {
+    "id": "boots_hsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of heavy survivor boots", "str_pl": "pairs of heavy survivor boots" },
+    "description": "A pair of customized Kevlar boots that are heavily armored with steel.  Favoring protection over comfort, these will keep you alive, especially when knee-deep in the dead.",
+    "weight": "2254 g",
+    "volume": "3 L",
+    "price": 24000,
+    "price_postapoc": 8000,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "kevlar", "steel" ],
+    "symbol": "[",
+    "looks_like": "boots_combat",
+    "color": "dark_gray",
+    "warmth": 15,
+    "material_thickness": 5,
+    "environmental_protection": 5,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 35, "coverage": 100, "covers": [ "foot_l", "foot_r" ] } ]
+  },
+  {
+    "id": "xl_boots_hsurvivor",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL heavy survivor boots", "str_pl": "pairs of XL heavy survivor boots" },
+    "copy-from": "boots_hsurvivor",
+    "proportional": { "weight": 1.2, "volume": 1.2 },
+    "flags": [ "VARSIZE", "WATERPROOF", "OVERSIZE", "STURDY" ]
+  },
+  {
+    "id": "boots_lsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of light survivor boots", "str_pl": "pairs of light survivor boots" },
+    "description": "A pair of customized, Kevlar-armored cloth boots.  Favoring comfort over protection, these boots will keep you moving and agile, even when knee-deep in the dead.",
+    "weight": "1120 g",
+    "volume": "2 L",
+    "price": 24000,
+    "price_postapoc": 5000,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "kevlar", "cotton" ],
+    "symbol": "[",
+    "looks_like": "boots_combat",
+    "color": "green",
+    "warmth": 15,
+    "material_thickness": 4,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 18, "coverage": 100, "covers": [ "foot_l", "foot_r" ] } ]
+  },
+  {
+    "id": "xl_boots_lsurvivor",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL light survivor boots", "str_pl": "pairs of XL light survivor boots" },
+    "copy-from": "boots_lsurvivor",
+    "proportional": { "weight": 1.4, "volume": 1.4 },
+    "flags": [ "VARSIZE", "WATERPROOF", "OVERSIZE", "STURDY" ]
+  },
+  {
+    "id": "boots_survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of survivor boots", "str_pl": "pairs of survivor boots" },
+    "description": "A pair of customized leather boots armored with Kevlar.  Balancing comfort and protection, these boots will keep you alive, even when knee-deep in the dead.",
+    "weight": "1330 g",
+    "volume": "2500 ml",
+    "price": 24000,
+    "price_postapoc": 6000,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "kevlar", "leather" ],
+    "symbol": "[",
+    "looks_like": "boots_combat",
+    "color": "brown",
+    "warmth": 15,
+    "material_thickness": 3.5,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 24, "coverage": 100, "covers": [ "foot_l", "foot_r" ] } ]
+  },
+  {
+    "id": "boots_wsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of winter survivor boots", "str_pl": "pairs of winter survivor boots" },
+    "description": "A pair of customized, Kevlar-armored boots.  Warm thanks to the real fur lining, these will keep you alive, even when knee-deep in the dead.",
+    "weight": "1760 g",
+    "volume": "3500 ml",
+    "price": 24000,
+    "price_postapoc": 6000,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "kevlar", "fur" ],
+    "symbol": "[",
+    "looks_like": "boots_fur",
+    "color": "light_gray",
+    "warmth": 75,
+    "material_thickness": 5,
+    "environmental_protection": 5,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 38, "coverage": 100, "covers": [ "foot_l", "foot_r" ] } ]
+  },
+  {
+    "id": "xl_boots_wsurvivor",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL winter survivor boots", "str_pl": "pairs of XL winter survivor boots" },
+    "copy-from": "boots_wsurvivor",
+    "proportional": { "weight": 1.3, "volume": 1.3 },
+    "flags": [ "VARSIZE", "WATERPROOF", "OVERSIZE", "STURDY" ]
+  },
+  {
+    "id": "boots_xlsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of XL survivor boots", "str_pl": "pairs of XL survivor boots" },
+    "description": "A massive pair of customized leather boots armored with Kevlar.  Balancing comfort and protection, these boots will keep you alive even when knee-deep in the dead.",
+    "weight": "2460 g",
+    "volume": "5 L",
+    "price": 24000,
+    "price_postapoc": 4000,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "kevlar", "leather" ],
+    "symbol": "[",
+    "looks_like": "boots_combat",
+    "color": "brown",
+    "warmth": 15,
+    "material_thickness": 4,
+    "environmental_protection": 3,
+    "flags": [ "OVERSIZE", "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 38, "coverage": 100, "covers": [ "foot_l", "foot_r" ] } ]
+  },
+  {
+    "id": "duster_survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "survivor duster" },
+    "description": "A Kevlar armored custom full-length duster, covered with pouches and pockets.  Comfortable, durable, and great for storage.",
+    "weight": "2592 g",
+    "volume": "9500 ml",
+    "price": 40000,
+    "price_postapoc": 8000,
+    "to_hit": -1,
+    "material": [ "cotton", "kevlar_layered" ],
+    "symbol": "[",
+    "looks_like": "duster_leather",
+    "color": "brown",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 85, "encumbrance": [ 7, 13 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 85, "encumbrance": [ 7, 9 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 85, "encumbrance": [ 7, 7 ] }
+    ],
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "3 L",
+        "max_contains_weight": "6 kg",
+        "max_item_length": "31 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "3 L",
+        "max_contains_weight": "6 kg",
+        "max_item_length": "31 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "25 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "25 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "13 cm",
+        "moves": 120
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "13 cm",
+        "moves": 120
+      }
+    ],
+    "warmth": 10,
+    "material_thickness": 3,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "POCKETS", "HOOD", "COLLAR", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ]
+  },
+  {
+    "id": "xl_duster_survivor",
+    "type": "ARMOR",
+    "name": { "str": "XL survivor duster" },
+    "copy-from": "duster_survivor",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "flags": [ "VARSIZE", "POCKETS", "HOOD", "COLLAR", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER", "OVERSIZE" ]
+  },
+  {
+    "id": "sleeveless_duster_survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "sleeveless survivor duster" },
+    "//": "The general guideline for sleeveless dusters is the components, volume, weight, time to craft, and value are 15% lower (rounded down) than the original.  Making it from an original takes 50% the time.",
+    "description": "A custom Kevlar armored full-length duster without sleeves, covered with pouches and pockets.  Comfortable, durable, and great for storage.",
+    "weight": "2203 g",
+    "volume": "8 L",
+    "price": 34000,
+    "price_postapoc": 4500,
+    "to_hit": -1,
+    "material": [ "cotton", "kevlar_layered" ],
+    "symbol": "[",
+    "looks_like": "duster_survivor",
+    "color": "brown",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 85, "encumbrance": [ 7, 13 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 85, "encumbrance": [ 7, 9 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "3 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "3 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "1 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "1 kg", "moves": 120 }
+    ],
+    "warmth": 10,
+    "material_thickness": 2,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "POCKETS", "HOOD", "COLLAR", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ]
+  },
+  {
+    "id": "sleeveless_trenchcoat_survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "sleeveless survivor trenchcoat" },
+    "//": "The general guideline for sleeveless trenchcoats is the components, volume, weight, time to craft, and value are 15% lower (rounded down) than the original.  Making it from an original takes 50% the time.",
+    "description": "A custom Kevlar armored trenchcoat without sleeves, covered with pouches and pockets.  Comfortable, durable, and great for storage.",
+    "weight": "1632 g",
+    "volume": "6 L",
+    "price": 34000,
+    "price_postapoc": 500,
+    "to_hit": -1,
+    "material": [ "cotton", "kevlar_layered" ],
+    "symbol": "[",
+    "looks_like": "sleeveless_duster_survivor",
+    "color": "brown",
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "3 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "3 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "1 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "1 kg", "moves": 120 }
+    ],
+    "warmth": 10,
+    "material_thickness": 3,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "POCKETS", "HOOD", "COLLAR", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ],
+    "armor": [ { "encumbrance": [ 7, 15 ], "coverage": 85, "covers": [ "torso" ] } ]
+  },
+  {
+    "id": "trenchcoat_survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "survivor trenchcoat" },
+    "description": "A Kevlar armored custom trenchcoat, covered with pouches and pockets.  Comfortable, durable, and great for storage.",
+    "weight": "1920 g",
+    "volume": "7 L",
+    "price": 40000,
+    "price_postapoc": 8000,
+    "to_hit": -1,
+    "material": [ "cotton", "kevlar_layered" ],
+    "symbol": "[",
+    "looks_like": "trenchcoat",
+    "color": "brown",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 85, "encumbrance": [ 7, 15 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 85, "encumbrance": [ 7, 7 ] }
+    ],
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "3 L",
+        "max_contains_weight": "6 kg",
+        "max_item_length": "31 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "3 L",
+        "max_contains_weight": "6 kg",
+        "max_item_length": "31 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "25 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1 L",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "25 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "13 cm",
+        "moves": 120
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "13 cm",
+        "moves": 120
+      }
+    ],
+    "warmth": 10,
+    "material_thickness": 3,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "POCKETS", "HOOD", "COLLAR", "STURDY", "WATERPROOF", "RAINPROOF", "OUTER" ]
+  },
+  {
+    "id": "survivor_goggles",
+    "type": "ARMOR",
+    "name": { "str": "survivor goggles", "str_pl": "pairs of survivor goggles" },
+    "description": "A custom-built pair of armored goggles with tinted lenses.  Comfortable and built to last, they provide excellent protection from environmental dangers.",
+    "weight": "212 g",
+    "volume": "250 ml",
+    "price": 7500,
+    "price_postapoc": 3000,
+    "to_hit": -2,
+    "material": [ "kevlar_layered", "leather" ],
+    "symbol": "[",
+    "looks_like": "glasses_bal",
+    "color": "dark_gray",
+    "warmth": 5,
+    "material_thickness": 4,
+    "environmental_protection": 15,
+    "qualities": [ [ "GLARE", 1 ] ],
+    "flags": [ "WATER_FRIENDLY", "SUN_GLASSES", "OVERSIZE", "VARSIZE", "STURDY" ],
+    "armor": [ { "encumbrance": 20, "coverage": 100, "covers": [ "eyes" ] } ]
+  },
+  {
+    "id": "gloves_fsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of survivor firegloves", "str_pl": "pairs of survivor firegloves" },
+    "description": "A pair of customized, Kevlar-armored Nomex gloves.  These are a post-apocalyptic extension of what firefighters wore pre-Cataclysm.",
+    "weight": "410 g",
+    "volume": "1 L",
+    "price": 18000,
+    "price_postapoc": 2500,
+    "to_hit": 2,
+    "material": [ "kevlar_layered", "nomex" ],
+    "symbol": "[",
+    "looks_like": "fire_gauntlets",
+    "color": "light_gray",
+    "warmth": 15,
+    "material_thickness": 3,
+    "environmental_protection": 10,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 30, "coverage": 100, "covers": [ "hand_l", "hand_r" ] } ]
+  },
+  {
+    "id": "xl_gloves_fsurvivor",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL survivor firegloves", "str_pl": "pairs of XL survivor firegloves" },
+    "copy-from": "gloves_fsurvivor",
+    "proportional": { "weight": 1.5, "volume": 1.5 },
+    "flags": [ "VARSIZE", "STURDY", "OVERSIZE", "WATERPROOF" ]
+  },
+  {
+    "id": "gloves_wsurvivor_nofur",
+    "type": "ARMOR",
+    "name": { "str": "pair of faux fur winter survivor gloves", "str_pl": "pairs of faux fur winter survivor gloves" },
+    "description": "A pair of customized, Kevlar-armored gloves.  These are lined with faux-fur.",
+    "copy-from": "gloves_wsurvivor",
+    "material": [ "kevlar_layered", "faux_fur" ],
+    "symbol": "[",
+    "looks_like": "gloves_winter",
+    "color": "pink",
+    "warmth": 60
+  },
+  {
+    "id": "xl_gloves_wsurvivor_nofur",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL faux fur winter survivor gloves", "str_pl": "pairs of XL faux fur winter survivor gloves" },
+    "copy-from": "gloves_wsurvivor_nofur",
+    "material": [ "kevlar_layered", "faux_fur" ],
+    "description": "A pair of customized and oversized Kevlar-armored gloves.  These are lined with faux-fur.",
+    "color": "pink",
+    "proportional": { "weight": 1.5, "volume": 1.5 },
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "OVERSIZE" ]
+  },
+  {
+    "id": "gloves_hsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of heavy survivor gloves", "str_pl": "pairs of heavy survivor gloves" },
+    "description": "A pair of customized, steel-backed Kevlar gloves.  These are designed for protection first.",
+    "weight": "1344 g",
+    "volume": "1 L",
+    "price": 18000,
+    "price_postapoc": 3000,
+    "to_hit": 2,
+    "material": [ "kevlar_layered", "steel" ],
+    "symbol": "[",
+    "looks_like": "fire_gauntlets",
+    "color": "dark_gray",
+    "warmth": 15,
+    "material_thickness": 4,
+    "environmental_protection": 5,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 30, "coverage": 100, "covers": [ "hand_l", "hand_r" ] } ]
+  },
+  {
+    "id": "xl_gloves_hsurvivor",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL heavy survivor gloves", "str_pl": "pairs of XL heavy survivor gloves" },
+    "copy-from": "gloves_hsurvivor",
+    "proportional": { "weight": 1.5, "volume": 1.5 },
+    "flags": [ "VARSIZE", "STURDY", "OVERSIZE", "WATERPROOF" ]
+  },
+  {
+    "id": "gloves_lsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of light survivor gloves", "str_pl": "pairs of light survivor gloves" },
+    "description": "A pair of customized, Kevlar-armored cloth gloves.  These are designed for comfort first.",
+    "weight": "190 g",
+    "volume": "750 ml",
+    "price": 18000,
+    "price_postapoc": 2000,
+    "to_hit": 2,
+    "material": [ "kevlar_layered", "cotton" ],
+    "symbol": "[",
+    "looks_like": "gloves_survivor",
+    "color": "green",
+    "warmth": 15,
+    "material_thickness": 1,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 10, "coverage": 100, "covers": [ "hand_l", "hand_r" ] } ]
+  },
+  {
+    "id": "xl_gloves_lsurvivor",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL light survivor gloves", "str_pl": "pairs of XL light survivor gloves" },
+    "copy-from": "gloves_lsurvivor",
+    "proportional": { "weight": 1.5, "volume": 1.5 },
+    "flags": [ "VARSIZE", "STURDY", "OVERSIZE", "WATERPROOF" ]
+  },
+  {
+    "id": "gloves_lsurvivor_fingerless",
+    "type": "ARMOR",
+    "looks_like": "gloves_lsurvivor",
+    "category": "armor",
+    "name": { "str": "pair of fingerless light survivor gloves", "str_pl": "pairs of fingerless light survivor gloves" },
+    "description": "A pair of customized, Kevlar-armored cloth gloves without fingers.  These are designed for comfort first.",
+    "weight": "160 g",
+    "volume": "700 ml",
+    "price": 16000,
+    "price_postapoc": 2000,
+    "to_hit": 2,
+    "material": [ "kevlar_layered", "cotton" ],
+    "symbol": "[",
+    "color": "green",
+    "warmth": 12,
+    "material_thickness": 1,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "ALLOWS_NATURAL_ATTACKS" ],
+    "armor": [ { "encumbrance": 8, "coverage": 85, "covers": [ "hand_l", "hand_r" ] } ]
+  },
+  {
+    "id": "xl_gloves_lsurvivor_fingerless",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL fingerless light survivor gloves", "str_pl": "pairs of XL fingerless light survivor gloves" },
+    "copy-from": "gloves_lsurvivor_fingerless",
+    "proportional": { "weight": 1.5, "volume": 1.5 },
+    "flags": [ "VARSIZE", "STURDY", "OVERSIZE", "WATERPROOF", "ALLOWS_NATURAL_ATTACKS" ]
+  },
+  {
+    "id": "gloves_survivor_fingerless",
+    "type": "ARMOR",
+    "looks_like": "gloves_survivor",
+    "category": "armor",
+    "name": { "str": "pair of fingerless survivor gloves", "str_pl": "pairs of fingerless survivor gloves" },
+    "description": "A pair of customized, Kevlar-armored leather gloves without fingers.  These strike a balance between comfort and protection.",
+    "weight": "200 g",
+    "volume": "700 ml",
+    "price": 16000,
+    "price_postapoc": 2000,
+    "to_hit": 2,
+    "material": [ "kevlar_layered", "leather" ],
+    "symbol": "[",
+    "color": "brown",
+    "warmth": 12,
+    "material_thickness": 3,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "ALLOWS_NATURAL_ATTACKS", "ALLOWS_TALONS" ],
+    "armor": [ { "encumbrance": 16, "coverage": 85, "covers": [ "hand_l", "hand_r" ] } ]
+  },
+  {
+    "id": "xl_gloves_survivor_fingerless",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL fingerless survivor gloves", "str_pl": "pairs of XL fingerless survivor gloves" },
+    "copy-from": "gloves_survivor_fingerless",
+    "proportional": { "weight": 1.5, "volume": 1.5 },
+    "flags": [ "VARSIZE", "STURDY", "OVERSIZE", "WATERPROOF", "ALLOWS_NATURAL_ATTACKS" ]
+  },
+  {
+    "id": "gloves_survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of survivor gloves", "str_pl": "pairs of survivor gloves" },
+    "description": "A pair of customized, Kevlar-armored leather gloves.  These strike a balance between comfort and protection.",
+    "weight": "230 g",
+    "volume": "750 ml",
+    "price": 18000,
+    "price_postapoc": 2000,
+    "to_hit": 2,
+    "material": [ "kevlar_layered", "leather" ],
+    "symbol": "[",
+    "looks_like": "fire_gauntlets",
+    "color": "brown",
+    "warmth": 15,
+    "material_thickness": 3,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 20, "coverage": 100, "covers": [ "hand_l", "hand_r" ] } ]
+  },
+  {
+    "id": "gloves_wsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of winter survivor gloves", "str_pl": "pairs of winter survivor gloves" },
+    "description": "A pair of customized, Kevlar-armored gloves.  These are lined with real fur.",
+    "weight": "300 g",
+    "volume": "1250 ml",
+    "price": 18000,
+    "price_postapoc": 2500,
+    "to_hit": 2,
+    "material": [ "kevlar_layered", "fur" ],
+    "symbol": "[",
+    "looks_like": "gloves_winter",
+    "color": "light_gray",
+    "warmth": 75,
+    "material_thickness": 4,
+    "environmental_protection": 5,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 37, "coverage": 100, "covers": [ "hand_l", "hand_r" ] } ]
+  },
+  {
+    "id": "xl_gloves_wsurvivor",
+    "type": "ARMOR",
+    "name": { "str": "pair of XL winter survivor gloves", "str_pl": "pairs of XL winter survivor gloves" },
+    "copy-from": "gloves_wsurvivor",
+    "proportional": { "weight": 1.5, "volume": 1.5 },
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "OVERSIZE" ]
+  },
+  {
+    "id": "xl_gloves_survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of XL survivor gloves", "str_pl": "pairs of XL survivor gloves" },
+    "description": "A massive pair of customized, Kevlar-armored leather gloves.  These strike a balance between protection and comfort.",
+    "weight": "480 g",
+    "volume": "1500 ml",
+    "price": 18000,
+    "price_postapoc": 1500,
+    "to_hit": 2,
+    "material": [ "kevlar_layered", "leather" ],
+    "symbol": "[",
+    "looks_like": "gloves_survivor",
+    "color": "brown",
+    "warmth": 15,
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "OVERSIZE", "VARSIZE", "WATERPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": 30, "coverage": 100, "covers": [ "hand_l", "hand_r" ] } ]
+  },
+  {
+    "id": "helmet_nomad",
+    "type": "ARMOR",
+    "name": { "str": "nomad cowl" },
+    "description": "A makeshift cowl with protection for the eyes from rain and sun, designed for long travels.",
+    "weight": "470 g",
+    "volume": "2500 ml",
+    "price": 25000,
+    "price_postapoc": 250,
+    "to_hit": -3,
+    "material": [ "cotton", "leather" ],
+    "symbol": "[",
+    "looks_like": "balclava",
+    "color": "white",
+    "armor": [
+      { "covers": [ "head" ], "coverage": 95, "encumbrance": 20 },
+      { "covers": [ "eyes", "mouth" ], "coverage": 95, "encumbrance": 5 }
+    ],
+    "warmth": 35,
+    "material_thickness": 3,
+    "environmental_protection": 4,
+    "flags": [ "VARSIZE", "WATERPROOF", "SUN_GLASSES" ]
+  },
+  {
+    "id": "xl_helmet_nomad",
+    "type": "ARMOR",
+    "copy-from": "helmet_nomad",
+    "name": { "str": "nomad cowl XL" },
+    "description": "A makeshift cowl with protection for the eyes from rain and sun, designed for long travels.  Designed for a gigantic wanderer.",
+    "proportional": { "weight": 1.25, "volume": 1.3, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "helmet_scavenger",
+    "type": "ARMOR",
+    "name": { "str": "scavenger cowl" },
+    "description": "A sturdy protective cowl extending down to the neck, fitted with a respirator and eye protection.  For dangerous scavenging ventures.",
+    "weight": "695 g",
+    "volume": "2500 ml",
+    "price": 55000,
+    "price_postapoc": 3500,
+    "to_hit": -3,
+    "material": [ "kevlar_layered", "cotton" ],
+    "symbol": "[",
+    "looks_like": "mask_gas",
+    "color": "white",
+    "armor": [
+      { "covers": [ "head" ], "coverage": 100, "encumbrance": 23 },
+      { "covers": [ "eyes", "mouth" ], "coverage": 100, "encumbrance": 5 }
+    ],
+    "warmth": 40,
+    "material_thickness": 3,
+    "environmental_protection": 7,
+    "flags": [ "VARSIZE", "STURDY", "WATERPROOF", "SUN_GLASSES" ]
+  },
+  {
+    "id": "xl_helmet_scavenger",
+    "type": "ARMOR",
+    "copy-from": "helmet_scavenger",
+    "name": { "str": "XL scavenger cowl" },
+    "description": "A sturdy protective cowl extending down to the neck, fitted with a respirator and eye protection.  For oversized dangerous scavenging ventures.",
+    "proportional": { "weight": 1.25, "volume": 1.3, "price": 1.25 },
+    "extend": { "flags": [ "OVERSIZE" ] }
+  },
+  {
+    "id": "survivor_vest",
+    "type": "ARMOR",
+    "name": { "str": "survivor harness", "str_pl": "survivor harnesses" },
+    "description": "A custom-built light harness covered with pouches and including an integral tactical sling for a small rifle or other such weapon.  Durable and carefully crafted to be comfortable to wear.  Activate to holster/draw your weapon.",
+    "weight": "320 g",
+    "volume": "1250 ml",
+    "price": 20000,
+    "price_postapoc": 4000,
+    "material": [ "leather", "cotton" ],
+    "symbol": "[",
+    "looks_like": "tacvest",
+    "color": "green",
+    "material_thickness": 2,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "holster": true,
+        "min_item_volume": "1000 ml",
+        "max_contains_volume": "8 L",
+        "max_contains_weight": "8200 g",
+        "max_item_length": "120 cm",
+        "moves": 50
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1500 ml",
+        "max_contains_weight": "5 kg",
+        "max_item_length": "20 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1500 ml",
+        "max_contains_weight": "5 kg",
+        "max_item_length": "20 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1500 ml",
+        "max_contains_weight": "5 kg",
+        "max_item_length": "20 cm",
+        "moves": 80
+      }
+    ],
+    "use_action": { "type": "holster" },
+    "flags": [ "WATER_FRIENDLY", "STURDY", "WAIST" ],
+    "armor": [ { "encumbrance": [ 4, 12 ], "coverage": 20, "covers": [ "torso" ] } ]
+  },
+  {
+    "id": "xl_survivor_vest",
+    "type": "ARMOR",
+    "copy-from": "survivor_vest",
+    "name": { "str": "XL survivor harness", "str_pl": "XL survivor harnesses" },
+    "description": "A custom-built light harness covered with pouches and including an integral tactical sling for a small rifle or other such weapon.  Durable and carefully crafted to be comfortable to wear and fitting the largest forms.  Activate to holster/draw your weapon.",
+    "proportional": { "weight": 1.25, "volume": 1.13, "price": 1.25 },
+    "flags": [ "WATER_FRIENDLY", "WAIST", "STURDY", "OVERSIZE" ]
+  },
+  {
+    "id": "hood_fsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "survivor firehood" },
+    "description": "A customized armored Nomex and Kevlar hood, strong and durable.",
+    "weight": "1220 g",
+    "volume": "1500 ml",
+    "price": 58000,
+    "price_postapoc": 4000,
+    "to_hit": -1,
+    "bashing": 10,
+    "material": [ "kevlar_layered", "nomex" ],
+    "symbol": "[",
+    "looks_like": "hood_survivor",
+    "color": "light_gray",
+    "warmth": 15,
+    "material_thickness": 5,
+    "environmental_protection": 10,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "OUTER", "HELMET_COMPAT" ],
+    "armor": [ { "encumbrance": 30, "coverage": 100, "covers": [ "head" ] } ]
+  },
+  {
+    "id": "xl_hood_fsurvivor",
+    "type": "ARMOR",
+    "copy-from": "hood_fsurvivor",
+    "name": { "str": "XL survivor firehood" },
+    "description": "A customized armored Nomex and Kevlar hood, very strong and durable.  Made in Muspelheim.",
+    "proportional": { "weight": 1.25, "volume": 1.3, "price": 1.25 },
+    "flags": [ "VARSIZE", "STURDY", "OVERSIZE", "HELMET_COMPAT", "OUTER", "WATERPROOF" ]
+  },
+  {
+    "id": "hood_lsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "light survivor hood" },
+    "description": "A customized armored cloth and Kevlar hood, light yet durable.",
+    "weight": "628 g",
+    "volume": "750 ml",
+    "price": 58000,
+    "price_postapoc": 3000,
+    "to_hit": -1,
+    "bashing": 10,
+    "material": [ "kevlar_layered", "cotton" ],
+    "symbol": "[",
+    "looks_like": "hood_survivor",
+    "color": "green",
+    "warmth": 10,
+    "material_thickness": 4,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "OUTER", "HELMET_COMPAT" ],
+    "armor": [ { "encumbrance": 15, "coverage": 100, "covers": [ "head" ] } ]
+  },
+  {
+    "id": "xl_hood_lsurvivor",
+    "type": "ARMOR",
+    "copy-from": "hood_lsurvivor",
+    "name": { "str": "XL light survivor hood" },
+    "description": "A customized and oversized armored cloth and Kevlar hood, light yet durable.",
+    "proportional": { "weight": 1.25, "volume": 1.3, "price": 1.25 },
+    "flags": [ "VARSIZE", "STURDY", "OVERSIZE", "HELMET_COMPAT", "OUTER", "WATERPROOF" ]
+  },
+  {
+    "id": "hood_wsurvivor_nofur",
+    "type": "ARMOR",
+    "name": { "str": "winter faux fur survivor hood" },
+    "description": "A customized armored Kevlar hood.  Warm thanks to the faux-fur lining.",
+    "copy-from": "hood_wsurvivor",
+    "material": [ "kevlar_layered", "faux_fur" ],
+    "symbol": "[",
+    "warmth": 65,
+    "looks_like": "hood_survivor",
+    "color": "pink"
+  },
+  {
+    "id": "xl_hood_wsurvivor_nofur",
+    "type": "ARMOR",
+    "copy-from": "hood_wsurvivor",
+    "material": [ "kevlar_layered", "faux_fur" ],
+    "color": "pink",
+    "warmth": 65,
+    "name": { "str": "XL faux fur winter survivor hood" },
+    "description": "A customized and oversized armored Kevlar hood.  Warm thanks to the faux-fur lining.",
+    "proportional": { "weight": 1.25, "volume": 1.3, "price": 1.25 },
+    "flags": [ "VARSIZE", "STURDY", "OVERSIZE", "HELMET_COMPAT", "OUTER", "WATERPROOF" ]
+  },
+  {
+    "id": "hood_survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "survivor hood" },
+    "description": "A customized armored leather and Kevlar hood, designed to balance comfort and protection.",
+    "weight": "820 g",
+    "volume": "2 L",
+    "price": 58000,
+    "price_postapoc": 4000,
+    "to_hit": -1,
+    "bashing": 10,
+    "material": [ "kevlar_layered", "leather" ],
+    "symbol": "[",
+    "looks_like": "hood_rain",
+    "color": "brown",
+    "warmth": 15,
+    "material_thickness": 4,
+    "environmental_protection": 3,
+    "techniques": [ "WBLOCK_1" ],
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "OUTER", "HELMET_COMPAT" ],
+    "armor": [ { "encumbrance": 25, "coverage": 100, "covers": [ "head" ] } ]
+  },
+  {
+    "id": "hood_wsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "winter survivor hood" },
+    "description": "A customized armored Kevlar hood.  Warm thanks to the real fur lining.",
+    "weight": "870 g",
+    "volume": "1500 ml",
+    "price": 58000,
+    "price_postapoc": 3500,
+    "to_hit": -1,
+    "bashing": 10,
+    "material": [ "kevlar_layered", "fur" ],
+    "symbol": "[",
+    "looks_like": "hood_survivor",
+    "color": "light_gray",
+    "warmth": 75,
+    "material_thickness": 5,
+    "environmental_protection": 5,
+    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "OUTER", "HELMET_COMPAT" ],
+    "armor": [ { "encumbrance": 37, "coverage": 100, "covers": [ "head" ] } ]
+  },
+  {
+    "id": "xl_hood_wsurvivor",
+    "type": "ARMOR",
+    "copy-from": "hood_wsurvivor",
+    "name": { "str": "XL winter survivor hood" },
+    "description": "A customized and oversized armored Kevlar hood.  Warm thanks to the real fur lining.",
+    "proportional": { "weight": 1.25, "volume": 1.3, "price": 1.25 },
+    "flags": [ "VARSIZE", "STURDY", "OVERSIZE", "HELMET_COMPAT", "OUTER", "WATERPROOF" ]
+  },
+  {
+    "id": "hood_xlsurvivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "XL survivor hood" },
+    "description": "A massive customized armored leather and Kevlar hood, designed to balance comfort and protection.",
+    "weight": "1640 g",
+    "volume": "4500 ml",
+    "price": 58000,
+    "price_postapoc": 2500,
+    "to_hit": -1,
+    "bashing": 10,
+    "material": [ "kevlar_layered", "leather" ],
+    "symbol": "[",
+    "looks_like": "hood_survivor",
+    "color": "brown",
+    "warmth": 15,
+    "material_thickness": 3,
+    "environmental_protection": 3,
+    "techniques": [ "WBLOCK_1" ],
+    "flags": [ "OVERSIZE", "VARSIZE", "WATERPROOF", "STURDY", "OUTER", "HELMET_COMPAT" ],
+    "armor": [ { "encumbrance": 40, "coverage": 100, "covers": [ "head" ] } ]
+  },
+  {
+    "id": "lsurvivor_pants",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str_sp": "light survivor cargo pants" },
+    "description": "Lightweight, Kevlar armored cargo pants designed to hold as much as possible.  Strong and mostly waterproof.",
+    "weight": "920 g",
+    "volume": "3500 ml",
+    "price": 40000,
+    "price_postapoc": 1500,
+    "material": [ "kevlar_layered", "cotton" ],
+    "symbol": "[",
+    "looks_like": "pants_survivor",
+    "color": "green",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1000 ml",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "21 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1000 ml",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "21 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "15 cm",
+        "moves": 100
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "15 cm",
+        "moves": 100
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "500 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "13 cm",
+        "moves": 100
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "500 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "13 cm",
+        "moves": 100
+      }
+    ],
+    "warmth": 12,
+    "material_thickness": 3,
+    "environmental_protection": 1,
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "RAINPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": [ 8, 16 ], "coverage": 95, "covers": [ "leg_l", "leg_r" ] } ]
+  },
+  {
+    "id": "xl_lsurvivor_pants",
+    "type": "ARMOR",
+    "copy-from": "lsurvivor_pants",
+    "name": { "str_sp": "XL light survivor cargo pants" },
+    "description": "Lightweight, Kevlar armored cargo pants designed to hold as much as possible.  Strong and mostly waterproof and sized for larger than average.",
+    "proportional": { "weight": 1.25, "volume": 1.13, "price": 1.25 },
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "RAINPROOF", "STURDY", "OVERSIZE" ]
+  },
+  {
+    "id": "pants_survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str_sp": "survivor cargo pants" },
+    "description": "A pair of Kevlar armored pants covered with pouches and pockets.  Custom-built to be durable, comfortable, and easy to wear.",
+    "weight": "2100 g",
+    "volume": "3 L",
+    "price": 38000,
+    "price_postapoc": 2000,
+    "material": [ "cotton", "kevlar_layered" ],
+    "symbol": "[",
+    "looks_like": "pants_army",
+    "color": "green",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1250 ml",
+        "max_contains_weight": "3 kg",
+        "max_item_length": "21 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1250 ml",
+        "max_contains_weight": "3 kg",
+        "max_item_length": "21 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "15 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "15 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "15 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "800 ml",
+        "max_contains_weight": "2 kg",
+        "max_item_length": "15 cm",
+        "moves": 80
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "500 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "13 cm",
+        "moves": 100
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "500 ml",
+        "max_contains_weight": "1 kg",
+        "max_item_length": "13 cm",
+        "moves": 100
+      }
+    ],
+    "warmth": 15,
+    "material_thickness": 4,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ],
+    "armor": [ { "encumbrance": [ 10, 20 ], "coverage": 100, "covers": [ "leg_l", "leg_r" ] } ]
+  },
+  {
+    "id": "xl_pants_survivor",
+    "type": "ARMOR",
+    "copy-from": "pants_survivor",
+    "name": { "str_sp": "XL survivor cargo pants" },
+    "description": "A pair of oversized Kevlar armored pants covered with pouches and pockets.  Custom-built to be durable, comfortable, and easy to wear.",
+    "proportional": { "weight": 1.25, "volume": 1.13, "price": 1.25 },
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "STURDY", "OVERSIZE" ]
+  },
+  {
+    "id": "survivor_duffel_bag",
+    "type": "ARMOR",
+    "name": { "str": "survivor duffel bag" },
+    "description": "A custom-built heavy duffel bag.  Durable and carefully crafted to hold as much stuff as possible.",
+    "weight": "1000 g",
+    "volume": "7875 ml",
+    "price": 24000,
+    "price_postapoc": 3250,
+    "material": [ "leather", "cotton" ],
+    "symbol": "[",
+    "looks_like": "rucksack",
+    "color": "dark_gray",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "38 L",
+        "max_contains_weight": "60 kg",
+        "max_item_length": "60 cm",
+        "magazine_well": "7500 ml",
+        "moves": 300
+      }
+    ],
+    "warmth": 10,
+    "material_thickness": 2,
+    "flags": [ "WATER_FRIENDLY", "STURDY", "BELTED", "OVERSIZE" ],
+    "armor": [ { "encumbrance": [ 8, 30 ], "coverage": 40, "covers": [ "torso" ] } ]
+  },
+  {
+    "id": "survivor_pack",
+    "type": "ARMOR",
+    "name": { "str": "survivor backpack" },
+    "description": "A custom-built backpack.  Durable and carefully crafted to hold as much stuff as possible.",
+    "weight": "600 g",
+    "volume": "5250 ml",
+    "price": 24000,
+    "price_postapoc": 2250,
+    "material": [ "leather", "cotton" ],
+    "symbol": "[",
+    "looks_like": "backpack",
+    "color": "brown",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "30 L",
+        "max_contains_weight": "32 kg",
+        "max_item_length": "50 cm",
+        "magazine_well": "5 L",
+        "moves": 300
+      }
+    ],
+    "warmth": 6,
+    "material_thickness": 2,
+    "flags": [ "WATER_FRIENDLY", "STURDY", "BELTED" ],
+    "armor": [ { "encumbrance": [ 3, 24 ], "coverage": 30, "covers": [ "torso" ] } ]
+  },
+  {
+    "id": "survivor_rucksack",
+    "type": "ARMOR",
+    "name": { "str": "survivor rucksack" },
+    "description": "A custom-built heavy backpack.  Durable and carefully crafted to hold as much stuff as possible.",
+    "weight": "800 g",
+    "volume": "10 L",
+    "price": 24000,
+    "price_postapoc": 3000,
+    "material": [ "leather", "cotton" ],
+    "symbol": "[",
+    "looks_like": "rucksack",
+    "color": "dark_gray",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "35 L",
+        "max_contains_weight": "40 kg",
+        "max_item_length": "55 cm",
+        "magazine_well": "6 L",
+        "moves": 300
+      }
+    ],
+    "warmth": 8,
+    "material_thickness": 2,
+    "flags": [ "WATER_FRIENDLY", "STURDY", "BELTED", "OVERSIZE" ],
+    "armor": [ { "encumbrance": [ 3, 28 ], "coverage": 40, "covers": [ "torso" ] } ]
+  },
+  {
+    "id": "survivor_runner_pack",
+    "type": "ARMOR",
+    "name": { "str": "survivor runner pack" },
+    "description": "A custom-built lightweight runner pack.  Durable and carefully crafted to hold as much stuff as possible.",
+    "weight": "440 g",
+    "volume": "4200 ml",
+    "price": 24000,
+    "price_postapoc": 2500,
+    "material": [ "leather", "cotton" ],
+    "symbol": "[",
+    "looks_like": "backpack",
+    "color": "brown",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "16 kg",
+        "max_item_length": "40 cm",
+        "magazine_well": "4 L",
+        "moves": 250
+      }
+    ],
+    "warmth": 2,
+    "material_thickness": 2,
+    "flags": [ "WATER_FRIENDLY", "STURDY", "BELTED" ],
+    "armor": [ { "encumbrance": [ 3, 12 ], "coverage": 30, "covers": [ "torso" ] } ]
+  },
+  {
+    "id": "armor_nomad",
+    "type": "ARMOR",
+    "name": { "str": "nomad gear" },
+    "description": "A makeshift outfit made from pre-Cataclysm clothing designed for long travels.  It has a lot of storage space.",
+    "weight": "5830 g",
+    "volume": "7500 ml",
+    "price": 35000,
+    "price_postapoc": 1750,
+    "to_hit": -3,
+    "material": [ "cotton", "leather" ],
+    "symbol": "[",
+    "looks_like": "touring_suit",
+    "color": "light_red",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 95, "encumbrance": [ 10, 16 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 95, "encumbrance": [ 10, 14 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 95, "encumbrance": [ 10, 13 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "8 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "8 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "1 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "1 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "8 L", "max_contains_weight": "16 kg", "moves": 150 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "250 ml", "max_contains_weight": "1 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "250 ml", "max_contains_weight": "1 kg", "moves": 120 }
+    ],
+    "warmth": 40,
+    "material_thickness": 5,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 1,
+    "flags": [ "VARSIZE", "POCKETS" ]
+  },
+  {
+    "id": "armor_nomad_light",
+    "type": "ARMOR",
+    "name": { "str": "light nomad gear" },
+    "description": "A light makeshift outfit made from pre-Cataclysm clothing designed for long summer travels.  It offers less storage space and armor compared to regular nomad gear.",
+    "weight": "3200 g",
+    "volume": "6500 ml",
+    "price": 29500,
+    "price_postapoc": 1250,
+    "to_hit": -4,
+    "material": [ "cotton" ],
+    "looks_like": "armor_nomad",
+    "symbol": "[",
+    "color": "light_gray",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 80, "encumbrance": [ 8, 12 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 80, "encumbrance": [ 8, 12 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 80, "encumbrance": [ 8, 10 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "8 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "8 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "1 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "1 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "250 ml", "max_contains_weight": "1 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "250 ml", "max_contains_weight": "1 kg", "moves": 120 }
+    ],
+    "warmth": 10,
+    "material_thickness": 4,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 1,
+    "flags": [ "VARSIZE", "POCKETS" ]
+  },
+  {
+    "id": "armor_scavenger",
+    "type": "ARMOR",
+    "name": { "str": "scavenger gear" },
+    "description": "A sturdy scavenger's outfit made from refitted pre-Cataclysm protective gear.  It has a lot of storage space.",
+    "weight": "7915 g",
+    "volume": "7500 ml",
+    "price": 180000,
+    "price_postapoc": 2000,
+    "to_hit": -3,
+    "material": [ "kevlar_layered", "cotton" ],
+    "symbol": "[",
+    "looks_like": "armor_nomad",
+    "color": "green",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 15, 26 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 15, 19 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 15, 15 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "8 L", "max_contains_weight": "16 kg", "moves": 150 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "8 kg", "moves": 100 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "4 L", "max_contains_weight": "8 kg", "moves": 100 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "3 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "2 kg", "moves": 80 }
+    ],
+    "warmth": 40,
+    "material_thickness": 5,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 2,
+    "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ]
+  },
+  {
+    "id": "fsurvivor_suit",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "survivor firesuit" },
+    "description": "Heavy, hand-built combination armor made from a cut-down bulletproof vest and a reinforced flame-resistant Nomex jumpsuit.  Protects the wearer from fire and the elements.",
+    "weight": "6800 g",
+    "volume": "11500 ml",
+    "price": 200000,
+    "price_postapoc": 5000,
+    "to_hit": -3,
+    "bashing": 6,
+    "material": [ "kevlar_layered", "nomex" ],
+    "symbol": "[",
+    "looks_like": "survivor_suit",
+    "color": "light_gray",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 10, 26 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 10, 14 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 10, 10 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 120 }
+    ],
+    "warmth": 15,
+    "material_thickness": 4,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 10,
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "RAINPROOF", "STURDY" ]
+  },
+  {
+    "id": "xl_fsurvivor_suit",
+    "type": "ARMOR",
+    "name": { "str": "XL survivor firesuit" },
+    "copy-from": "fsurvivor_suit",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "flags": [ "VARSIZE", "WATERPROOF", "RAINPROOF", "POCKETS", "STURDY", "OVERSIZE" ]
+  },
+  {
+    "id": "wsurvivor_suit_nofur",
+    "type": "ARMOR",
+    "name": { "str": "winter survivor suit" },
+    "description": "A warm and heavy hand-built combination armor made from a reinforced bulletproof vest and a faux fur insulated leather jumpsuit.  Protects from the elements as well as from harm.",
+    "copy-from": "wsurvivor_suit",
+    "material": [ "kevlar_layered", "faux_fur" ],
+    "symbol": "[",
+    "warmth": 65,
+    "looks_like": "survivor_suit",
+    "color": "pink"
+  },
+  {
+    "id": "xl_wsurvivor_suit_nofur",
+    "type": "ARMOR",
+    "name": { "str": "XL winter survivor suit" },
+    "copy-from": "wsurvivor_suit",
+    "material": [ "kevlar_layered", "faux_fur" ],
+    "description": "A warm, heavy and oversized hand-built combination armor made from a reinforced bulletproof vest and a faux fur insulated leather jumpsuit.  Protects from the elements as well as from harm.",
+    "color": "pink",
+    "warmth": 65,
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "HOOD", "RAINPROOF", "STURDY", "OVERSIZE" ]
+  },
+  {
+    "id": "hsurvivor_suit",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "heavy survivor suit" },
+    "description": "A heavy, hand-built combination armor made from a reinforced bulletproof vest and a metal-plated leather jumpsuit.  Protects from the elements as well as from harm.",
+    "weight": "15500 g",
+    "volume": "12 L",
+    "price": 200000,
+    "price_postapoc": 7000,
+    "to_hit": -3,
+    "bashing": 6,
+    "material": [ "kevlar_layered", "steel", "leather" ],
+    "symbol": "[",
+    "looks_like": "survivor_suit",
+    "color": "dark_gray",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 17, 31 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 17, 21 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 17, 17 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 120 }
+    ],
+    "warmth": 15,
+    "material_thickness": 6,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "HOOD", "RAINPROOF", "STURDY" ]
+  },
+  {
+    "id": "lsurvivor_suit",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "light survivor suit" },
+    "description": "A lightweight, hand-built combination armor made from a cut-down bulletproof vest and a reinforced fabric jumpsuit.  Protects from the elements as well as from harm.",
+    "weight": "5100 g",
+    "volume": "10500 ml",
+    "price": 110000,
+    "price_postapoc": 5000,
+    "material": [ "kevlar_layered", "cotton" ],
+    "symbol": "[",
+    "looks_like": "survivor_suit",
+    "color": "green",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 7, 15 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 7, 7 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 7, 7 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 }
+    ],
+    "warmth": 15,
+    "material_thickness": 4,
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "HOOD", "RAINPROOF", "STURDY" ]
+  },
+  {
+    "id": "xl_lsurvivor_suit",
+    "type": "ARMOR",
+    "name": { "str": "XL light survivor suit" },
+    "copy-from": "lsurvivor_suit",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "HOOD", "RAINPROOF", "STURDY", "OVERSIZE" ]
+  },
+  {
+    "id": "survivor_suit",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "survivor suit" },
+    "description": "A hand-built combination armor made from a bulletproof vest and a reinforced leather jumpsuit.  Protects from the elements as well as from harm.",
+    "weight": "6800 g",
+    "volume": "11500 ml",
+    "price": 150000,
+    "price_postapoc": 5000,
+    "material": [ "kevlar_layered", "leather" ],
+    "symbol": "[",
+    "looks_like": "touring_suit",
+    "color": "brown",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 12, 20 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 12, 17 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 12, 12 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 }
+    ],
+    "warmth": 15,
+    "material_thickness": 4,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 3,
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "HOOD", "RAINPROOF", "STURDY" ]
+  },
+  {
+    "id": "wsurvivor_suit",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "winter survivor suit" },
+    "description": "A warm and heavy hand-built combination armor made from a reinforced bulletproof vest and an insulated leather jumpsuit.  Protects from the elements as well as from harm.",
+    "weight": "7800 g",
+    "volume": "14 L",
+    "price": 200000,
+    "price_postapoc": 5000,
+    "to_hit": -3,
+    "bashing": 6,
+    "material": [ "kevlar_layered", "fur" ],
+    "symbol": "[",
+    "looks_like": "survivor_suit",
+    "color": "light_gray",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 20, 28 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 20, 25 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 20, 20 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1 L", "max_contains_weight": "3 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 }
+    ],
+    "warmth": 75,
+    "material_thickness": 5,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 5,
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "HOOD", "RAINPROOF", "STURDY" ]
+  },
+  {
+    "id": "xl_wsurvivor_suit",
+    "type": "ARMOR",
+    "name": { "str": "XL winter survivor suit" },
+    "copy-from": "wsurvivor_suit",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "flags": [ "VARSIZE", "WATERPROOF", "POCKETS", "HOOD", "RAINPROOF", "STURDY", "OVERSIZE" ]
+  },
+  {
+    "id": "xlsurvivor_suit",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "XL survivor suit" },
+    "description": "A massive hand-built combination armor made from a bulletproof vest and a reinforced leather jumpsuit.  Protects from the elements as well as from harm.",
+    "weight": "12400 g",
+    "volume": "18 L",
+    "price": 150000,
+    "price_postapoc": 4000,
+    "to_hit": -3,
+    "bashing": 6,
+    "material": [ "kevlar_layered", "leather" ],
+    "symbol": "[",
+    "looks_like": "survivor_suit",
+    "color": "brown",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 17, 30 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 17, 22 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 17, 17 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 }
+    ],
+    "warmth": 15,
+    "material_thickness": 4,
+    "valid_mods": [ "steel_padded" ],
+    "environmental_protection": 3,
+    "flags": [ "OVERSIZE", "VARSIZE", "WATERPROOF", "POCKETS", "HOOD", "RAINPROOF", "STURDY" ]
+  },
+  {
+    "id": "xlhsurvivor_suit",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "XL heavy survivor suit" },
+    "description": "A massive, heavy, hand-built combination armor made from a reinforced bulletproof vest and a metal-plated leather jumpsuit.  Protects from the elements as well as from harm.",
+    "weight": "20500 g",
+    "volume": "18750 ml",
+    "price": 200000,
+    "price_postapoc": 5000,
+    "to_hit": -3,
+    "bashing": 6,
+    "material": [ "kevlar_layered", "steel", "leather" ],
+    "symbol": "[",
+    "looks_like": "hsurvivor_suit",
+    "color": "dark_gray",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 22, 39 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 22, 28 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 22, 22 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 }
+    ],
+    "warmth": 15,
+    "material_thickness": 6,
+    "environmental_protection": 3,
+    "flags": [ "OVERSIZE", "VARSIZE", "WATERPROOF", "POCKETS", "HOOD", "RAINPROOF", "STURDY" ]
+  },
+  {
+    "id": "hood_h20survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "survivor wetsuit hood" },
+    "description": "A customized armored neoprene and Kevlar hood, very strong and durable.",
+    "weight": "860 g",
+    "volume": "1500 ml",
+    "price": 58000,
+    "price_postapoc": 1500,
+    "to_hit": -1,
+    "bashing": 10,
+    "material": [ "kevlar", "plastic", "neoprene" ],
+    "symbol": "[",
+    "looks_like": "wetsuit_hood",
+    "color": "dark_gray",
+    "warmth": 15,
+    "material_thickness": 3,
+    "environmental_protection": 10,
+    "flags": [ "VARSIZE", "WATER_FRIENDLY", "STURDY", "OUTER", "HELMET_COMPAT" ],
+    "armor": [ { "encumbrance": 25, "coverage": 100, "covers": [ "head" ] } ]
+  },
+  {
+    "id": "h20survivor_suit",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "survivor wetsuit" },
+    "description": "A lightweight, hand-built combination armor made from a cut-down bulletproof vest and a reinforced neoprene wetsuit.  Protects from the elements as well as from harm.",
+    "weight": "6400 g",
+    "volume": "7 L",
+    "price": 110000,
+    "price_postapoc": 5000,
+    "to_hit": -3,
+    "bashing": 6,
+    "material": [ "kevlar", "plastic", "neoprene" ],
+    "symbol": "[",
+    "looks_like": "wetsuit",
+    "color": "dark_gray",
+    "armor": [
+      { "covers": [ "torso" ], "coverage": 100, "encumbrance": [ 10, 16 ] },
+      { "covers": [ "leg_l", "leg_r" ], "coverage": 100, "encumbrance": [ 10, 14 ] },
+      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [ 10, 10 ] }
+    ],
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "2 L", "max_contains_weight": "6 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "1500 ml", "max_contains_weight": "3 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "3 L", "max_contains_weight": "6 kg", "moves": 200 }
+    ],
+    "warmth": 15,
+    "material_thickness": 3,
+    "environmental_protection": 10,
+    "flags": [ "VARSIZE", "WATER_FRIENDLY", "POCKETS", "HOOD", "RAINPROOF", "STURDY" ]
+  },
+  {
+    "id": "gloves_h20survivor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "pair of survivor wetsuit gloves", "str_pl": "pairs of survivor wetsuit gloves" },
+    "description": "A pair of customized, Kevlar armored neoprene gloves, modified to be easy to wear while providing maximum protection under extreme conditions.",
+    "weight": "390 g",
+    "volume": "750 ml",
+    "price": 18000,
+    "price_postapoc": 2000,
+    "to_hit": 2,
+    "material": [ "kevlar", "plastic", "neoprene" ],
+    "symbol": "[",
+    "looks_like": "gloves_rubber",
+    "color": "dark_gray",
+    "warmth": 15,
+    "material_thickness": 1,
+    "environmental_protection": 10,
+    "flags": [ "VARSIZE", "WATER_FRIENDLY", "STURDY" ],
+    "armor": [ { "encumbrance": 25, "coverage": 100, "covers": [ "hand_l", "hand_r" ] } ]
+  },
+  {
+    "id": "lsurvivor_armor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str": "light survivor body armor" },
+    "description": "Lightweight, custom-built body armor made from Kevlar and tough fabric.  Mostly waterproof.",
+    "weight": "3000 g",
+    "volume": "6 L",
+    "price": 60000,
+    "price_postapoc": 4000,
+    "material": [ "kevlar", "cotton" ],
+    "symbol": "[",
+    "looks_like": "lsurvivor_suit",
+    "color": "green",
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "700 ml", "max_contains_weight": "3 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "700 ml", "max_contains_weight": "3 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "500 ml", "max_contains_weight": "2 kg", "moves": 80 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "250 ml", "max_contains_weight": "1 kg", "moves": 120 },
+      { "pocket_type": "CONTAINER", "max_contains_volume": "250 ml", "max_contains_weight": "1 kg", "moves": 120 }
+    ],
+    "warmth": 15,
+    "material_thickness": 4,
+    "environmental_protection": 1,
+    "flags": [ "VARSIZE", "WATERPROOF", "RAINPROOF", "STURDY" ],
+    "armor": [ { "encumbrance": [ 8, 16 ], "coverage": 95, "covers": [ "torso" ] } ]
+  },
+  {
+    "id": "xl_lsurvivor_armor",
+    "type": "ARMOR",
+    "name": { "str": "XL light survivor body armor" },
+    "copy-from": "lsurvivor_armor",
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25 },
+    "flags": [ "VARSIZE", "WATERPROOF", "RAINPROOF", "STURDY", "OVERSIZE" ]
   }
 ]

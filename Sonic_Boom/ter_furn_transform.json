@@ -3,21 +3,7 @@
     "id": "sonic_pulse",
     "type": "ter_furn_transform",
     "fail_message": "Nothing seems to be happening",
-    "terrain": [
-      {
-        "result": "t_dirt",
-        "valid_flags": [
-          "BLOCK_WIND"
-        ]
-      }
-    ],
-    "furniture": [
-      {
-        "result": "f_null",
-        "valid_flags": [
-          "BLOCK_WIND"
-        ]
-      }
-    ]
+    "terrain": [ { "result": "t_dirt", "valid_flags": [ "BLOCK_WIND" ] } ],
+    "furniture": [ { "result": "f_null", "valid_flags": [ "BLOCK_WIND" ] } ]
   }
 ]

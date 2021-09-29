@@ -3,16 +3,10 @@
     "id": "40K",
     "type": "MOD_INFO",
     "name": "Warhammer 40K",
-    "authors": [
-      "Wulfle"
-    ],
-    "maintainers": [
-      "Wulfle"
-    ],
+    "authors": [ "Wulfle" ],
+    "maintainers": [ "Wulfle" ],
     "description": "Malkeus: (Fixed massively bloated monstergroups.) Adds elements of the Warhammer 40K universe.",
     "category": "items",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

@@ -6,50 +6,9 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 2000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          1
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          1
-        ]
-      ],
-      [
-        [
-          "motor_micro",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "processor", 2 ] ], [ [ "RAM", 1 ] ], [ [ "scrap", 2 ] ], [ [ "e_scrap", 1 ] ], [ [ "motor_micro", 1 ] ] ]
   },
   {
     "result": "broken_flashbang_hack",
@@ -58,50 +17,9 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 2000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          1
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          1
-        ]
-      ],
-      [
-        [
-          "motor_micro",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "processor", 2 ] ], [ [ "RAM", 1 ] ], [ [ "scrap", 2 ] ], [ [ "e_scrap", 1 ] ], [ [ "motor_micro", 1 ] ] ]
   },
   {
     "result": "broken_gasbomb_hack",
@@ -110,50 +28,9 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 2000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          1
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          1
-        ]
-      ],
-      [
-        [
-          "motor_micro",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "processor", 2 ] ], [ [ "RAM", 1 ] ], [ [ "scrap", 2 ] ], [ [ "e_scrap", 1 ] ], [ [ "motor_micro", 1 ] ] ]
   },
   {
     "result": "broken_EMP_hack",
@@ -162,50 +39,9 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 2000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          1
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          1
-        ]
-      ],
-      [
-        [
-          "motor_micro",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "processor", 2 ] ], [ [ "RAM", 1 ] ], [ [ "scrap", 2 ] ], [ [ "e_scrap", 1 ] ], [ [ "motor_micro", 1 ] ] ]
   },
   {
     "result": "broken_grenade_hack",
@@ -214,50 +50,9 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 2000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          1
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          1
-        ]
-      ],
-      [
-        [
-          "motor_micro",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "processor", 2 ] ], [ [ "RAM", 1 ] ], [ [ "scrap", 2 ] ], [ [ "e_scrap", 1 ] ], [ [ "motor_micro", 1 ] ] ]
   },
   {
     "result": "broken_c4_hack",
@@ -266,50 +61,9 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 2000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          1
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          1
-        ]
-      ],
-      [
-        [
-          "motor_micro",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "processor", 2 ] ], [ [ "RAM", 1 ] ], [ [ "scrap", 2 ] ], [ [ "e_scrap", 1 ] ], [ [ "motor_micro", 1 ] ] ]
   },
   {
     "result": "broken_mininuke_hack",
@@ -318,55 +72,15 @@
     "skill_used": "electronics",
     "difficulty": 5,
     "time": 2000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "plut_cell",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          1
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          1
-        ]
-      ],
-      [
-        [
-          "motor_micro",
-          1
-        ]
-      ]
+      [ [ "processor", 2 ] ],
+      [ [ "plut_cell", 2 ] ],
+      [ [ "RAM", 1 ] ],
+      [ [ "scrap", 2 ] ],
+      [ [ "e_scrap", 1 ] ],
+      [ [ "motor_micro", 1 ] ]
     ]
   },
   {
@@ -376,67 +90,17 @@
     "skill_used": "electronics",
     "difficulty": 3,
     "time": 10000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "lightstrip_inactive",
-          3
-        ]
-      ],
-      [
-        [
-          "plut_cell",
-          1
-        ]
-      ],
-      [
-        [
-          "lens",
-          2
-        ]
-      ],
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          3
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          4
-        ]
-      ],
-      [
-        [
-          "motor_small",
-          1
-        ]
-      ]
+      [ [ "lightstrip_inactive", 3 ] ],
+      [ [ "plut_cell", 1 ] ],
+      [ [ "lens", 2 ] ],
+      [ [ "processor", 2 ] ],
+      [ [ "RAM", 3 ] ],
+      [ [ "scrap", 2 ] ],
+      [ [ "e_scrap", 4 ] ],
+      [ [ "motor_small", 1 ] ]
     ]
   },
   {
@@ -446,67 +110,17 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 15000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "lightstrip_inactive",
-          3
-        ]
-      ],
-      [
-        [
-          "plut_cell",
-          1
-        ]
-      ],
-      [
-        [
-          "lens",
-          2
-        ]
-      ],
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          3
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          4
-        ]
-      ],
-      [
-        [
-          "motor_small",
-          1
-        ]
-      ]
+      [ [ "lightstrip_inactive", 3 ] ],
+      [ [ "plut_cell", 1 ] ],
+      [ [ "lens", 2 ] ],
+      [ [ "processor", 2 ] ],
+      [ [ "RAM", 3 ] ],
+      [ [ "scrap", 2 ] ],
+      [ [ "e_scrap", 4 ] ],
+      [ [ "motor_small", 1 ] ]
     ]
   },
   {
@@ -516,67 +130,17 @@
     "skill_used": "electronics",
     "difficulty": 5,
     "time": 30000,
-    "using": [
-      [
-        "soldering_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "lightstrip_inactive",
-          3
-        ]
-      ],
-      [
-        [
-          "plut_cell",
-          1
-        ]
-      ],
-      [
-        [
-          "lens",
-          2
-        ]
-      ],
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          3
-        ]
-      ],
-      [
-        [
-          "scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          4
-        ]
-      ],
-      [
-        [
-          "motor_small",
-          1
-        ]
-      ]
+      [ [ "lightstrip_inactive", 3 ] ],
+      [ [ "plut_cell", 1 ] ],
+      [ [ "lens", 2 ] ],
+      [ [ "processor", 2 ] ],
+      [ [ "RAM", 3 ] ],
+      [ [ "scrap", 2 ] ],
+      [ [ "e_scrap", 4 ] ],
+      [ [ "motor_small", 1 ] ]
     ]
   },
   {
@@ -586,26 +150,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_turret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_9mm",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_turret_disarmed", 1 ] ], [ [ "robopart_9mm", 1 ] ] ]
   },
   {
     "result": "broken_turret_9mm",
@@ -614,26 +160,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_turret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_9mm",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_turret_disarmed", 1 ] ], [ [ "robopart_9mm", 1 ] ] ]
   },
   {
     "result": "broken_turret_shot",
@@ -642,26 +170,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_turret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_shot",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_turret_disarmed", 1 ] ], [ [ "robopart_shot", 1 ] ] ]
   },
   {
     "result": "broken_turret_teargas",
@@ -670,26 +180,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_turret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_teargas",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_turret_disarmed", 1 ] ], [ [ "robopart_teargas", 1 ] ] ]
   },
   {
     "result": "broken_turret_beanbag",
@@ -698,26 +190,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_turret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_beanbag",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_turret_disarmed", 1 ] ], [ [ "robopart_beanbag", 1 ] ] ]
   },
   {
     "result": "broken_turret_rifle",
@@ -726,26 +200,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_milturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_556",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_milturret_disarmed", 1 ] ], [ [ "robopart_556", 1 ] ] ]
   },
   {
     "result": "broken_milturret_556",
@@ -754,26 +210,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_milturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_556",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_milturret_disarmed", 1 ] ], [ [ "robopart_556", 1 ] ] ]
   },
   {
     "result": "broken_milturret_308",
@@ -782,26 +220,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_milturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_308",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_milturret_disarmed", 1 ] ], [ [ "robopart_308", 1 ] ] ]
   },
   {
     "result": "broken_milturret_50bmg",
@@ -810,26 +230,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_milturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_50bmg",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_milturret_disarmed", 1 ] ], [ [ "robopart_50bmg", 1 ] ] ]
   },
   {
     "result": "bot_antimateriel",
@@ -838,26 +240,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_milturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_50bmg",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_milturret_disarmed", 1 ] ], [ [ "robopart_50bmg", 1 ] ] ]
   },
   {
     "result": "broken_milturret_needle",
@@ -866,26 +250,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_advturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_needle",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_advturret_disarmed", 1 ] ], [ [ "robopart_needle", 1 ] ] ]
   },
   {
     "result": "broken_milturret_8x40mm",
@@ -894,26 +260,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_milturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_8x40mm",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_milturret_disarmed", 1 ] ], [ [ "robopart_8x40mm", 1 ] ] ]
   },
   {
     "result": "broken_milturret_flame",
@@ -922,26 +270,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_milturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_flame",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_milturret_disarmed", 1 ] ], [ [ "robopart_flame", 1 ] ] ]
   },
   {
     "result": "broken_advturret_laser",
@@ -950,26 +280,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_advturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_laser",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_advturret_disarmed", 1 ] ], [ [ "robopart_laser", 1 ] ] ]
   },
   {
     "result": "broken_laserturret",
@@ -978,26 +290,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_advturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_laser",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_advturret_disarmed", 1 ] ], [ [ "robopart_laser", 1 ] ] ]
   },
   {
     "result": "broken_advturret_plasma",
@@ -1006,26 +300,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_advturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_plasma",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_advturret_disarmed", 1 ] ], [ [ "robopart_plasma", 1 ] ] ]
   },
   {
     "result": "broken_advturret_rail",
@@ -1034,26 +310,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_advturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_rail",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_advturret_disarmed", 1 ] ], [ [ "robopart_rail", 1 ] ] ]
   },
   {
     "result": "broken_advturret_emp",
@@ -1062,26 +320,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_advturret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_emp",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_advturret_disarmed", 1 ] ], [ [ "robopart_emp", 1 ] ] ]
   },
   {
     "result": "broken_turret_gnome",
@@ -1090,32 +330,8 @@
     "skill_used": "electronics",
     "difficulty": 2,
     "time": 3000,
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_turret_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "ceramic_shard",
-          3
-        ]
-      ],
-      [
-        [
-          "robopart_9mm",
-          1
-        ]
-      ]
-    ]
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_turret_disarmed", 1 ] ], [ [ "ceramic_shard", 3 ] ], [ [ "robopart_9mm", 1 ] ] ]
   },
   {
     "result": "broken_eyebot_disarmed",
@@ -1124,79 +340,19 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 30000,
-    "using": [
-      [
-        "soldering_standard",
-        3
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "robopart_microreactor",
-          1
-        ]
-      ],
-      [
-        [
-          "power_supply",
-          2
-        ]
-      ],
-      [
-        [
-          "motor_micro",
-          4
-        ]
-      ],
-      [
-        [
-          "foldframe",
-          1
-        ]
-      ],
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          3
-        ]
-      ],
-      [
-        [
-          "plastic_chunk",
-          6
-        ]
-      ],
-      [
-        [
-          "scrap",
-          12
-        ]
-      ],
-      [
-        [
-          "lens",
-          4
-        ]
-      ]
+      [ [ "robopart_microreactor", 1 ] ],
+      [ [ "power_supply", 2 ] ],
+      [ [ "motor_micro", 4 ] ],
+      [ [ "foldframe", 1 ] ],
+      [ [ "processor", 2 ] ],
+      [ [ "RAM", 2 ] ],
+      [ [ "e_scrap", 3 ] ],
+      [ [ "plastic_chunk", 6 ] ],
+      [ [ "scrap", 12 ] ],
+      [ [ "lens", 4 ] ]
     ]
   },
   {
@@ -1206,32 +362,9 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 30000,
-    "using": [
-      [
-        "soldering_standard",
-        3
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_eyebot_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_flash",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "soldering_standard", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_eyebot_disarmed", 1 ] ], [ [ "robopart_flash", 1 ] ] ]
   },
   {
     "result": "broken_utilibot",
@@ -1240,99 +373,21 @@
     "skill_used": "electronics",
     "difficulty": 6,
     "time": 120000,
-    "using": [
-      [
-        "soldering_standard",
-        20
-      ],
-      [
-        "welding_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      },
-      {
-        "id": "SAW_M",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 20 ], [ "welding_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 }, { "id": "SAW_M", "level": 1 } ],
     "components": [
-      [
-        [
-          "robopart_microreactor",
-          1
-        ]
-      ],
-      [
-        [
-          "power_supply",
-          4
-        ]
-      ],
-      [
-        [
-          "medium_storage_battery",
-          1
-        ]
-      ],
-      [
-        [
-          "solar_cell",
-          2
-        ]
-      ],
-      [
-        [
-          "motor",
-          1
-        ]
-      ],
-      [
-        [
-          "frame",
-          1
-        ]
-      ],
-      [
-        [
-          "wheel_small",
-          3
-        ]
-      ],
-      [
-        [
-          "processor",
-          3
-        ]
-      ],
-      [
-        [
-          "RAM",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          3
-        ]
-      ],
-      [
-        [
-          "plastic_chunk",
-          6
-        ]
-      ],
-      [
-        [
-          "steel_chunk",
-          12
-        ]
-      ]
+      [ [ "robopart_microreactor", 1 ] ],
+      [ [ "power_supply", 4 ] ],
+      [ [ "medium_storage_battery", 1 ] ],
+      [ [ "solar_cell", 2 ] ],
+      [ [ "motor", 1 ] ],
+      [ [ "frame", 1 ] ],
+      [ [ "wheel_small", 3 ] ],
+      [ [ "processor", 3 ] ],
+      [ [ "RAM", 2 ] ],
+      [ [ "e_scrap", 3 ] ],
+      [ [ "plastic_chunk", 6 ] ],
+      [ [ "steel_chunk", 12 ] ]
     ]
   },
   {
@@ -1342,49 +397,14 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 30000,
-    "using": [
-      [
-        "soldering_standard",
-        3
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "broken_utilibot",
-          1
-        ]
-      ],
-      [
-        [
-          "hose",
-          4
-        ]
-      ],
-      [
-        [
-          "metal_tank",
-          2
-        ]
-      ],
-      [
-        [
-          "steel_chunk",
-          3
-        ]
-      ],
-      [
-        [
-          "water",
-          20
-        ]
-      ]
+      [ [ "broken_utilibot", 1 ] ],
+      [ [ "hose", 4 ] ],
+      [ [ "metal_tank", 2 ] ],
+      [ [ "steel_chunk", 3 ] ],
+      [ [ "water", 20 ] ]
     ]
   },
   {
@@ -1393,62 +413,17 @@
     "type": "uncraft",
     "skill_used": "fabrication",
     "difficulty": 4,
-    "using": [
-      [
-        "soldering_standard",
-        3
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "time": 30000,
     "components": [
-      [
-        [
-          "robopart_microreactor",
-          1
-        ]
-      ],
-      [
-        [
-          "power_supply",
-          2
-        ]
-      ],
-      [
-        [
-          "motor_small",
-          1
-        ]
-      ],
-      [
-        [
-          "processor",
-          2
-        ]
-      ],
-      [
-        [
-          "RAM",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          2
-        ]
-      ],
-      [
-        [
-          "steel_chunk",
-          3
-        ]
-      ]
+      [ [ "robopart_microreactor", 1 ] ],
+      [ [ "power_supply", 2 ] ],
+      [ [ "motor_small", 1 ] ],
+      [ [ "processor", 2 ] ],
+      [ [ "RAM", 2 ] ],
+      [ [ "e_scrap", 2 ] ],
+      [ [ "steel_chunk", 3 ] ]
     ]
   },
   {
@@ -1457,45 +432,10 @@
     "type": "uncraft",
     "skill_used": "fabrication",
     "difficulty": 4,
-    "using": [
-      [
-        "soldering_standard",
-        3
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "time": 30000,
-    "components": [
-      [
-        [
-          "broken_skitterbot_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_tazer",
-          1
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          1
-        ]
-      ],
-      [
-        [
-          "steel_chunk",
-          3
-        ]
-      ]
-    ]
+    "components": [ [ [ "broken_skitterbot_disarmed", 1 ] ], [ [ "robopart_tazer", 1 ] ], [ [ "e_scrap", 1 ] ], [ [ "steel_chunk", 3 ] ] ]
   },
   {
     "result": "broken_defbot_disarmed",
@@ -1504,93 +444,20 @@
     "skill_used": "electronics",
     "difficulty": 6,
     "time": 120000,
-    "using": [
-      [
-        "soldering_standard",
-        20
-      ],
-      [
-        "welding_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      },
-      {
-        "id": "SAW_M",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 20 ], [ "welding_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 }, { "id": "SAW_M", "level": 1 } ],
     "components": [
-      [
-        [
-          "robopart_microreactor",
-          1
-        ]
-      ],
-      [
-        [
-          "power_supply",
-          4
-        ]
-      ],
-      [
-        [
-          "medium_storage_battery",
-          1
-        ]
-      ],
-      [
-        [
-          "solar_cell",
-          2
-        ]
-      ],
-      [
-        [
-          "motor",
-          1
-        ]
-      ],
-      [
-        [
-          "hdframe",
-          1
-        ]
-      ],
-      [
-        [
-          "wheel_small",
-          4
-        ]
-      ],
-      [
-        [
-          "processor",
-          3
-        ]
-      ],
-      [
-        [
-          "RAM",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          3
-        ]
-      ],
-      [
-        [
-          "steel_chunk",
-          12
-        ]
-      ]
+      [ [ "robopart_microreactor", 1 ] ],
+      [ [ "power_supply", 4 ] ],
+      [ [ "medium_storage_battery", 1 ] ],
+      [ [ "solar_cell", 2 ] ],
+      [ [ "motor", 1 ] ],
+      [ [ "hdframe", 1 ] ],
+      [ [ "wheel_small", 4 ] ],
+      [ [ "processor", 3 ] ],
+      [ [ "RAM", 2 ] ],
+      [ [ "e_scrap", 3 ] ],
+      [ [ "steel_chunk", 12 ] ]
     ]
   },
   {
@@ -1600,43 +467,13 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 30000,
-    "using": [
-      [
-        "soldering_standard",
-        3
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "broken_defbot_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_tazer",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_teargas",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_beanbag",
-          1
-        ]
-      ]
+      [ [ "broken_defbot_disarmed", 1 ] ],
+      [ [ "robopart_tazer", 1 ] ],
+      [ [ "robopart_teargas", 1 ] ],
+      [ [ "robopart_beanbag", 1 ] ]
     ]
   },
   {
@@ -1646,43 +483,13 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 30000,
-    "using": [
-      [
-        "soldering_standard",
-        3
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "broken_defbot_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_tazer",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_teargas",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_beanbag",
-          1
-        ]
-      ]
+      [ [ "broken_defbot_disarmed", 1 ] ],
+      [ [ "robopart_tazer", 1 ] ],
+      [ [ "robopart_teargas", 1 ] ],
+      [ [ "robopart_beanbag", 1 ] ]
     ]
   },
   {
@@ -1691,38 +498,9 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 30000,
-    "using": [
-      [
-        "soldering_standard",
-        3
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
-    "components": [
-      [
-        [
-          "broken_defbot_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_tazer",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_9mm",
-          1
-        ]
-      ]
-    ]
+    "using": [ [ "soldering_standard", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "broken_defbot_disarmed", 1 ] ], [ [ "robopart_tazer", 1 ] ], [ [ "robopart_9mm", 1 ] ] ]
   },
   {
     "result": "broken_copbot",
@@ -1731,43 +509,13 @@
     "skill_used": "electronics",
     "difficulty": 4,
     "time": 30000,
-    "using": [
-      [
-        "soldering_standard",
-        3
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 3 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
     "components": [
-      [
-        [
-          "broken_defbot_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_tazer",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_beanbag",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_teargas",
-          1
-        ]
-      ]
+      [ [ "broken_defbot_disarmed", 1 ] ],
+      [ [ "robopart_tazer", 1 ] ],
+      [ [ "robopart_beanbag", 1 ] ],
+      [ [ "robopart_teargas", 1 ] ]
     ]
   },
   {
@@ -1777,103 +525,21 @@
     "skill_used": "electronics",
     "difficulty": 6,
     "time": 120000,
-    "using": [
-      [
-        "soldering_standard",
-        20
-      ],
-      [
-        "welding_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      },
-      {
-        "id": "WRENCH",
-        "level": 1
-      },
-      {
-        "id": "SAW_M",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 20 ], [ "welding_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 }, { "id": "WRENCH", "level": 1 }, { "id": "SAW_M", "level": 1 } ],
     "components": [
-      [
-        [
-          "robopart_microreactor",
-          1
-        ]
-      ],
-      [
-        [
-          "power_supply",
-          4
-        ]
-      ],
-      [
-        [
-          "medium_storage_battery",
-          2
-        ]
-      ],
-      [
-        [
-          "motor",
-          1
-        ]
-      ],
-      [
-        [
-          "hdframe",
-          1
-        ]
-      ],
-      [
-        [
-          "foldframe",
-          2
-        ]
-      ],
-      [
-        [
-          "processor",
-          3
-        ]
-      ],
-      [
-        [
-          "RAM",
-          2
-        ]
-      ],
-      [
-        [
-          "e_scrap",
-          3
-        ]
-      ],
-      [
-        [
-          "sheet_kevlar_layered",
-          8
-        ]
-      ],
-      [
-        [
-          "steel_chunk",
-          8
-        ]
-      ],
-      [
-        [
-          "scrap",
-          8
-        ]
-      ]
+      [ [ "robopart_microreactor", 1 ] ],
+      [ [ "power_supply", 4 ] ],
+      [ [ "medium_storage_battery", 2 ] ],
+      [ [ "motor", 1 ] ],
+      [ [ "hdframe", 1 ] ],
+      [ [ "foldframe", 2 ] ],
+      [ [ "processor", 3 ] ],
+      [ [ "RAM", 2 ] ],
+      [ [ "e_scrap", 3 ] ],
+      [ [ "sheet_kevlar_layered", 8 ] ],
+      [ [ "steel_chunk", 8 ] ],
+      [ [ "scrap", 8 ] ]
     ]
   },
   {
@@ -1883,103 +549,21 @@
     "skill_used": "electronics",
     "difficulty": 6,
     "time": 600000,
-    "using": [
-      [
-        "soldering_standard",
-        30
-      ],
-      [
-        "welding_standard",
-        20
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      },
-      {
-        "id": "WRENCH",
-        "level": 1
-      },
-      {
-        "id": "SAW_M",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 30 ], [ "welding_standard", 20 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 }, { "id": "WRENCH", "level": 1 }, { "id": "SAW_M", "level": 1 } ],
     "components": [
-      [
-        [
-          "minireactor",
-          1
-        ]
-      ],
-      [
-        [
-          "storage_battery",
-          1
-        ]
-      ],
-      [
-        [
-          "mil_plate",
-          6
-        ]
-      ],
-      [
-        [
-          "hdframe",
-          1
-        ]
-      ],
-      [
-        [
-          "motor_enhanced",
-          1
-        ]
-      ],
-      [
-        [
-          "power_supply",
-          8
-        ]
-      ],
-      [
-        [
-          "RAM",
-          4
-        ]
-      ],
-      [
-        [
-          "plastic_chunk",
-          4
-        ]
-      ],
-      [
-        [
-          "spiked_plate",
-          1
-        ]
-      ],
-      [
-        [
-          "steel_chunk",
-          15
-        ]
-      ],
-      [
-        [
-          "mil_plate",
-          2
-        ]
-      ],
-      [
-        [
-          "robot_controls",
-          1
-        ]
-      ]
+      [ [ "minireactor", 1 ] ],
+      [ [ "storage_battery", 1 ] ],
+      [ [ "mil_plate", 6 ] ],
+      [ [ "hdframe", 1 ] ],
+      [ [ "motor_enhanced", 1 ] ],
+      [ [ "power_supply", 8 ] ],
+      [ [ "RAM", 4 ] ],
+      [ [ "plastic_chunk", 4 ] ],
+      [ [ "spiked_plate", 1 ] ],
+      [ [ "steel_chunk", 15 ] ],
+      [ [ "mil_plate", 2 ] ],
+      [ [ "robot_controls", 1 ] ]
     ]
   },
   {
@@ -1989,51 +573,13 @@
     "skill_used": "electronics",
     "difficulty": 6,
     "time": 120000,
-    "using": [
-      [
-        "soldering_standard",
-        20
-      ],
-      [
-        "welding_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      },
-      {
-        "id": "SAW_M",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 20 ], [ "welding_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 }, { "id": "SAW_M", "level": 1 } ],
     "components": [
-      [
-        [
-          "broken_tankbot_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_556",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_40mm",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_flame",
-          1
-        ]
-      ]
+      [ [ "broken_tankbot_disarmed", 1 ] ],
+      [ [ "robopart_556", 1 ] ],
+      [ [ "robopart_40mm", 1 ] ],
+      [ [ "robopart_flame", 1 ] ]
     ]
   },
   {
@@ -2043,51 +589,13 @@
     "skill_used": "electronics",
     "difficulty": 6,
     "time": 120000,
-    "using": [
-      [
-        "soldering_standard",
-        20
-      ],
-      [
-        "welding_standard",
-        5
-      ]
-    ],
-    "qualities": [
-      {
-        "id": "SCREW",
-        "level": 1
-      },
-      {
-        "id": "SAW_M",
-        "level": 1
-      }
-    ],
+    "using": [ [ "soldering_standard", 20 ], [ "welding_standard", 5 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 }, { "id": "SAW_M", "level": 1 } ],
     "components": [
-      [
-        [
-          "broken_chickenbot_disarmed",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_tazer",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_40mm",
-          1
-        ]
-      ],
-      [
-        [
-          "robopart_556",
-          2
-        ]
-      ]
+      [ [ "broken_chickenbot_disarmed", 1 ] ],
+      [ [ "robopart_tazer", 1 ] ],
+      [ [ "robopart_40mm", 1 ] ],
+      [ [ "robopart_556", 2 ] ]
     ]
   }
 ]

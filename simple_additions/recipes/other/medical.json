@@ -8,46 +8,11 @@
     "skill_used": "firstaid",
     "difficulty": 1,
     "autolearn": true,
-    "book_learn": [
-      [
-        "isherwood_herbal_remedies",
-        1
-      ]
-    ],
+    "book_learn": [ [ "isherwood_herbal_remedies", 1 ] ],
     "time": "30 s",
     "components": [
-      [
-        [
-          "oxy_powder",
-          50
-        ],
-        [
-          "bleach",
-          1
-        ],
-        [
-          "chem_phenol",
-          1
-        ],
-        [
-          "chem_acetone",
-          1
-        ],
-        [
-          "chem_acetic_acid",
-          1
-        ]
-      ],
-      [
-        [
-          "water_clean",
-          1
-        ],
-        [
-          "water",
-          1
-        ]
-      ]
+      [ [ "oxy_powder", 50 ], [ "bleach", 1 ], [ "chem_phenol", 1 ], [ "chem_acetone", 1 ], [ "chem_acetic_acid", 1 ] ],
+      [ [ "water_clean", 1 ], [ "water", 1 ] ]
     ]
   },
   {
@@ -59,25 +24,8 @@
     "subcategory": "CSC_OTHER_MEDICAL",
     "skill_used": "chemistry",
     "autolearn": true,
-    "book_learn": [
-      [
-        "isherwood_herbal_remedies",
-        1
-      ]
-    ],
+    "book_learn": [ [ "isherwood_herbal_remedies", 1 ] ],
     "time": "30 s",
-    "components": [
-      [
-        [
-          "hard_liquor_chem",
-          1,
-          "LIST"
-        ],
-        [
-          "vinegar",
-          16
-        ]
-      ]
-    ]
+    "components": [ [ [ "hard_liquor_chem", 1, "LIST" ], [ "vinegar", 16 ] ] ]
   }
 ]

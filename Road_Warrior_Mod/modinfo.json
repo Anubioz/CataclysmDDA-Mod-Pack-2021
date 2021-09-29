@@ -6,8 +6,6 @@
     "description": "adds new mapgen and items.",
     "authors": "Kane",
     "category": "core",
-    "dependencies": [
-      "dda"
-    ]
+    "dependencies": [ "dda" ]
   }
 ]

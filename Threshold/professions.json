@@ -31,14 +31,8 @@
       "HISS",
       "THRESH_LIZARD"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_bird",
@@ -66,14 +60,8 @@
       "BEAK",
       "THRESH_BIRD"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_fish",
@@ -100,14 +88,8 @@
       "COLDBLOOD",
       "THRESH_FISH"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_beast",
@@ -147,14 +129,8 @@
       "SHOUT2",
       "THRESH_BEAST"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_feline",
@@ -185,14 +161,8 @@
       "SNARL",
       "THRESH_FELINE"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_lupine",
@@ -220,14 +190,8 @@
       "SHOUT3",
       "THRESH_LUPINE"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_ursine",
@@ -257,14 +221,8 @@
       "GROWL",
       "THRESH_URSINE"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_cattle",
@@ -291,14 +249,8 @@
       "PONDEROUS2",
       "THRESH_CATTLE"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_insect",
@@ -331,14 +283,8 @@
       "ACIDBLOOD",
       "THRESH_INSECT"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_plant",
@@ -364,14 +310,8 @@
       "CHLOROMORPH",
       "THRESH_PLANT"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_slime",
@@ -412,14 +352,8 @@
       "ACIDBLOOD",
       "THRESH_SLIME"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_troglobite",
@@ -448,14 +382,8 @@
       "SLIMY",
       "THRESH_TROGLOBITE"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_cephalopod",
@@ -483,14 +411,8 @@
       "LEG_TENT_BRACE",
       "THRESH_CEPHALOPOD"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_spider",
@@ -521,14 +443,8 @@
       "ARACHNID_ARMS_OK",
       "THRESH_SPIDER"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_rat",
@@ -555,14 +471,8 @@
       "GROWL",
       "THRESH_RAT"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_raptor",
@@ -600,14 +510,8 @@
       "ARM_FEATHERS",
       "THRESH_RAPTOR"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_medical",
@@ -646,14 +550,8 @@
       "ACIDBLOOD",
       "THRESH_MEDICAL"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_alpha",
@@ -678,14 +576,8 @@
       "ROT3",
       "THRESH_ALPHA"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_elfa",
@@ -718,14 +610,8 @@
       "RADIOACTIVE2",
       "THRESH_ELFA"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_chimera",
@@ -777,14 +663,8 @@
       "ACIDBLOOD",
       "THRESH_CHIMERA"
     ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   },
   {
     "id": "mutant_mycus",
@@ -792,21 +672,8 @@
     "name": "Mutant (mycus)",
     "description": "Your dreams of becoming a super-human mutant through genetic alteration may have fallen a bit short, but when the Cataclysm struck, you and the scientists were ready to put your new body to the test.",
     "points": 8,
-    "traits": [
-      "M_DEFENDER",
-      "M_DEPENDENT",
-      "M_IMMUNE",
-      "M_FERTILE",
-      "M_SKIN2",
-      "THRESH_MYCUS"
-    ],
-    "items": {
-      "both": [
-        "subsuit_xl"
-      ]
-    },
-    "flags": [
-      "SCEN_ONLY"
-    ]
+    "traits": [ "M_DEFENDER", "M_DEPENDENT", "M_IMMUNE", "M_FERTILE", "M_SKIN2", "THRESH_MYCUS" ],
+    "items": { "both": [ "subsuit_xl" ] },
+    "flags": [ "SCEN_ONLY" ]
   }
 ]

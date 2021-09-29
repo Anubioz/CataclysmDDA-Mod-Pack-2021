@@ -6,48 +6,9 @@
     "category": "FURN",
     "difficulty": 5,
     "time": "150 s",
-    "tools": [
-      [
-        [
-          "oxy_torch",
-          100
-        ],
-        [
-          "welder",
-          100
-        ],
-        [
-          "welder_crude",
-          100
-        ],
-        [
-          "toolset",
-          100
-        ]
-      ]
-    ],
-    "qualities": [
-      [
-        {
-          "id": "SCREW",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "id": "WRENCH",
-          "level": 1
-        }
-      ]
-    ],
-    "components": [
-      [
-        [
-          "aaf_atm_module",
-          1
-        ]
-      ]
-    ],
+    "tools": [ [ [ "oxy_torch", 100 ], [ "welder", 100 ], [ "welder_crude", 100 ], [ "toolset", 100 ] ] ],
+    "qualities": [ [ { "id": "SCREW", "level": 1 } ], [ { "id": "WRENCH", "level": 1 } ] ],
+    "components": [ [ [ "aaf_atm_module", 1 ] ] ],
     "post_terrain": "t_atm"
   },
   {
@@ -57,48 +18,9 @@
     "category": "FURN",
     "difficulty": 5,
     "time": "150 s",
-    "tools": [
-      [
-        [
-          "oxy_torch",
-          100
-        ],
-        [
-          "welder",
-          100
-        ],
-        [
-          "welder_crude",
-          100
-        ],
-        [
-          "toolset",
-          100
-        ]
-      ]
-    ],
-    "qualities": [
-      [
-        {
-          "id": "SCREW",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "id": "WRENCH",
-          "level": 1
-        }
-      ]
-    ],
-    "components": [
-      [
-        [
-          "aaf_recycler",
-          1
-        ]
-      ]
-    ],
+    "tools": [ [ [ "oxy_torch", 100 ], [ "welder", 100 ], [ "welder_crude", 100 ], [ "toolset", 100 ] ] ],
+    "qualities": [ [ { "id": "SCREW", "level": 1 } ], [ { "id": "WRENCH", "level": 1 } ] ],
+    "components": [ [ [ "aaf_recycler", 1 ] ] ],
     "post_terrain": "t_recycler"
   },
   {
@@ -108,55 +30,13 @@
     "category": "FURN",
     "difficulty": 3,
     "time": "100 s",
-    "qualities": [
-      [
-        {
-          "id": "HAMMER",
-          "level": 2
-        }
-      ],
-      [
-        {
-          "id": "SCREW",
-          "level": 1
-        }
-      ]
-    ],
+    "qualities": [ [ { "id": "HAMMER", "level": 2 } ], [ { "id": "SCREW", "level": 1 } ] ],
     "components": [
-      [
-        [
-          "sheet_metal",
-          2
-        ]
-      ],
-      [
-        [
-          "scrap",
-          6
-        ],
-        [
-          "steel_chunk",
-          3
-        ]
-      ],
-      [
-        [
-          "nail",
-          8
-        ]
-      ],
-      [
-        [
-          "element",
-          4
-        ]
-      ],
-      [
-        [
-          "pilot_light",
-          1
-        ]
-      ]
+      [ [ "sheet_metal", 2 ] ],
+      [ [ "scrap", 6 ], [ "steel_chunk", 3 ] ],
+      [ [ "nail", 8 ] ],
+      [ [ "element", 4 ] ],
+      [ [ "pilot_light", 1 ] ]
     ],
     "post_terrain": "f_oven"
   },
@@ -167,81 +47,14 @@
     "category": "FURN",
     "difficulty": 7,
     "time": "300 s",
-    "tools": [
-      [
-        [
-          "oxy_torch",
-          150
-        ],
-        [
-          "welder",
-          150
-        ],
-        [
-          "welder_crude",
-          150
-        ],
-        [
-          "toolset",
-          150
-        ]
-      ]
-    ],
-    "qualities": [
-      [
-        {
-          "id": "HAMMER",
-          "level": 2
-        }
-      ],
-      [
-        {
-          "id": "SCREW",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "id": "WRENCH",
-          "level": 1
-        }
-      ]
-    ],
+    "tools": [ [ [ "oxy_torch", 150 ], [ "welder", 150 ], [ "welder_crude", 150 ], [ "toolset", 150 ] ] ],
+    "qualities": [ [ { "id": "HAMMER", "level": 2 } ], [ { "id": "SCREW", "level": 1 } ], [ { "id": "WRENCH", "level": 1 } ] ],
     "components": [
-      [
-        [
-          "pipe",
-          8
-        ]
-      ],
-      [
-        [
-          "sheet_metal",
-          16
-        ],
-        [
-          "steel_plate",
-          8
-        ]
-      ],
-      [
-        [
-          "scrap",
-          8
-        ]
-      ],
-      [
-        [
-          "foot_crank",
-          1
-        ]
-      ],
-      [
-        [
-          "chain",
-          2
-        ]
-      ]
+      [ [ "pipe", 8 ] ],
+      [ [ "sheet_metal", 16 ], [ "steel_plate", 8 ] ],
+      [ [ "scrap", 8 ] ],
+      [ [ "foot_crank", 1 ] ],
+      [ [ "chain", 2 ] ]
     ],
     "post_terrain": "t_gates_mech_control"
   },
@@ -252,46 +65,8 @@
     "category": "FURN",
     "difficulty": 2,
     "time": "60 s",
-    "qualities": [
-      [
-        {
-          "id": "HAMMER",
-          "level": 2
-        }
-      ],
-      [
-        {
-          "id": "DIG",
-          "level": 1
-        }
-      ]
-    ],
-    "components": [
-      [
-        [
-          "rock",
-          5
-        ]
-      ],
-      [
-        [
-          "corpse",
-          1
-        ],
-        [
-          "bone_human",
-          1
-        ],
-        [
-          "bone_tainted",
-          1
-        ],
-        [
-          "bone",
-          1
-        ]
-      ]
-    ],
+    "qualities": [ [ { "id": "HAMMER", "level": 2 } ], [ { "id": "DIG", "level": 1 } ] ],
+    "components": [ [ [ "rock", 5 ] ], [ [ "corpse", 1 ], [ "bone_human", 1 ], [ "bone_tainted", 1 ], [ "bone", 1 ] ] ],
     "post_terrain": "f_grave_head"
   },
   {
@@ -301,22 +76,8 @@
     "category": "FURN",
     "difficulty": 3,
     "time": "100 s",
-    "qualities": [
-      [
-        {
-          "id": "HAMMER",
-          "level": 2
-        }
-      ]
-    ],
-    "components": [
-      [
-        [
-          "rock",
-          5
-        ]
-      ]
-    ],
+    "qualities": [ [ { "id": "HAMMER", "level": 2 } ] ],
+    "components": [ [ [ "rock", 5 ] ] ],
     "post_terrain": "f_grave_stone"
   }
 ]

@@ -6,34 +6,19 @@
     "reload_noise_volume": 10,
     "symbol": "(",
     "color": "dark_gray",
-    "name": {
-      "str": "pneumatic bolt driver"
-    },
+    "name": { "str": "pneumatic bolt driver" },
     "description": "An eight-shot, revolving barrel, pneumatic bolt driver handcrafted from scrap.  It is very quiet and deadly.",
     "price": "2900 USD",
     "price_postapoc": "120 USD",
-    "material": [
-      "steel",
-      "wood"
-    ],
-    "flags": [
-      "STR_RELOAD",
-      "NON_FOULING",
-      "NEEDS_NO_LUBE"
-    ],
+    "material": [ "steel", "wood" ],
+    "flags": [ "STR_RELOAD", "NON_FOULING", "NEEDS_NO_LUBE" ],
     "skill": "rifle",
-    "ammo": [
-      "bolt"
-    ],
+    "ammo": [ "bolt" ],
     "weight": "3110 g",
     "volume": "3 L",
     "bashing": 12,
     "to_hit": -1,
-    "ranged_damage": {
-      "damage_type": "stab",
-      "amount": 20,
-      "armor_penetration": 7
-    },
+    "ranged_damage": { "damage_type": "stab", "amount": 20, "armor_penetration": 7 },
     "range": 20,
     "dispersion": 30,
     "durability": 7,
@@ -41,38 +26,14 @@
     "reload": 6000,
     "loudness": 22,
     "valid_mod_locations": [
-      [
-        "accessories",
-        4
-      ],
-      [
-        "grip",
-        1
-      ],
-      [
-        "mechanism",
-        4
-      ],
-      [
-        "sights",
-        1
-      ],
-      [
-        "sling",
-        1
-      ],
-      [
-        "stock",
-        1
-      ],
-      [
-        "rail mount",
-        1
-      ],
-      [
-        "underbarrel mount",
-        1
-      ]
+      [ "accessories", 4 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ],
+      [ "stock", 1 ],
+      [ "rail mount", 1 ],
+      [ "underbarrel mount", 1 ]
     ],
     "pocket_data": [
       {
@@ -80,19 +41,14 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [
-          "bolt_hopper"
-        ]
+        "item_restriction": [ "bolt_hopper" ]
       }
     ]
   },
   {
     "id": "electric_pump",
     "type": "GUNMOD",
-    "name": {
-      "str": "electric pump",
-      "str_pl": "electric pumps"
-    },
+    "name": { "str": "electric pump", "str_pl": "electric pumps" },
     "description": "A high pressure electric pump, greatly decreases pneumatic weapon reload time, but requires UPS charges to work.",
     "weight": "120 g",
     "volume": "250 ml",
@@ -100,28 +56,12 @@
     "integral_weight": "0 g",
     "price": "15 USD",
     "install_time": "0 m",
-    "material": [
-      "steel"
-    ],
+    "material": [ "steel" ],
     "symbol": ":",
     "color": "dark_gray",
     "location": "mechanism",
-    "mod_targets": [
-      "tihar",
-      "helsing",
-      "pneumatic_shotgun",
-      "airspeargun"
-    ],
-    "min_skills": [
-      [
-        "electronics",
-        2
-      ],
-      [
-        "mechanics",
-        3
-      ]
-    ],
+    "mod_targets": [ "tihar", "helsing", "pneumatic_shotgun", "airspeargun" ],
+    "min_skills": [ [ "electronics", 2 ], [ "mechanics", 3 ] ],
     "ups_charges_modifier": 5,
     "reload_modifier": -95
   }
