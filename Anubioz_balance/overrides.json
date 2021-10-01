@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mon_talon_m202a1",
+    "copy-from": "mon_talon_m202a1",
+    "type": "MONSTER",
+    "death_drops": { "subtype": "collection", "groups": [ [ "robots", 100 ], [ "turrets", 100 ], [ "turrets", 100 ], [ "turret_bmg", 100 ] ] },
+    "death_function": { }
+  },
+  {
+    "id": "mon_secubot",
+    "copy-from": "mon_secubot",
+    "type": "MONSTER",
+    "death_drops": { "subtype": "collection", "groups": [ [ "robots", 100  ], [ "copbot", 100 ] ] },
+    "death_function": { }
+  },
+  {
+    "id": "mon_robofac_laserturret_mk1",
+    "copy-from": "mon_robofac_laserturret_mk1",
+    "type": "MONSTER",
+    "death_function": {  },
+    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_rifle", 100 ], [ "military", 100 ] ] }
+  },
+  {
+    "id": "mon_turret",
+    "copy-from": "mon_turret",
+    "type": "MONSTER",
+    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_rifle", 100 ], [ "military", 100 ] ] },
+    "death_function": {  }
+  },
+  {
+    "id": "mon_turret_searchlight",
+    "copy-from": "mon_turret_searchlight",
+    "type": "MONSTER",
+    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_rifle", 100 ], [ "military", 100 ] ] },
+    "death_function": {  }
+  },
+  {
+    "id": "mon_turret_bmg",
+    "copy-from": "mon_turret_bmg",
+    "type": "MONSTER",
+    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_bmg", 100 ], [ "military", 100 ] ] },
+    "death_function": {  }
+  },
+  {
+    "id": "mon_turret_rifle",
+    "copy-from": "mon_turret_rifle",
+    "type": "MONSTER",
+    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_rifle", 100 ], [ "military", 100 ] ] },
+    "death_function": {  }
+  },
+  {
+    "id": "mon_crows_m240",
+    "copy-from": "mon_crows_m240",
+    "type": "MONSTER",
+    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_bmg", 100 ], [ "military", 100 ] ] },
+    "death_function": {  }
+  },
+  {
+    "id": "mon_turret_riot",
+    "copy-from": "mon_turret_riot",
+    "type": "MONSTER",
+    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_speaker", 100 ], [ "military", 100 ] ] },
+    "death_function": {  }
+  },
+  {
+    "id": "mon_turret_speaker",
+    "copy-from": "mon_turret_speaker",
+    "type": "MONSTER",
+    "death_function": { },
+    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_speaker", 100 ], [ "military", 100 ] ] }
+  },
+  {
+    "id": "mon_exodii_turret",
+    "copy-from": "mon_exodii_turret",
+    "type": "MONSTER",
+    "death_drops": { "subtype": "collection", "groups": [ [ "mil_hw", 100  ], [ "turrets", 100 ], [ "turrets", 100  ], [ "turret_bmg", 100 ], [ "military", 100 ] ] },
+    "death_function": { }
+  }
+]
