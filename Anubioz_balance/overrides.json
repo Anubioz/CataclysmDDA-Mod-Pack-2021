@@ -3,77 +3,922 @@
     "id": "mon_talon_m202a1",
     "copy-from": "mon_talon_m202a1",
     "type": "MONSTER",
-    "death_drops": { "subtype": "collection", "groups": [ [ "robots", 100 ], [ "turrets", 100 ], [ "turrets", 100 ], [ "turret_bmg", 100 ] ] },
-    "death_function": { }
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [ [ "robots", 100 ], [ "turrets", 100 ], [ "turrets", 100 ], [ "turret_bmg", 100 ] ]
+    },
+    "death_function": {  }
   },
   {
     "id": "mon_secubot",
     "copy-from": "mon_secubot",
     "type": "MONSTER",
-    "death_drops": { "subtype": "collection", "groups": [ [ "robots", 100  ], [ "copbot", 100 ] ] },
-    "death_function": { }
+    "death_drops": { "subtype": "collection", "groups": [ [ "robots", 100 ], [ "copbot", 100 ] ] },
+    "death_function": {  }
   },
   {
     "id": "mon_robofac_laserturret_mk1",
     "copy-from": "mon_robofac_laserturret_mk1",
     "type": "MONSTER",
     "death_function": {  },
-    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_rifle", 100 ], [ "military", 100 ] ] }
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [
+        [ "ammo_pistol_milspec", 100 ],
+        [ "ammo_smg_milspec", 100 ],
+        [ "ammo_rifle_milspec", 100 ],
+        [ "turret_rifle", 100 ],
+        [ "military", 100 ]
+      ]
+    }
   },
   {
     "id": "mon_turret",
     "copy-from": "mon_turret",
     "type": "MONSTER",
-    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_rifle", 100 ], [ "military", 100 ] ] },
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [
+        [ "ammo_pistol_milspec", 100 ],
+        [ "ammo_smg_milspec", 100 ],
+        [ "ammo_rifle_milspec", 100 ],
+        [ "turret_rifle", 100 ],
+        [ "military", 100 ]
+      ]
+    },
     "death_function": {  }
   },
   {
     "id": "mon_turret_searchlight",
     "copy-from": "mon_turret_searchlight",
     "type": "MONSTER",
-    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_rifle", 100 ], [ "military", 100 ] ] },
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [
+        [ "ammo_pistol_milspec", 100 ],
+        [ "ammo_smg_milspec", 100 ],
+        [ "ammo_rifle_milspec", 100 ],
+        [ "turret_rifle", 100 ],
+        [ "military", 100 ]
+      ]
+    },
     "death_function": {  }
   },
   {
     "id": "mon_turret_bmg",
     "copy-from": "mon_turret_bmg",
     "type": "MONSTER",
-    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_bmg", 100 ], [ "military", 100 ] ] },
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [
+        [ "ammo_pistol_milspec", 100 ],
+        [ "ammo_smg_milspec", 100 ],
+        [ "ammo_rifle_milspec", 100 ],
+        [ "turret_bmg", 100 ],
+        [ "military", 100 ]
+      ]
+    },
     "death_function": {  }
   },
   {
     "id": "mon_turret_rifle",
     "copy-from": "mon_turret_rifle",
     "type": "MONSTER",
-    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_rifle", 100 ], [ "military", 100 ] ] },
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [
+        [ "ammo_pistol_milspec", 100 ],
+        [ "ammo_smg_milspec", 100 ],
+        [ "ammo_rifle_milspec", 100 ],
+        [ "turret_rifle", 100 ],
+        [ "military", 100 ]
+      ]
+    },
     "death_function": {  }
   },
   {
     "id": "mon_crows_m240",
     "copy-from": "mon_crows_m240",
     "type": "MONSTER",
-    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_bmg", 100 ], [ "military", 100 ] ] },
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [
+        [ "ammo_pistol_milspec", 100 ],
+        [ "ammo_smg_milspec", 100 ],
+        [ "ammo_rifle_milspec", 100 ],
+        [ "turret_bmg", 100 ],
+        [ "military", 100 ]
+      ]
+    },
     "death_function": {  }
   },
   {
     "id": "mon_turret_riot",
     "copy-from": "mon_turret_riot",
     "type": "MONSTER",
-    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_speaker", 100 ], [ "military", 100 ] ] },
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [
+        [ "ammo_pistol_milspec", 100 ],
+        [ "ammo_smg_milspec", 100 ],
+        [ "ammo_rifle_milspec", 100 ],
+        [ "turret_speaker", 100 ],
+        [ "military", 100 ]
+      ]
+    },
     "death_function": {  }
   },
   {
     "id": "mon_turret_speaker",
     "copy-from": "mon_turret_speaker",
     "type": "MONSTER",
-    "death_function": { },
-    "death_drops":  { "subtype": "collection", "groups": [ [ "ammo_pistol_milspec", 100  ], [ "ammo_smg_milspec", 100 ], [ "ammo_rifle_milspec", 100 ], [ "turret_speaker", 100 ], [ "military", 100 ] ] }
+    "death_function": {  },
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [
+        [ "ammo_pistol_milspec", 100 ],
+        [ "ammo_smg_milspec", 100 ],
+        [ "ammo_rifle_milspec", 100 ],
+        [ "turret_speaker", 100 ],
+        [ "military", 100 ]
+      ]
+    }
   },
   {
     "id": "mon_exodii_turret",
     "copy-from": "mon_exodii_turret",
     "type": "MONSTER",
-    "death_drops": { "subtype": "collection", "groups": [ [ "mil_hw", 100  ], [ "turrets", 100 ], [ "turrets", 100  ], [ "turret_bmg", 100 ], [ "military", 100 ] ] },
-    "death_function": { }
+    "death_drops": {
+      "subtype": "collection",
+      "groups": [ [ "mil_hw", 100 ], [ "turrets", 100 ], [ "turrets", 100 ], [ "turret_bmg", 100 ], [ "military", 100 ] ]
+    },
+    "death_function": {  }
+  },
+  {
+    "id": "sw_22",
+    "copy-from": "sw_22",
+    "type": "GUN",
+    "name": { "str": "S&W 22A" },
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "sw22mag", "22mag" ]
+      }
+    ]
+  },
+  {
+    "id": "ruger_1022",
+    "copy-from": "ruger_1022",
+    "type": "GUN",
+    "name": { "str": "Ruger 10/22" },
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "receiver", 1 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ]
+  },
+  {
+    "id": "deagle_44",
+    "copy-from": "deagle_44",
+    "type": "GUN",
+    "name": { "str": "Desert Eagle .44" },
+    "ammo": [ "44", "357mag", "45", "9mm" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "deaglemag", "357_magazine", "m1911mag", "m1911bigmag", "glockmag", "glockbigmag" ]
+      }
+    ]
+  },
+  {
+    "id": "acr",
+    "copy-from": "m16_auto_rifle",
+    "type": "GUN",
+    "name": { "str": "Bushmaster ACR" },
+    "default_mods": [ "folding_stock" ],
+    "ammo": [ "308", "22", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "stanag50",
+          "223betacmag",
+          "survivor223mag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "g3mag",
+          "g3bigmag",
+          "308betacmag",
+          "stanag5",
+          "stanag20",
+          "stanag40",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ar15",
+    "//": "There is a AR-15 9mm conversion that fits an uzi mag and the m9 mags.",
+    "copy-from": "ar15",
+    "type": "GUN",
+    "name": { "str": "AR-15" },
+    "ammo": [ "308", "22", "9mm", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "stanag50",
+          "223betacmag",
+          "survivor223mag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "uzimag",
+          "m9mag",
+          "m9bigmag",
+          "9mmbetacmag",
+          "survivor9mm_mag",
+          "g3mag",
+          "g3bigmag",
+          "308betacmag",
+          "stanag5",
+          "stanag20",
+          "stanag40",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h&k416a5",
+    "copy-from": "m27_assault_rifle",
+    "type": "GUN",
+    "name": { "str": "H&K 416A5" },
+    "ammo": [ "308", "22", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "stanag50",
+          "223betacmag",
+          "survivor223mag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "g3mag",
+          "g3bigmag",
+          "308betacmag",
+          "stanag5",
+          "stanag20",
+          "stanag40",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hk_g36",
+    "copy-from": "hk_g36",
+    "type": "GUN",
+    "name": { "str": "H&K G36" },
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "BURST", "2 rd.", 2 ], [ "AUTO", "auto", 15 ] ],
+    "default_mods": [ "folding_stock" ],
+    "ammo": [ "308", "22", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "transmag",
+          "stanag30",
+          "stanag10",
+          "stanag50",
+          "223betacmag",
+          "survivor223mag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "g3mag",
+          "g3bigmag",
+          "308betacmag",
+          "m2010mag"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m249",
+    "copy-from": "m249",
+    "type": "GUN",
+    "name": { "str": "M249" },
+    "ammo": [ "308", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag50",
+          "stanag30",
+          "transmag",
+          "belt223",
+          "223betacmag",
+          "belt308",
+          "308betacmag",
+          "stanag5",
+          "stanag10",
+          "stanag20",
+          "stanag40",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150",
+          "survivor223mag"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m27iar",
+    "copy-from": "m27_assault_rifle",
+    "type": "GUN",
+    "name": { "str": "M27 IAR" },
+    "ammo": [ "308", "22", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag50",
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "223betacmag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "g3mag",
+          "g3bigmag",
+          "308betacmag",
+          "stanag5",
+          "stanag20",
+          "stanag40",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150",
+          "survivor223mag"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m4a1",
+    "copy-from": "m4_carbine",
+    "type": "GUN",
+    "name": { "str": "M4A1" },
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "223betacmag",
+          "survivor223mag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "g3mag",
+          "g3bigmag",
+          "308betacmag",
+          "stanag5",
+          "stanag20",
+          "stanag40",
+          "stanag50",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruger_mini",
+    "copy-from": "ruger_mini",
+    "type": "GUN",
+    "name": { "str": "Ruger Mini-14" },
+    "ammo": [ "308", "22", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "stanag50",
+          "223betacmag",
+          "survivor223mag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "scarhmag",
+          "scarhbigmag",
+          "308betacmag",
+          "ruger20",
+          "ruger5",
+          "ruger10",
+          "ruger30",
+          "ruger90",
+          "ruger100",
+          "ruger_makeshiftmag"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scar_l",
+    "copy-from": "m27_assault_rifle",
+    "type": "GUN",
+    "name": { "str": "FN SCAR-L" },
+    "ammo": [ "308", "22", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "stanag50",
+          "223betacmag",
+          "survivor223mag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "scarhmag",
+          "scarhbigmag",
+          "308betacmag",
+          "stanag20",
+          "stanag40",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sig552",
+    "copy-from": "sig_assault_rifle",
+    "type": "GUN",
+    "name": { "str": "SIG 552" },
+    "ammo": [ "308", "22", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "223betacmag",
+          "survivor223mag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "g3mag",
+          "g3bigmag",
+          "stanag5",
+          "308betacmag",
+          "stanag20",
+          "stanag40",
+          "stanag50",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "steyr_aug",
+    "copy-from": "steyr_aug",
+    "type": "GUN",
+    "name": { "str": "Steyr AUG" },
+    "ammo": [ "308", "22", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "stanag50",
+          "223betacmag",
+          "survivor223mag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "g3mag",
+          "g3bigmag",
+          "308betacmag",
+          "augmag_30rd",
+          "augmag_10rd",
+          "augmag_42rd",
+          "augmag_100rd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fn_fal",
+    "copy-from": "fn_fal",
+    "type": "GUN",
+    "name": { "str": "FN FAL" },
+    "ammo": [ "308", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "falmag",
+          "falbigmag",
+          "fal_makeshiftmag",
+          "308betacmag",
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "stanag50",
+          "223betacmag"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hk_g3",
+    "copy-from": "hk_g3",
+    "type": "GUN",
+    "name": { "str": "H&K G3" },
+    "ammo": [ "308", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "g3mag", "g3bigmag", "g3_makeshiftmag", "308betacmag", "stanag30", "transmag", "stanag10", "stanag50", "223betacmag" ]
+      }
+    ]
+  },
+  {
+    "id": "m1a",
+    "copy-from": "m1a",
+    "type": "GUN",
+    "name": { "str": "M1A" },
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "mechanism", 4 ],
+      [ "receiver", 1 ],
+      [ "muzzle", 1 ],
+      [ "sights", 1 ]
+    ],
+    "ammo": [ "308", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "m14mag", "m14smallmag", "308x_14mag50", "stanag10", "223betacmag", "m14_makeshiftmag" ]
+      }
+    ]
+  },
+  {
+    "id": "m14ebr",
+    "copy-from": "m14ebr",
+    "type": "GUN",
+    "name": { "str": "M14 EBR-RI" },
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "receiver", 1 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ],
+    "ammo": [ "308", "223" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "308x_14mag50", "m14mag", "m14smallmag", "stanag10", "223betacmag", "m14_makeshiftmag" ]
+      }
+    ]
+  },
+  {
+    "id": "scar_h",
+    "copy-from": "scar_h",
+    "type": "GUN",
+    "name": { "str": "FN SCAR-H" },
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "stanag50",
+          "223betacmag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "scarhmag",
+          "scarhbigmag",
+          "308betacmag",
+          "scarhmag_30rd",
+          "scarh_makeshiftmag"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ak47",
+    "copy-from": "ak47",
+    "type": "GUN",
+    "name": { "str": "AKM" },
+    "ammo": [ "762", "223", "308" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "akmag30",
+          "akmag10",
+          "akmag20",
+          "akmag40",
+          "akdrum75",
+          "223ak74mag30",
+          "223ak74mag35",
+          "223ak74mag10",
+          "308ak74mag25"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arx160",
+    "copy-from": "arx160",
+    "type": "GUN",
+    "name": { "str": "Beretta ARX-160" },
+    "ammo": [ "762", "223", "545x39", "308" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "akmag30",
+          "akmag10",
+          "akmag20",
+          "akmag40",
+          "akdrum75",
+          "ak74mag",
+          "rpk74mag",
+          "stanag30",
+          "transmag",
+          "stanag10",
+          "stanag50",
+          "223betacmag",
+          "308ak74mag25",
+          "m9bigmag",
+          "m9mag_10rd",
+          "m9mag",
+          "m9mag_17rd",
+          "m9mag_18rd",
+          "m9mag_20rd",
+          "m9mag_32rd",
+          "m9mag_35rd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cx4",
+    "copy-from": "cx4",
+    "type": "GUN",
+    "name": { "str": "Cx4 Storm" },
+    "ammo": [ "9mm", "22", "45", "46", "57" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "uzimag",
+          "m9mag",
+          "m9bigmag",
+          "nato9mag",
+          "9mmbetacmag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "m1911mag",
+          "m1911bigmag",
+          "hk46mag",
+          "hk46bigmag",
+          "fn57mag"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hk_mp5",
+    "copy-from": "hk_mp5",
+    "type": "GUN",
+    "name": { "str": "H&K MP5" },
+    "ammo": [ "9mm", "22", "45", "46", "57" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "mp5mag",
+          "mp5bigmag",
+          "9mmbetacmag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "ump45mag",
+          "hk46mag",
+          "hk46bigmag",
+          "fn57mag",
+          "mp5mag_10rd",
+          "mp5mag_15rd",
+          "mp5mag_20rd",
+          "mp5mag_38rd",
+          "mp5mag_40rd",
+          "mp5mag_100rd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ksub2000",
+    "//": "Added .40 mags, plus the Sub2K takes a large variety of 9mm mags.",
+    "copy-from": "ksub2000",
+    "type": "GUN",
+    "name": { "str": "Kel-Tec SUB-2000" },
+    "description": "A uniquely designed pistol caliber carbine with an integral folding stock and that makes use of a large variety of 9mm magazines.",
+    "ammo": [ "9mm", "22", "40", "45", "46", "57" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "glockmag",
+          "glockbigmag",
+          "uzimag",
+          "m9mag",
+          "m9bigmag",
+          "sw9mm_mag",
+          "nato9mag",
+          "9mmbetacmag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "glock40mag",
+          "glock40bigmag",
+          "m1911mag",
+          "m1911bigmag",
+          "hk46mag",
+          "hk46bigmag",
+          "fn57mag",
+          "glock17_17",
+          "glock17_22",
+          "glock_drum_50rd",
+          "glock_drum_100rd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uzi",
+    "copy-from": "uzi",
+    "type": "GUN",
+    "name": { "str": "Uzi 9mm" },
+    "ammo": [ "9mm", "22", "45", "46", "57" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [
+          "uzimag",
+          "nato9mag",
+          "9mmbetacmag",
+          "ruger1022bigmag",
+          "ruger1022mag",
+          "tdi_mag",
+          "hk46mag",
+          "hk46bigmag",
+          "fn57mag",
+          "uzimag_20rd",
+          "uzimag_25rd",
+          "uzimag_40rd",
+          "uzimag_50rd",
+          "uzimag_100rd"
+        ]
+      }
+    ]
   }
 ]

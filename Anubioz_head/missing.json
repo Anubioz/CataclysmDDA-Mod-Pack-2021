@@ -327,5 +327,11 @@
       { "drop": "fat_tainted", "type": "flesh", "mass_ratio": 0.08 },
       { "drop": "bone_tainted", "type": "bone", "mass_ratio": 0.1 }
     ]
+  },
+  {
+    "id": "scar_l",
+    "copy-from": "m27_assault_rifle",
+    "type": "GUN",
+    "name": { "str": "FN SCAR-L" }
   }
 ]
