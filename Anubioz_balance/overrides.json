@@ -159,6 +159,7 @@
     "copy-from": "sw_22",
     "type": "GUN",
     "name": { "str": "S&W 22A" },
+    "ammo": [ "22" ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
@@ -430,6 +431,7 @@
     "copy-from": "m4_carbine",
     "type": "GUN",
     "name": { "str": "M4A1" },
+    "ammo": [ "308", "223" ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
@@ -702,6 +704,7 @@
     "copy-from": "scar_h",
     "type": "GUN",
     "name": { "str": "FN SCAR-H" },
+    "ammo": [ "308", "223" ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
