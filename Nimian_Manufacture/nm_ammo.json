@@ -1,6 +1,7 @@
 [
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_concussive",
     "price": "40 USD",
     "name": { "str": "32mm concussive", "str_pl": "32mm concussive" },
@@ -25,6 +26,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_frag",
     "price": "360 USD",
     "name": { "str": "32mm frag", "str_pl": "32mm frag" },
@@ -49,6 +51,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_incendiary",
     "price": "400 USD",
     "name": { "str": "32mm incendiary", "str_pl": "32mm incendiary" },
@@ -73,6 +76,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_teargas",
     "price": "360 USD",
     "name": { "str": "32mm teargas", "str_pl": "32mm teargas" },
@@ -97,6 +101,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_smoke",
     "price": "350 USD",
     "name": { "str": "32mm smoke cover", "str_pl": "32mm smoke cover" },
@@ -121,6 +126,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_flare",
     "price": "360 USD",
     "name": { "str": "32mm flare" },
@@ -145,6 +151,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_flashbang",
     "price": "320 USD",
     "name": { "str": "32mm flashbang" },
@@ -169,6 +176,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_acidbomb",
     "price": "400 USD",
     "name": { "str": "32mm acid bomb" },
@@ -193,6 +201,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_shot",
     "price": "400 USD",
     "name": { "str": "32mm buckshot" },
@@ -217,6 +226,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_flechette",
     "price": "700 USD",
     "name": { "str": "32mm flechette" },
@@ -241,6 +251,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_casing",
     "category": "spare_parts",
     "price": "15 USD",
@@ -263,6 +274,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_concussive_rl",
     "price": "40 USD",
     "name": { "str": "reloaded 32mm concussive", "str_pl": "reloaded 32mm concussive" },
@@ -287,6 +299,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_frag_rl",
     "price": "360 USD",
     "name": { "str": "reloaded 32mm frag", "str_pl": "reloaded 32mm frag" },
@@ -311,6 +324,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_incendiary_rl",
     "price": "400 USD",
     "name": { "str": "reloaded 32mm incendiary", "str_pl": "reloaded 32mm incendiary" },
@@ -335,6 +349,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_teargas_rl",
     "price": "360 USD",
     "name": { "str": "reloaded 32mm teargas", "str_pl": "reloaded 32mm teargas" },
@@ -359,6 +374,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_smoke_rl",
     "price": "350 USD",
     "name": { "str": "reloaded 32mm smoke cover", "str_pl": "reloaded 32mm smoke cover" },
@@ -383,6 +399,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_flare_rl",
     "price": "360 USD",
     "name": { "str": "reloaded 32mm flare" },
@@ -407,6 +424,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_flashbang_rl",
     "price": "320 USD",
     "name": { "str": "reloaded 32mm flashbang" },
@@ -431,6 +449,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_acidbomb_rl",
     "price": "400 USD",
     "name": { "str": "reloaded 32mm acid bomb" },
@@ -455,6 +474,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_shot_rl",
     "price": "400 USD",
     "name": { "str": "reloaded 32mm buckshot" },
@@ -479,6 +499,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "32mm_flechette_rl",
     "price": "700 USD",
     "name": { "str": "reloaded 32mm flechette" },
@@ -503,6 +524,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "lasclip",
     "price": "160 USD",
     "name": { "str": "laser charge" },
@@ -527,6 +549,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "lasclip_hl",
     "price": "100 USD",
     "name": { "str": "handmade laser charge" },
@@ -551,6 +574,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "lasclippl_hl",
     "price": "700 USD",
     "name": { "str": "plutonium laser charge" },
@@ -575,6 +599,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "hvlasclip",
     "price": "500 USD",
     "name": { "str": "heavy laser charge" },
@@ -599,6 +624,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "hvlasclip_hl",
     "price": "350 USD",
     "name": { "str": "handmade heavy laser charge" },
@@ -623,6 +649,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "hvlasclippl_hl",
     "price": "3000 USD",
     "name": { "str": "plutonium heavy laser charge" },
@@ -647,6 +674,7 @@
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "1062mm_subsonic",
     "price": "1000 USD",
     "//": "Totally not copied from Rivtech.",
@@ -667,10 +695,12 @@
     "dispersion": 45,
     "recoil": 100,
     "count": 10,
+    "stack_size": 10,
     "effects": [ "COOKOFF", "NEVER_MISFIRES" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "25mm",
     "price": "500 USD",
     "name": { "str": "25mm AP", "str_pl": "25mm AP" },
@@ -690,10 +720,12 @@
     "dispersion": 15,
     "recoil": 1100,
     "count": 5,
+    "stack_size": 5,
     "effects": [ "COOKOFF" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "25mmhe",
     "price": "500 USD",
     "name": { "str": "25mm HE", "str_pl": "25mm HE" },
@@ -713,10 +745,12 @@
     "dispersion": 15,
     "recoil": 1100,
     "count": 5,
+    "stack_size": 5,
     "effects": [ "COOKOFF", "EXPLOSIVE" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "25mmhei",
     "price": "500 USD",
     "name": { "str": "25mm HEI", "str_pl": "25mm HEI" },
@@ -736,10 +770,12 @@
     "dispersion": 15,
     "recoil": 1100,
     "count": 5,
+    "stack_size": 5,
     "effects": [ "COOKOFF", "EXPLOSIVE", "INCENDIARY" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "25mmhefi",
     "price": "500 USD",
     "name": { "str": "25mm HEFI", "str_pl": "25mm HEFI" },
@@ -759,10 +795,12 @@
     "dispersion": 15,
     "recoil": 1100,
     "count": 5,
+    "stack_size": 5,
     "effects": [ "COOKOFF", "FRAG", "INCENDIARY" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "25mmapds",
     "price": "500 USD",
     "name": { "str": "25mm APDS", "str_pl": "25mm APDS" },
@@ -782,10 +820,12 @@
     "dispersion": 15,
     "recoil": 1100,
     "count": 5,
+    "stack_size": 5,
     "effects": [ "COOKOFF" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "25mm_casing",
     "category": "spare_parts",
     "price": "15 USD",
@@ -796,6 +836,7 @@
     "material": [ "steel" ],
     "volume": "250 ml",
     "weight": "13 g",
+    "longest_side": "2 mm",
     "bashing": 1,
     "cutting": 0,
     "to_hit": 0,
@@ -804,10 +845,12 @@
     "range": 0,
     "dispersion": 0,
     "recoil": 0,
-    "count": 20
+    "count": 20,
+    "stack_size": 20
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mm",
     "price": 400,
     "name": { "str": "7x30mm", "str_pl": "7x30mm" },
@@ -815,8 +858,9 @@
     "color": "dark_gray",
     "description": "7x30mm pistol bullet, developed by Nimian Manufacture. Designed to improve capacity of their guns, this bullet still deals a good amount of damage.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "bashing": 1,
     "cutting": 0,
     "to_hit": 0,
@@ -827,10 +871,12 @@
     "dispersion": 135,
     "recoil": 150,
     "count": 50,
+    "stack_size": 50,
     "effects": [ "COOKOFF" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mmll",
     "price": 200,
     "name": { "str": "7x30mm light load", "str_pl": "7x30mm light load" },
@@ -838,8 +884,9 @@
     "color": "dark_gray",
     "description": "7x30mm light load pistol bullet.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "bashing": 1,
     "cutting": 0,
     "to_hit": 0,
@@ -850,10 +897,12 @@
     "dispersion": 150,
     "recoil": 135,
     "count": 100,
+    "stack_size": 100,
     "effects": [ "COOKOFF" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mmP",
     "price": 200,
     "name": { "str": "7x30mm P+", "str_pl": "7x30mm P+" },
@@ -861,11 +910,9 @@
     "color": "dark_gray",
     "description": "7x30mm pistol bullet with increased internal pressure.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "ammo_type": "7x30mm",
     "casing": "7x30mm_casing",
     "damage": { "damage_type": "stab", "amount": 25, "armor_penetration": 4 },
@@ -873,10 +920,12 @@
     "dispersion": 120,
     "recoil": 175,
     "count": 25,
+    "stack_size": 25,
     "effects": [ "COOKOFF" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mmPP",
     "price": "10 USD",
     "name": { "str": "7x30mm P++", "str_pl": "7x30mm P++" },
@@ -884,11 +933,9 @@
     "color": "dark_gray",
     "description": "7x30mm pistol bullet with even more increased internal pressure.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "ammo_type": "7x30mm",
     "casing": "7x30mm_casing",
     "damage": { "damage_type": "stab", "amount": 28, "armor_penetration": 9 },
@@ -896,10 +943,12 @@
     "dispersion": 100,
     "recoil": 200,
     "count": 15,
+    "stack_size": 15,
     "effects": [ "COOKOFF" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mmmatch",
     "price": "80 USD",
     "name": { "str": "7x30mm match", "str_pl": "7x30mm match" },
@@ -907,11 +956,9 @@
     "color": "dark_gray",
     "description": "7x30mm match-grade pistol bullet. Allows for much greater accuracy than other rounds.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "ammo_type": "7x30mm",
     "casing": "7x30mm_casing",
     "damage": { "damage_type": "stab", "amount": 22, "armor_penetration": 2 },
@@ -919,10 +966,12 @@
     "dispersion": 50,
     "recoil": 150,
     "count": 25,
+    "stack_size": 25,
     "effects": [ "COOKOFF" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mmfmj",
     "price": "80 USD",
     "name": { "str": "7x30mm FMJ", "str_pl": "7x30mm FMJ" },
@@ -930,11 +979,9 @@
     "color": "dark_gray",
     "description": "7x30mm full metal jacketed pistol bullet. Allows for much greater armor penetration.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "ammo_type": "7x30mm",
     "casing": "7x30mm_casing",
     "damage": { "damage_type": "stab", "amount": 22, "armor_penetration": 15 },
@@ -942,10 +989,12 @@
     "dispersion": 150,
     "recoil": 150,
     "count": 25,
+    "stack_size": 25,
     "effects": [ "COOKOFF" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mmjhp",
     "price": "80 USD",
     "name": { "str": "7x30mm JHP", "str_pl": "7x30mm JHP" },
@@ -953,11 +1002,9 @@
     "color": "dark_gray",
     "description": "7x30mm jacketed hollow point pistol bullet.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "ammo_type": "7x30mm",
     "casing": "7x30mm_casing",
     "damage": { "damage_type": "stab", "amount": 34, "armor_penetration": 5 },
@@ -965,10 +1012,12 @@
     "dispersion": 150,
     "recoil": 150,
     "count": 25,
+    "stack_size": 25,
     "effects": [ "COOKOFF" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mm_rl",
     "price": 400,
     "name": { "str": "reloaded 7x30mm", "str_pl": "reloaded 7x30mm" },
@@ -976,11 +1025,9 @@
     "color": "dark_gray",
     "description": "Reloaded 7x30mm pistol bullet, developed by Nimian Manufacture. Designed to improve capacity of their guns, this bullet still deals a good amount of damage.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "ammo_type": "7x30mm",
     "casing": "7x30mm_casing",
     "damage": { "damage_type": "stab", "amount": 19, "armor_penetration": 1 },
@@ -988,10 +1035,12 @@
     "dispersion": 150,
     "recoil": 150,
     "count": 10,
+    "stack_size": 10,
     "effects": [ "COOKOFF", "RECYCLED" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mmll_rl",
     "price": 200,
     "name": { "str": "reloaded 7x30mm light load", "str_pl": "reloaded 7x30mm light load" },
@@ -999,11 +1048,9 @@
     "color": "dark_gray",
     "description": "Reloaded 7x30mm light load pistol bullet.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "ammo_type": "7x30mm",
     "casing": "7x30mm_casing",
     "damage": { "damage_type": "stab", "amount": 15, "armor_penetration": 0 },
@@ -1011,10 +1058,12 @@
     "dispersion": 175,
     "recoil": 135,
     "count": 10,
+    "stack_size": 10,
     "effects": [ "COOKOFF", "RECYCLED" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mmP_rl",
     "price": 200,
     "name": { "str": "reloaded 7x30mm P+", "str_pl": "reloaded 7x30mm P+" },
@@ -1022,11 +1071,9 @@
     "color": "dark_gray",
     "description": "Reloaded 7x30mm pistol bullet with increased internal pressure.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "ammo_type": "7x30mm",
     "casing": "7x30mm_casing",
     "damage": { "damage_type": "stab", "amount": 23, "armor_penetration": 3 },
@@ -1034,10 +1081,12 @@
     "dispersion": 135,
     "recoil": 175,
     "count": 10,
+    "stack_size": 10,
     "effects": [ "COOKOFF", "RECYCLED" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mmPP_rl",
     "price": "10 USD",
     "name": { "str": "reloaded 7x30mm P++", "str_pl": "reloaded 7x30mm P++" },
@@ -1045,11 +1094,9 @@
     "color": "dark_gray",
     "description": "Reloaded 7x30mm pistol bullet with even more increased internal pressure.",
     "material": [ "steel", "powder" ],
-    "volume": "3 ml",
-    "weight": "12 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "weight": "7 g",
+    "volume": "115 ml",
+    "longest_side": "2 mm",
     "ammo_type": "7x30mm",
     "casing": "7x30mm_casing",
     "damage": { "damage_type": "stab", "amount": 25, "armor_penetration": 8 },
@@ -1057,10 +1104,12 @@
     "dispersion": 115,
     "recoil": 200,
     "count": 10,
+    "stack_size": 10,
     "effects": [ "COOKOFF", "RECYCLED" ]
   },
   {
     "type": "AMMO",
+    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "id": "7x30mm_casing",
     "category": "spare_parts",
     "price": 500,
@@ -1071,14 +1120,13 @@
     "material": [ "steel" ],
     "volume": "3 ml",
     "weight": "3 g",
-    "bashing": 1,
-    "cutting": 0,
-    "to_hit": 0,
+    "longest_side": "2 mm",
     "ammo_type": "components",
     "damage": { "damage_type": "stab", "amount": 0, "armor_penetration": 0 },
     "range": 0,
     "dispersion": 0,
     "recoil": 0,
-    "count": 100
+    "count": 100,
+    "stack_size": 100
   }
 ]

@@ -6,7 +6,7 @@
     "description": "\n<color_yellow>Needed for correct work of the CataclysmDDA-Mod-Pack-2021 pack</color>",
     "category": "total_conversion",
     "authors": [ "anubioz" ],
-    "dependencies": [ "dda", "aftershock", "blazemod", "secronom", "sierra_madre", "darkskies_no_blacklist", "magiclysm"],
+    "dependencies": [ "dda", "aftershock", "blazemod", "secronom", "sierra_madre", "darkskies_no_blacklist", "magiclysm" ],
     "path": ""
   }
 ]

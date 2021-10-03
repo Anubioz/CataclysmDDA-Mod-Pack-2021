@@ -7,7 +7,25 @@
     "category": "total_conversion",
     "authors": [ "anubioz" ],
     "dependencies": [
-      "log_wall_tweak", "light_weariness", "3x_healing", "autodoc_harmless_perfect", "clean_cbm", "no_npc_food", "stamina_regen_buff", "stamina_pool_buff", "manualbionicinstall", "no_cbm_slots", "no_filthy_clothing", "no_fungal_growth", "Nonperishable_Overhaul", "no_reviving_zombies", "psychopath_morale", "safe_portable_autodoc", "speedydex", "speedydexbuffs", "no_magic_exclusiveness"
+      "log_wall_tweak",
+      "light_weariness",
+      "3x_healing",
+      "autodoc_harmless_perfect",
+      "clean_cbm",
+      "no_npc_food",
+      "stamina_regen_buff",
+      "stamina_pool_buff",
+      "manualbionicinstall",
+      "no_cbm_slots",
+      "no_filthy_clothing",
+      "no_fungal_growth",
+      "Nonperishable_Overhaul",
+      "no_reviving_zombies",
+      "psychopath_morale",
+      "safe_portable_autodoc",
+      "speedydex",
+      "speedydexbuffs",
+      "no_magic_exclusiveness"
     ],
     "path": ""
   }
