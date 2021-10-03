@@ -5,6 +5,7 @@
     "name": "CIVILIAN POWER ARMOR",
     "description": "Adds a few power armor items",
     "category": "items",
+    "dependencies": [ "dda" ],
     "authors": "MATTYMCAIN"
   }
 ]

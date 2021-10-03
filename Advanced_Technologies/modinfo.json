@@ -6,6 +6,7 @@
     "authors": [ "Kane", "MechMaster2.0" ],
     "description": "Adds advanced armors, weapons, mech parts, robots, and crafting.",
     "category": "items",
+    "dependencies": [ "dda" ],
     "path": ""
   }
 ]

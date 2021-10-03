@@ -6,6 +6,6 @@
     "authors": [ "/rlg/" ],
     "maintainers": [ "SolarFlare" ],
     "category": "rebalance",
-    "dependencies": [ "dda", "Arcana", "PK_REBALANCE", "blazemod" ]
+    "dependencies": [ "dda", "Arcana", "PK_REBALANCE" ]
   }
 ]
