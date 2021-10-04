@@ -431,7 +431,7 @@
     "copy-from": "m4_carbine",
     "type": "GUN",
     "name": { "str": "M4A1" },
-    "ammo": [ "308", "223" ],
+    "ammo": [ "223" ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
@@ -444,11 +444,6 @@
           "stanag10",
           "223betacmag",
           "survivor223mag",
-          "ruger1022bigmag",
-          "ruger1022mag",
-          "g3mag",
-          "g3bigmag",
-          "308betacmag",
           "stanag5",
           "stanag20",
           "stanag40",

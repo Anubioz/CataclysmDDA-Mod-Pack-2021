@@ -20,7 +20,7 @@
         "items": [ "pants_army", "army_top", "jacket_army", "socks", "boots_combat", "canteen" ],
         "entries": [
           { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "m4a1", "ammo-item": "308", "charges": 50, "contents-item": "shoulder_strap" }
+          { "item": "m4a1", "ammo-item": "223", "charges": 50, "contents-item": "shoulder_strap" }
         ]
       },
       "male": [ "boxer_shorts" ],

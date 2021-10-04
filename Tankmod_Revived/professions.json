@@ -28,7 +28,7 @@
           {
             "item": "nato_assault_rifle",
             "variant": "m4a1",
-            "ammo-item": "556",
+            "ammo-item": "223",
             "charges": 30,
             "contents-item": "shoulder_strap"
           }
@@ -57,7 +57,7 @@
           {
             "item": "nato_assault_rifle",
             "variant": "m4a1",
-            "ammo-item": "556",
+            "ammo-item": "223",
             "charges": 30,
             "contents-item": "shoulder_strap"
           }
