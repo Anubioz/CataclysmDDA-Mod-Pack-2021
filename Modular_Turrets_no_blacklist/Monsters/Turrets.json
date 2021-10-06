@@ -66,6 +66,7 @@
     "diff": 10,
     "color": "light_gray",
     "luminance": 200,
+    "starting_ammo": { "9mm": 300 },
     "revert_to_itype": "bot_turret_9mm",
     "special_attacks": [
       {
@@ -89,6 +90,7 @@
     "diff": 10,
     "color": "red",
     "luminance": 200,
+    "starting_ammo": { "shot_slug": 300 },
     "revert_to_itype": "bot_turret_shot",
     "special_attacks": [
       {
@@ -111,6 +113,7 @@
     "default_faction": "cop_bot",
     "diff": 10,
     "color": "blue",
+    "starting_ammo": { "40x46mm_m651": 300 },
     "luminance": 300,
     "revert_to_itype": "bot_turret_teargas",
     "special_attacks": [
@@ -135,6 +138,7 @@
     "diff": 5,
     "color": "blue",
     "luminance": 300,
+    "starting_ammo": { "20x66_beanbag": 300 },
     "revert_to_itype": "bot_turret_beanbag",
     "special_attacks": [
       {
@@ -159,6 +163,7 @@
     "color": "green",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_556",
+    "starting_ammo": { "556": 1600 },
     "special_attacks": [
       {
         "type": "gun",
@@ -189,6 +194,7 @@
     "color": "green",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_308",
+    "starting_ammo": { "762_51": 1000 },
     "special_attacks": [
       {
         "type": "gun",
@@ -219,6 +225,7 @@
     "color": "green",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_50bmg",
+    "starting_ammo": { "50bmg": 400 },
     "special_attacks": [
       {
         "type": "gun",
@@ -249,6 +256,7 @@
     "diff": 20,
     "color": "green",
     "luminance": 200,
+    "starting_ammo": { "8mm_fmj": 400 },
     "revert_to_itype": "bot_milturret_8x40mm",
     "special_attacks": [
       {
@@ -279,6 +287,7 @@
     "diff": 20,
     "color": "green",
     "luminance": 200,
+    "starting_ammo": { "5x50heavy": 400 },
     "revert_to_itype": "bot_milturret_needle",
     "special_attacks": [
       {
@@ -310,6 +319,7 @@
     "color": "red",
     "luminance": 200,
     "revert_to_itype": "bot_milturret_40mm",
+    "starting_ammo": { "40x46mm_m1006": 400 },
     "special_attacks": [
       {
         "type": "gun",
@@ -339,6 +349,7 @@
     "diff": 20,
     "color": "red",
     "luminance": 200,
+    "starting_ammo": { "napalm": 10000 },
     "revert_to_itype": "bot_milturret_flame",
     "special_attacks": [
       {
@@ -370,6 +381,7 @@
     "diff": 20,
     "color": "yellow",
     "luminance": 300,
+    "starting_ammo": { "battery": 50000 },
     "revert_to_itype": "bot_advturret_laser",
     "special_attacks": [
       {
@@ -400,6 +412,7 @@
     "diff": 10,
     "color": "light_green",
     "luminance": 300,
+    "starting_ammo": { "battery": 50000 },
     "revert_to_itype": "bot_advturret_acid",
     "special_attacks": [
       {
@@ -426,6 +439,7 @@
     "diff": 20,
     "color": "magenta",
     "luminance": 300,
+    "starting_ammo": { "battery": 50000 },
     "revert_to_itype": "bot_advturret_plasma",
     "special_attacks": [
       {
@@ -456,6 +470,7 @@
     "default_faction": "military",
     "diff": 30,
     "color": "magenta",
+    "starting_ammo": { "railgun_bullet": 50000 },
     "luminance": 300,
     "revert_to_itype": "bot_advturret_rail",
     "special_attacks": [
@@ -487,6 +502,7 @@
     "diff": 20,
     "color": "yellow",
     "luminance": 300,
+    "starting_ammo": { "battery": 50000 },
     "revert_to_itype": "bot_advturret_lightning",
     "special_attacks": [
       {
@@ -518,6 +534,7 @@
     "diff": 10,
     "color": "yellow",
     "luminance": 300,
+    "starting_ammo": { "battery": 50000 },
     "revert_to_itype": "bot_advturret_emp",
     "special_attacks": [
       {
@@ -548,6 +565,7 @@
     "default_faction": "defense_bot",
     "diff": 10,
     "color": "red",
+    "starting_ammo": { "9mm": 300 },
     "revert_to_itype": "bot_turret_gnome",
     "special_attacks": [
       {

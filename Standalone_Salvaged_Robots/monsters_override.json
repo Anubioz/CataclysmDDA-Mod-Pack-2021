@@ -27,9 +27,9 @@
     "armor_acid": 10,
     "vision_day": 50,
     "path_settings": { "max_dist": 5 },
-    "death_drops": { "groups": [ [ "broken_robots", 1 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 1 ], [ "military", 3 ] ] },
     "death_function": { "corpse_type": "BROKEN" },
-    "flags": [ "SEES", "HEARS", "BASHES", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ]
+    "flags": [ "SEES", "HEARS", "BASHES", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1", "DROPS_AMMO" ]
   },
   {
     "id": "mon_defbot_9mm",

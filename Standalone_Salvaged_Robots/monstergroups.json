@@ -20,8 +20,8 @@
       { "monster": "mon_advturret_acid", "freq": 20, "cost_multiplier": 1 },
       { "monster": "mon_advturret_lightning", "freq": 5, "cost_multiplier": 1 },
       { "monster": "mon_advturret_emp", "freq": 10, "cost_multiplier": 1 },
-      { "monster": "mon_turret_rifle", "freq": 0, "cost_multiplier": 0 },
-      { "monster": "mon_turret_bmg", "freq": 0, "cost_multiplier": 0 }
+      { "monster": "mon_turret_rifle", "freq": 15, "cost_multiplier": 1 },
+      { "monster": "mon_turret_bmg", "freq": 15, "cost_multiplier": 1 }
     ]
   }
 ]

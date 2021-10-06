@@ -16,8 +16,8 @@
     "armor_cut": 16,
     "armor_acid": 14,
     "death_function": { "corpse_type": "BROKEN" },
-    "death_drops": "broken_robots",
-    "flags": [ "SEES", "NOHEAD", "ELECTRONIC", "IMMOBILE", "NO_BREATHE" ]
+    "death_drops": { "groups": [ [ "broken_robots", 1 ], [ "military", 3 ] ] },
+    "flags": [ "SEES", "NOHEAD", "ELECTRONIC", "IMMOBILE", "NO_BREATHE", "DROPS_AMMO"  ]
   },
   {
     "id": "mon_craftbuddy",
@@ -44,8 +44,8 @@
     "special_attacks": [ [ "PARROT", 500 ] ],
     "revert_to_itype": "bot_craftbuddy",
     "death_function": { "corpse_type": "BROKEN" },
-    "death_drops": { "groups": [ [ "broken_robots", 3 ] ] },
-    "flags": [ "GUILT", "SEES", "HEARS", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ]
+    "death_drops": { "groups": [ [ "broken_robots", 3 ], [ "military", 5 ]  ] },
+    "flags": [ "GUILT", "SEES", "HEARS", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1", "DROPS_AMMO"  ]
   },
   {
     "abstract": "mon_autoarmor_base",
@@ -73,9 +73,9 @@
     "vision_day": 20,
     "vision_night": 10,
     "path_settings": { "max_dist": 10 },
-    "death_drops": { "groups": [ [ "broken_robots", 2 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 2 ], [ "military", 5 ]  ] },
     "death_function": { "corpse_type": "BROKEN" },
-    "flags": [ "SEES", "HEARS", "NOHEAD", "NO_BREATHE", "ELECTRONIC", "PATH_AVOID_DANGER_1" ]
+    "flags": [ "SEES", "HEARS", "NOHEAD", "NO_BREATHE", "ELECTRONIC", "PATH_AVOID_DANGER_1", "DROPS_AMMO"  ]
   },
   {
     "id": "mon_autoarmor_light",
@@ -153,7 +153,7 @@
     "emit_fields": [ "emit_sparks" ],
     "revert_to_itype": "bot_distract_hack",
     "special_attacks": [ [ "PARROT", 0 ] ],
-    "extend": { "flags": [ "STUMBLES", "HIT_AND_RUN", "HARDTOSHOOT", "PET_WONT_FOLLOW", "ELECTRIC" ] }
+    "extend": { "flags": [ "STUMBLES", "HIT_AND_RUN", "HARDTOSHOOT", "PET_WONT_FOLLOW", "ELECTRIC", "DROPS_AMMO" ] }
   },
   {
     "id": "mon_arson_hack",
@@ -234,10 +234,10 @@
     "armor_cut": 10,
     "armor_fire": 3,
     "armor_acid": 6,
-    "death_drops": { "groups": [ [ "broken_robots", 4 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 4 ], [ "military", 3 ]  ] },
     "death_function": { "corpse_type": "BROKEN" },
     "special_attacks": [ { "id": "flash" } ],
-    "flags": [ "SEES", "FLIES", "ELECTRONIC", "NO_BREATHE", "NOHEAD", "PRIORITIZE_TARGETS" ]
+    "flags": [ "SEES", "FLIES", "ELECTRONIC", "NO_BREATHE", "NOHEAD", "PRIORITIZE_TARGETS", "DROPS_AMMO" ]
   },
   {
     "id": "mon_eyebot_heater",
@@ -316,8 +316,8 @@
     "armor_acid": 6,
     "vision_day": 50,
     "death_function": { "corpse_type": "BROKEN" },
-    "death_drops": { "groups": [ [ "broken_robots", 3 ] ] },
-    "flags": [ "SEES", "HEARS", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ]
+    "death_drops": { "groups": [ [ "broken_robots", 3 ], [ "military", 3 ]  ] },
+    "flags": [ "SEES", "HEARS", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1", "DROPS_AMMO" ]
   },
   {
     "id": "mon_hazmatbot",
@@ -476,8 +476,8 @@
     "special_attacks": [ { "id": "hypo_pkill" } ],
     "anger_triggers": [ "FRIEND_ATTACKED", "PLAYER_WEAK", "HURT", "PLAYER_CLOSE" ],
     "death_function": { "corpse_type": "BROKEN" },
-    "death_drops": { "groups": [ [ "broken_robots", 3 ] ] },
-    "flags": [ "SEES", "HEARS", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ]
+    "death_drops": { "groups": [ [ "broken_robots", 3 ], [ "military", 3 ]  ] },
+    "flags": [ "SEES", "HEARS", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1", "DROPS_AMMO" ]
   },
   {
     "id": "mon_medibot_assassin",
@@ -568,9 +568,9 @@
     "vision_day": 50,
     "path_settings": { "max_dist": 5 },
     "special_attacks": [ [ "TAZER", 5 ] ],
-    "death_drops": { "groups": [ [ "broken_robots", 4 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 4 ], [ "military", 4 ]  ] },
     "death_function": { "corpse_type": "BROKEN" },
-    "flags": [ "SEES", "HEARS", "GOODHEARING", "ELECTRONIC", "NO_BREATHE", "PATH_AVOID_DANGER_1" ]
+    "flags": [ "SEES", "HEARS", "GOODHEARING", "ELECTRONIC", "NO_BREATHE", "PATH_AVOID_DANGER_1", "DROPS_AMMO" ]
   },
   {
     "id": "mon_skitterbot_rat",
@@ -669,7 +669,7 @@
     "special_attacks": [ [ "PARROT", 80 ] ],
     "death_function": { "corpse_type": "BROKEN" },
     "harvest": "mon_broken_cyborg",
-    "flags": [ "SEES", "HEARS", "BASHES", "ELECTRONIC", "NO_BREATHE", "WARM", "STUMBLES", "HUMAN", "NO_NECRO" ]
+    "flags": [ "SEES", "HEARS", "BASHES", "ELECTRONIC", "NO_BREATHE", "WARM", "STUMBLES", "HUMAN", "NO_NECRO", "DROPS_AMMO" ]
   },
   {
     "id": "mon_cyborg_necro",
@@ -733,9 +733,9 @@
     "armor_acid": 12,
     "vision_day": 50,
     "path_settings": { "max_dist": 5 },
-    "death_drops": { "groups": [ [ "broken_robots", 1 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 1 ], [ "military", 2 ]  ] },
     "death_function": { "corpse_type": "BROKEN" },
-    "flags": [ "SEES", "HEARS", "BASHES", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ]
+    "flags": [ "SEES", "HEARS", "BASHES", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1", "DROPS_AMMO" ]
   },
   {
     "id": "mon_milbot_trainer",
@@ -771,7 +771,7 @@
         "targeting_volume": 10
       }
     ],
-    "death_drops": { "groups": [ [ "broken_robots", 1 ], [ "milbot_trainer", 1 ] ] }
+    "death_drops": { "groups": [ [ "broken_robots", 1 ], [ "milbot_trainer", 1 ], [ "military", 4 ] ] }
   },
   {
     "id": "mon_milbot_556",
@@ -1411,7 +1411,7 @@
     "id": "mon_chickenbot",
     "type": "MONSTER",
     "copy-from": "mon_chickenbot",
-    "death_drops": { "groups": [ [ "broken_robots", 2 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 2 ], [ "military", 4 ]  ] },
     "death_function": { "corpse_type": "BROKEN" }
   },
   {
@@ -1442,9 +1442,9 @@
     "vision_day": 50,
     "vision_night": 35,
     "path_settings": { "max_dist": 10 },
-    "death_drops": { "groups": [ [ "broken_robots", 2 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 2 ], [ "military", 4 ]  ] },
     "death_function": { "corpse_type": "BROKEN" },
-    "flags": [ "SEES", "HEARS", "BASHES", "NO_BREATHE", "ELECTRONIC", "PRIORITIZE_TARGETS" ]
+    "flags": [ "SEES", "HEARS", "BASHES", "NO_BREATHE", "ELECTRONIC", "PRIORITIZE_TARGETS", "DROPS_AMMO" ]
   },
   {
     "id": "mon_chickenbot_horror",
@@ -1507,7 +1507,7 @@
     "id": "mon_tankbot",
     "type": "MONSTER",
     "copy-from": "mon_tankbot",
-    "death_drops": { "groups": [ [ "broken_robots", 6 ] ] }
+    "death_drops": { "groups": [ [ "broken_robots", 6 ], [ "military", 6 ]  ] }
   },
   {
     "abstract": "mon_tankbot_base",
@@ -1536,8 +1536,8 @@
     "armor_acid": 10,
     "vision_day": 50,
     "path_settings": { "max_dist": 20 },
-    "death_drops": { "groups": [ [ "broken_robots", 6 ] ] },
-    "flags": [ "SEES", "HEARS", "GOODHEARING", "NOHEAD", "BASHES", "DESTROYS", "NO_BREATHE", "ELECTRONIC", "PRIORITIZE_TARGETS" ]
+    "death_drops": { "groups": [ [ "broken_robots", 6 ], [ "military", 6 ]  ] },
+    "flags": [ "SEES", "HEARS", "GOODHEARING", "NOHEAD", "BASHES", "DESTROYS", "NO_BREATHE", "ELECTRONIC", "PRIORITIZE_TARGETS", "DROPS_AMMO" ]
   },
   {
     "id": "mon_tankbot_king",
