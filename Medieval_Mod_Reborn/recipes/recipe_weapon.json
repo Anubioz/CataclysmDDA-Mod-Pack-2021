@@ -8,7 +8,7 @@
     "skill_used": "fabrication",
     "difficulty": 3,
     "skills_required": [ "gun", 1 ],
-    "time": "120 s",
+    "time": "120 m",
     "reversible": true,
     "book_learn": [ [ "textbook_armschina", 3 ] ],
     "proficiencies": [ { "proficiency": "prof_gunsmithing_basic" }, { "proficiency": "prof_gunsmithing_improv" } ],
@@ -23,7 +23,7 @@
     "subcategory": "CSC_WEAPON_PIERCING",
     "skill_used": "fabrication",
     "difficulty": 6,
-    "time": "6 s",
+    "time": "6 h",
     "autolearn": true,
     "book_learn": [ [ "recipe_melee", 5 ], [ "textbook_weapwest", 4 ], [ "scots_cookbook", 5 ] ],
     "proficiencies": [

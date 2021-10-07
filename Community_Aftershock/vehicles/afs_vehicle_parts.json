@@ -103,7 +103,7 @@
     "size": 200,
     "item": "afs_metal_rig",
     "location": "center",
-    "flags": [ "CARGO", "OBSTACLE", "KILN", "COVERED" ],
+    "flags": [ "CARGO", "OBSTACLE", "COVERED" ],
     "breaks_into": [
       { "item": "steel_lump", "count": [ 3, 6 ] },
       { "item": "steel_chunk", "count": [ 3, 6 ] },

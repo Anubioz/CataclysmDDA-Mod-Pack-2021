@@ -1,23 +1,5 @@
 [
   {
-    "id": "mon_eyebot",
-    "type": "MONSTER",
-    "copy-from": "mon_eyebot",
-    "vision_night": 20
-  },
-  {
-    "id": "mon_secubot",
-    "type": "MONSTER",
-    "copy-from": "mon_secubot",
-    "vision_night": 10
-  },
-  {
-    "id": "mon_copbot",
-    "type": "MONSTER",
-    "copy-from": "mon_copbot",
-    "vision_night": 15
-  },
-  {
     "id": "mon_tripod",
     "type": "MONSTER",
     "copy-from": "mon_tripod",

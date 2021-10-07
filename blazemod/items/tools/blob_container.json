@@ -17,9 +17,9 @@
       {
         "pocket_type": "CONTAINER",
         "watertight": true,
-        "rigid": false,
+        "rigid": true,
         "max_contains_volume": "10 L",
-        "max_contains_weight": "250 kg"
+        "max_contains_weight": "25 kg"
       }
     ]
   },
@@ -33,9 +33,9 @@
       {
         "pocket_type": "CONTAINER",
         "watertight": true,
-        "rigid": false,
-        "max_contains_volume": "660 L",
-        "max_contains_weight": "1200 kg"
+        "rigid": true,
+        "max_contains_volume": "60 L",
+        "max_contains_weight": "120 kg"
       }
     ],
     "volume": "60 L"
@@ -58,9 +58,9 @@
       {
         "pocket_type": "CONTAINER",
         "watertight": true,
-        "rigid": false,
-        "max_contains_volume": "10 L",
-        "max_contains_weight": "10 kg"
+        "rigid": true,
+        "max_contains_volume": "30 L",
+        "max_contains_weight": "60 kg"
       }
     ]
   },
@@ -75,9 +75,9 @@
       {
         "pocket_type": "CONTAINER",
         "watertight": true,
-        "rigid": false,
+        "rigid": true,
         "max_contains_volume": "100 L",
-        "max_contains_weight": "2000 kg"
+        "max_contains_weight": "200 kg"
       }
     ]
   },
@@ -99,9 +99,9 @@
       {
         "pocket_type": "CONTAINER",
         "watertight": true,
-        "rigid": false,
+        "rigid": true,
         "max_contains_volume": "20 L",
-        "max_contains_weight": "20 kg"
+        "max_contains_weight": "40 kg"
       }
     ]
   },
@@ -116,9 +116,9 @@
       {
         "pocket_type": "CONTAINER",
         "watertight": true,
-        "rigid": false,
-        "max_contains_volume": "680 L",
-        "max_contains_weight": "1600 kg"
+        "rigid": true,
+        "max_contains_volume": "80 L",
+        "max_contains_weight": "160 kg"
       }
     ]
   }

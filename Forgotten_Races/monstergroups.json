@@ -1521,7 +1521,7 @@
         "starts": 672,
         "conditions": [ "DAWN", "DUSK", "SPRING", "SUMMER", "AUTUMN" ]
       },
-      { "monster": "mon_dragonfly", "freq": 30, "cost_multiplier": 0, "pack_size": [ 1, 3 ] },
+      { "monster": "mon_dragonfly_giant", "freq": 30, "cost_multiplier": 0, "pack_size": [ 1, 3 ] },
       {
         "monster": "mon_dragonfly_giant",
         "freq": 5,

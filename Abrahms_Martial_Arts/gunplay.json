@@ -1,11 +1,12 @@
 [
   {
-    "id": "style_gunslinging",
     "type": "martial_art",
+    "id": "style_gunslinging",
     "name": { "str": "Gunslinging" },
     "description": "You have a gun in your hand. You point it at enemies, the gun goes bang and enemies go poof.\n\n Not sure if it's even possible to make a ranged martial art. Ranged attacks aren't affected by combat buffs or bonuses. It's entirely possible that the skills do nothing, but the buffs should be generally useful.",
     "initiate": [ "You point your gun at the enemy.", "%s gets ready to shoot." ],
     "autolearn": [ [ "gun", 1 ] ],
+    "primary_skill": "gun",
     "allow_melee": true,
     "static_buffs": [
       {
@@ -216,8 +217,8 @@
     ]
   },
   {
-    "id": "abgun_cow",
     "type": "technique",
+    "id": "abgun_cow",
     "name": "You Fight Like A Cow",
     "melee_allowed": true,
     "required_buffs_all": [ "buff_dairyfarmer_onmiss" ],
@@ -226,8 +227,8 @@
     "description": "Miss recovery"
   },
   {
-    "id": "abgun_annihilated",
     "type": "technique",
+    "id": "abgun_annihilated",
     "name": "Every Enemy Ive Met Ive Annihilated",
     "required_buffs_all": [ "buff_dairyfarmer_onmiss" ],
     "skill_requirements": [ { "name": "gun", "level": 10 } ],
@@ -243,8 +244,8 @@
     "description": "High-level miss recovery - One Hit Kill"
   },
   {
-    "id": "abgun_twofer",
     "type": "technique",
+    "id": "abgun_twofer",
     "name": "2-4-1",
     "melee_allowed": true,
     "unarmed_allowed": true,
@@ -255,8 +256,8 @@
     "description": "Attack target and another one behind it, crit only, min 6 marksmanship"
   },
   {
-    "id": "abgun_knockdown",
     "type": "technique",
+    "id": "abgun_knockdown",
     "name": "Knockdown",
     "unarmed_allowed": true,
     "melee_allowed": true,
@@ -268,8 +269,8 @@
     "description": "Stun 2 turns, knockback 1 tile, crit only"
   },
   {
-    "id": "abgun_doubletap",
     "type": "technique",
+    "id": "abgun_doubletap",
     "name": "Double Tap",
     "unarmed_allowed": true,
     "melee_allowed": true,
@@ -284,8 +285,8 @@
     "description": "Cut and bash damage multiplied by 99, crit only"
   },
   {
-    "id": "abgun_dance",
     "type": "technique",
+    "id": "abgun_dance",
     "name": "Make Em Dance",
     "skill_requirements": [ { "name": "gun", "level": 2 } ],
     "unarmed_allowed": true,
@@ -295,8 +296,8 @@
     "messages": [ "You make %s dance.", "<npcname> makes %s dance." ]
   },
   {
-    "id": "abgun_lunge",
     "type": "technique",
+    "id": "abgun_lunge",
     "name": "Gun Lunge",
     "messages": [ "You close your distance to %s, to allow a point-blank shot", "<npcname> lunges at %s" ],
     "skill_requirements": [ { "name": "gun", "level": 2 } ],
@@ -311,8 +312,8 @@
     ]
   },
   {
-    "id": "abgun_butt",
     "type": "technique",
+    "id": "abgun_butt",
     "name": "Butt Strike",
     "messages": [ "You smash %s with the butt of your gun", "<npcname> smashes %s with their gun" ],
     "skill_requirements": [ { "name": "gun", "level": 3 } ],
@@ -331,8 +332,8 @@
     ]
   },
   {
-    "id": "abgun_counter",
     "type": "technique",
+    "id": "abgun_counter",
     "name": "Counterattack",
     "messages": [ "You dodge, and shoot %s at point-blank range", "<npcname> dodges, and shoots %s point-blank" ],
     "unarmed_allowed": true,

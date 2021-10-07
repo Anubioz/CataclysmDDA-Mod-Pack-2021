@@ -44,7 +44,7 @@
     "armor_acid": 6,
     "vision_day": 50,
     "death_function": { "corpse_type": "BROKEN" },
-    "death_drops": { "groups": [ [ "broken_robots", 3 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 3 ], [ "military", 3 ], [ "robots", 4 ], [ "skitterbot", 1 ] ] },
     "flags": [ "SEES", "HEARS", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ]
   },
   {
@@ -69,7 +69,7 @@
     "armor_cut": 10,
     "armor_fire": 3,
     "armor_acid": 6,
-    "death_drops": { "groups": [ [ "broken_robots", 4 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 4 ], [ "military", 4 ], [ "robots", 4 ], [ "skitterbot", 1 ] ] },
     "death_function": { "corpse_type": "BROKEN" },
     "special_attacks": [ { "id": "flash" } ],
     "flags": [ "SEES", "FLIES", "ELECTRONIC", "NO_BREATHE", "NOHEAD", "PRIORITIZE_TARGETS" ]
@@ -98,7 +98,7 @@
     "vision_day": 50,
     "path_settings": { "max_dist": 5 },
     "special_attacks": [ [ "TAZER", 5 ] ],
-    "death_drops": { "groups": [ [ "broken_robots", 2 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 2 ], [ "military", 2 ], [ "robots", 4 ], [ "skitterbot", 1 ] ] },
     "death_function": { "corpse_type": "BROKEN" },
     "flags": [ "SEES", "HEARS", "GOODHEARING", "ELECTRONIC", "NO_BREATHE", "PATH_AVOID_DANGER_1" ]
   },
@@ -130,7 +130,7 @@
     "armor_acid": 10,
     "vision_day": 50,
     "path_settings": { "max_dist": 5 },
-    "death_drops": { "groups": [ [ "broken_robots", 1 ] ] },
+    "death_drops": { "groups": [ [ "broken_robots", 1 ], [ "military", 1 ], [ "robots", 4 ], [ "skitterbot", 1 ] ] },
     "death_function": { "corpse_type": "BROKEN" },
     "flags": [ "SEES", "HEARS", "BASHES", "ELECTRONIC", "NO_BREATHE", "PRIORITIZE_TARGETS", "PATH_AVOID_DANGER_1" ]
   },

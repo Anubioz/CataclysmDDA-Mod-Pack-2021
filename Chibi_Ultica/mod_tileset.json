@@ -1539,7 +1539,6 @@
         { "id": "mon_dog_zombie_cop", "fg": 845, "bg": [  ], "rotates": false },
         { "id": "mon_dog_zombie_rot", "fg": 846, "bg": [  ], "rotates": false },
         { "id": "mon_dragonfly_giant", "fg": 848, "bg": [  ], "rotates": false },
-        { "id": "mon_dragonfly_small", "fg": 847, "rotates": false },
         { "id": "mon_duck", "fg": 849, "bg": [  ], "rotates": false },
         { "id": "mon_EMP_hack", "fg": 871 },
         { "id": "mon_eoraptor", "fg": 825, "bg": [  ], "rotates": false },

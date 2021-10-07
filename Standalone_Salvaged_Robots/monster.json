@@ -17,7 +17,7 @@
     "armor_acid": 14,
     "death_function": { "corpse_type": "BROKEN" },
     "death_drops": "broken_robots",
-    "flags": [ "SEES", "NOHEAD", "ELECTRONIC", "IMMOBILE", "NO_BREATHE" ]
+    "flags": [ "SEES", "NOHEAD", "ELECTRONIC", "IMMOBILE", "NO_BREATHE", "DROPS_AMMO" ]
   },
   {
     "id": "mon_turret_disarmed",

@@ -335,24 +335,14 @@
     "name": { "str": "FN SCAR-L" }
   },
   {
-  "id": "556",
-  "copy-from": "223",
-  "type": "AMMO",
-  "name": {
-    "str_sp": "5.56x45mm"
-  },
-  "description": "5.56x45mm ammunition, developed due to SOF dissatisfaction with the M855 cartridge.",
-  "price": 700,
-  "price_postapoc": 2300,
-  "relative": {
-    "damage": {
-      "damage_type": "bullet",
-      "amount": 1,
-      "armor_penetration": 2
-    }
-  },
-  "proportional": {
-    "recoil": 1.1
+    "id": "556",
+    "copy-from": "223",
+    "type": "AMMO",
+    "name": { "str_sp": "5.56x45mm" },
+    "description": "5.56x45mm ammunition, developed due to SOF dissatisfaction with the M855 cartridge.",
+    "price": 700,
+    "price_postapoc": 2300,
+    "relative": { "damage": { "damage_type": "bullet", "amount": 1, "armor_penetration": 2 } },
+    "proportional": { "recoil": 1.1 }
   }
-}
 ]
