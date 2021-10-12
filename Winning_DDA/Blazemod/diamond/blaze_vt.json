@@ -17,7 +17,7 @@
         "pocket_type": "MAGAZINE",
         "max_contains_volume": "650 L",
         "max_contains_weight": "4000 kg",
-        "item_restriction": { "charcoal": 1400 }
+        "item_restriction": [ "charcoal" ]
       }
     ],
     "book_data": { "max_level": 0, "intelligence": 0, "time": 1, "fun": 0, "skill": "fabrication", "required_level": 1 }

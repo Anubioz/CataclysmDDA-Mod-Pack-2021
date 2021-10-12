@@ -114,109 +114,11 @@
     "cutting": 31
   },
   {
-    "copy-from": "zweifire_on",
-    "id": "zweifire_on",
-    "//": "All of this is SUPPOSED to be in German.",
-    "type": "TOOL",
-    "name": { "str": "flammenschwert (an)", "str_pl": "flammenschwerter (an)" },
-    "techniques": "SPIN"
-  },
-  {
-    "copy-from": "broadfire_off",
-    "id": "broadfire_off",
-    "type": "TOOL",
-    "name": { "str": "firebrand (off)", "str_pl": "firebrands (off)" },
-    "techniques": "SWEEP",
-    "bashing": 12,
-    "cutting": 31
-  },
-  {
-    "copy-from": "broadfire_on",
-    "id": "broadfire_on",
-    "type": "TOOL",
-    "name": { "str": "firebrand (on)", "str_pl": "firebrands (on)" },
-    "techniques": [ "SWEEP", "WIDE" ],
-    "bashing": 12,
-    "cutting": 31
-  },
-  {
-    "copy-from": "shishkebab_on",
-    "id": "shishkebab_on",
-    "type": "TOOL",
-    "name": { "str": "shishkebab (on)", "str_pl": "shishkebabs (on)" },
-    "techniques": [ "WIDE", "SPIN" ]
-  },
-  {
     "copy-from": "katana",
     "id": "katana",
     "type": "TOOL",
     "name": { "str": "katana" },
     "bashing": 4,
     "cutting": 35
-  },
-  {
-    "copy-from": "firekatana_off",
-    "id": "firekatana_off",
-    "type": "TOOL",
-    "name": { "str": "Rising Sun (off)", "str_pl": "Rising Suns (off)" },
-    "bashing": 4,
-    "cutting": 35
-  },
-  {
-    "copy-from": "firekatana_on",
-    "id": "firekatana_on",
-    "type": "TOOL",
-    "name": { "str": "Rising Sun (on)", "str_pl": "Rising Suns (on)" },
-    "techniques": [ "RAPID", "WIDE" ],
-    "bashing": 4,
-    "cutting": 35
-  },
-  {
-    "copy-from": "firemachete_on",
-    "id": "firemachete_on",
-    "type": "TOOL",
-    "name": { "str": "No. 9 (on)", "str_pl": "No. 9's (on)" },
-    "techniques": [ "WBLOCK_1", "WIDE" ]
-  },
-  {
-    "copy-from": "torch_lit",
-    "id": "torch_lit",
-    "type": "TOOL",
-    "name": { "str": "torch (lit)", "str_pl": "torches (lit)" },
-    "techniques": [ "WIDE" ]
-  },
-  {
-    "copy-from": "battletorch_lit",
-    "id": "battletorch_lit",
-    "type": "TOOL",
-    "name": { "str": "Louisville Slaughterer (lit)", "str_pl": "Louisville Slaughterers (lit)" },
-    "techniques": [ "WIDE" ]
-  },
-  {
-    "copy-from": "bagh_nakha",
-    "type": "GENERIC",
-    "id": "bagh_nakha",
-    "name": { "str": "tiger claws", "str_pl": "tiger claws" },
-    "techniques": [ "RAPID", "GRAB", "VORPAL" ],
-    "bashing": 1,
-    "cutting": 6,
-    "flags": [ "UNARMED_WEAPON", "DURABLE_MELEE" ]
-  },
-  {
-    "copy-from": "bio_claws_weapon",
-    "type": "GENERIC",
-    "id": "bio_claws_weapon",
-    "name": { "str": "bionic claws", "str_pl": "bionic claws" },
-    "techniques": [ "WBLOCK_2" ],
-    "bashing": 18,
-    "cutting": 12
-  },
-  {
-    "copy-from": "bio_blade_weapon",
-    "type": "GENERIC",
-    "id": "bio_blade_weapon",
-    "name": { "str": "monomolecular blade" },
-    "techniques": [ "RAPID" ],
-    "cutting": 36
   }
 ]

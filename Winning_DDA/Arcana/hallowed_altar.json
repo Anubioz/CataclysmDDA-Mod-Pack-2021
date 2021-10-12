@@ -9,6 +9,15 @@
     "price": "200 USD",
     "to_hit": -2,
     "bashing": 9,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "250 L",
+        "max_contains_weight": "500 kg",
+        "max_item_length": "2500 cm",
+        "moves": 80
+      }
+    ],
     "material": [ "steel" ],
     "symbol": ";",
     "color": "dark_gray",
