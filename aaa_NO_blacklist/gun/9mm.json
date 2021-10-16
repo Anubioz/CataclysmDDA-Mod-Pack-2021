@@ -2,6 +2,7 @@
   {
     "id": "hipoint9mm",
     "type": "GUN",
+    "copy-from": "pistol_base",
     "name": { "str": "Hi-Point 9mm" },
     "description": "For a handgun that's under $200 it's exactly what you would expect. It's heavy and awkward to handle, but it works.",
     "weight": "822 g",
@@ -29,6 +30,7 @@
   {
     "id": "hipoint9car",
     "type": "GUN",
+    "copy-from": "pistol_base",
     "name": { "str": "Hi-Point 9mm Carbine" },
     "description": "The Hi-Point 9mm carbine was designed to work in tandem with the Hi-Point 9mm handgun. Both weapons use the same magazines.",
     "weight": "2837 g",
@@ -58,7 +60,9 @@
   {
     "id": "pm-83p",
     "type": "GUN",
+    "copy-from": "pistol_base",
     "name": { "str": "pm-83p" },
+    "weapon_category": [ "AUTOMATIC_PISTOLS" ],
     "description": "The pm-83p rak is a polish 9x19 pdw issued to vehicle crews and police forces in Poland as a replacement for the pm-63",
     "weight": "1589 g",
     "volume": "1000 ml",
@@ -72,7 +76,7 @@
     "skill": "smg",
     "dispersion": 500,
     "durability": 8,
-    "modes": [ [ "DEFAULT", "full-auto", 3 ] ],
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "full-auto", 3 ] ],
     "barrel_volume": "250 ml",
     "built_in_mods": [ "folding_stock" ],
     "pocket_data": [

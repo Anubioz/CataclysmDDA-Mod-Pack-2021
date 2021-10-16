@@ -2,6 +2,7 @@
   {
     "id": "pm-63",
     "type": "GUN",
+    "copy-from": "pistol_base",
     "name": { "str": "pm-63" },
     "description": "The pm-63 rak is a polish 9x18 makarov pdw issued to vehicle crews and police forces in Poland during the cold war",
     "weight": "1589 g",
@@ -16,7 +17,7 @@
     "skill": "smg",
     "dispersion": 500,
     "durability": 8,
-    "modes": [ [ "DEFAULT", "full-auto", 3 ] ],
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "full-auto", 3 ] ],
     "barrel_volume": "250 ml",
     "built_in_mods": [ "folding_stock" ],
     "pocket_data": [
