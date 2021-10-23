@@ -61,10 +61,7 @@
     "name": "GROUP_FELINE_SICK",
     "type": "monstergroup",
     "default": "mon_cat_sick_hairless",
-    "monsters": [
-      { "monster": "mon_cat_sick_hairless", "weight": 500 },
-      { "monster": "mon_cat_sick_multilimbed", "weight": 500 }
-    ]
+    "monsters": [ { "monster": "mon_cat_sick_hairless", "weight": 500 }, { "monster": "mon_cat_sick_multilimbed", "weight": 500 } ]
   },
   {
     "name": "GROUP_FELINE_MUTANT",
@@ -127,10 +124,7 @@
     "name": "GROUP_COW_SICK",
     "type": "monstergroup",
     "default": "mon_cow_sick_twisthorn",
-    "monsters": [
-      { "monster": "mon_cow_sick_twisthorn", "weight": 500 },
-      { "monster": "mon_cow_sick_obese", "weight": 500 }
-    ]
+    "monsters": [ { "monster": "mon_cow_sick_twisthorn", "weight": 500 }, { "monster": "mon_cow_sick_obese", "weight": 500 } ]
   },
   {
     "name": "GROUP_COW_MUTANT",
@@ -146,28 +140,19 @@
     "name": "GROUP_DEER_SICK",
     "type": "monstergroup",
     "default": "mon_deer_sick_crying",
-    "monsters": [
-      { "monster": "mon_deer_sick_crying", "weight": 500 },
-      { "monster": "mon_deer_sick_burnt", "weight": 500 }
-    ]
+    "monsters": [ { "monster": "mon_deer_sick_crying", "weight": 500 }, { "monster": "mon_deer_sick_burnt", "weight": 500 } ]
   },
   {
     "name": "GROUP_HORSE_SICK",
     "type": "monstergroup",
     "default": "mon_horse_sick_famine",
-    "monsters": [
-      { "monster": "mon_horse_sick_famine", "weight": 500 },
-      { "monster": "mon_horse_sick_glue", "weight": 500 }
-    ]
+    "monsters": [ { "monster": "mon_horse_sick_famine", "weight": 500 }, { "monster": "mon_horse_sick_glue", "weight": 500 } ]
   },
   {
     "name": "GROUP_SHEEP_SICK",
     "type": "monstergroup",
     "default": "mon_sheep_sick_gamma",
-    "monsters": [
-      { "monster": "mon_sheep_sick_naked", "weight": 500 },
-      { "monster": "mon_sheep_sick_gamma", "weight": 500 }
-    ]
+    "monsters": [ { "monster": "mon_sheep_sick_naked", "weight": 500 }, { "monster": "mon_sheep_sick_gamma", "weight": 500 } ]
   },
   {
     "name": "GROUP_UNGULATE_MUTANT",
@@ -183,18 +168,12 @@
     "name": "GROUP_PIG_SICK",
     "type": "monstergroup",
     "default": "mon_pig_sick_fly",
-    "monsters": [
-      { "monster": "mon_pig_sick_fly", "weight": 500 },
-      { "monster": "mon_pig_sick_tumor", "weight": 500 }
-    ]
+    "monsters": [ { "monster": "mon_pig_sick_fly", "weight": 500 }, { "monster": "mon_pig_sick_tumor", "weight": 500 } ]
   },
   {
     "name": "GROUP_PIG_MUTANT",
     "type": "monstergroup",
     "default": "mon_pig_mutant_quill",
-    "monsters": [
-      { "monster": "mon_pig_mutant_rhino", "weight": 500 },
-      { "monster": "mon_pig_mutant_quill", "weight": 500 }
-    ]
+    "monsters": [ { "monster": "mon_pig_mutant_rhino", "weight": 500 }, { "monster": "mon_pig_mutant_quill", "weight": 500 } ]
   }
 ]

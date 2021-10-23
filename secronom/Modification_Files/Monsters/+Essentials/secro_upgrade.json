@@ -51,10 +51,7 @@
     "name": "GROUP_TENDRILS_UPGRADE",
     "type": "monstergroup",
     "default": "mon_null",
-    "monsters": [
-      { "monster": "mon_zombie_thicktendrils", "weight": 80 },
-      { "monster": "mon_zombie_tendricles", "weight": 100 }
-    ]
+    "monsters": [ { "monster": "mon_zombie_thicktendrils", "weight": 80 }, { "monster": "mon_zombie_tendricles", "weight": 100 } ]
   },
   {
     "name": "GROUP_TENDRILS_UPGRADEX",
@@ -71,10 +68,7 @@
     "name": "GROUP_BLADED_UPGRADE",
     "type": "monstergroup",
     "default": "mon_null",
-    "monsters": [
-      { "monster": "mon_zombie_sharpblade", "weight": 80 },
-      { "monster": "mon_zombie_serratedblade", "weight": 100 }
-    ]
+    "monsters": [ { "monster": "mon_zombie_sharpblade", "weight": 80 }, { "monster": "mon_zombie_serratedblade", "weight": 100 } ]
   },
   {
     "name": "GROUP_BLADED_UPGRADEX",
@@ -90,10 +84,7 @@
     "name": "GROUP_ZSPIDER_UPGRADE",
     "type": "monstergroup",
     "default": "mon_null",
-    "monsters": [
-      { "monster": "mon_zombie_spoderhug", "weight": 80 },
-      { "monster": "mon_zombie_spodertickle", "weight": 100 }
-    ]
+    "monsters": [ { "monster": "mon_zombie_spoderhug", "weight": 80 }, { "monster": "mon_zombie_spodertickle", "weight": 100 } ]
   },
   {
     "name": "GROUP_ZSPIDER_UPGRADEX",
@@ -109,10 +100,7 @@
     "name": "GROUP_MOUTH_UPGRADE",
     "type": "monstergroup",
     "default": "mon_null",
-    "monsters": [
-      { "monster": "mon_zombie_bellymouth", "weight": 80 },
-      { "monster": "mon_zombie_omouth", "weight": 100 }
-    ]
+    "monsters": [ { "monster": "mon_zombie_bellymouth", "weight": 80 }, { "monster": "mon_zombie_omouth", "weight": 100 } ]
   },
   {
     "name": "GROUP_MOUTH_UPGRADEX",
@@ -128,10 +116,7 @@
     "name": "GROUP_LYING_UPGRADE",
     "type": "monstergroup",
     "default": "mon_null",
-    "monsters": [
-      { "monster": "mon_zombie_zawk", "weight": 80 },
-      { "monster": "mon_zombie_zoth", "weight": 100 }
-    ]
+    "monsters": [ { "monster": "mon_zombie_zawk", "weight": 80 }, { "monster": "mon_zombie_zoth", "weight": 100 } ]
   },
   {
     "name": "GROUP_LYING_UPGRADEX",
@@ -147,10 +132,7 @@
     "name": "GROUP_CHARGER_UPGRADE",
     "type": "monstergroup",
     "default": "mon_null",
-    "monsters": [
-      { "monster": "mon_zombie_charger_spike", "weight": 80 },
-      { "monster": "mon_zombie_charger_plate", "weight": 100 }
-    ]
+    "monsters": [ { "monster": "mon_zombie_charger_spike", "weight": 80 }, { "monster": "mon_zombie_charger_plate", "weight": 100 } ]
   },
   {
     "name": "GROUP_CHARGER_UPGRADEX",

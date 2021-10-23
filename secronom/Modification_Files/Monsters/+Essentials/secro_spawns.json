@@ -238,19 +238,13 @@
     "type": "monstergroup",
     "name": "GROUP_VECTOR_SEEDLING",
     "default": "mon_null",
-    "monsters": [
-      { "monster": "mon_vector_spore", "weight": 10 },
-      { "monster": "mon_vector_sprig", "weight": 100 }
-    ]
+    "monsters": [ { "monster": "mon_vector_spore", "weight": 10 }, { "monster": "mon_vector_sprig", "weight": 100 } ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_JOLT_BOLTS",
     "default": "mon_null",
-    "monsters": [
-      { "monster": "mon_zombie_jolt_bolt_smol", "weight": 10 },
-      { "monster": "mon_zombie_jolt_bolt_big", "weight": 100 }
-    ]
+    "monsters": [ { "monster": "mon_zombie_jolt_bolt_smol", "weight": 10 }, { "monster": "mon_zombie_jolt_bolt_big", "weight": 100 } ]
   },
   {
     "type": "monstergroup",

@@ -18,10 +18,7 @@
     "name": "GROUP_EGG_GECKO",
     "type": "monstergroup",
     "default": "mon_gecko_young",
-    "monsters": [
-      { "monster": "mon_gecko_young", "weight": 5 },
-      { "monster": "mon_gecko_gold_young", "weight": 1 }
-    ]
+    "monsters": [ { "monster": "mon_gecko_young", "weight": 5 }, { "monster": "mon_gecko_gold_young", "weight": 1 } ]
   },
   {
     "name": "GROUP_EGG_DEATHCLAW",

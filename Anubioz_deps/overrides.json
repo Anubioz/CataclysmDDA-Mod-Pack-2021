@@ -68,7 +68,12 @@
       [ "223ak74mag30", 20 ],
       [ "223ak74mag35", 20 ],
       [ "six12mag", 20 ],
-      [ "v85mag", 10 ], [ "xs3mag", 10 ], [ "anziomag", 10 ], [ "pancormag", 10 ], [ "armgunmag", 10 ], [ "vssmag", 10 ]
+      [ "v85mag", 10 ],
+      [ "xs3mag", 10 ],
+      [ "anziomag", 10 ],
+      [ "pancormag", 10 ],
+      [ "armgunmag", 10 ],
+      [ "vssmag", 10 ]
     ]
   },
   {

@@ -377,7 +377,13 @@
         "conditions": [ "DUSK", "NIGHT", "DAWN" ]
       },
       { "monster": "mon_shrew", "weight": 20, "cost_multiplier": 0, "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
-      { "monster": "mon_squirrel", "weight": 50, "cost_multiplier": 0, "pack_size": [ 1, 2 ], "conditions": [ "DAY" ] },
+      {
+        "monster": "mon_squirrel",
+        "weight": 50,
+        "cost_multiplier": 0,
+        "pack_size": [ 1, 2 ],
+        "conditions": [ "DAY" ]
+      },
       {
         "monster": "mon_squirrel",
         "freq": 25,
@@ -438,7 +444,13 @@
         "pack_size": [ 1, 2 ],
         "conditions": [ "NIGHT", "SPRING", "SUMMER", "AUTUMN" ]
       },
-      { "monster": "mon_black_rat", "weight": 10, "cost_multiplier": 0, "pack_size": [ 1, 5 ], "conditions": [ "DAY" ] },
+      {
+        "monster": "mon_black_rat",
+        "weight": 10,
+        "cost_multiplier": 0,
+        "pack_size": [ 1, 5 ],
+        "conditions": [ "DAY" ]
+      },
       {
         "monster": "mon_black_rat",
         "freq": 15,
@@ -452,7 +464,12 @@
         "cost_multiplier": 5,
         "conditions": [ "SPRING", "SUMMER", "AUTUMN" ]
       },
-      { "monster": "mon_bee", "weight": 3, "cost_multiplier": 0, "conditions": [ "DAY", "SPRING", "SUMMER", "AUTUMN" ] },
+      {
+        "monster": "mon_bee",
+        "weight": 3,
+        "cost_multiplier": 0,
+        "conditions": [ "DAY", "SPRING", "SUMMER", "AUTUMN" ]
+      },
       {
         "monster": "mon_bee",
         "freq": 2,
@@ -565,7 +582,12 @@
         "conditions": [ "NIGHT", "SPRING", "SUMMER", "AUTUMN" ]
       },
       { "monster": "mon_fly", "weight": 1, "cost_multiplier": 0, "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
-      { "monster": "mon_fly", "weight": 3, "cost_multiplier": 0, "conditions": [ "DAY", "SPRING", "SUMMER", "AUTUMN" ] },
+      {
+        "monster": "mon_fly",
+        "weight": 3,
+        "cost_multiplier": 0,
+        "conditions": [ "DAY", "SPRING", "SUMMER", "AUTUMN" ]
+      },
       {
         "monster": "mon_fly",
         "freq": 2,
@@ -1257,7 +1279,12 @@
         "starts": 792,
         "conditions": [ "DUSK", "NIGHT", "DAWN", "SPRING", "SUMMER", "AUTUMN" ]
       },
-      { "monster": "mon_wasp_small", "weight": 6, "cost_multiplier": 2, "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
+      {
+        "monster": "mon_wasp_small",
+        "weight": 6,
+        "cost_multiplier": 2,
+        "conditions": [ "SPRING", "SUMMER", "AUTUMN" ]
+      },
       {
         "monster": "mon_wasp_small",
         "freq": 24,
@@ -1411,7 +1438,13 @@
     "name": "GROUP_SWAMP",
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_troll", "weight": 100, "cost_multiplier": 20, "pack_size": [ 1, 6 ], "conditions": [ "DUSK", "NIGHT" ] },
+      {
+        "monster": "mon_troll",
+        "weight": 100,
+        "cost_multiplier": 20,
+        "pack_size": [ 1, 6 ],
+        "conditions": [ "DUSK", "NIGHT" ]
+      },
       { "monster": "mon_goblin", "weight": 50, "cost_multiplier": 40, "pack_size": [ 1, 8 ] },
       {
         "monster": "mon_lemming",
@@ -1634,7 +1667,12 @@
         "conditions": [ "DAY", "SPRING", "SUMMER", "AUTUMN" ]
       },
       { "monster": "mon_fly", "weight": 2, "cost_multiplier": 0, "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
-      { "monster": "mon_fly", "weight": 3, "cost_multiplier": 0, "conditions": [ "DAY", "SPRING", "SUMMER", "AUTUMN" ] },
+      {
+        "monster": "mon_fly",
+        "weight": 3,
+        "cost_multiplier": 0,
+        "conditions": [ "DAY", "SPRING", "SUMMER", "AUTUMN" ]
+      },
       {
         "monster": "mon_fly",
         "freq": 2,
@@ -2401,7 +2439,12 @@
         "starts": 792,
         "conditions": [ "DUSK", "NIGHT", "DAWN", "SPRING", "SUMMER", "AUTUMN" ]
       },
-      { "monster": "mon_wasp_small", "weight": 3, "cost_multiplier": 2, "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
+      {
+        "monster": "mon_wasp_small",
+        "weight": 3,
+        "cost_multiplier": 2,
+        "conditions": [ "SPRING", "SUMMER", "AUTUMN" ]
+      },
       {
         "monster": "mon_wasp_small",
         "freq": 12,
@@ -2827,7 +2870,12 @@
         "conditions": [ "DUSK", "NIGHT", "DAWN", "SPRING", "SUMMER", "AUTUMN" ]
       },
       { "monster": "mon_frog", "weight": 50, "cost_multiplier": 0 },
-      { "monster": "mon_frog_giant", "weight": 2, "cost_multiplier": 0, "conditions": [ "SPRING", "SUMMER", "AUTUMN" ] },
+      {
+        "monster": "mon_frog_giant",
+        "weight": 2,
+        "cost_multiplier": 0,
+        "conditions": [ "SPRING", "SUMMER", "AUTUMN" ]
+      },
       {
         "monster": "mon_frog_giant",
         "freq": 3,

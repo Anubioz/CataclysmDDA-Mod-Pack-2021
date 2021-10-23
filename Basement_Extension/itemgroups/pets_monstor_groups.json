@@ -45,9 +45,6 @@
     "name": "GROUP_PETS_FISH",
     "type": "monstergroup",
     "default": "mon_null",
-    "monsters": [
-      { "monster": "mon_mutant_carp", "weight": 40 },
-      { "monster": "mon_mutant_salmon", "weight": 40 }
-    ]
+    "monsters": [ { "monster": "mon_mutant_carp", "weight": 40 }, { "monster": "mon_mutant_salmon", "weight": 40 } ]
   }
 ]
