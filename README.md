@@ -6,7 +6,7 @@ Anubioz personal modpack for **LATEST** **Experimental** builds of Cataclysm DDA
 
 **IF YOU ARE EXPERIENCING ANY BUGS OR ERRORS - PLEASE OPEN AN ISSUE**
 
-This mod is confirmed to load without issues work with: [Cataclysm-DDA experimental build 2021-10-21-2124](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-10-21-2124)
+This mod is confirmed to load without issues work with: [Cataclysm-DDA experimental build 2021-10-23-0602](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-10-23-0602)
 
 ![mod list](modlist.webp)
 
@@ -25,7 +25,7 @@ This mod is confirmed to load without issues work with: [Cataclysm-DDA experimen
 11. Enjoy the mods!
 
 
-# Modpack UPDATE Guide
+# Modpack UPDATE Guide  
 
 1. Go to your mods folder
 2. git pull
