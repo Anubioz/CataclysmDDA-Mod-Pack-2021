@@ -15,6 +15,7 @@
     "color": "dark_gray",
     "armor": [
       {
+        "material": [ "hardsteel", "steel" ],
         "encumbrance": 60,
         "coverage": 100,
         "covers": [ "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ]
@@ -50,6 +51,7 @@
     "use_action": { "type": "transform", "menu_text": "Turn off", "msg": "Your power armor disengages.", "target": "power_armor_mutant" },
     "armor": [
       {
+        "material": [ "hardsteel", "steel" ],
         "encumbrance": 0,
         "coverage": 100,
         "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r", "hand_l", "hand_r", "head", "foot_l", "foot_r", "mouth" ]
@@ -79,7 +81,7 @@
     "material": [ "hardsteel", "steel" ],
     "symbol": "[",
     "color": "dark_gray",
-    "armor": [ { "encumbrance": 60, "coverage": 100, "covers": [ "head", "eyes", "mouth" ] } ],
+    "armor": [ { "material": [ "hardsteel", "steel" ], "encumbrance": 60, "coverage": 100, "covers": [ "head", "eyes", "mouth" ] } ],
     "warmth": 60,
     "power_armor": true,
     "material_thickness": 12,

@@ -32,7 +32,11 @@
     "color": "dark_gray",
     "ammo_type": [ "shot" ],
     "capacity": 18,
-    "armor_data": { "material_thickness": 1, "armor": [ { "encumbrance": 2, "coverage": 5, "covers": [ "torso" ] } ] },
+    "armor_data": {
+      "material_thickness": 1,
+      "material": [ "cotton" ],
+      "armor": [ { "encumbrance": 2, "coverage": 5, "covers": [ "torso" ] } ]
+    },
     "flags": [ "MAG_EJECT", "BELTED", "OVERSIZE", "WATER_FRIENDLY" ],
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "shot": 18 } } ]
   }

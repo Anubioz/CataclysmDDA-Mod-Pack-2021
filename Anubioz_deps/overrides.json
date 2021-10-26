@@ -93,12 +93,12 @@
       {
         "rigid": true,
         "pocket_type": "CONTAINER",
-        "max_contains_volume": "100000 L",
-        "max_contains_weight": "100000 kg",
+        "max_contains_volume": "10000000 L",
+        "max_contains_weight": "10000000 kg",
         "moves": 1,
         "max_item_length": "1 km",
-        "weight_multiplier": 0.000001,
-        "spoil_multiplier": 0.000001,
+        "weight_multiplier": 0,
+        "spoil_multiplier": 0,
         "airtight": true,
         "watertight": true,
         "fire_protection": true

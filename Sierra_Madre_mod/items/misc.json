@@ -186,6 +186,7 @@
     "price": "20000 USD",
     "price_postapoc": "1000 USD",
     "to_hit": -1,
+    "material": [ "gold" ],
     "symbol": "[",
     "color": "blue",
     "relic_data": { "passive_effects": [ { "id": "STAY_THERE" } ] },
@@ -217,6 +218,7 @@
     "symbol": "~",
     "color": "light_red",
     "relic_data": { "passive_effects": [ { "id": "STAY_THERE" } ] },
+    "material": [ "steel", "plastic" ],
     "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -238,6 +240,7 @@
     "volume": "1001 ml",
     "symbol": "~",
     "color": "light_red",
+    "material": [ "sunlight" ],
     "relic_data": { "passive_effects": [ { "id": "STAY_THERE" } ] },
     "pocket_data": [
       {

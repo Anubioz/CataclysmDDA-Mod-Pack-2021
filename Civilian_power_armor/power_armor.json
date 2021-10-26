@@ -17,6 +17,7 @@
     "color": "light_gray",
     "armor": [
       {
+        "material": [ "steel" ],
         "encumbrance": 35,
         "coverage": 90,
         "covers": [ "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ]
@@ -48,6 +49,7 @@
     "color": "dark_gray",
     "armor": [
       {
+        "material": [ "steel", "plastic" ],
         "encumbrance": 35,
         "coverage": 95,
         "covers": [ "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ]
@@ -88,6 +90,7 @@
     },
     "armor": [
       {
+        "material": [ "steel", "plastic" ],
         "encumbrance": 0,
         "coverage": 100,
         "covers": [ "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ]

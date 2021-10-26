@@ -13,7 +13,7 @@
     "warmth": 15,
     "material_thickness": 1,
     "flags": [ "OVERSIZE" ],
-    "armor": [ { "encumbrance": 5, "coverage": 50, "covers": [ "arm_l", "arm_r" ] } ]
+    "armor": [ { "encumbrance": 5, "material": [ "leather" ], "coverage": 50, "covers": [ "arm_l", "arm_r" ] } ]
   },
   {
     "id": "armwrap_fur",
@@ -29,7 +29,7 @@
     "warmth": 20,
     "material_thickness": 1,
     "flags": [ "OVERSIZE" ],
-    "armor": [ { "encumbrance": 5, "coverage": 50, "covers": [ "arm_l", "arm_r" ] } ]
+    "armor": [ { "encumbrance": 5, "material": [ "fur" ], "coverage": 50, "covers": [ "arm_l", "arm_r" ] } ]
   },
   {
     "id": "legwrap_leather",
@@ -45,7 +45,7 @@
     "warmth": 15,
     "material_thickness": 1,
     "flags": [ "OVERSIZE" ],
-    "armor": [ { "encumbrance": 5, "coverage": 50, "covers": [ "leg_l", "leg_r" ] } ]
+    "armor": [ { "encumbrance": 5, "material": [ "leather" ], "coverage": 50, "covers": [ "leg_l", "leg_r" ] } ]
   },
   {
     "id": "legwrap_fur",
@@ -61,7 +61,7 @@
     "warmth": 20,
     "material_thickness": 1,
     "flags": [ "OVERSIZE" ],
-    "armor": [ { "encumbrance": 5, "coverage": 50, "covers": [ "leg_l", "leg_r" ] } ]
+    "armor": [ { "encumbrance": 5, "material": [ "fur" ], "coverage": 50, "covers": [ "leg_l", "leg_r" ] } ]
   },
   {
     "id": "cloak_makeshift_sheet",
@@ -81,7 +81,14 @@
     "warmth": 10,
     "material_thickness": 1,
     "flags": [ "OVERSIZE", "OUTER", "ALLOWS_NATURAL_ATTACKS" ],
-    "armor": [ { "encumbrance": 10, "coverage": 85, "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ] } ]
+    "armor": [
+      {
+        "encumbrance": 10,
+        "material": [ "cotton" ],
+        "coverage": 85,
+        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ]
+      }
+    ]
   },
   {
     "id": "cloak_makeshift_blanket",
@@ -98,7 +105,7 @@
     "warmth": 50,
     "material_thickness": 3,
     "environmental_protection": 1,
-    "armor": [ { "encumbrance": 30 } ]
+    "armor": [ { "material": [ "cotton" ], "encumbrance": 30 } ]
   },
   {
     "id": "cloak_makeshift_down_blanket",
@@ -116,7 +123,7 @@
     "warmth": 70,
     "material_thickness": 3,
     "environmental_protection": 1,
-    "armor": [ { "encumbrance": 40 } ]
+    "armor": [ { "material": [ "fur" ], "encumbrance": 40 } ]
   },
   {
     "id": "cloak_makeshift_fur_blanket",
@@ -135,7 +142,7 @@
     "warmth": 80,
     "material_thickness": 4,
     "environmental_protection": 1,
-    "armor": [ { "encumbrance": 50 } ]
+    "armor": [ { "material": [ "fur" ], "encumbrance": 50 } ]
   },
   {
     "id": "quiver_atlatl",
@@ -146,7 +153,7 @@
     "weight": "400 g",
     "volume": "1 L",
     "pocket_data": [ { "ammo_restriction": { "atlatl": 10 }, "moves": 30 } ],
-    "armor": [ { "encumbrance": 5, "coverage": 15 } ]
+    "armor": [ { "material": [ "leather" ], "encumbrance": 5, "coverage": 15 } ]
   },
   {
     "id": "quiver_birchbark_atlatl",
@@ -157,6 +164,6 @@
     "weight": "800 g",
     "volume": "1 L",
     "pocket_data": [ { "ammo_restriction": { "atlatl": 10 }, "moves": 30 } ],
-    "armor": [ { "encumbrance": 15, "coverage": 15 } ]
+    "armor": [ { "material": [ "wood" ], "encumbrance": 15, "coverage": 15 } ]
   }
 ]

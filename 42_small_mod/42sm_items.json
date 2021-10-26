@@ -9,6 +9,7 @@
     "symbol": "[",
     "looks_like": "duster_survivor",
     "color": "brown",
+    "material": [ "kevlar_layered", "thermo_resin", "plastic" ],
     "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
     "pocket_data": [
       {
@@ -58,6 +59,7 @@
     "symbol": "[",
     "looks_like": "sleeveless_duster_survivor",
     "color": "brown",
+    "material": [ "kevlar_layered", "thermo_resin", "plastic" ],
     "use_action": { "type": "holster", "holster_prompt": "Stash ammo", "holster_msg": "You stash your %s." },
     "pocket_data": [
       {
