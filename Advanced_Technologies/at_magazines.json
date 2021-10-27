@@ -273,9 +273,10 @@
     "name": { "str": "m220022a1 clip" },
     "//": "yeah i based this off the code for the m107 magazine",
     "description": "A large metal object not dissimilar to those plastic things you find on aluminum cans you know those things you see fish get stuck in.",
-    "weight": "12000 g",
-    "volume": "8000 ml",
+    "weight": "1200 g",
+    "volume": "800 ml",
     "price": "100 USD",
+    "longest_side": "30 cm",
     "price_postapoc": "10 USD",
     "material": [ "steel" ],
     "symbol": "#",
@@ -284,6 +285,6 @@
     "capacity": 4,
     "reload_time": 1200,
     "flags": [ "MAG_BULKY" ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "atgm": 4 } } ]
+    "pocket_data": [ {"max_item_length": "150 cm", "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "atgm": 4 } } ]
   }
 ]

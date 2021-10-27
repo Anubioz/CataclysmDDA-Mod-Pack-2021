@@ -8,6 +8,7 @@
     "volume": "500 ml",
     "price": "5689 cent",
     "material": [ "steel", "plastic" ],
+    "longest_side": "15 cm",
     "symbol": "#",
     "color": "light_gray",
     "ammo_type": [ "bolt" ],

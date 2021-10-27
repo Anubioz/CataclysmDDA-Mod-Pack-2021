@@ -6,8 +6,7 @@
     "name": { "str": "pair of fire chitin arm guards", "str_pl": "pairs of fire chitin arm guards" },
     "description": "A pair of arm guards crafted from the carefully cleaned and pruned exoskeletons of fire ants. Fire-resistant and very durable.",
     "material": [ "firechitin" ],
-    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "relative": { "material_thickness": 1 }
+    "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 }
   },
   {
     "id": "armor_firechitin",
@@ -17,7 +16,7 @@
     "description": "Leg and body armor crafted from the carefully cleaned and pruned exoskeletons of fire ants. Fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "relative": { "bashing": 1, "material_thickness": 1, "environmental_protection": 2 }
+    "relative": { "bashing": 1  }
   },
   {
     "id": "gauntlets_firechitin",
@@ -27,7 +26,7 @@
     "description": "Gauntlets crafted from the carefully cleaned and pruned exoskeletons of fire ants. Fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "relative": { "bashing": 1, "material_thickness": 1 }
+    "relative": { "bashing": 1 }
   },
   {
     "id": "helmet_firechitin",
@@ -37,7 +36,7 @@
     "description": "A helmet crafted from the carefully cleaned and pruned exoskeletons of fire ants.  Covers the entire head. fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "relative": { "bashing": 1, "material_thickness": 1 }
+    "relative": { "bashing": 1 }
   },
   {
     "id": "boots_firechitin",
@@ -47,7 +46,7 @@
     "description": "Boots crafted from carefully cleaned and pruned exoskeletons of fire ants. Fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "relative": { "bashing": 2, "material_thickness": 1 }
+    "relative": { "bashing": 2 }
   },
   {
     "id": "stinger_fire",

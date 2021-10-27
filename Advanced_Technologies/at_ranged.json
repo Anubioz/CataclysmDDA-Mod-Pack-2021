@@ -323,8 +323,9 @@
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
-        "max_contains_volume": "20 L",
-        "max_contains_weight": "20 kg",
+        "max_contains_volume": "2000 L",
+        "max_contains_weight": "2000 kg",
+        "max_item_length": "150 cm",
         "item_restriction": [ "atgmpod_clip" ]
       }
     ],
@@ -361,8 +362,8 @@
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
-        "max_contains_volume": "20 L",
-        "max_contains_weight": "20 kg",
+        "max_contains_volume": "200 L",
+        "max_contains_weight": "200 kg",
         "item_restriction": [ "33x308stick", "33x308drum", "33x308box" ]
       }
     ],
@@ -408,8 +409,8 @@
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
-        "max_contains_volume": "20 L",
-        "max_contains_weight": "20 kg",
+        "max_contains_volume": "200 L",
+        "max_contains_weight": "200 kg",
         "item_restriction": [ "33x308stick", "33x308drum", "33x308box", "33x308belt" ]
       }
     ],
@@ -502,8 +503,8 @@
       {
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
-        "max_contains_volume": "400 L",
-        "max_contains_weight": "400 kg",
+        "max_contains_volume": "4000 L",
+        "max_contains_weight": "4000 kg",
         "item_restriction": [ "14.5x46chainfeed", "14.5x46belt" ]
       }
     ],

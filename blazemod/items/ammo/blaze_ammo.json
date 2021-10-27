@@ -86,7 +86,7 @@
     "type": "AMMO",
     "name": { "str": "modified mininuke" },
     "description": "A heavy modified handheld nuclear device.  Intended to be fired from a specialized launcher, its case has been cut down and it has been rigged to explode on impact.  While it is now somewhat lighter than before, it can no longer be triggered manually.",
-    "weight": "3816 g",
+    "weight": "816 g",
     "volume": "250 ml",
     "price": "1800 USD",
     "bashing": 8,

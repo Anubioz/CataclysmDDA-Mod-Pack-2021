@@ -22,6 +22,7 @@
     "description": "An improvised magazine for a vehicle mounted crossbow.  A simple metal box with some plastic guide rails, it acts as a gravity fed hopper to drop a crossbow bolt into the weapon below.  It is awkward to reload and not especially reliable.",
     "weight": "1840 g",
     "volume": "3 L",
+    "longest_side": "3 cm",
     "price": "166 USD",
     "material": [ "steel" ],
     "symbol": "#",
