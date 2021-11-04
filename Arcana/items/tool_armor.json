@@ -503,7 +503,7 @@
       "msg": "The protective glow vanishes as the mirror rematerializes.",
       "type": "transform"
     },
-    "relative": { "weight": -500,  "bashing": -8 },
+    "relative": { "weight": -500, "bashing": -8 },
     "extend": {
       "flags": [
         "CLIMATE_CONTROL",

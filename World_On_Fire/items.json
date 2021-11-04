@@ -16,7 +16,7 @@
     "description": "Leg and body armor crafted from the carefully cleaned and pruned exoskeletons of fire ants. Fire-resistant and very durable.",
     "material": [ "firechitin" ],
     "proportional": { "weight": 1.125, "volume": 1.13, "price": 1.25, "encumbrance": 1.5, "warmth": 1.5 },
-    "relative": { "bashing": 1  }
+    "relative": { "bashing": 1 }
   },
   {
     "id": "gauntlets_firechitin",

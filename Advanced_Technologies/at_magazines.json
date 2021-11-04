@@ -285,6 +285,6 @@
     "capacity": 4,
     "reload_time": 1200,
     "flags": [ "MAG_BULKY" ],
-    "pocket_data": [ {"max_item_length": "150 cm", "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "atgm": 4 } } ]
+    "pocket_data": [ { "max_item_length": "150 cm", "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "atgm": 4 } } ]
   }
 ]

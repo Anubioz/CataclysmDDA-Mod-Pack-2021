@@ -7,20 +7,30 @@
       "subtype": "collection",
       "groups": [ [ "robots", 100 ], [ "turrets", 100 ], [ "turrets", 100 ], [ "turret_bmg", 100 ] ]
     },
-    "death_function": {  }
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" }
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "STATS_THROUGH_KILLS",
+    "info": "Stats through Kills.  A mod that allows your stats to increase by killing zombies.",
+    "stype": "bool",
+    "value": false
   },
   {
     "id": "mon_secubot",
     "copy-from": "mon_secubot",
     "type": "MONSTER",
     "death_drops": { "subtype": "collection", "groups": [ [ "robots", 100 ], [ "copbot", 100 ] ] },
-    "death_function": {  }
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" }
   },
   {
     "id": "mon_robofac_laserturret_mk1",
     "copy-from": "mon_robofac_laserturret_mk1",
     "type": "MONSTER",
-    "death_function": {  },
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" },
     "death_drops": {
       "subtype": "collection",
       "groups": [
@@ -46,7 +56,8 @@
         [ "military", 100 ]
       ]
     },
-    "death_function": {  }
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" }
   },
   {
     "id": "mon_turret_searchlight",
@@ -62,7 +73,8 @@
         [ "military", 100 ]
       ]
     },
-    "death_function": {  }
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" }
   },
   {
     "id": "mon_turret_bmg",
@@ -78,7 +90,8 @@
         [ "military", 100 ]
       ]
     },
-    "death_function": {  }
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" }
   },
   {
     "id": "mon_turret_rifle",
@@ -94,7 +107,8 @@
         [ "military", 100 ]
       ]
     },
-    "death_function": {  }
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" }
   },
   {
     "id": "mon_crows_m240",
@@ -110,7 +124,8 @@
         [ "military", 100 ]
       ]
     },
-    "death_function": {  }
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" }
   },
   {
     "id": "mon_turret_riot",
@@ -126,13 +141,15 @@
         [ "military", 100 ]
       ]
     },
-    "death_function": {  }
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" }
   },
   {
     "id": "mon_turret_speaker",
     "copy-from": "mon_turret_speaker",
     "type": "MONSTER",
-    "death_function": {  },
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
+    "death_function": { "corpse_type": "BROKEN" },
     "death_drops": {
       "subtype": "collection",
       "groups": [
@@ -927,5 +944,19 @@
     "death_function": { "message": "The %s disintegrates!", "corpse_type": "NO_CORPSE" },
     "path_settings": { "max_dist": 30, "avoid_traps": true, "avoid_sharp": true },
     "flags": [ "HEARS", "SEES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "PATH_AVOID_DANGER_1", "PRIORITIZE_TARGETS", "DROPS_AMMO" ]
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "STATS_THROUGH_KILLS",
+    "info": "Stats through Kills.  A mod that allows your stats to increase by killing zombies.",
+    "stype": "bool",
+    "value": true
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "NO_NPC_FOOD",
+    "info": "Disables tracking food, thirst and ( partially ) fatigue for NPCs.  If true, NPCs won't need to eat or drink and will only get tired enough to sleep, not to get penalties.",
+    "stype": "bool",
+    "value": true
   }
 ]
