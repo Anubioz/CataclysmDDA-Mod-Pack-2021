@@ -73,8 +73,7 @@
         [ "military", 100 ]
       ]
     },
-    "flags": [ "ELECTRONIC", "DROPS_AMMO" ],
-    "death_function": { "corpse_type": "BROKEN" }
+    "flags": [ "ELECTRONIC", "DROPS_AMMO" ]
   },
   {
     "id": "mon_turret_bmg",

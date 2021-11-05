@@ -6,7 +6,7 @@ Anubioz personal modpack for **LATEST** **Experimental** builds of Cataclysm DDA
 
 **IF YOU ARE EXPERIENCING ANY BUGS OR ERRORS - PLEASE OPEN AN ISSUE**
 
-This mod is confirmed to load without issues work with: [Cataclysm-DDA experimental build 2021-11-04-0937](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-11-04-0937)
+This mod is confirmed to load without issues work with: [Cataclysm-DDA experimental build 2021-11-05-1943](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-11-05-1943)
 
 ![mod list](modlist.webp)
 
@@ -14,15 +14,16 @@ This mod is confirmed to load without issues work with: [Cataclysm-DDA experimen
 
 1. Download and install latest release of CataclysmDDA by **ClearRaven** - [*CataclysmDDA*](https://github.com/CleverRaven/Cataclysm-DDA/releases)
 2. Download and install latest git version
-3. Go to your game `data` folder
-4. move the "mods" directory somewhere out of it (i.e. with a command `mv mods ../../`)
+3. Go to your game `data` folder 
+4. Move the "mods" directory somewhere out of it (i.e. with a command `mv mods ../../`)
 5. `git clone https://github.com/Anubioz/CataclysmDDA-Mod-Pack-2021 mods`
 6. move back the contents of your mods folder without overwriting (eg. with a command `mv ../../mods/* mods/`)
-7. Launch Cataclysm
-8. Create a new World, remove all mods from the right side
-9. Find "!!! 1. ADD THIS" entry from the left
-10. Add it
-11. Enjoy the mods!
+7. Delete the replacements.json file, since it messes with mod dependencies 
+8. Launch Cataclysm
+9. Create a new World, remove all mods from the right side
+10. Find "!!! 1. ADD THIS" entry from the left
+11. Add it
+12. Enjoy the mods!
 
 
 # Modpack UPDATE Guide  
