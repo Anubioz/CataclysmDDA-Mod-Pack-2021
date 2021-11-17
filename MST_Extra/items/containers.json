@@ -25,8 +25,7 @@
     "armor_data": {
       "sided": true,
       "material_thickness": 1,
-      "material": [ "wood" ],
-      "armor": [ { "encumbrance": 5, "coverage": 5, "covers": [ "leg_l", "leg_r" ] } ]
+      "armor": [ { "material": [ "wood" ], "encumbrance": 5, "coverage": 5, "covers": [ "leg_l", "leg_r" ] } ]
     },
     "flags": [ "WAIST" ]
   },

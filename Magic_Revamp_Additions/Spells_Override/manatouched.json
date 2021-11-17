@@ -1,6 +1,6 @@
 [
   {
-    "id": "manatouched_crystal",
+    "id": "crystallize_mana",
     "type": "SPELL",
     "name": { "str": "Crystallize Mana" },
     "description": "Crystallizes mana into solid form.  Your physiological changes have made this spell much more efficient and easier to cast.",

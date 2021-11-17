@@ -20,9 +20,14 @@
     "bashing": 4,
     "cutting": 14,
     "armor_data": {
-      "material": [ "steel" ],
-      "material_thickness": 1,
-      "armor": [ { "encumbrance": 27, "coverage": 15, "covers": [ "torso" ] } ]
+      "armor": [
+        {
+          "material": [ { "type": "steel", "portion_cover": 100, "thickness": 3 } ],
+          "encumbrance": 27,
+          "coverage": 15,
+          "covers": [ "torso" ]
+        }
+      ]
     },
     "ranged_damage": { "damage_type": "stab", "amount": 16 },
     "range": 21,

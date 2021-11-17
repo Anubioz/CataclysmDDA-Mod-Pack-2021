@@ -14,7 +14,16 @@
     "weight": "1000 g",
     "volume": "2500 ml",
     "bashing": 6,
-    "armor_data": { "material_thickness": 1, "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ] } ] },
+    "armor_data": {
+      "armor": [
+        {
+          "material": [ { "type": "wood", "portion_cover": 100, "thickness": 2 } ],
+          "encumbrance": 20,
+          "coverage": 5,
+          "covers": [ "torso" ]
+        }
+      ]
+    },
     "ranged_damage": { "damage_type": "stab", "amount": 8, "armor_penetration": 3 },
     "range": 5,
     "dispersion": 230,
@@ -64,7 +73,16 @@
     "weight": "700 g",
     "volume": "3 L",
     "bashing": 11,
-    "armor_data": { "material_thickness": 1, "armor": [ { "encumbrance": 10, "coverage": 5, "covers": [ "torso" ] } ] },
+    "armor_data": {
+      "armor": [
+        {
+          "material": [ { "type": "woord", "portion_cover": 100, "thickness": 2 } ],
+          "encumbrance": 10,
+          "coverage": 5,
+          "covers": [ "torso" ]
+        }
+      ]
+    },
     "ranged_damage": { "damage_type": "stab", "amount": 16, "armor_penetration": 8 },
     "range": 12,
     "dispersion": 140,
@@ -128,7 +146,16 @@
     "volume": "3 L",
     "bashing": 35,
     "cutting": 15,
-    "armor_data": { "material_thickness": 1, "armor": [ { "encumbrance": 10, "coverage": 5, "covers": [ "torso" ] } ] },
+    "armor_data": {
+      "armor": [
+        {
+          "material": [ { "type": "wood", "portion_cover": 100, "thickness": 2 } ],
+          "encumbrance": 10,
+          "coverage": 5,
+          "covers": [ "torso" ]
+        }
+      ]
+    },
     "ranged_damage": { "damage_type": "stab", "amount": 26, "armor_penetration": 12 },
     "range": 6,
     "dispersion": 200,
@@ -219,7 +246,16 @@
     "weight": "450 g",
     "volume": "1500 ml",
     "bashing": 15,
-    "armor_data": { "material_thickness": 3, "armor": [ { "encumbrance": 10, "coverage": 10, "covers": [ "torso" ] } ] },
+    "armor_data": {
+      "armor": [
+        {
+          "material": [ { "type": "kawaii_amsteel", "portion_cover": 100, "thickness": 3 } ],
+          "encumbrance": 10,
+          "coverage": 10,
+          "covers": [ "torso" ]
+        }
+      ]
+    },
     "ranged_damage": { "damage_type": "stab", "amount": 21, "armor_penetration": 15 },
     "range": 20,
     "dispersion": 95,
@@ -282,7 +318,16 @@
     "volume": "2500 ml",
     "bashing": 1,
     "to_hit": 1,
-    "armor_data": { "material_thickness": 1, "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ] } ] },
+    "armor_data": {
+      "armor": [
+        {
+          "material": [ { "type": "kevlar", "portion_cover": 100, "thickness": 3 } ],
+          "encumbrance": 20,
+          "coverage": 5,
+          "covers": [ "torso" ]
+        }
+      ]
+    },
     "ranged_damage": { "damage_type": "stab", "amount": 18, "armor_penetration": 23 },
     "range": 15,
     "dispersion": 90,

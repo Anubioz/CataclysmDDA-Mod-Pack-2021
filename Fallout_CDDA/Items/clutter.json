@@ -284,7 +284,15 @@
         "max_contains_weight": "500 g"
       }
     ],
-    "armor_data": { "material": [ "iron" ], "material_thickness": 1, "armor": [ { "coverage": 2, "covers": [ "leg_l", "leg_r" ] } ] },
+    "armor_data": {
+      "armor": [
+        {
+          "material": [ { "type": "iron", "portion_cover": 100, "thickness": 1 } ],
+          "coverage": 2,
+          "covers": [ "leg_l", "leg_r" ]
+        }
+      ]
+    },
     "qualities": [ [ "BOIL", 1 ] ],
     "flags": [ "WAIST", "OVERSIZE", "WATER_FRIENDLY", "TARDIS" ]
   },
