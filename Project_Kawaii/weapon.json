@@ -17,7 +17,7 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "wood", "portion_cover": 100, "thickness": 2 } ],
+          "material": [ { "type": "wood", "covered_by_mat": 100, "thickness": 2 } ],
           "encumbrance": 20,
           "coverage": 5,
           "covers": [ "torso" ]
@@ -76,7 +76,7 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "woord", "portion_cover": 100, "thickness": 2 } ],
+          "material": [ { "type": "woord", "covered_by_mat": 100, "thickness": 2 } ],
           "encumbrance": 10,
           "coverage": 5,
           "covers": [ "torso" ]
@@ -149,7 +149,7 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "wood", "portion_cover": 100, "thickness": 2 } ],
+          "material": [ { "type": "wood", "covered_by_mat": 100, "thickness": 2 } ],
           "encumbrance": 10,
           "coverage": 5,
           "covers": [ "torso" ]
@@ -249,7 +249,7 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "kawaii_amsteel", "portion_cover": 100, "thickness": 3 } ],
+          "material": [ { "type": "kawaii_amsteel", "covered_by_mat": 100, "thickness": 3 } ],
           "encumbrance": 10,
           "coverage": 10,
           "covers": [ "torso" ]
@@ -321,7 +321,7 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "kevlar", "portion_cover": 100, "thickness": 3 } ],
+          "material": [ { "type": "kevlar", "covered_by_mat": 100, "thickness": 3 } ],
           "encumbrance": 20,
           "coverage": 5,
           "covers": [ "torso" ]

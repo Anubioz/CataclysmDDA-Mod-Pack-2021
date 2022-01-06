@@ -179,7 +179,7 @@
     "start_name": "Junkyard",
     "flags": [ "LONE_START" ],
     "professions": [ "robot_alive" ],
-    "forced_traits": [ "SELFAWARE", "FASTLEARNER", "FASTREADER" ]
+    "forced_traits": [ "OPTIMISTIC", "FASTLEARNER", "FASTREADER" ]
   },
   {
     "type": "scenario",

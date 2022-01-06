@@ -30,7 +30,7 @@
     "attack_effs": [ { "id": "slimed", "duration": 200 } ],
     "special_attacks": [ [ "FORMBLOB", 5 ], [ "sliming", 20 ], [ "wound_minor", 30 ] ],
     "death_drops": "mon_gelatin_death_drops",
-    "flags": [ "SMELLS", "HEARS", "PLASTIC", "NO_BREATHE", "NOHEAD", "NOGIB", "ABSORBS" ],
+    "flags": [ "SMELLS", "HEARS", "PLASTIC", "NO_BREATHE", "NOHEAD", "NOGIB" ],
     "anger_triggers": [ "HURT", "FRIEND_DIED" ],
     "placate_triggers": [ "FRIEND_ATTACKED" ]
   },
@@ -72,7 +72,6 @@
       "ACID_BLOOD",
       "ACIDPROOF",
       "NOHEAD",
-      "ABSORBS",
       "NOGIB",
       "ATTACKMON"
     ]

@@ -105,7 +105,7 @@
             },
             {
               "not": {
-                "npc_has_any_trait": [ "FEARLESS", "FASTLEARNER", "GOODMEMORY", "SPIRITUAL", "OPTIMISTIC", "NONADDICTIVE", "SELFAWARE", "SAVANT" ]
+                "npc_has_any_trait": [ "FEARLESS", "FASTLEARNER", "GOODMEMORY", "SPIRITUAL", "OPTIMISTIC", "NONADDICTIVE", "OPTIMISTIC", "SAVANT" ]
               }
             }
           ]

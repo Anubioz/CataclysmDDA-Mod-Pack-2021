@@ -1507,8 +1507,7 @@
     "path_settings": { "max_dist": 10 },
     "regenerates": 5,
     "death_drops": {  },
-    "extend": { "flags": [ "PATH_AVOID_DANGER_2", "PRIORITIZE_TARGETS", "PET_HARNESSABLE" ] },
-    "delete": { "flags": [ "ABSORBS_SPLITS" ] }
+    "extend": { "flags": [ "PATH_AVOID_DANGER_2", "PRIORITIZE_TARGETS", "PET_HARNESSABLE" ] }
   },
   {
     "id": "mon_shadow_summoned",

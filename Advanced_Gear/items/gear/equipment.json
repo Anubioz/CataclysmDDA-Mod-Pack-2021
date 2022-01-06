@@ -329,7 +329,7 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "nanite", "portion_cover": 100, "thickness": 1 } ],
+          "material": [ { "type": "nanite", "covered_by_mat": 100, "thickness": 1 } ],
           "encumbrance": 4,
           "coverage": 10,
           "covers": [ "torso" ]

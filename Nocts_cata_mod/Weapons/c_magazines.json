@@ -162,7 +162,7 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "steel", "portion_cover": 100, "thickness": 2 } ],
+          "material": [ { "type": "steel", "covered_by_mat": 100, "thickness": 2 } ],
           "encumbrance": 10,
           "coverage": 5,
           "covers": [ "torso" ]
@@ -205,7 +205,7 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "steel", "portion_cover": 100, "thickness": 2 } ],
+          "material": [ { "type": "steel", "covered_by_mat": 100, "thickness": 2 } ],
           "encumbrance": 10,
           "coverage": 5,
           "covers": [ "torso" ]
@@ -232,7 +232,7 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "steel", "portion_cover": 100, "thickness": 2 } ],
+          "material": [ { "type": "steel", "covered_by_mat": 100, "thickness": 2 } ],
           "encumbrance": 10,
           "coverage": 5,
           "covers": [ "torso" ]
